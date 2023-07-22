@@ -1,10 +1,11 @@
 # PorschePhiles and PorscheFans mailing list archives
 
-The PorschePhiles mailing list was active from sometime in the late ’80s through 1996 when it was replaced by PorscheFans. PorscheFans lasted for about 2 years before being superseded by PorscheList (now [www.rennlist.com](www.rennlist.com)) in May 1998. 
+The PorschePhiles mailing list was active late ’80s through 1996 when it was replaced by PorscheFans. PorscheFans lasted for about 2 years before being superseded by PorscheList (now https://www.rennlist.com) in May 1998. 
+
+I was concerned that the archives of these lists would be lost to the world, so I started archiving them, and wrote a scraper to scrape all messages from PorscheFans. 
 
 When these list servers died, I was working on Microsoft's [Internet Information Server](https://www.iis.net/) and wrote a search engine for the archives as a learning exercise. Through September 26, 2011 "Charlie's Searchable PoracheFans Archive" was hosted at https://www.kindel.com/porsche/pfans/. 
 
-This repo contains all messages from both lists. 
 
 ## PorschePhiles
 
