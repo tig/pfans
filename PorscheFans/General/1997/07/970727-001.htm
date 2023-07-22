@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re:  Mailing list softare [sic]</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="General@PorscheFans.com">
+  <META NAME="MsgPropFrom" CONTENT="Laurie Sanders <laurie@rgs.com>">
+  <META NAME="MsgPropSubject" CONTENT="Re:  Mailing list softare [sic]">
+  <META NAME="MsgPropDate" CONTENT="Sun, 27 Jul 1997 23:11:36 -0700">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">General@PorscheFans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Laurie Sanders &lt;laurie@rgs.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re:  Mailing list softare [sic]</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Sun, 27 Jul 1997 23:11:36 -0700</td></tr>
+</table>
+<pre>
+Jeff Mayzurk writes:
+
+>At 4:31 PM -0700 7/24/97, Scott Winders wrote:
+>>
+>>Actually, an IPX and a 128KB ISDN could easily handle a 2000 user mailing
+>>list. For God sakes, if all the IPX had to do was handle a mailing list,
+>>it will be not a very busy host. Yes, sendmail will be very busy but not
+>>all the time.....
+>
+>Actually, no. To run a large mailing list efficiently, you need to split
+>the outgoing queue into many small groups and fork a sendmail process for
+>each so that they run in parallel. Otherwise, sendmail delivers serially
+>and it will take forever to deliver messages to a large (~2000) member list.
+
+Sorry for the longish quote, and for mail from somebody not actually on
+the Porsche mailing list. My wife (Laurie) asked me (Rusty, rgs@rgs.com)
+to take a look at this message, and asked me to respond. I'm responding on
+her account, with her permission, since I'm not subscribed.
+
+I have to absolutely disagree with you here, an IPX can easily handle a
+2000 user mailing list, and without breaking a sweat even. I know this
+because I use an IPC (which is an IPX without the integrated GX graphics
+card) at work to serve a 950 member mailing list, a web site, an irc
+server, and (in its spare time) works as my workstation to do work related
+functions.
+
+>Your IPX would be OK if you could put enough memory in it, but those old
+>machines don't hold much RAM -- 64MB max if I remember correctly. Trust me
+
+Close, mine at work has three banks of 4 meg sticks installed, for a maximum
+of 48 megs. Yes, it gets very swap bound, but it's still usuable. It just
+takes a few seconds to "wake up" in the morning, since I re-index the entire
+web site every night for the search engine database.
+
+>-- I used to run list of similar size and activity on a SPARC 2 and it was
+>fairly taxing on the hardware.
+>
+What software were you using to sevice your list? I'm using Listproc 6.0c,
+and it has no problems at all. Listproc forks off multiple sendmails, and
+batches users together for faster delivery. I have my batch size set fairly
+low (5 users per sendmail), which increases machine load but improves
+message latency.
+
+My list is currently 90% digest readers, so obviously if the Porsche lists
+are more like 90% non-digest your mileage may differ there. But honestly, it
+only takes 5 minutes to send out the 800+ messages (in 160 individual
+sendmails) even when a digest goes out. Digests go out every 500+ lines
+of text (typically 10-15 messages for my users), and normally I process
+from 2 to 8 digests a day. One time, (owing to a stupid user) I ended up
+processing 3 digests of input in a half our period, the machine had no real
+trouble keeping up with sending out the messages (although it wasn't much
+good for anything else at the time).
+
+The largest single load on the machine when mail comes in is that I archive
+every message in a monthly indexed HTML file for the web server. The index
+towards the end of the month grows into the 200+KB range, and an IPC running
+perl is not a pretty sight. That my AOL users like to flash upload 4-6
+messages in a 15 second period doesn't help. But the machine still handles
+it.
+
+If the machine were just running a mail server I don't think it would ever
+really get loaded up.
+
+I believe MajorDomo (and it's been years since I researched this, so I may
+have the name wrong) has added multiple sendmail support recently (like,
+in the three years since I looked into it). It used to hand everything off
+to a single sendmail invocation, and that was pretty bad on big lists, as
+you say.
+
+>The bandwidth wouldn't be a problem except for when the digests are
+>distributed, at which time you would easily saturate a 128k link.
+
+I'll admit I'm using a T-1, so it's not quite the same. But I've checked
+when I'm sending digests out, and the link is a long way from the bottle
+neck. I think I average a few hundred kbps if I remember correctly, and
+increasing the batch size could easily reduce the time I'm doing high
+bandwidth. And if you're ISDN has data compression (my home machine
+uses Ascend gear, with STAC compression) I don't think bandwidth would
+be a problem at all. Text e-mail is rather compressable.
+
+---Rusty Sanders
+rgs@rgs.com
+Typing as Laurie Sanders, laurie@rgs.com
+.
+
+</pre>
+</BODY></HTML>

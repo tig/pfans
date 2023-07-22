@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: voltage reg </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'Steven M Tucker' <EROSTRATUS@prodigy.net>">
+  <META NAME="MsgPropFrom" CONTENT="David Kelly <dkelly@hiwaay.net>">
+  <META NAME="MsgPropSubject" CONTENT="Re: voltage reg">
+  <META NAME="MsgPropDate" CONTENT="Sat, 24 Jan 1998 21:22:56 -0600">
+  <META NAME="MsgPropcc" CONTENT="928@porschefans.com">
+  <META NAME="MsgPropIn-reply-to" CONTENT="Message from 'Steven M Tucker' <EROSTRATUS@prodigy.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Steven M Tucker &lt;EROSTRATUS@prodigy.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">David Kelly &lt;dkelly@hiwaay.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: voltage reg</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Sat, 24 Jan 1998 21:22:56 -0600</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">928@porschefans.com</td></tr>
+</table>
+<pre>
+> However, my lights do dim a bit sometimes when accessories come on.
+> Should I consider replacing the regulator as well before it fails and
+> cooks my alternator?  Where is it?
+
+Until superconducting wires reach the consumer market, your lights will 
+always dim when additional load is placed on your electrical system. 
+The voltage doesn't drop at the alternator. It drops due to resistance 
+in the wires between the alternator and the lights.
+
+e = ir, and
+p = ie, where:
+	e = voltage (also "voltage drop")
+	i = current (amps)
+	r = resistance (ohms)
+	p = power (watts)
+
+Lets say your headlights are wired with 12ga wire (0.080" dia) and 
+there is 20' of wire between the alternator, relays, and headlights. A 
+pair of 65W headlights at 12.8v is:
+
+	p = ie rearranged yields p/e = i
+	130w / 12.8v = 10.1 amps
+
+Handbook says 12ga copper wire (solid) resistivity at 122 degrees F is 
+1.775 ohms/1000'.
+
+	( 20/1000 ) * 1.775 = 0.0355 ohms
+
+back to e = ir
+
+	10.1 * 0.0355 = 0.3586 volt drop
+
+That's enough to notice lights dim. It all depends on how the car is
+wired. Turning on the headlights will dim (or flicker) interior lights.
+I'm only using headlights as an easy example. If you are running a pair
+of 100W lights then the drop is 0.5547 volts.
+
+My calculations are simplified by the assumption (actually a pretty 
+good one) that your headlights will draw nearly the same current for 
+any voltage. Originally we were running 130W at 12.8 volts, but now:
+
+	ie = p
+	10.1A * 0.3586v = 3.62W loss or 2.8%
+
+Our 20' wire is now dissipating 3.62 watts of our headlight power.
+
+Notice the supply voltage only applies to the equations when I'm 
+curious how much current the lights draw. It doesn't matter what the 
+source voltage is, 6v, 12v, 24v, 120v, when you pull 10.1 amps thru 20' 
+of 12ga solid copper wire there will be a 0.3586 volt drop across that 
+wire. This is why "new" cars use 12 volt systems while really old cars 
+used 6 volt systems. Its also why 24 volt and 48 volt systems are 
+common in industrial and military vehicles. Its also the reason your 
+utility company runs 1kV down your street and even higher voltage on 
+longer runs.
+
+'83 928S
+
+--
+David Kelly N4HHE, dkelly@nospam.hiwaay.net
+=====================================================================
+The human mind ordinarily operates at only ten percent of its
+capacity -- the rest is overhead for the operating system.
+
+
+.
+</pre>
+</BODY></HTML>

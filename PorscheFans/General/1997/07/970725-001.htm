@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: Mailing list softare   -Reply</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="Scott Winders <winders@netgate.net>, patrick@namesecure.com">
+  <META NAME="MsgPropFrom" CONTENT="Jeff Mayzurk <jeffm@eonline.com>">
+  <META NAME="MsgPropSubject" CONTENT="Re: Mailing list softare   -Reply">
+  <META NAME="MsgPropDate" CONTENT="Fri, 25 Jul 1997 09:28:15 -0700">
+  <META NAME="MsgPropCc" CONTENT="Daryl Jackson <dcjackson@earthlink.net>, JAMES GIESEKING <JGIESEKING@MAIL.OPEN.ORG>, rpark <rpark@dev.hcsd.hac.ca>, jjd <jjd@jjd.com>, Walker Aumann <walkera@gg.caltech.edu>, general@porschefans.com">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<Pine.BSI.3.95.970724162438.21848i-100000@rs.netgate.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Scott Winders &lt;winders@netgate.net&gt;, patrick@namesecure.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Jeff Mayzurk &lt;jeffm@eonline.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: Mailing list softare   -Reply</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Fri, 25 Jul 1997 09:28:15 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">Daryl Jackson &lt;dcjackson@earthlink.net&gt;, JAMES GIESEKING &lt;JGIESEKING@MAIL.OPEN.ORG&gt;, rpark &lt;rpark@dev.hcsd.hac.ca&gt;, jjd &lt;jjd@jjd.com&gt;, Walker Aumann &lt;walkera@gg.caltech.edu&gt;, general@porschefans.com</td></tr>
+</table>
+<pre>
+[Removed <all@porschefans.com> from the distribution list]
+
+At 4:31 PM -0700 7/24/97, Scott Winders wrote:
+>Patrick,
+>
+>Actually, an IPX and a 128KB ISDN could easily handle a 2000 user mailing
+>list. For God sakes, if all the IPX had to do was handle a mailing list,
+>it will be not a very busy host. Yes, sendmail will be very busy but not
+>all the time.....
+
+
+
+Actually, no. To run a large mailing list efficiently, you need to split
+the outgoing queue into many small groups and fork a sendmail process for
+each so that they run in parallel. Otherwise, sendmail delivers serially
+and it will take forever to deliver messages to a large (~2000) member list.
+
+Given the traffic on the 924-944 list alone, you'd probably have between 50
+and 100 jobs in the queue at any given time during peak (8-5) hours. Your
+IPX would be OK if you could put enough memory in it, but those old
+machines don't hold much RAM -- 64MB max if I remember correctly. Trust me
+-- I used to run list of similar size and activity on a SPARC 2 and it was
+fairly taxing on the hardware.
+
+The bandwidth wouldn't be a problem except for when the digests are
+distributed, at which time you would easily saturate a 128k link.
+
+There are enough sysadmins on this list that we could certainly find the
+resources to run Porschefans efficiently, but the real question is whether
+we have the right to run it in the first place. What if the current
+listmaster -- assuming he can be located, or will answer his mail --
+doesn't want to give up the list? Surely we're not talking about a listserv
+coup here, are we?
+
+-Jeff
+
+--
+Jeff Mayzurk                <jeffm@eonline.com>
+E! Online                   <page-jeff@eonline.com>
+150 Chestnut Street         415.395.7805 x1496
+San Francisco, CA  94111    415.395.7814 FAX
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 2.6.2
+
+mQCNAzOUiRIAAAEEAL17G0BjdZbTQQZZxkDntubzzT2YgRoJZtO5DBHTjh7fBvli
+0hbB/UGCBXvWhX838Xg0z+taI7j/fnv+AYf6a8jxj8FN02WLqArdkMZE3CCEQf/T
+XcHds98Qs73WyYaWPJkATFS2BtqOHCseI5AqSATBSbCiKme3IhSCsjqTi4tRAAUR
+tCBKZWZmIE1heXp1cmsgPGplZmZtQGVvbmxpbmUuY29tPg==
+=mqdZ
+-----END PGP PUBLIC KEY BLOCK-----
+
+
+.
+</pre>
+</BODY></HTML>

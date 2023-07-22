@@ -1,0 +1,84 @@
+BODY
+{
+    BACKGROUND-COLOR: white;
+    COLOR: navy;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 10pt;
+}
+TABLE
+{
+    BORDER-BOTTOM: outset thin;
+    BORDER-LEFT: outset thin;
+    BORDER-RIGHT: outset thin;
+    BORDER-TOP: outset thin;
+    WIDTH: 100%
+}
+
+TD
+{
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 10pt;
+    vertical-align: top; 
+}
+
+TD.HeaderItemLabel
+{
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 10pt;
+    WIDTH: 10%;
+    FONT-WEIGHT: bold;
+    PADDING: 0px 1px;
+    TEXT-ALIGN: right
+}
+
+TD.HeaderItemContent
+{
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 10pt;
+    TEXT-ALIGN: left
+}
+PRE
+{
+    COLOR: black;
+    FONT-FAMILY: Lucida Console, 'Courier New', Courier;
+    FONT-SIZE: 10pt;
+    MARGIN: 9pt 20px
+}
+
+
+.NavLink {
+	font-family: Verdana, Arial, Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10pt;
+	text-decoration: none;
+	color: white;
+	}
+
+.Hit {
+	font-family: Verdana, Arial, Helvetica;
+	font-variant: small-caps
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10pt;
+	color: black;
+	background-color: #FFFF00;
+	}
+
+.RecordTitle {
+	font-family: Verdana, Arial, Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10pt;
+	color: black;
+	background-color: #AACCEE;
+      }
+
+.RecordStats {
+	font-family: Verdana, Arial, Helvetica;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 8pt;
+	color: black;
+	}
+

@@ -1,0 +1,2215 @@
+From weltyc@turing.cs.rpi.edu  Fri Jun  1 08:56:20 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA21986); Fri, 1 Jun 90 08:56:20 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA25998); Fri, 1 Jun 90 08:59:17 CDT
+Received: from turing.cs.rpi.edu by ucsd.edu; id AA17082
+	sendmail 5.61/UCSD-2.1-sun via SMTP
+	Fri, 1 Jun 90 06:59:21 -0700 for porschephiles@bcm.tmc.edu
+Date: Fri, 1 Jun 90 09:59:03 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA06171; Fri, 1 Jun 90 09:59:03 EDT
+Message-Id: <9006011359.AA06171@turing.cs.rpi.edu>
+To: photon!bvs@ucsd.edu
+Cc: porschephiles%bcm.tmc.edu@ucsd.edu
+In-Reply-To: Bruce Shetler's message of Tue, 29 May 90 12:09:31 PDT <9005291910.AA00718@ucsd.edu>
+Subject: 911 advice for new owner
+
+
+Congratulations on your purchase.
+
+> 1.  Special problems or known weaknesses to be on the lookout for in
+> '80's or 911's in general?  <...>
+
+The 3.0 engine is judged by many to be the best Porsche ever built.
+Driven carefully, it should last over 200K miles without any major
+engine work.  A friend of a friend of mine was using his SC as an
+experiment, and drove it for 235,000 miles before blowing the engine
+at the track.  This was his fault, though, he mis-shifted.  When the
+engine gets that old it isn't as tolerant of such mistakes.  It
+only needed a top end, but we did the whole thing.  He had been
+running Valvoline Turbo 20W50 and the case was sparkling on the
+inside. Didn't even need new bearings. Most impressive, that's the oil
+I would recommend to anyone. Quaker State foams and Castrol sludges.
+People who know DO use Valvoline...  Anyway, the only modification
+generally recommended to the stock car is the Carrera chain tensioner
+update.  The old style tensioners had a tendency to fail after about
+50K miles (with 60K yours are probably the originals and on the verge
+of failure, so they should be checked).  The new ones will last longer
+if they're good ones from the start.  
+
+To do a 911 valve adjustment you must have either the 911 valve feeler
+guauge tool (it's impossible to do it with a normal feeler gauge).
+It's not that expensive, but requires a little experience to get it
+right.  If you already have a dial indicator, then the valve
+attachment is worth having - one warning, though:  once you have the
+dial indicator you feel inclined to adjust the valves EXACTLY, and it
+takes another 15 minutes per valve!
+
+> 2.  Good sources for parts/supplies that don't cost an arm and a leg?
+
+Did anyone save the list I sent around?  I'd rather not type it in again.
+
+> 3.  Driving tips?  I've heard all the horror stories about 911 weight
+> distribution but so far I've found the handling to be superb.  I've
+> broken the rear end loose a bit but it seemed quite controllable.  Are
+> there unexpected things to look out for as I push the envelope more?
+
+Join the PCA and go to a driver education event.  Don't push the
+envelope too far until you have some quality instruction on the
+dynamics of the car.  The horror stories are usually from people who
+don't understand it.  People who do love it.
+
+> 4.  I have somewhat of a rough idle, especially when cold.  
+
+Your car depends on the back pressure to run correctly, unlike the
+later motronic cars which will sense any changes in exhaust
+congiuration and adjust the mixture accordingly.  Therefore no cat is
+probably the major cause of rought idling, you're probably also
+running a bit rich.  Also, the factory cold start valve isn't that
+great.  If you have a rough idle, BE CAREFUL YOU DON"T BLOW YOUR
+AIRBOX.  I recommend you get a `pop-off valve'.  You will blow your
+airbox in a number of ways, generally it occurs if you depress the
+throttle while starting the engine, the excess fuel causes a backfire
+(back through the air intake) while the system is shut tight, and the
+plastic airbox will blow up.  Popoff valve=$15, new airbox=$200.
+
+> 5.  I get quite a bit of steering vibration on some road surfaces.  
+
+The 911 is extremely light in the front, especially if you're used to
+front engine cars.  As a result, feedback from the road is enhanced.
+Check the tire balance, also the rims themsleves (are they the
+original Fuxhs alloys?).  Check the tie rod ends and the ball joints.
+
+> 6.  If I have any complaint with the car, its shifting.  
+
+The most common mistake made by new 911 owners is to ram the car into
+second gear.  Just be gentle with it, the second gear synchro is
+almost useless.  It was improved in later cars, but you can live with
+it if you just get the feel of it.  Most people don't double clutch on
+the upshift, in a 911 you should going from 1st to second.  Just match
+the RPMs before putting it in gear, it takes some practice but it
+works.  There are short-shift kits availabel all over the place, never
+tried one myself, though.  Make sure you don't get the ones that use
+glue-on parts.
+
+> 7.  I have a really annoying squeak which I think I've traced to the
+> front right A-arm attachment bushing. 
+
+Attachment bushing?  If you mean the ball joint at the base of the
+strut this could also be the cause of your vibration problems.  If you
+mean at the other end, you may be talking about the torsion bar tube.
+Be careful mucking around with that, the torsion bar is the 911
+equivalent of a spring.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From welty@lewis.crd.ge.com  Fri Jun  1 10:04:44 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA22722); Fri, 1 Jun 90 10:04:44 CDT
+Received: from crdgw1.ge.com by bcm.tmc.edu (AA26575); Fri, 1 Jun 90 10:07:32 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA27869; Fri, 1 Jun 90 11:09:05 EDT
+Date: Fri, 1 Jun 90 11:09 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: amazing driver's school opportunity
+To: porschephiles@bcm.tmc.edu, italian-cars@sol.crd.ge.com, bmw@sol.crd.ge.com,
+        british-cars@alliant.com
+Message-Id: <19900601150940.5.WELTY@lewis.crd.ge.com>
+
+i have known for a while about this, but i was only told
+that it was ok to publicize it last night, so this isn't
+much warning ...
+
+on Friday, June 15th, the Alfa Romeo Owner's Club of Conn.
+is putting on a one-day version skip barber school at Lime
+Rock Park.  cost for the day is $190; apparently Barber
+School bimmers will be used for skidpad and autox activities,
+and student cars will be used for the track activities.
+this is a real bargain, and the school is *extremely*
+undersubscribed.  the following day, the AROC-CT is holding
+time trials, which costs a little more.
+
+because the school is underscribed, it has been opened up to
+non-AROC members.  CALL NOW.  Steve Davis, 203-668-6261,
+answering machine with screwy message on the other end.
+it is even possible that they might let non-AROC members into
+the saturday time trials.
+
+richard
+
+From rsy@iwtil.att.com  Fri Jun  1 15:38:20 1990
+Received: from att-in.att.com by MEYERHOF.IAIMS.BCM.TMC.EDU (AA06087); Fri, 1 Jun 90 15:38:20 CDT
+Message-Id: <9006012038.AA06087@MEYERHOF.IAIMS.BCM.TMC.EDU>
+From: rsy@iwtil.att.com
+Date: Fri, 1 Jun 90 15:22 CDT
+Original-From: iwtil!rsy (R S Yen +1 708 979 7461)
+To: meyerhof.bcm.tmc.edu!porschephiles@att.UUCP
+
+Please add me to the Porschephile mailing list.
+
+		Robert Yen
+		att!iwtil!rsy
+
+From @zermatt.lcs.mit.edu:pz@HX.LCS.MIT.EDU  Mon Jun  4 11:43:26 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA04962); Mon, 4 Jun 90 11:43:26 CDT
+Received: from tmc.edu by bcm.tmc.edu (AA15933); Mon, 4 Jun 90 11:46:29 CDT
+Received: from ZERMATT.LCS.MIT.EDU by tmc.edu (AA03756); Mon, 4 Jun 90 11:46:34 CDT
+Received: from RTS-23.LCS.MIT.EDU by ZERMATT.LCS.MIT.EDU via CHAOS with SMTP id 35668; 4 Jun 90 12:22:28 EDT
+Message-Id: <2853505325-3744281@RTS-23>
+Sender: pz@rts-23
+Date: Mon, 4 Jun 90  12:22:05 EDT
+Reply-To: pz@hx.lcs.mit.edu
+From: pz@hx (John S. Pezaris)
+To: porschephiles@bcm.tmc.edu
+Subject: Porsche Engine Numbers
+
+Dear Porsche Enthusiasts,
+
+I have a 1970 914-6, the engine of which I am rebuilding.  In cleaning
+the case last night, I came across some numbers which are confusing.
+
+I found the serial number (which I had checked before, and I recall it
+matches the chassis number and dealer invoice), and below it were the
+following:
+
+	P&D ENG
+	SERV
+	901/38
+	2.2 S
+
+I suspect the "P&D" part is a stamp from a tuning firm which had
+previously rebuilt the engine (those stamp marks are different from
+the rest).  Type "901/38" is the correct engine type for the car,
+according to Richard Anderson's book.  But what's the "2.2 S" ?!!?
+
+Cheers!
+
+	 - pz.
+
+
+From @zermatt.lcs.mit.edu:pz@HX.LCS.MIT.EDU  Mon Jun  4 17:24:01 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA08604); Mon, 4 Jun 90 17:24:01 CDT
+Received: from ZERMATT.LCS.MIT.EDU by bcm.tmc.edu (AA21077); Mon, 4 Jun 90 17:27:01 CDT
+Received: from RTS-23.LCS.MIT.EDU by ZERMATT.LCS.MIT.EDU via CHAOS with SMTP id 35732; 4 Jun 90 16:46:14 EDT
+Message-Id: <2853521146-4695117@RTS-23>
+Sender: pz@rts-23
+Date: Mon, 4 Jun 90  16:45:46 EDT
+Reply-To: pz@hx.lcs.mit.edu
+From: pz@hx (John S. Pezaris)
+To: porschephiles@bcm.tmc.edu
+Subject: Re:  Porsche Engine Numbers
+
+    Date: Mon, 4 Jun 90 15:00:37 CDT
+    From: Stan Hanks <stanh@meyerhof.iaims.bcm.tmc.edu>
+    
+    Likely the engine was built to 2.2S spec, which if my mind isn't failing
+    me was the right thing (i.e. 911S from 70-71).  You can check that in 
+    *Bruce* Anderson's book as well....
+    
+    Stan
+
+Okay, so I used to work for this guy named *Richard* Anderson ...  and
+made a Freudian slip, slap me silly with dirty shop rags.  So whip me
+with wet timing chains because *Bruce* Anderson's book was on my desk
+when I sent the message.  So burn my fingertips on a hot exhaust
+manifold because I just blew it.  Sheesh.  (;-)
+
+The 914-6 (all years) has a '69 2.0 911T-like engine, which I'd expect
+to have been marked "2.0 T", since it looks like these stampings (NOT
+the P&D stuff) were factory-done.  I'm still confused.
+
+	 - pz.
+
+
+From N025BQ@tamvm1.tamu.edu  Thu Jun  7 21:51:17 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA18404); Thu, 7 Jun 90 21:51:17 CDT
+Received: from tamvm1.tamu.edu by bcm.tmc.edu (AA13630); Thu, 7 Jun 90 21:54:19 CDT
+Message-Id: <9006080254.AA13630@bcm.tmc.edu>
+Received: from TAMVM1.TAMU.EDU by tamvm1.tamu.edu (IBM VM SMTP R1.2) with BSMTP id 1841; Thu, 07 Jun 90 21:54:04 CDT
+Received: from TAMVM1 (N025BQ) by TAMVM1.TAMU.EDU (Mailer R2.03B) with BSMTP id
+ 3682; Thu, 07 Jun 90 21:54:03 CDT
+Date:         Thu, 07 Jun 90 21:51:44 CDT
+From: "David K. Boyd" <N025BQ@tamvm1.tamu.edu>
+Subject:      inclusion...
+To: porschephiles@bcm.tmc.edu
+
+Greetings!
+
+I would like to be included in your list, as I am a fellow worshipper
+of the shrine at Zuffenhausen.
+
+David Boyd
+
+N025BQ@vm1.tamu.edu
+
+From VitaM6!marciano@uunet.uu.net  Fri Jun  8 19:29:55 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA26731); Fri, 8 Jun 90 19:29:55 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA21702); Fri, 8 Jun 90 19:32:56 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA04611; Fri, 8 Jun 90 20:33:03 -0400
+Message-Id: <9006090033.AA04611@uunet.uu.net>
+Date: Fri, 8 Jun 90 17:26:02 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: hello ?
+
+hello,
+is anyone out there?  what happened to all the Porsche talk.
+is everybody then just as busy as i am?
+
+BTW, does anyone know anything about the v8 or v12 engine Porsche is
+going to develop for F1 and WSC?
+
+does that mean, every form of racing will outlaw turbo's?  bummer.
+
+/dork
+
+From bart@research.att.com  Fri Jun  8 20:06:11 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA26968); Fri, 8 Jun 90 20:06:11 CDT
+Received: from research.att.com by bcm.tmc.edu (AA21993); Fri, 8 Jun 90 20:09:14 CDT
+Message-Id: <9006090109.AA21993@bcm.tmc.edu>
+From: bart@research.att.com
+Date: Fri, 8 Jun 90 21:06:29 EDT
+To: porschephiles@bcm.tmc.edu
+
+>BTW, does anyone know anything about the v8 or v12 engine Porsche is
+>going to develop for F1 and WSC?
+
+porsche's 3.5l v12 is supposed to be ready for the '91 season.  so far
+as i know they plan to put it in a 962 replacement soon, but feel also
+that f1/wspc should have different emphases and that fuel economy should
+return as an important factor.  amen to that - energy, the great equalizer ..
+do it with a turbo, do it with pushrods, but you all get the same fuel,
+boys..
+
+>does that mean, every form of racing will outlaw turbo's?  bummer.
+
+indy cars still use turbos.  there are other series .. uhh, aren't there??
+
+From tom@mims-iris.waterloo.edu  Sun Jun 10 23:57:43 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA05141); Sun, 10 Jun 90 23:57:43 CDT
+Received: from tmc.edu by bcm.tmc.edu (AA28129); Mon, 11 Jun 90 00:00:46 CDT
+Received: from mims-iris.waterloo.edu by tmc.edu (AA13474); Mon, 11 Jun 90 00:00:56 CDT
+Received: by mims-iris.waterloo.edu
+	id <AA04325>; Mon, 11 Jun 90 05:04:11 GMT
+Date: Mon, 11 Jun 90 05:04:11 GMT
+From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+Message-Id: <9006110504.AA04325@mims-iris.waterloo.edu>
+X-Mailer: Mail User's Shell (6.4 2/14/89)
+To: porschephiles@bcm.tmc.edu (Porschephiles mailing list)
+Subject: Re: turbos in racing
+
+> porsche's 3.5l v12 is supposed to be ready for the '91 season.
+
+It will race for the first time late this season.  Endurance applications
+probably won't appear until at least a year later.
+
+> >does that mean, every form of racing will outlaw turbo's?  bummer.
+
+> indy cars still use turbos.  there are other series .. uhh, aren't there??
+
+Well, in the US there is IMSA and TransAm.  In terms of international
+championships, though:
+
+	Formula 1 World Championship		3.5L non-turbo
+	Formula 3000 European Championship	3.0L non-turbo
+	Formula 3 Championships			2.0L non-turbo
+
+	World Sports-Prototype Championship	3.5L non-turbo
+
+	European Touring Car Championship	unlimited
+	World Rally Championship		unlimited
+	European Rallycross Championship	unlimited
+
+[ \tom haapanen --- university of waterloo --- tom@mims-iris.waterloo.edu ]
+[ "i don't even know what street canada is on"               -- al capone ]
+
+From kodali@portia.stanford.edu  Mon Jun 11 00:45:27 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA05209); Mon, 11 Jun 90 00:45:27 CDT
+Received: from portia.stanford.edu by bcm.tmc.edu (AA28448); Mon, 11 Jun 90 00:48:29 CDT
+Received:  by portia.stanford.edu (5.59/25-eef) id AA19943; Sun, 10 Jun 90 22:48:37 PDT
+Date: Sun, 10 Jun 90 22:48:37 PDT
+From: VAS KODALI <kodali@portia.stanford.edu>
+Message-Id: <9006110548.AA19943@portia.stanford.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Problems with my 944
+
+
+I'm having a few minor problems with my 944 and I was wondering if any
+of you may know how to fix (or diagnose) the following problems.  First,
+my turn signal sometimes doesn't work.  I've noticed that is starts to
+fail when the temperature outside is hot.  Do I basically have to 
+replace the turn signal relay?  Another problem that I'm experiencing
+is fuel odor in the passenger compartment.  Haynes says that it could be
+due to faulty Evaporative Emmision Control System (EECS).  Have others
+experieced similar problems with their 944s?
+
+Thanks,
+Vas Kodali
+
+From VitaM6!marciano@uunet.uu.net  Mon Jun 11 09:22:17 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA01007); Mon, 11 Jun 90 09:22:17 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA00894); Mon, 11 Jun 90 09:25:20 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA04098; Mon, 11 Jun 90 10:25:31 -0400
+Message-Id: <9006111425.AA04098@uunet.uu.net>
+Date: Mon, 11 Jun 90 07:18:26 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: turbo's
+
+>indy cars still use turbos.
+
+gee, how did i forget that.  i guess i was kinda sick of cart with
+	"the month of indy".
+
+how come this race gets one month coverage.  whatever.
+/marciano
+
+From VitaM6!marciano@uunet.uu.net  Mon Jun 11 09:26:48 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA01026); Mon, 11 Jun 90 09:26:48 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA00967); Mon, 11 Jun 90 09:29:47 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA04952; Mon, 11 Jun 90 10:29:57 -0400
+Message-Id: <9006111429.AA04952@uunet.uu.net>
+Date: Mon, 11 Jun 90 07:22:40 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: racing
+
+> World Rally Championship		unlimited
+what ever happened to group b then.  or did they change the rules?
+
+/dork
+
+From photon!bvs@ucsd.edu  Mon Jun 11 12:08:10 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA02611); Mon, 11 Jun 90 12:08:10 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA02970); Mon, 11 Jun 90 12:11:12 CDT
+Received: from photon.UUCP by ucsd.edu; id AA03698
+	sendmail 5.61/UCSD-2.1-sun via UUCP
+	Mon, 11 Jun 90 10:11:24 -0700 for porschephiles@bcm.tmc.edu
+Message-Id: <9006111711.AA03698@ucsd.edu>
+Received: by  photon. (5.51/celerity1.1)
+	id AA01597; Mon, 11 Jun 90 09:50:01 PDT
+From: photon!bvs@ucsd.edu (Bruce Shetler)
+Subject: Returned mail: Host unknown (fwd)
+To: porschephiles%bcm.tmc.edu@ucsd.edu (porschephiles)
+Date: Mon, 11 Jun 90 9:49:56 PDT
+X-Mailer: ELM [version 2.2 PL12]
+
+> > 
+> > hello,
+> > is anyone out there?  what happened to all the Porsche talk.
+> > is everybody then just as busy as i am?
+> > 
+> > BTW, does anyone know anything about the v8 or v12 engine Porsche is
+> > going to develop for F1 and WSC?
+> > 
+> > does that mean, every form of racing will outlaw turbo's?  bummer.
+> > 
+> > /dork
+> > 
+> 
+Glad to get some porsche mail, I thought I wasn't getting my feed.
+ 
+Thanks to everyone who responded to my blanket request for advice,
+It's really appreciated.  In this vein, I'm getting a little concerned
+about chain tensioners.  Chris Welty mentioned having knowledge of 5
+collapsing and attributed 2 to Bruce Anderson.  How common is this
+failure.  I plan to upgrade to Carrera, but how urgent is it?  The kit
+is fairly expensive, but nothing I'm sure compared to the possible
+damage from a skipped timing gear.  BTW we're talking 3.0 911sc engine
+here (1980).
+ 
+Thanks
+ 
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates             
+  San Diego, CA   92121                 
+  uucp:photon!bvs@ucsd.edu               
+========================================================================
+
+From james@visual2.tamu.edu  Mon Jun 11 14:36:50 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA04094); Mon, 11 Jun 90 14:36:50 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA04436); Mon, 11 Jun 90 14:39:52 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA24965); Mon, 11 Jun 90 14:37:23 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA19458; Mon, 11 Jun 90 14:37:37 GMT-0600
+Date: Mon, 11 Jun 90 14:37:37 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9006112037.AA19458@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Re: Problems with my 944
+
+
+
+944 problems???
+
+First of all, What year?
+
+Second of all, for an '84...
+
+How about the water pump, motor mounts, odometer (in hot climates), cam belt...
+to name a few...
+
+James Saxon
+
+From tynor@prism.gatech.edu  Mon Jun 11 17:00:37 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA05306); Mon, 11 Jun 90 17:00:37 CDT
+Received: from hydra.gatech.edu by bcm.tmc.edu (AA05739); Mon, 11 Jun 90 17:03:35 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA09595; Mon, 11 Jun 90 18:03:51 -0400
+Date: Mon, 11 Jun 90 18:03:51 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9006112203.AA09595@prism.gatech.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Advice re: 912E purchase
+
+To the Porsche experts of the net: Your comments and suggestions, please.
+
+My objectives: 
+
+	To buy a Porsche I can drive to work most of the time (3-5
+	days a week). This seems to rule out the 911. All indications
+	are that maintenence expenses would force me to treat a 911 as
+	a weekend-only car. I realize that a 15 year old car is much
+	more likely to give me problems than I'm used to, so I'm
+	planning on keeping my Honda as a backup. I've considered a
+	914 2L, but was very dissapointed with the performance of the
+	two I've driven (sluggish accelleration and the transmissions
+	felt like mollasses). I'm still looking. I don't think the
+	914's I've driven were particularly well-maintained -
+	hopefully they're not representative of the breed. Regardless,
+	hard as I try, I still can't appreciate the looks of the 914...
+
+The car:
+	1976 912E
+	Alloys
+	Sunroof
+	Tinted glass.
+	120k miles
+	~10 miles since engine rebuild
+	_Very clean_. No rust except for at the base of the driver's side 
+  	   windshield post (this worries me...). Body pan is immaculate.
+	Originally a Pennsylvania. car, brought to Georgia 6 years
+	   ago. Owner claims it was never driven in the winter while in Penn.
+	Maintenence records for the last 6 years with spotty records for the
+	   Penn. years.
+	Interior in decent shape: Some of the roof liner fabric is pealing 
+	   away at seams, leather (plastic?) pealing from door map pockets
+	   (looks fixable with a few drops of glue).
+	Second coat of paint (silver). A very good paint job - looks original 
+	   except for some rough spots on the hood (sun baking). Owner claims 
+	   the car has never been in an accident.
+	Asking $10,500
+
+My concerns: 
+
+	Price - $10,500 seems high for a 4cyl 912 (though the prices
+	listed in Hemmings seem to range between $10,500 and 12,500).
+	The car is mechanically very sound (as far as I can tell), but
+	the rust at the windshield post will require attention.
+	Probably $400 for a minimal cure (remove the windshield, grind
+	out the rust and repaint the hood), $2000+ to do it right
+	(repaint the whole car). That makes the true cost more like
+	$12,000 which seems awfully high.
+
+	Performance - This is the only 912E I've ever driven. Since
+	the car is so soon out of overhaul, I was unable to really
+	push it very hard. The car shifts very easily and the brakes
+	feel good. It felt very solid - no squeeks or rattles. Felt
+	like a much heavier car than I'm used to (it should - it's
+	about 500 lbs heavier than my CRXsi). I'm not sure there's
+	enough power for that extra weight (but, like I said, I wasn't
+	able to drive it hard due to the recent overhaul). I remember
+	reading somewhere that the European TypeIV's were putting out
+	115hp, but that the Americanized version was only 90hp - is
+	there a reasonably affordable way to coax more power out of
+	the 912E without tearing up the engine?
+
+So...  
+
+	Is this a good deal? Is it unreasonable to expect to find a
+	912E in good condition for ~$8,500? I suppose the prices are
+	artificially high due to the relative rarity of the 912E. I
+	sure hate to pay for 'rareness' - I'm not interested in
+	keeping the car in museum condition (not that I'm planning on
+	beating it up). I'm looking for a car to drive. Where can I
+	find 'blue book' style price info on pre-1980 cars?
+
+Enough for now. I'm looking forward to your advice. I'm beginning to
+think I ought to 'switch gears' and start looking at 944's.  They seem
+to the be Porsche with the most bang-for-the-buck. They just don't
+have the romance of the 911/912 styling...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+"Porsche - there is no substitute." - Tom Cruise in Risky Buisiness
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    Artificial Intelligence Branch
+    tynor@prism.gatech.edu
+
+From zursch%large.wpd@sgi.com  Mon Jun 11 17:20:43 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA05402); Mon, 11 Jun 90 17:20:43 CDT
+Received: from rutgers.edu by bcm.tmc.edu (AA05837); Mon, 11 Jun 90 17:23:41 CDT
+Received: from SGI.COM by rutgers.edu (5.59/SMI4.0/RU1.3/3.06) 
+	id AA22075; Mon, 11 Jun 90 18:23:49 EDT
+Received: from whizzer.wpd.sgi.com by sgi.sgi.com (5.52/900423.SGI)
+	for rutgers.edu!bcm!watson!bcm.tmc.edu!porschephiles id AA09914; Mon, 11 Jun 90 15:23:39 PDT
+Received: from large.wpd.sgi.com by whizzer.wpd.sgi.com (5.52/900423.SGI)
+	for sgi.sgi.com!bcm.tmc.edu!porschephiles id AA22735; Mon, 11 Jun 90 15:23:37 PDT
+Received: by large.wpd.sgi.com (5.52/900301.SGI)
+	for @whizzer.wpd.sgi.com:tynor@prism.gatech.edu id AA02907; Mon, 11 Jun 90 15:24:07 PDT
+Date: Mon, 11 Jun 90 15:24:07 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+Message-Id: <9006112224.AA02907@large.wpd.sgi.com>
+To: porschephiles@bcm.tmc.edu, tynor@prism.gatech.edu
+Subject: Re:  Advice re: 912E purchase
+
+Did you really mean 10 miles since the rebuild was put into it? 
+	The car:
+		1976 912E
+		Alloys
+		Sunroof
+		Tinted glass.
+		120k miles
+		~10 miles since engine rebuild
+
+The windshield post rust isn't a really bad thing, though fixing it will
+require the larger estimate you gave in your breakdown. 
+
+The HP should be right around 90BHP DIN which is roughly equivalent 
+to 102 SAE BHP. No neck snapping acceleration there, but power
+to pass......
+
+Your appraisal of the other systems seems really good. I'd offer the 
+the guy 8 or 9 grand for it and see what he says. 
+
+You're right about the classic look of the 91* series. And this car is going
+nowhere but up in value. That 944 is going to be the 1978 924 in ten years.
+But, if you're just looking for a daily driver and you don't want to deal
+with it.....
+
+But the 912 gives you a good shot at keeping it going yourself. Write me back
+if you buy it and I'll put you in touch with some good people to know....
+
+JZ
+
+
+--
+"Every time I look under the hood of a new car, it makes me wanna puke"
+							       - Carroll Shelby
+
+
+
+
+From tynor@prism.gatech.edu  Mon Jun 11 19:56:56 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA06021); Mon, 11 Jun 90 19:56:56 CDT
+Received: from hydra.gatech.edu by bcm.tmc.edu (AA06386); Mon, 11 Jun 90 19:59:58 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA29976; Mon, 11 Jun 90 20:59:18 -0400
+Date: Mon, 11 Jun 90 20:59:18 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9006120059.AA29976@prism.gatech.edu>
+To: zursch%large.wpd@sgi.com
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: Kid Redshift's message of Mon, 11 Jun 90 15:24:07 PDT <9006112224.AA02907@large.wpd.sgi.com>
+Subject:  Advice re: 912E purchase
+
+Yep - 10 miles since the rebuild. The owner died recently and his
+son-in-law (the previous owner) is selling it.
+
+Thanks for the words of encouragement.  I'll let you know what happens
+if I decide top make an offer.
+
+Steve
+
+From weltyc@turing.cs.rpi.edu  Tue Jun 12 08:57:24 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA06722); Tue, 12 Jun 90 08:57:24 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA08926); Tue, 12 Jun 90 09:00:27 CDT
+Date: Tue, 12 Jun 90 09:59:56 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA08735; Tue, 12 Jun 90 09:59:56 EDT
+Message-Id: <9006121359.AA08735@turing.cs.rpi.edu>
+To: tynor@prism.gatech.edu
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: Steve Tynor's message of Mon, 11 Jun 90 18:03:51 -0400 <9006112203.AA09595@prism.gatech.edu>
+Subject: Advice re: 912E purchase
+
+
+> 	To buy a Porsche I can drive to work most of the time (3-5
+> 	days a week). This seems to rule out the 911. All indications
+> 	are that maintenence expenses would force me to treat a 911 as
+> 	a weekend-only car. 
+
+This is a myth.  I, and  several people I know, drive my 911 every
+day.  The 911 is the most reliable car ever made.  The reason it got
+it's reputation for being unreliable and expensive to maintain is
+because most owners don't know how to drive it and dont want to get
+their hands dirty with the recommended maintenace, so they bring it
+back to the dealer.  Since there are, in general, also fairly rich,
+they get charged a lot for simple things.  
+
+> Enough for now. I'm looking forward to your advice. I'm beginning to
+> think I ought to 'switch gears' and start looking at 944's.  They seem
+> to the be Porsche with the most bang-for-the-buck. They just don't
+> have the romance of the 911/912 styling...
+
+While there are plenty of 944 advocates who would claim this is only a
+current trend due to the newness of the model, the 944 is plummeting
+in value, whereas 911s are going up.  The 356 and the 911 are *the*
+Porsches.  If you want a car that will continually increase in value,
+as well as providing a timeless design that has only slightly changed
+in 25 years (and even that was a subtle change on the design of the
+previous 15), and that everyone recognizes as a Porsche, get a 911.
+If you're set on 4 cyl, get a 356. That car is going to double in
+value in the next few years, and keep going up slowly until Ferry
+bites it, then just add a zero.  Although, actually, I wouldn't
+recommend a 356 as an everyday car, it's too valuable.  A 912, well,
+it looks like a 911, but it is sort of an empty feeling once you start
+wanting to really drive it.
+
+Also, take my advice with a grain of salt, there are a lot of people
+who love their 944s, and I wish the ugly things had never been made
+(they keep spoiling my PCA event photos), so I'm probably a bit biased.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From VitaM6!marciano@uunet.uu.net  Tue Jun 12 09:51:23 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA06750); Tue, 12 Jun 90 09:51:23 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA09466); Tue, 12 Jun 90 09:54:25 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA13383; Tue, 12 Jun 90 10:54:33 -0400
+Message-Id: <9006121454.AA13383@uunet.uu.net>
+Date: Tue, 12 Jun 90 07:47:17 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: 928 owners ?
+
+are there any 928 owners out there?
+if so, could you say something about the car.  if you like it.  why or why
+not.  etc.
+
+just wondering if the car is worth the price.
+
+
+From sco!banta@ucscc.ucsc.edu  Tue Jun 12 10:13:51 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA06917); Tue, 12 Jun 90 10:13:51 CDT
+Received: from ucscc.UCSC.EDU by bcm.tmc.edu (AA09580); Tue, 12 Jun 90 10:16:48 CDT
+Received: by ucscc.UCSC.EDU (5.61/1.35)
+	id AA13394; Tue, 12 Jun 90 08:20:17 -0700
+Received: from moscow.sco.com by huey.sco.COM
+	id aa01692; Tue, 12 Jun 90 14:18:54 PDT
+From: banta@sco.com (no user servicable parts inside)
+X-Mailer: SCO System V Mail (version 3.2)
+To: phile@pwcs.stpaul.gov
+Subject: Re: cheating
+Cc: porschephiles@bcm.tmc.edu
+Date: Tue, 12 Jun 90 7:23:46 PDT
+Message-Id:  <9006120723.aa14963@moscow.sco.COM>
+
+
+Phil,
+I'm forwarding your request for information to the Porsche mailing list:
+
+
+I made it to the MOWOG II event at Raceway Park.  I never do well 
+there and the banks tend to be really hard on my swaybar mounts.  I
+looked at the course and saw that there was nothing there the Spridget
+would like.  I stated that I was going to stroke it and take last in
+class, save the machine for the 3M event next Sunday and hope I
+completed enough MOWOGs this year to throw this one.  I kept my word
+and fininshed 5th out of 6. I did get lost on the warmup for my first
+run, but this was very common and they let me do it again.  I blamed
+it on not being able to walk the course due to my Tech duties but we
+all know it was classic brain fade.  My day was successful though, I
+didn't have to open the tool box except for sunblocker.  I hated the
+course, but it was safe enough, so I have no violent complaints.  I
+remember the last time I said I was going to stroke it was a Kart
+track with the Sonett.  I got carried away, though and won!  This
+track was not right for my car and did have some other problems, but I
+will save my comments about that for later and address the problem in
+the subject line.
+
+There is a 944 running here that several people claim is not legal
+stock.  Met Council rules are a little more liberal on sway bars than
+SOLO II.  You can add or replace EITHER the front OR rear sway bar.  I
+asked this driver at a previous event whether the rear bar was stock.
+He says no, it is a trick bar, but the front one is stock.  When I
+teched the car this time , I looked at the front bar.  It is an
+adjustable bar.  I passed the car, as I have no technical data 
+available at the track.  Another guy comes in with a 944 Turbo.  No 
+adjustable bar.  I find this interesting.  One of the regulars has
+switched cars a lot.  His 924 does not run in the same MC class as the
+944, so he has not protested.  He showed up yesterday with a CRX Si, 
+which runs the same class (DS).  I asked him if he wanted to protest, 
+as he was one of the people that had mentioned this before.  He said, 
+not today his car isn't sorted and he will wait.  I told him that if 
+he was going to protest nest time, to bring some documentation from 
+Porsche so there would be no question.  This morning I called the
+local Porsche dealer.  They say that you can't order adustable bars 
+from Porsche, but they will be happy to install Weilmeister bars 
+(please correct my spelling).  Weilmeisters come gold-anodized like my
+monster bar on the Spridget.  The CRX guy has long mantained that the 
+944 guy put on Weilmeister bars and painted them black to match the 
+Porsche bars.  I have several observations and invite comments.
+Please be honest and don't pull your punches.  Call ME a jerk if you
+think it is appropriate.
+
+I HATE it when someone is cheating and lies to my face about it.  I
+could wrestle a rear bar into the Spridget where no one would ever see
+it.  I won't, because I think serious cheating like that takes all the
+fun out.
+
+Are the facts right here?  What bars could you order on 944 in the USA
+as factory options?  Porsche experts, help us out here.  I really did
+not want to identify this driver in this discussion, but I felt the
+car type was relevant so we can get more input.  Unfortunately, Twin
+Cities autocrossers will know who I mean, and I don't want this to be
+any kind of personal attack.
+
+Should I wait for someone to protest?
+
+Should I encourage someone to protest?
+
+Should I talk to the Tech inspector for 3M?
+
+Should I call the 944 guy and warn him to shape up?
+
+Should I call the 944 guy and tell him to bring docs on his sway bars
+or I will class the car as Street Prepared?
+
+The 944 guy seems to be a nice guy and I feel really bad that I think
+he is lying to me.  This ain't Salina, where they have had some
+real chicken protests.  This is however, a real performace advantage
+here and not a chicken matter. These are supposed to be friendly local
+events without pressure.  I would resent chicken protests at our
+events, but I resent flagrant cheating more.  My Sonett was
+protestable for the plastic back window and the 96 gearbox.  I made
+a point to let everyone know about them in case they wanted to
+protest.  No one ever did, so I consider my trophies fairly won.  It
+saddens me to see someone apparently lying about a real advantage.
+
+BTW, Blake Sobiloff brought his GTI up so I was not the only TEAM.NET
+member on hand while Dr. Bobwrnch is in Waterloo for the Divisional.
+(we want a report, Bob). While we were teching Blake's car, he said he
+couldn't wait to get out, wald the course and make a map.  I guess I
+should have looked at his map!
+
+phile@pwcs.stpaul.gov    In real life: Phil Ethier
+Phone: 298-5324
+
+
+From VitaM6!marciano@uunet.uu.net  Tue Jun 12 10:34:32 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA07338); Tue, 12 Jun 90 10:34:32 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA09698); Tue, 12 Jun 90 10:37:34 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA25632; Tue, 12 Jun 90 11:37:43 -0400
+Message-Id: <9006121537.AA25632@uunet.uu.net>
+Date: Tue, 12 Jun 90 08:13:09 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: gee, kinda harsh
+
+Christopher Welty  ---  Act. Director, RPI CS Labs
+writes:
+
+>and keep going up slowly until Ferry bites it
+sure he's getting old, but i don't wish that he dies.  plus Ferdinand (III)
+did the 911 so...
+
+and i wouldn't call the 944/951 ugly.  especially the 4 wheel drift
+that they used to show on tv.  (a picture is used for their driving school.)
+now i call that grace under pressure.  like a fine ballet.
+
+well nissan had to wet the pavement to achieve the same thing for the new 300zx.
+
+Porsche ads on tv are some of the greatest.  anyone have them all on tape?
+
+
+From mueller%velo@cs.utah.edu  Tue Jun 12 12:28:34 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA09453); Tue, 12 Jun 90 12:28:34 CDT
+Received: from cs.utah.edu by bcm.tmc.edu (AA10700); Tue, 12 Jun 90 12:31:36 CDT
+Received: from velo.utah.edu by cs.utah.edu (5.61/utah-2.11-cs)
+	id AA21819; Tue, 12 Jun 90 11:31:47 -0600
+Received: by velo.utah.edu (5.61/utah-2.7-leaf)
+	id AA00796; Tue, 12 Jun 90 11:31:45 -0600
+Message-Id: <9006121731.AA00796@velo.utah.edu>
+To: tynor@prism.gatech.edu (Steve Tynor)
+Cc: porschephiles@bcm.tmc.edu
+Subject: Re: Advice re: 912E purchase 
+In-Reply-To: Your message of "Mon, 11 Jun 90 18:03:51 EDT."
+             <9006112203.AA09595@prism.gatech.edu> 
+Date: Tue, 12 Jun 90 11:31:43 MDT
+From: mueller%velo@cs.utah.edu
+
+
+    To the Porsche experts of the net: Your comments and suggestions, please.
+    
+    My objectives: 
+    
+    	To buy a Porsche I can drive to work most of the time (3-5
+    	days a week). This seems to rule out the 911. All indications
+    	are that maintenence expenses would force me to treat a 911 as
+    
+    My concerns: 
+    
+    	Price - $10,500 seems high for a 4cyl 912 (though the prices
+    	listed in Hemmings seem to range between $10,500 and 12,500).
+	...
+    
+    	Performance - This is the only 912E I've ever driven. Since
+	...
+    	912E in good condition for ~$8,500? I suppose the prices are
+    	artificially high due to the relative rarity of the 912E. I
+    	sure hate to pay for 'rareness' - I'm not interested in
+                         
+        Steve Tynor
+
+Steve, 
+
+I would agree with Chris Welty's posting: If you want a 911, get one. 
+If your looking at 911/912's of early to mid 70's vintage, they both
+will require some t.l.c., but if you by a 911 that's rebuilt it should
+run strong for a long time. 
+
+I just spent a few months looking and bought a 72 911 T a few months
+ago. As for reliability, I talked to the mechanic who rebuilt the car I
+bought at 112k miles. They only rebuilt the top end because the rest of
+the engine was still in great shape!
+
+I looked at 912's and 924's. I didn't want to spend more that 6k at first
+(which ruled out the 911) but after some test drives and advice from
+porsche owners and mechanics, I decided to up my budget and look at 911's
+which is what I really wanted anyway. I've seen numerous 911's under 11k,
+some as new as 77's in the paper here in the last 4 months (I still browse
+the paper since it's interesting). I think I got a good deal with the one 
+I bought for 8k. Certainly drive some 911's to get a comparison. The 912's
+I drove seemed like noisy clunkers compared to 911's. I don't have anything
+against them, I was 90% convinced I buy one until I drove some 911's.
+
+I don't know that much about 912's but you probably are paying for rarity
+with the one you're looking at since they only brought I back for one 
+year in the mid 70's. The late 60's, early 70's 912's here are in the
+5 - 7k range. I haven't seen any 76's.
+
+Unless you're planning on doing engine overhauls yourself, I don't see a
+big maintenance break for the 912, and I think you can find a 911 in
+your budget.
+
+Tim Mueller
+mueller@cs.utah.edu
+
+Ps. Take this as advice from a new, perhaps naive, but very satisfied 911
+owner.
+
+
+From VitaM6!marciano@uunet.uu.net  Tue Jun 12 16:48:37 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA14886); Tue, 12 Jun 90 16:48:37 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA13781); Tue, 12 Jun 90 16:51:38 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA07487; Tue, 12 Jun 90 17:51:49 -0400
+Message-Id: <9006122151.AA07487@uunet.uu.net>
+Date: Tue, 12 Jun 90 14:44:22 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Disclaimer: i have a 951s
+
+i wish i had one
+
+From VitaM6!marciano@uunet.uu.net  Tue Jun 12 17:08:32 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA15305); Tue, 12 Jun 90 17:08:32 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA14071); Tue, 12 Jun 90 17:11:34 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA14634; Tue, 12 Jun 90 18:11:38 -0400
+Message-Id: <9006122211.AA14634@uunet.uu.net>
+Date: Tue, 12 Jun 90 15:04:16 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re: cheating
+
+i think i saw some ads for Weltmeister bar's that claim 1 g figures.
+and that would definitely be an advantage.
+
+From james@visual2.tamu.edu  Tue Jun 12 17:37:13 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA15369); Tue, 12 Jun 90 17:37:13 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA14746); Tue, 12 Jun 90 17:40:16 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA27676); Tue, 12 Jun 90 17:37:55 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA22895; Tue, 12 Jun 90 17:38:09 GMT-0600
+Date: Tue, 12 Jun 90 17:38:09 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9006122338.AA22895@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: 944 swaybars...
+
+
+Hey those Wei*&(*^(*% whatever sway bars.. are they legal in California?
+Sounds like a marciano question but you know practically nothing is
+legal in California (when it comes to emissions).  How much for these nifty
+1g devices???  
+
+
+FLAME:  Welty...  The 944's got Porsche in it's guts...  Sit down and
+feel it.  It is not like other manufacturers (American or Japan's) junk
+and should be permitted to retain it's title as a Porsche!  When I
+test drove cars.  Nothing felt like a Porsche but a Porsche!
+
+James
+
+From VitaM6!marciano@uunet.uu.net  Tue Jun 12 20:05:23 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA16218); Tue, 12 Jun 90 20:05:23 CDT
+Received: from uunet.uu.net by bcm.tmc.edu (AA15606); Tue, 12 Jun 90 20:08:25 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA22969; Tue, 12 Jun 90 21:08:36 -0400
+Message-Id: <9006130108.AA22969@uunet.uu.net>
+Date: Tue, 12 Jun 90 17:58:21 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: R
+
+>it's easy.  save up for a house.  then when you're 1/10 of the way, say
+>to yourself "am i gonna have more fun with a house, or a 951S?", then
+>buy the 951S.  and go humiliate some 930's..
+
+will a barbie doll house do?  if only if.
+
+From welty@lewis.crd.ge.com  Thu Jun 14 11:21:56 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA29810); Thu, 14 Jun 90 11:21:56 CDT
+Received: from crdgw1.ge.com by bcm.tmc.edu (AA28693); Thu, 14 Jun 90 11:24:56 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA07631; Thu, 14 Jun 90 12:25:11 EDT
+Date: Thu, 14 Jun 90 12:31 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Flaming Weltys
+To: porschephiles@bcm.tmc.edu
+Message-Id: <19900614163104.1.WELTY@lewis.crd.ge.com>
+
+    From: james@visual2.tamu.edu (James Saxon)
+
+    FLAME:  Welty...
+
+please be careful about this; there are at least two
+different weltys on this mailing list.
+
+as for the 944/951, well, i got passed by a bunch of
+951s at the glen on monday and tuesday; i'm not inclined
+to dump on them (my alfa has good, neutral handling, but
+it is a little down on power to play in that crowd.)
+
+richard
+
+From photon!bvs@ucsd.edu  Thu Jun 14 14:10:59 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA00455); Thu, 14 Jun 90 14:10:59 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA00312); Thu, 14 Jun 90 14:14:01 CDT
+Received: from photon.UUCP by ucsd.edu; id AA28073
+	sendmail 5.61/UCSD-2.1-sun via UUCP
+	Thu, 14 Jun 90 12:14:15 -0700 for porschephiles@bcm.tmc.edu
+Message-Id: <9006141914.AA28073@ucsd.edu>
+Received: by  photon. (5.51/celerity1.1)
+	id AA18743; Thu, 14 Jun 90 11:14:51 PDT
+From: photon!bvs@ucsd.edu (Bruce Shetler)
+Subject: chain tensioners
+To: porschephiles%bcm.tmc.edu@ucsd.edu (porschephiles)
+Date: Thu, 14 Jun 90 11:14:47 PDT
+X-Mailer: ELM [version 2.2 PL12]
+
+Hello everyone,
+
+I'm re-sending this because I don't think the original made it out.
+If this is not true, please excuse the redundancy.
+
+Thank you to everyone who responded to my earlier "reques to advice
+from new 911 owner".  The replies were very helpful and really
+appreciated.  
+
+Partly because of the replies to the above posting, I have now begun
+to be seriously concerned about this chain tensioner question.  I plan
+to replace mine as soon as I can, but because of the expense and the
+work involved its not something that I can just knock right off.  On
+the other hand, it seems clear that the potential damage from a
+collapse could be a considerable catastrophe.  Thus the question: just
+how likely is this (in particular how likely in a 1980 3.0)?  Should I
+stop driving until I do the conversion?  Only take short trips?  I can
+detect no chain noise now.  Is there any warning?  Is there anything I
+can do to protect myself short of the full changeover (I know about
+the little collars that go around the tensioner shafts, but I'd really
+like to avoid this halfway measure as it still requires pulling the
+chain covers - perhaps this is a good interim solution after all).
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates             
+  San Diego, CA   92121                 
+  uucp:photon!bvs@ucsd.edu               
+========================================================================
+
+From stanh@wilkins.bcm.tmc.edu  Thu Jun 14 14:41:48 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA00724); Thu, 14 Jun 90 14:41:48 CDT
+Received: from wilkins.bcm.tmc.edu by bcm.tmc.edu (AA00727); Thu, 14 Jun 90 14:44:51 CDT
+Received: by wilkins.bcm.tmc.edu (AA00718); Thu, 14 Jun 90 14:41:45 CDT
+Date: Thu, 14 Jun 90 14:41:45 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9006141941.AA00718@wilkins.bcm.tmc.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Air conditioning for 911s
+
+Since I'm in Anaheim at USENIX, I thought I'd stop by Performance Aire,
+the place recommended by Bruce Anderson in "The 911 Performance Handbook"
+for 911 A/C fixes and upgrades. My '81 SC has no A/C, being a European 
+model. Here's what I learned:
+
+These guys are amazingly reasonable. They have a whole line of upgrade and
+replacement gear that can cover just about whatever need you have. They
+also only charge $300 to install a whole system in a 911 that doesn't have
+A/C (that's for 16-20 hours labor!). Seems that they were tired of seeing
+it done wrong... Anyway, I can get a system installed for about $2300,
+assuming I can get the car out here. That's using all new parts, and with
+a rear deck and under-car (covers about two feet wide by the width of the
+car, and is strong enough that you can jack the car up using it as a jack
+point!) condensers. And with new, improved under-dash distribution that looks
+good enough to be factory, in addition to using the regular factory vent
+outlets.
+
+Since I'm in Houston, I need the works. If you're not down here and need
+less A/C capacity, you may need fewer parts. They maintain a list of shops
+who have done business with them, and do some referals if you want to have
+it installed locally rather than driving to L.A.
+
+And if you have factory air, and it isn't cold enough or isn't blowing 
+enough air, they can help with that too.
+
+They are sort of an offshoot of a Porsche repair shop that had a '76 930,
+an early Turbo Carerra, a '74 3.0 Carerra, lots of vanilla '74-77 911's,
+and a couple of 356's (in restoration) in the shop while I was by. All in
+all looked like a reasonable place.
+
+And, as usual, I have no affiliation with these folks other than having
+an appointment to have an A/C system installed in August.
+
+Regards,
+
+Stan
+
+From james@visual2.tamu.edu  Thu Jun 14 17:20:49 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA02943); Thu, 14 Jun 90 17:20:49 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA02423); Thu, 14 Jun 90 17:23:46 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA13907); Thu, 14 Jun 90 17:21:21 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA25973; Thu, 14 Jun 90 17:21:30 GMT-0600
+Date: Thu, 14 Jun 90 17:21:30 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9006142321.AA25973@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Performance Aire
+
+
+Where are these Performance Aire guys?  Do you have a phone
+number?  Do they work on 944s?
+
+James
+
+
+From bowers@elxsi.dfrf.nasa.gov  Fri Jun 15 18:07:34 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA07321); Fri, 15 Jun 90 18:07:34 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA14411); Fri, 15 Jun 90 18:10:25 CDT
+Received: from [130.134.64.6] by ames.arc.nasa.gov (5.61/1.2); Fri, 15 Jun 90 16:10:24 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA01852; Fri, 15 Jun 90 15:49:44 PDT
+Date: Fri, 15 Jun 90 15:49:44 PDT
+Message-Id: <9006152249.AA01852@elxsi.dfrf.nasa.gov>
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: Chain tensioners...
+To: porschephiles@bcm.tmc.edu
+
+I'm really out of date on this subject so take everything I say as hearsay at
+best and outright lies at worst.
+ 
+>Partly because of the replies to the above posting, I have now begun
+>to be seriously concerned about this chain tensioner question.
+ 
+On the Carreras in the mid 70's wasn't there a mechanical tensioner?  It was
+adjusted by wrench and had nothing to do with the oil pressure.  I seem to
+recall that one aftermarketer was selling them to solve the problem.
+ 
+Another opinion...
+ 
+Al Bowers
+
+From weltyc@turing.cs.rpi.edu  Sun Jun 17 22:36:05 1990
+Received: from bcm.tmc.edu by wilkins.bcm.tmc.edu (AA10271); Sun, 17 Jun 90 22:36:05 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA22305); Sun, 17 Jun 90 22:39:06 -0500
+Date: Sun, 17 Jun 90 23:38:23 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA29591; Sun, 17 Jun 90 23:38:23 EDT
+Message-Id: <9006180338.AA29591@turing.cs.rpi.edu>
+To: bowers@elxsi.dfrf.nasa.gov
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: bowers@elxsi.dfrf.nasa.gov's message of Fri, 15 Jun 90 15:49:44 PDT <9006152249.AA01852@elxsi.dfrf.nasa.gov>
+Subject: Chain tensioners...
+
+
+>   On the Carreras in the mid 70's wasn't there a mechanical tensioner?
+> It was adjusted by wrench and had nothing to do with the oil pressure.
+> I seem to recall that one aftermarketer was selling them to solve the
+> problem.
+
+Yeeeoww!  DON'T use those!!!!!  Granted, they wont ever fail, but your
+chains will stretch out REAL fast, and they wear out the cam sprockets
+(no big deal to change with the chains except you need a couple
+hundred dollar special tools) AND they wear the intermediate shaft,
+which requires splitting the case to repair!
+
+This is OK on a racing car where the engine gets rebuilt every race.
+
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From VitaM6!marciano@uunet.UU.NET  Wed Jun 20 09:29:36 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA11784); Wed, 20 Jun 90 09:29:36 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA13136); Wed, 20 Jun 90 09:32:38 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA11703; Wed, 20 Jun 90 10:32:51 -0400
+Message-Id: <9006201432.AA11703@uunet.uu.net>
+Date: Wed, 20 Jun 90 07:24:51 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: porsche parade
+
+well folks, the porsche parade is starts this week.  anyone going?
+
+BTW, JZ, when you see a short fat oriental guy running around that
+definitely is out of place, that'll be me.  i'll be looking for you.
+
+/marciano
+
+From stanh@wilkins.bcm.tmc.edu  Wed Jun 20 10:34:40 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA12818); Wed, 20 Jun 90 10:34:40 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA14089); Wed, 20 Jun 90 10:37:40 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA00517); Wed, 20 Jun 90 10:34:33 CDT
+Date: Wed, 20 Jun 90 10:34:33 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9006201534.AA00517@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: extra beefy tranny?
+
+I'm tired of my 1st and 2nd gear synchros being made of silly-putty
+and chewing gum! Seems I manage to trash a set of these guys every year
+to 18 months -- on both the 901 in my 914 and 915 in my 911.
+
+I see ads in Pano from some outfit called "Race Force" somewhere in New 
+York, claiming that they fix this problem with hardened steel synchros for
+about the same cost as the factory silly-putty ones. Has anyone done
+business with these guys (Welty?)?? Has anyone found anything else that
+is a sure win to keep from trashing the synchros??? And yes, I *DO*
+double-clutch, always going down, usually coming up.
+
+Regards,
+
+Stanley P. Hanks      Director, Information Technology Planning and Development
+Baylor College of Medicine, One Baylor Plaza, Houston TX 77030, Mail Stop: IR-3
+e-mail: stanh@bcm.tmc.edu       voice: (713) 798-4649       fax: (713) 798-3729
+
+From VitaM6!marciano@uunet.UU.NET  Wed Jun 20 11:45:49 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13846); Wed, 20 Jun 90 11:45:49 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA15469); Wed, 20 Jun 90 11:48:49 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA15063; Wed, 20 Jun 90 12:49:04 -0400
+Message-Id: <9006201649.AA15063@uunet.uu.net>
+Date: Wed, 20 Jun 90 09:40:41 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: porsche parade
+
+James J Dempsey <uunet!alexander.bbn.com!jjd> writes:
+
+>Just curious, but where is the Porsche Parade this year?
+
+Monterey, CA.  i believe it starts thurs with registration, and goes from there.
+they will have trips to the wine country also, i believe.
+
+i just want to see the car show!!!  supposed to be some classic race cars
+there, with a "racing" 959 (961).
+
+just an outsider,
+/marciano
+
+From VitaM6!marciano@uunet.UU.NET  Wed Jun 20 13:58:04 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA16191); Wed, 20 Jun 90 13:58:04 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA17009); Wed, 20 Jun 90 14:01:01 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA18156; Wed, 20 Jun 90 15:01:15 -0400
+Message-Id: <9006201901.AA18156@uunet.uu.net>
+Date: Wed, 20 Jun 90 11:53:20 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: porsche parade
+
+well, since i'm not a pca member, i don't have the full itinerary.  but
+i know you can get more complete details at your local porsche dealership.
+
+i'm tagging along with someone, and all i heard was concourse, etc.
+
+i believe there's some rallys and such so it's not in one place in
+particular.
+
+how about if i get more info, like where the tech inspections are and such
+and write back tomorrow.  sorry for not being more specific.
+
+if anyone has more details, please broadcast.
+
+i'll elaborate more tomorrow.
+/marciano
+
+From VitaM6!marciano@uunet.UU.NET  Wed Jun 20 14:02:09 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA16310); Wed, 20 Jun 90 14:02:09 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA17093); Wed, 20 Jun 90 14:05:10 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA19249; Wed, 20 Jun 90 15:05:23 -0400
+Message-Id: <9006201905.AA19249@uunet.uu.net>
+Date: Wed, 20 Jun 90 11:57:14 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Re: porsche parade
+
+Paul Taira writes:
+>Where is Monterey.
+
+central california.  about 100 miles down the coast from San Francisco.
+about 60 miles from silicon valley.
+
+it's right off hw 1.
+
+gee, look on the map.  did you know you are asking the person with the
+worst memory in the world.  (;-)  i used to live there also.  so how cna
+i forget.  if you were me, it's easy. ;-)
+
+anyway, hope that kinda helps
+/marciano
+
+From homxc!fwk@att.att.com  Wed Jun 20 17:42:20 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA19951); Wed, 20 Jun 90 17:42:20 CDT
+Received: from PORTAL.BCM.TMC.EDU by bcm.tmc.edu (AA20607); Wed, 20 Jun 90 17:45:20 CDT
+Received: from k30htexbell by bcm.uucp id aa06753; 20 Jun 90 18:31 EDT
+Received: by texbell.sbc.com (Smail3.1.18)
+	id <m0hiD6p-0000K3C@texbell.sbc.com>; Wed, 20 Jun 90 17:01 CDT
+Posted-Date: Wed, 20 Jun 90 17:11:02 EDT
+Received: from RUTGERS.EDU by cs.utexas.edu (5.61/1.63)
+	id AA21582; Wed, 20 Jun 90 16:46:24 -0500
+Received: from att.UUCP by rutgers.edu (5.59/SMI4.0/RU1.3/3.06) with UUCP 
+	id AA07866; Wed, 20 Jun 90 17:11:02 EDT
+Date: Wed, 20 Jun 90 17:11:02 EDT
+Message-Id: <9006202111.AA07866@rutgers.edu>
+From: "F W Kerfoot, Iii +1 201 949 6348" <homxc!fwk@rutgers.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Parade
+
+
+Someone asked for information on the yearly parades held by PCA.
+I have attended a few, most recently the 1986 parade held in Maine.
+The Parade is a yearly gathering open to all members of PCA, and
+includes participants from all over the country, and a few from
+other countries. There are on the order of 500 "entrants", or
+PCA members participating in the various events, and typically a
+much larger number of Porsche enthusiasts from the local area who
+stop by casually, so the Parade represents the largest number of
+Porsches in one place you are ever likely to see. During the duration
+of the Parade (1 week), it seems that every other car you see on the
+road is a Porsche.
+
+The primary events held are a concours, an autocross, a TSD rally,
+and a tech quiz. Each of the events tends to be the premier Porsche
+event of its type in the country, so the competition is really
+industrial strength. In addition to the competitive events, there is
+a relativly full social schedule, with several large dinners, etc.
+Many of the participants in fact come for the social contacts,
+and participate in the events, but not necessarily with the degree of
+furvor necessary to have a good chance to win. There are others of
+course who come with the intent of winning a particular event whatever
+it takes.
+
+The range of Porsches which attend a typical Parade is amazing. Immaculate
+speedsters seem to be a dime-a-dozen, there are typically several
+America roadsters (12 made in the early '50s), all manner of Porsche
+race cars, including 917s, etc. There are typically several race cars
+(906s, 910s, etc) which run the autocross.
+
+The Parade is really an experience. Try to attend one if there is any way
+you can. They tend to oscillate between different parts of the country,
+so that everyone can attend one without excessive travel (although there
+are fanatics who drive to every one, where ever it is). For those of
+us on the east coast, the next year's parade (1991) is in Boston.
+See you there.
+
+Frank Kerfoot
+...!att!homxc!fwk
+
+
+
+From weltyc@turing.cs.rpi.edu  Thu Jun 21 08:53:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA21558); Thu, 21 Jun 90 08:53:33 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA24075); Thu, 21 Jun 90 08:56:30 CDT
+Date: Thu, 21 Jun 90 09:55:54 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA22937; Thu, 21 Jun 90 09:55:54 EDT
+Message-Id: <9006211355.AA22937@turing.cs.rpi.edu>
+To: stanh@wilkins.bcm.tmc.edu
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: Stan Hanks's message of Wed, 20 Jun 90 10:34:33 CDT <9006201534.AA00517@MEYERHOF.IAIMS.BCM.TMC.EDU>
+Subject: extra beefy tranny?
+
+
+> I'm tired of my 1st and 2nd gear synchros being made of silly-putty
+> and chewing gum! Seems I manage to trash a set of these guys every
+> year to 18 months -- on both the 901 in my 914 and 915 in my 911.
+> 
+> I see ads in Pano from some outfit called "Race Force" somewhere in
+> New York, claiming that they fix this problem with hardened steel
+> synchros for about the same cost as the factory silly-putty ones. Has
+> anyone done business with these guys (Welty?)?? 
+
+I assume you mean me (THere is another Welty in this group).  I've
+never dealt with race force, but some thoughts:  The 911 synchro is
+intentionally made soft, so that it will wear and not the `sleeve',
+since the synchro is both easier and cheaper to replace.  I would be
+concerned that a hardened syncro would merely reverse the process and
+wear the sleeve.  If the kit comes with a hardened sleeve as well,
+then I guess it would wear slower.  The *real* problem here is that
+the 911 tranny was not really meant for a lot of shifting between 1st
+and 2cnd.  The other, less racebred transmissions are built for the
+street and thus have smoother ratios between 1st and 2cnd.  So the
+real solution would be to change your 2cnd gear ratio to make for a
+smoother transition, if you're doing a lot of 1st to 2cnd.  Not that
+it's easy.  In general, I would be wary of this race force thing, it
+sounds like the short-shifter, which is a complete waste.
+
+No offense, but my syncros have 106K on them and they're fine (well,
+as fine as ever).  I double clutch on the upshift as well as the down
+(including to 1st), but I also do very little stop-and-go driving.
+Maybe I just installed the raceforce mod in my sleep...
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From srp@babar.mmwb.ucsf.EDU  Thu Jun 21 09:49:34 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA22309); Thu, 21 Jun 90 09:49:34 CDT
+Received: from cgl.ucsf.EDU by bcm.tmc.edu (AA24512); Thu, 21 Jun 90 09:52:33 CDT
+Received: from babar.mmwb.ucsf.EDU by cgl.ucsf.EDU (5.59/GSC4.19)
+	id AA03844 for porschephiles@bcm.tmc.edu; Thu, 21 Jun 90 07:52:49 PDT
+Received: by babar.mmwb.ucsf.EDU (5.52/GSC4.16)
+	id AA00880; Thu, 21 Jun 90 07:52:46 PDT
+Date: Thu, 21 Jun 90 07:52:46 PDT
+Message-Id: <9006211452.AA00880@babar.mmwb.ucsf.EDU>
+From: srp@cgl.ucsf.EDU (Scott R. Presnell)
+Sender: srp@babar.mmwb.ucsf.EDU
+To: porschephiles@bcm.tmc.edu
+Subject: Double clutching
+Reply-To: srp@cgl.ucsf.EDU
+
+
+Could someone briefly explain how to double clutch?  It's now come up again
+and I'm tired of being ignorant.
+
+It seems to me that the bus driver in school did something where he let the 
+clutch up and down when in neutral between the coming and going gears...
+is that it?  It seems like a lot of effort and possibly wear on the clutch
+mechanism- and it takes more time.
+
+	Thanks.
+
+Scott Presnell				        +1 (415) 476-9890
+Pharm. Chem., S-926				Internet: srp@cgl.ucsf.edu
+University of California			UUCP: ...ucbvax!ucsfcgl!srp
+San Francisco, CA. 94143-0446			Bitnet: srp@ucsfcgl.bitnet
+--
+
+
+From msir_ltd@uhura.cc.rochester.edu  Thu Jun 21 12:34:27 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25257); Thu, 21 Jun 90 12:34:27 CDT
+Received: from uhura.cc.rochester.edu by bcm.tmc.edu (AA27391); Thu, 21 Jun 90 12:37:22 CDT
+Received: by uhura.cc.rochester.edu (4.1/1.12) id AA06439; Thu, 21 Jun 90 13:34:11 EDT
+Message-Id: <9006211734.AA06439@uhura.cc.rochester.edu>
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Thu, 21 Jun 90 13:34:11 EDT
+In-Reply-To: <9006211452.AA00880@babar.mmwb.ucsf.EDU>
+       srp@cgl.ucsf.edu (Scott R. Presnell) (Jun 21,  7:52am)
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: srp@cgl.ucsf.edu
+Subject: Re: Double clutching
+Cc: The Porsche Interest Group <porschephiles@bcm.tmc.edu>
+
+On Jun 21,  7:52am, Scott R. Presnell writes:
+> Could someone briefly explain how to double clutch?  It's now come up again
+> and I'm tired of being ignorant.
+
+Sure.  I'll go over general declutching practices during downshifts.  (I
+assume everyone's got upshifts pretty well already.)
+
+Basically, remember that you have two feet, and they can work independently
+of each other.  Your left foot has the option of not declutching, declutching
+once, or declutching twice.  Your right foot has the option of braking,
+blipping the throttle, or both.  I will first cover these independently,
+then put them together.
+
+First, the right foot.  When downshifting, the revs will want to end up
+higher than before the downshift, since you are choosing a lower gear.  You
+have the option of either letting the wheels and clutch bring the revs up,
+or you can bring them up yourself with the throttle.  Doing this is called
+"matching revs", so that when you complete the downshift the engine speed is
+already at the target point, and the clutch engagement is therefore very
+smooth (the clutch ideally won't slip at all).
+
+However, many times when you're downshifting you're also on the brakes.
+This makes it harder to match the revs with the throttle, since your foot is
+busy on the brake.  If you can arrange your foot so that you can blip the
+gas while still braking, this is called a "heel-and-toe" downshift, so named
+because in some cars, you end up with the heel on one pedal and the toe on
+the other.  In some cars you can keep your foot more or less upright and
+just rock it to the side to blip the throttle.
+
+With the left foot, you can declutch either zero, one, or two times.  If you
+don't declutch, you must match revs (or heel-and-toe), or you'll never get
+the thing into gear.  If you match revs well, it's not hard to do this, but
+it is hell on the synchros.
+
+Declutching once is a single-clutch downshift, which is what most of us do.
+Generally if you're going to match revs, you do it just before you reengage
+the clutch (release the pedal).  If you've matched well, you can just pop
+the clutch and it will still be smooth.
+
+Double clutching is exactly that.  Relative to your hand, the procedure is
+(1) Declutch
+(2) Move shifter to neutral
+(3) Engage clutch
+(4) Match revs
+(5) Declutch
+(6) Move shifter to final gear
+(7) Engage clutch
+
+Really, your hand doesn't need to stop in neutral, you just need to time it
+right.  Just as matching revs allows the clutch to do nothing,
+double-clutching allows the synchros to do nothing - matching revs while the
+clutch is engaged lines things up automagically.
+
+If your synchros are in good condition and you shift "correctly", that is,
+you always wait for the synchros to line things up (never jam the lever from
+gear to gear - between neutral and each gear, you should be able to feel a
+little resistance - that's the synchros.  Hold the lever gently against the
+resistance until it pops into gear - that should take a small fraction of a
+second), then you shouldn't really need to double-clutch.
+
+If you do double-clutch, you'll have to blip the throttle a bit higher than
+with single-clutching, because the added time allows the revs to come down a
+bit further.
+
+> It seems to me that the bus driver in school did something where he let the 
+> clutch up and down when in neutral between the coming and going gears...
+> is that it?  It seems like a lot of effort and possibly wear on the clutch
+> mechanism- and it takes more time.
+
+Double-clutching does save wear on the synchros, but it accelerates wear on
+the throw-out bearing.  It's up to you.
+
+Hope that's reasonably clear.
+
+-- 
+Mark Sirota - University of Rochester, Rochester NY
+ Internet: msir_ltd@uhura.cc.rochester.edu
+ UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+From svedberg@cs.umn.edu  Thu Jun 21 13:17:39 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25320); Thu, 21 Jun 90 13:17:39 CDT
+Received: from cs.umn.edu by bcm.tmc.edu (AA28111); Thu, 21 Jun 90 13:20:38 CDT
+Received: by cs.umn.edu (5.59/1.14)
+	id AA13209; Thu, 21 Jun 90 13:21:09 CDT
+From: "Eric J. Svedberg" <svedberg@cs.umn.edu>
+Message-Id: <9006211821.AA13209@cs.umn.edu>
+Subject: Re: Double clutching
+To: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Thu, 21 Jun 90 13:21:07 CDT
+Cc: srp@cgl.ucsf.edu, porschephiles@bcm.tmc.edu
+In-Reply-To: <9006211734.AA06439@uhura.cc.rochester.edu>; from "Mark Sirota" at Jun 21, 90 1:34 pm
+X-Mailer: ELM [version 2.3 PL2]
+
+> On Jun 21,  7:52am, Scott R. Presnell writes:
+> > Could someone briefly explain how to double clutch?  It's now come up again
+> > and I'm tired of being ignorant.
+> 
+> Sure.  I'll go over general declutching practices during downshifts.  (I
+> assume everyone's got upshifts pretty well already.)
+> 
+Stuff deleted...
+> 
+> If your synchros are in good condition and you shift "correctly", that is,
+> you always wait for the synchros to line things up (never jam the lever from
+> gear to gear - between neutral and each gear, you should be able to feel a
+> little resistance - that's the synchros.  Hold the lever gently against the
+> resistance until it pops into gear - that should take a small fraction of a
+> second), then you shouldn't really need to double-clutch.
+> 
+   I've done some clutch rebuilding (very amature) and I don't remember
+anything about synchros.  What are they, and why do you need to line them
+up on shifting?
+
+> If you do double-clutch, you'll have to blip the throttle a bit higher than
+> with single-clutching, because the added time allows the revs to come down a
+> bit further.
+> 
+> > It seems to me that the bus driver in school did something where he let the 
+> > clutch up and down when in neutral between the coming and going gears...
+> > is that it?  It seems like a lot of effort and possibly wear on the clutch
+> > mechanism- and it takes more time.
+> 
+> Double-clutching does save wear on the synchros, but it accelerates wear on
+> the throw-out bearing.  It's up to you.
+> 
+> Hope that's reasonably clear.
+> 
+> -- 
+> Mark Sirota - University of Rochester, Rochester NY
+>  Internet: msir_ltd@uhura.cc.rochester.edu
+>  UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+eric
+-- 
+Eric J. Svedberg - University of Minnesota Computer Science System Staff
+svedberg@cs.umn.edu - !rutgers!umn-cs!svedberg - postmaster@cs.umn.edu
+
+From msir_ltd@uhura.cc.rochester.edu  Thu Jun 21 13:26:31 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25331); Thu, 21 Jun 90 13:26:31 CDT
+Received: from uhura.cc.rochester.edu by bcm.tmc.edu (AA28283); Thu, 21 Jun 90 13:29:28 CDT
+Received: by uhura.cc.rochester.edu (4.1/1.12) id AA07799; Thu, 21 Jun 90 14:26:22 EDT
+Message-Id: <9006211826.AA07799@uhura.cc.rochester.edu>
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Thu, 21 Jun 90 14:26:22 EDT
+In-Reply-To: <9006211821.AA13209@cs.umn.edu>
+       "Eric J. Svedberg" <svedberg@cs.umn.edu> (Jun 21,  1:21pm)
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: "Eric J. Svedberg" <svedberg@cs.umn.edu>
+Subject: Re: Double clutching
+Cc: porschephiles@bcm.tmc.edu
+
+On Jun 21,  1:21pm, Eric J. Svedberg writes:
+>    I've done some clutch rebuilding (very amature) and I don't remember
+> anything about synchros.  What are they, and why do you need to line them
+> up on shifting?
+
+The synchros are inside the transmission.  If you don't have a good picture
+of what the inside of a transmission looks like, then this will be very hard
+to explain.
+
+Basically, the synchros work like a clutch; they are friction devices that
+adjust the speeds of the gears so that they can engage each other.  Since
+they are friction devices, they wear out.  There's one for each gear;
+typically the second gear synchro wears out first since you don't shift to
+first all that often.
+
+-- 
+Mark Sirota - University of Rochester, Rochester NY
+ Internet: msir_ltd@uhura.cc.rochester.edu
+ UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+From niedziel@Kodak.COM  Thu Jun 21 13:26:46 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25333); Thu, 21 Jun 90 13:26:46 CDT
+Received: from kodak.com by bcm.tmc.edu (AA28290); Thu, 21 Jun 90 13:29:46 CDT
+Received: from acadia.kodak.com by Kodak.COM (5.61+/2.1-Eastman Kodak)
+	id AA02893; Thu, 21 Jun 90 14:27:04 -0400
+Reply-To: niedziel@Kodak.COM
+Received: from earth.isl.Kodak.COM by acadia.Kodak.COM (4.0/SMI-4.0)
+	id AA03702; Thu, 21 Jun 90 14:30:58 EDT
+Date: Thu, 21 Jun 90 14:30:58 EDT
+From: niedziel@Kodak.COM (mark niedzielski)
+Message-Id: <9006211830.AA03702@acadia.Kodak.COM>
+To: porschephiles@bcm.tmc.edu
+Subject: Re: Double clutching
+
+concerning wear on syncros and throwout bearings during clutching:
+
+one clutching technique i have toyed with is;
+
+1) lift the throttle slightly just as i slip the shifter out of gear
+(by simply pushing on the lever)
+2) depress the clutch
+3) move shifter to chosen gear
+4) match revs
+5) engage clutch
+
+the lifting of the throttle removes any resistance the shifter would otherwise 
+offer during the move out of gear.
+
+does the slip out of gear wear the syncros?  if not, would this approach
+cause less syncro wear than a standard (??) gearchange, yet less throwout
+bearing wear than a double-clutch?
+
+i have found this technique easily smooth on the street.  i've not played with
+it much during aggressive acceleration.
+
+thanks
+
+mark
+
+From msir_ltd@uhura.cc.rochester.edu  Thu Jun 21 13:46:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25543); Thu, 21 Jun 90 13:46:13 CDT
+Received: from uhura.cc.rochester.edu by bcm.tmc.edu (AA28876); Thu, 21 Jun 90 13:49:05 CDT
+Received: by uhura.cc.rochester.edu (4.1/1.12) id AA08557; Thu, 21 Jun 90 14:45:52 EDT
+Message-Id: <9006211845.AA08557@uhura.cc.rochester.edu>
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Thu, 21 Jun 90 14:45:52 EDT
+In-Reply-To: <9006211830.AA03702@acadia.Kodak.COM>
+       niedziel@kodak.com (mark niedzielski) (Jun 21,  2:30pm)
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: niedziel@kodak.com, porschephiles@bcm.tmc.edu
+Subject: Re: Double clutching
+
+On Jun 21,  2:30pm, mark niedzielski writes:
+> 1) lift the throttle slightly just as i slip the shifter out of gear
+> (by simply pushing on the lever)
+> 2) depress the clutch
+> 3) move shifter to chosen gear
+> 4) match revs
+> 5) engage clutch
+
+Hmmm.  Moving the lever out of gear when you're neither accelerating nor
+decelerating causes no significant wear on anything.  But the way to avoid
+needing the synchros is to match revs while the clutch is engaged, so maybe
+something more like
+
+(1) Slip shifter out of gear
+(2) Match revs
+(3) Declutch
+(4) Move shifter to chosen gear
+(5) Engage clutch
+
+Would be more what you're thinking of.  Sure, this would be pretty good, but
+I'm not sure about slipping the shifter out of gear when you're accelerating
+or decelerating significantly.  This is just like a double-clutch, without
+the first declutching while moving the lever to neutral.
+
+> i have found this technique easily smooth on the street.  i've not played with
+> it much during aggressive acceleration.
+
+So you haven't tried it on downshifts either, I take it.
+
+From srp@babar.mmwb.ucsf.EDU  Thu Jun 21 13:53:19 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25573); Thu, 21 Jun 90 13:53:19 CDT
+Received: from cgl.ucsf.EDU by bcm.tmc.edu (AA29093); Thu, 21 Jun 90 13:56:19 CDT
+Received: from babar.mmwb.ucsf.EDU by cgl.ucsf.EDU (5.59/GSC4.19)
+	id AA05854 for porschephiles@bcm.tmc.edu; Thu, 21 Jun 90 11:56:35 PDT
+Received: by babar.mmwb.ucsf.EDU (5.52/GSC4.16)
+	id AA02070; Thu, 21 Jun 90 11:56:32 PDT
+Date: Thu, 21 Jun 90 11:56:32 PDT
+Message-Id: <9006211856.AA02070@babar.mmwb.ucsf.EDU>
+From: srp@cgl.ucsf.EDU (Scott R. Presnell)
+Sender: srp@babar.mmwb.ucsf.EDU
+To: porschephiles@bcm.tmc.edu
+Subject: Syncros and Transmissions...
+Cc: srp@babar.mmwb.ucsf.EDU
+Reply-To: srp@cgl.ucsf.EDU
+
+Well while we're on the subject of syncros now, I have a few more
+questions...
+
+1) I have a '72 911T that started life as a sportomatic.  At some time in the
+past, the sportomatic was replaced with a circa '70 transmission.
+
+	How can I find out the specific year of the transmission from
+	markings or stamps on the case - where should I look?
+	
+	I know they changed the type of transmission in '72: so my engine
+	and my transmission are not "matched." Anyone have any comments
+	on the effect of performance or drivability this might have?
+
+2) It seems difficult to get into 2nd sometimes, that is, I really have to
+push on the shifter, I *don't* hear any grinding (unless I get too
+close to reverse).   Is this how a "tired" syncro feels? or will I also
+experience grinding noises?  Can a normal human (with some mechanical
+experience) change the syncros?
+
+	Thanks.
+
+	- Scott
+--
+
+
+From N025BQ@tamvm1.tamu.edu  Thu Jun 21 13:54:45 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25598); Thu, 21 Jun 90 13:54:45 CDT
+Received: from TAMVM1.TAMU.EDU by bcm.tmc.edu (AA29170); Thu, 21 Jun 90 13:57:40 CDT
+Message-Id: <9006211857.AA29170@bcm.tmc.edu>
+Received: from TAMVM1.TAMU.EDU by tamvm1.tamu.edu (IBM VM SMTP R1.2) with BSMTP id 3539; Thu, 21 Jun 90 13:57:37 CDT
+Received: from TAMVM1 (N025BQ) by TAMVM1.TAMU.EDU (Mailer R2.03B) with BSMTP id
+ 6324; Thu, 21 Jun 90 13:57:35 CDT
+Date:         Thu, 21 Jun 90 13:50:15 CDT
+From: "David K. Boyd" <N025BQ@tamvm1.tamu.edu>
+Subject:      re:  synchros...
+To: porschephiles@bcm.tmc.edu
+
+"Synchros" are synchronizers, and they are located within the transmission.
+Their purpose is to match the speeds of gears in the transmission just
+before they must mesh together, both to make cars easier to drive and to
+help transmissions last much longer.
+
+Most cars with manual transmissions have all forward speeds synchronized,
+a very few have ALL gears synchronized, including reverse.  If you've
+ever noted in car magazines the phrase "fully synchromeshed transmission"
+this means that the car's transmission has synchros.
+
+If you've ever driven an MG-TC, or perhaps an old pickup truck, and you
+hear the same kinds of sounds when engaging forward gears that you hear
+when engaging reverse in a more civilized vehicle without pausing after
+clutching for the input shaft to spin down or engaging a forward gear to
+stop the shaft's rotation, you have experienced the reason for the use of
+synchros.
+
+David Boyd
+
+N025BQ @ TAMVM1.TAMU.EDU
+
+From niedziel@Kodak.COM  Thu Jun 21 14:04:24 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25640); Thu, 21 Jun 90 14:04:24 CDT
+Received: from kodak.com by bcm.tmc.edu (AA29359); Thu, 21 Jun 90 14:07:23 CDT
+Received: from acadia.kodak.com by Kodak.COM (5.61+/2.1-Eastman Kodak)
+	id AA03275; Thu, 21 Jun 90 15:04:36 -0400
+Reply-To: niedziel@Kodak.COM
+Received: from earth.isl.Kodak.COM by acadia.Kodak.COM (4.0/SMI-4.0)
+	id AA04328; Thu, 21 Jun 90 15:08:32 EDT
+Date: Thu, 21 Jun 90 15:08:32 EDT
+From: niedziel@Kodak.COM (mark niedzielski)
+Message-Id: <9006211908.AA04328@acadia.Kodak.COM>
+To: msir_ltd@uhura.cc.rochester.edu, niedziel@Kodak.COM,
+        porschephiles@bcm.tmc.edu
+Subject: Re: Double clutching
+
+Mark Sirota writes:
+)decelerating causes no significant wear on anything.  But the way to avoid
+)needing the synchros is to match revs while the clutch is engaged, so maybe
+                                                           ^^^^^^^
+didn't realize this, thanks.
+
+)I'm not sure about slipping the shifter out of gear when you're accelerating
+)or decelerating significantly.
+
+i think timing is important.  otherwise i find the balance of the car is too
+easily upset by the lifting for and duration of the shift (IMO).
+
+)
+)So you haven't tried it on downshifts either, I take it.
+)
+
+yes i have.  in fact, downshifts are easier than upshifts for me to time
+correctly (using this technique).
+
+
+From VitaM6!marciano@uunet.UU.NET  Fri Jun 22 11:31:57 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA29415); Fri, 22 Jun 90 11:31:57 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA08683); Fri, 22 Jun 90 11:34:58 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA16416; Fri, 22 Jun 90 12:35:10 -0400
+Message-Id: <9006221635.AA16416@uunet.uu.net>
+Date: Fri, 22 Jun 90 09:26:40 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: porsche parade
+
+my source says that registration is at the hyatt.  the concourse on some
+golf course close by.
+
+/marciano, late one day, but hey, that's eng.
+
+From frank@camplab.cmp.rpi.edu  Fri Jun 22 11:46:51 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA29610); Fri, 22 Jun 90 11:46:51 CDT
+Received: from fs3.cs.rpi.edu by bcm.tmc.edu (AA09006); Fri, 22 Jun 90 11:49:49 CDT
+Received: by fs3.cs.rpi.edu (5.54/1.2-RPI-CS-Dept)
+	id AA14859; Fri, 22 Jun 90 12:49:12 EDT
+Date: Fri, 22 Jun 90 09:13:49 EDT
+From: frank@camplab.cmp.rpi.edu (Karl Frank Hens)
+Received: by camplab.cmp.rpi.edu (4.0/1.2-RPI-CAMP-LAB)
+	id AA02139; Fri, 22 Jun 90 09:13:49 EDT
+Message-Id: <9006221313.AA02139@camplab.cmp.rpi.edu>
+To: msir_ltd@uhura.cc.rochester.edu
+Subject: Re: Double clutching
+Cc: <porschephiles@bcm.tmc.edu>, Group@camplab.cmp.rpi.edu,
+        Interest@camplab.cmp.rpi.edu, Porsche@camplab.cmp.rpi.edu,
+        The@camplab.cmp.rpi.edu
+
+Hi guys, this is Frank - a new member of the porschephiles
+group.
+I would like to add a few comments on double clutching. First
+of all, "heel and toeing" is not hell for the synchros.
+You heel and toe to save your synchros. If your revs arwe matched
+well, you can shift as if you didn't have synchros (or really
+brake bands).
+Secondly, you never follow the step by step order that was given. 
+Steps have to be teken simultaneously. You pull the car out of
+gear while you declutch at no load! This means you come off the gas
+and at the changeover point from accelerating to braking you have
+to pull out of gear and exactly at the declutching point.
+When you go into the gear, you engage exactly at the engaging point
+for the clutch. If you engage the gear when the clutch is fully
+disengaged, you will not save any brake bands or synchros.
+If you practice this a lot, you can easily drive without any brake
+bands in your transmission and wear will be minimum. However, trying
+to learn how to do it right you will probably chew up one or two
+transmissions, that's the expence of it.
+But once you'll have figured it out, you can shift any - even a
+915 transmission through all gears with one finger without any wear!
+I was lucky to learn the procedure right during the time I lived in Germany.
+I worked as a test driver for Mercedes Benz (Daimler) until December 84.
+Testing many high powered prototypes I was able to do a lot of
+test driving and got a lot of track time. Also, I learned part of
+it when I had a Citroen with a non-synchromesh transmission.
+A month after I had sold it, the new owner came back and claimed
+something was incorrect with the transission, he could never shift
+without grinding noises even after 2,000 miles practice. I assured him
+it was perfect. He said he'd buy me a bottle of whiskey if I drove the
+car with him in the passenger seat for 15 minutes and didn't grind
+once. I did get the bottle of whyskey, and encouraged him to keep
+trying - it is very hard to learn, especially in the lower gears.
+Also, it is tough to learn on 911s, as they do have brake bands, and
+you never really know whether you did it right or whether the brake
+bands did it for you. If you really want to learn to save your synchros,
+take your brake bands out of your transmission (the rings in the synchro
+hubs that brake the sleeve speed) and drive a few hundred miles without them.
+Suddenly you will reallize how hard it is, but once mastered, it is
+the most rewarding experience.
+Note, all this only applies to pre 87 911s that do not have the disk type
+950 transmissions!
+
+
+
+
+Karl Frank Hens, Rensselaer Polytechnic Institute, Troy, NY
+
+
+
+From weltyc@turing.cs.rpi.edu  Mon Jun 25 00:02:02 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06539); Mon, 25 Jun 90 00:02:02 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA23047); Mon, 25 Jun 90 00:04:56 CDT
+Date: Mon, 25 Jun 90 01:04:21 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA00856; Mon, 25 Jun 90 01:04:21 EDT
+Message-Id: <9006250504.AA00856@turing.cs.rpi.edu>
+To: porschephiles@bcm.tmc.edu
+In-Reply-To: Scott R. Presnell's message of Thu, 21 Jun 90 11:56:32 PDT <9006211856.AA02070@babar.mmwb.ucsf.EDU>
+Subject: Syncros and Transmissions...
+
+
+OK, I finally have a chance to sit down and explain this clearly...
+
+In the transmission, there are two shafts, the main shaft which is
+attached to the engine (through the clutch) and the lay shaft, which
+is attached to the wheels (through the differential).  Every `speed'
+of a transmission (1st, 2cnd, 3rd, etc) has a pair of gears associated
+with it, one on the main and one on the lay shafts.  Each pair of
+gears is permanently mated, ie they are always engaged, and for each
+pair one of the two is locked to a shaft, the other spins freely.  For
+2cnd and 3rd speeds, the free gear is on the lay shaft, and the locked
+gear is on the main, for fourth and fifth the free gear is on the
+main (actually, for the picky ones, the fixed half of the 2cnd speed
+gear pair is PART of the main shaft).
+
+In order to connect the engine to the wheels, the free gear must
+somehow be locked onto the shaft it's spininng around.  You sort of
+have to see this to understand, but each free spinning gear has two
+parts, one which connects to it's conterpart on the other shaft, and
+another with different looking teeth that match another gear (called
+the sleeve) which looks like an empty circle with teeth on the inside.
+This sleeve is locked to the shaft so that it can't spin or rotate,
+but can slide longitudinally along the shaft.  The shifter is
+connected to this sleeve through a fork, which can slide the sleeve
+forward or backward.  The inner teeth of the sleeve match the second
+set of outer teeth on the main gear.  Each sleeve can engage one of
+two speeds: in the 901 Trans, for example, 2cnd and third speeds share a
+sleeve, ie sliding it one way will enage the second speed, sliding it
+the other way will engage the third speed.  When the sleeve slides
+over the gear, since it is locked to it's shaft, the gear becomes
+locked to the shaft, and now the engine is connected to the wheels.  
+
+Synchros come into play because before the free spinning gear is
+locked to its shaft, the main shaft and the lay shaft may be (probably
+are) spinning at different speeds, thus the sleeve would not be able
+to engage the gear (two gears spinning at different speeds can't be
+mated).  The synchro is a tapered ring that gradually engages the
+sleeve as it slides closer to the gear, increasing the friction and
+thus forcing the lay shaft to the matching rpm.
+
+Double clutching is an effort to save wear on the synchro by matching
+the speeds of the two shafts yourself.  
+
+OK, so now to the central question: why is 2cnd gear such a pain on
+911 trannys and is there a good way to fix it?
+
+THe 2cnd gear is a tough thing on the upshift to get.  The reasons are
+probably more complex than this, but one of the causes is this:
+
+When you shift out of first the main shaft is usually spinning pretty
+fast, and there is a large jump in the ratios between first and second
+gear (larger than any other gear), so the corresponding RPM of the
+same car speed in first and second are vastly different.  Typically
+it's something between 1-2K RPM.  This means the synchro needs to slow
+the lay shaft down by 2000RPM before a successful shift can be made.
+This usually results in the synchro wearing out fast.  The synchro is
+made of `silly-putty' because if it weren't, then the sleeve would
+wear also, which would then affect shifting into third as well, since
+second and third share a sleeve.  Therefore the synchro is
+intentionally made softer than the sleeve.  Additionally, the syncro
+is a vastly cheaper part and easier to replace than the sleeve.
+To install a harder 2cnd synchro MUST involve a harder sleeve and a
+harder third gear syncro, otherwise the result will be to move the
+problem from 2cnd to 3rd, which for racing fans is a terrible trade.
+I'm not sure that increasing the hardness of everything would then
+change the resulting operation, not being a materials person - it
+would seem that if they all increased in hardness by the same amount,
+so that the synchro was still softer than the sleeve, the wearout
+rate would be the same...
+
+I really think there are only two solutions: 
+
+1) Change the gear ratios to a more `street' oriented specs, like in
+other cars.  The 911 trans is really a race-bred trans and the ratios
+are designed for optimum performance under race-like conditions, where
+`stop and go' (ie the transition from 1st-2cnd) is fairly uncommon.
+
+2) Double clutch on *every* upshift as well as downshift into 2cnd.
+For the other gears doubleclutching isn't as necessary in the upwards
+direction, since the ratios are closer.  You can tell when you've
+sucessfully double-clutched into second, it just pops in gear like it
+never does on its own.	
+
+Lastly (god this was long), the 911 trannys do not have a main shaft
+brake.  This is generally a simple frictional device on the main shaft
+that just slightly rubs it so that when the car is in neutral AND the
+clutch is disengaged the main shaft will stop spinning.  This is why
+you can't sit at a traffic light in neutral and suddenly hit the
+clutch and shift into first.  Being in neutral with the clutch engaged
+means the engine is connected to the main shaft, but the main shaft is
+not connected to the lay shaft (well, the sleeves are all disengaged),
+and therefore the engine is spinning the main shaft.  Once the clutch
+is disengaged, the main shaft spins on its own momentum and will stop
+quickly if there is a brake, or in a few seconds if (as in the 911)
+there is no brake.   This brake also helps slow the main shaft down
+during shifts, which is another reason why other cars have less
+problem getting into second.
+
+As I said before, and no gloating intended, I've got 106Kmi on my car
+and my 2cnd gear synchro is fine, and I know Karl has over 140K on
+his, though his 2cnd gear synchro is starting to show signs of age
+(probably the previous owner...) They won't last forever, but if you
+are doing it absolutely correctly then the sychro should last over
+100Kmi. 
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From timmins@sun.udel.edu  Mon Jun 25 16:35:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA11837); Mon, 25 Jun 90 16:35:13 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA02262); Mon, 25 Jun 90 16:38:13 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA17612; Mon, 25 Jun 90 17:38:31 -0400
+Message-Id: <9006252138.AA17612@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Mon, 25 Jun 90 17:38:30 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Carbon/Metalic brake pads
+
+What ha s anyone heard about carbon brake pads.  I have heard SERIOUS rotor
+wear.
+
+They are priced like DS11s now.  Comments
+ 
+Track use a primary concern - 944 Turbo
+ 
+Any comments appreciated.
+
+ Thanks,
+         Steve
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From VitaM6!marciano@uunet.UU.NET  Wed Jun 27 17:20:32 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA12736); Wed, 27 Jun 90 17:20:32 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA24913); Wed, 27 Jun 90 17:23:31 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA02407; Wed, 27 Jun 90 18:23:46 -0400
+Message-Id: <9006272223.AA02407@uunet.uu.net>
+Date: Wed, 27 Jun 90 15:14:49 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Re: Syncros and Transmissions...
+
+
+last week, when i was in Monterey, i stopped by to see one of my friends
+who happens to be a mechanic.  well, while i was there, he was taking apart
+a 915 tranny.  with the explainations, and the visual aid, it really makes
+sense.  at the time i saw him break it down, i had a hard time figuring
+out how it works.
+
+gee such a simple idea.
+
+but you should see all the parts in that thing.
+
+BTW, the porsche parade was fine.  didn't get to see a 959.  drat!!!
+i guess Bruce Canepa didn't make it.  it would of been better if
+i had a porsche though.
+
+saw lots of nice 356's.  didn't find JZ.  killer red carrera 4 with the
+RUF wheels that looked like speedline wheels from oregon.  my fav for
+daily driver.  my pick for weekend driver would be one of the numerous
+speedsters (old and new).  too hard to pick.
+
+at laguna seca, saw some cars.  had 2 956's (one le mans trim, other sprint
+trim) and a martini 936.  didn't run though, at least when i was there.
+drat!!!  i was hoping otis chandler would bring his gulf 917, but oh well.
+
+some guy had a rsr on the track.  but he couldn't open it up cause it was too
+loud.  he tried taking some discs out of the supertrapps but still too
+loud.  it ran kinda ruff, but would of been fine a redline.  you know,
+all that carbon build up needs to be rev'ed out once in a while.
+
+but it did sound like a porsche.
+
+the porsche parade is still going on.  but its like road trips and the like.
+
+/marciano
+
+From VitaM6!marciano@uunet.UU.NET  Wed Jun 27 18:49:56 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA12950); Wed, 27 Jun 90 18:49:56 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA25989); Wed, 27 Jun 90 18:52:50 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA04334; Wed, 27 Jun 90 19:53:06 -0400
+Message-Id: <9006272353.AA04334@uunet.uu.net>
+Date: Wed, 27 Jun 90 16:43:17 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: driver's
+
+
+sorry to hear about the parking JZ.  i really kept an eye out.
+i was there on sat, sun, mon.  (mon at laguna seca.)
+
+well about the weekend drivers.  i couldn't even affort one cap for
+a fuch alloy, so a speedster (one i wanted for a mere $67k) is definitely
+out of the question.
+
+let's just call it lust.
+
+BTW, i like those 356's witht the fuch alloys.  they look boss.
+and the disc brakes are neat also.
+
+i guess the guys are keeping the cars stock since it's worth a lot
+more that way.
+
+ok, i'll take a coupe also.  you started to reach to twist my arm.
+
+/marciano
+
+From bowers@elxsi.dfrf.nasa.gov  Thu Jun 28 13:00:38 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA17068); Thu, 28 Jun 90 13:00:38 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA03101); Thu, 28 Jun 90 13:03:39 CDT
+Received: from elxsi.dfrf.nasa.gov by ames.arc.nasa.gov (5.64/1.2); Thu, 28 Jun 90 11:02:25 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA00652; Thu, 28 Jun 90 10:47:43 PDT
+Date: Thu, 28 Jun 90 10:47:43 PDT
+Message-Id: <9006281747.AA00652@elxsi.dfrf.nasa.gov>
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: GM Sunrayce USA solar car race...
+To: porschephiles@bcm.tmc.edu, italian-cars@sol.crd.ge.com
+
+Does anyone out there have access to day by day results of the General Motors
+Sunrayce for solar powered cars that are racing from Daytona, Florida to
+Warren, Michigan beginning on about July 9?  I'd like to keep up on how some
+friends are doing (Cal Poly Pomomna in the Solar Flair).
+ 
+E-mail me at:
+ 
+bowers@elxsi.dfrf.nasa.gov
+ 
+Thanx!
+ 
+Al Bowers
+
+From welty@lewis.crd.ge.com  Thu Jun 28 15:57:17 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA17676); Thu, 28 Jun 90 15:57:17 CDT
+Received: from CRDGW1.GE.COM by bcm.tmc.edu (AA05669); Thu, 28 Jun 90 16:00:16 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA14968; Thu, 28 Jun 90 17:00:14 EDT
+Date: Thu, 28 Jun 90 17:03 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: new Bosch FI book from Bentley
+To: porschephiles@bcm.tmc.edu
+Supersedes: <19900628205304.1.WELTY@lewis.crd.ge.com>,
+            <19900628210224.3.WELTY@lewis.crd.ge.com>
+Comments: Retransmission of failed mail.
+Message-Id: <19900628210325.4.WELTY@lewis.crd.ge.com>
+
+i just sent a version of this to rec.autos.*; i thought some
+of the mailing list readers might want to know about this book
+as well:
+
+i just aquired a copy of the new Bentley book on Bosch FI systems;
+it's extremely well done, and covers all systems from D-Jetronic
+through the current L*-Jetronic and Motronic systems in nice detail.
+the format is tutorial; it forms a nice supplement to the manufacturer's
+manuals, which are strictly reference books.  it is much, much better
+than the rather generic Haynes FI book, which is shorter and tries to
+cover misc. american fool injection systems as well.  it also explains
+the relationship between standard Bosch FI systems and some of the Bosch
+knockoffs, such as some of the current VW systems and the current Lucas
+EFI system.
+
+well worth the $30US the book costs.
+
+richard
+
+From bowers@elxsi.dfrf.nasa.gov  Fri Jun 29 11:26:35 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA20546); Fri, 29 Jun 90 11:26:35 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA12435); Fri, 29 Jun 90 11:29:35 CDT
+Received: from elxsi.dfrf.nasa.gov by ames.arc.nasa.gov (5.64/1.2); Fri, 29 Jun 90 09:29:53 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA01297; Fri, 29 Jun 90 07:22:51 PDT
+Date: Fri, 29 Jun 90 07:22:51 PDT
+Message-Id: <9006291422.AA01297@elxsi.dfrf.nasa.gov>
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: GM Sunrayce USA solar car race...
+To: porschephiles@bcm.tmc.edu
+
+Does anyone out there have access to day by day results of the General Motors
+Sunrayce for solar powered cars that are racing from Daytona, Florida to
+Warren, Michigan beginning on about July 9?  I'd like to keep up on how some
+friends are doing (Cal Poly Pomomna in the Solar Flair).
+ 
+E-mail me at:
+ 
+bowers@elxsi.dfrf.nasa.gov
+ 
+Thanx!
+ 
+Al Bowers
+

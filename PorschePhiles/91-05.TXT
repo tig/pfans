@@ -1,0 +1,3703 @@
+From porschephiles-request@karazm.math.uh.edu  Thu May  2 04:25:24 1991
+Received: by karazm.math.uh.edu id <AA01554@karazm.math.uh.edu>; Thu, 2 May 91 04:25:24 CDT
+Received: from  visual2.tamu.edu  (VISUAL2.TAMU.EDU) by karazm.math.uh.edu id <AA01545@karazm.math.uh.edu>; Thu, 2 May 91 04:24:40 CDT
+Received: by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA03441; Thu, 2 May 91 04:20:19 GMT-0700
+Date: Thu, 2 May 91 04:20:19 GMT-0700
+From: james@visual2.tamu.edu (James Bennett Saxon)
+Message-Id: <9105021120.AA03441@ visual2.tamu.edu >
+Received: by NeXT Mailer (1.62)
+To: porsche@visual2.tamu.edu
+Subject: 944 problems
+
+
+Somebody posted questions about 944's weak spots.  I figured I'll  
+through up what I know about my 84 944 in shorthand since I haven't  
+seen anything posted:
+
+CAM-BELT!!!!  Change every 30k.  If it goes out you are looking at a  
+valve job and lots of wasted $$$  approx $300 for the job.
+
+Motor Mounts.  Even the turbo mount for the right side doesn't stand  
+the engine vibration for very long.
+
+Water pump and cooling system.  There was an upgrade to improve the  
+situation including going from 3 to 6 blade cooling fans to make them  
+quieter.
+
+Fuel Hose.  PCNA (?) recall.
+
+Window Regulator (usu. drivers side), must keep well mounted and  
+lubricated otherwise a new part runs $275.
+
+There's probably more but these are definitly commonalities for my  
+year.  
+
+
+Enjoy.
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Sun May  5 01:35:49 1991
+Received: by karazm.math.uh.edu id <AA19693@karazm.math.uh.edu>; Sun, 5 May 91 01:35:50 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA19688@karazm.math.uh.edu>; Sun, 5 May 91 01:33:37 CDT
+Received: from SUNED.ZOO.CS.YALE.EDU (ZOO-GW.CS.YALE.EDU) by bcm.tmc.edu (AA06191); Sun, 5 May 91 01:32:44 CDT
+Received: by SUNED.ZOO.CS.YALE.EDU; Sun, 5 May 91 02:32:37 EDT
+Date: Sun, 5 May 91 02:32:37 EDT
+From: Games Group User <games@cs.yale.edu>
+Message-Id: <9105050632.AA15962@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (hippo) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Sun May  5 02:32:34
+To: porschephiles@bcm.tmc.edu
+Subject: Doing my own brake pad replacement and bleeding...
+
+Due to a big hole in my finances I will not be able to get my car
+pads replaced by the dealer. I have set myself the task of learning
+how to put in my new Ferodo pads and bleed the brakes... I have
+an issue of UpFixin Der Porsche (the latest one) which tells you a little
+about how to do it. I was wondering if there's any special tools I'd need
+or if it is really simple and that I should just go for it full speed
+ahead. I can't afford to make any mistakes, though, because the event is
+on the 9th...
+
+Thanks for any advice... Oh yeah, the car is an 1988 944 Turbo S... And
+the pads were ground by the guy from whom I bought them so they'll fit.
+
+Doug
+
+
+From porschephiles-request@karazm.math.uh.edu  Sun May  5 02:25:49 1991
+Received: by karazm.math.uh.edu id <AA19724@karazm.math.uh.edu>; Sun, 5 May 91 02:25:50 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA19719@karazm.math.uh.edu>; Sun, 5 May 91 02:22:29 CDT
+Received: from SUNED.ZOO.CS.YALE.EDU (ZOO-GW.CS.YALE.EDU) by bcm.tmc.edu (AA06363); Sun, 5 May 91 02:21:36 CDT
+Received: by SUNED.ZOO.CS.YALE.EDU; Sun, 5 May 91 03:21:32 EDT
+From: Doug Fields <fields-doug@cs.yale.edu>
+Message-Id: <9105050721.AA16247@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (hippo) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Sun May  5 03:21:29
+To: porschephiles@bcm.tmc.edu
+Subject: Doing my own brake stuff...
+Date: Sun, 05 May 91 03:21:23 -0400
+
+
+Like an idiot I sent my mail while I was doing some Yale
+filesystem maintence under another account... Sorry for
+the repost! Please reply to this one, not to the "games"
+one!!! Thanks!!!
+
+Doug
+
+------- Forwarded Message
+
+Due to a big hole in my finances I will not be able to get my car
+pads replaced by the dealer. I have set myself the task of learning
+how to put in my new Ferodo pads and bleed the brakes... I have
+an issue of UpFixin Der Porsche (the latest one) which tells you a little
+about how to do it. I was wondering if there's any special tools I'd need
+or if it is really simple and that I should just go for it full speed
+ahead. I can't afford to make any mistakes, though, because the event is
+on the 9th...
+
+Thanks for any advice... Oh yeah, the car is an 1988 944 Turbo S... And
+the pads were ground by the guy from whom I bought them so they'll fit.
+
+Doug
+
+------- End of Forwarded Message
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 10:05:55 1991
+Received: by karazm.math.uh.edu id <AA03596@karazm.math.uh.edu>; Mon, 6 May 91 10:05:56 CDT
+Received: from hpfcla.fc.hp.com by karazm.math.uh.edu id <AA03564@karazm.math.uh.edu>; Mon, 6 May 91 10:03:28 CDT
+Received: from hpteget.fc.hp.com by hpfcla.fc.hp.com with SMTP
+	(15.11.1.6/15.5+IOS 3.20) id AA06181; Mon, 6 May 91 08:58:56 -0600
+Received: by hpfcpe.HP.COM; Mon, 6 May 91 09:00:50 mdt
+From: Mick Tegethoff <mick@hpfcpe.fc.hp.com>
+Message-Id: <9105061500.AA19891@hpfcpe.HP.COM>
+Subject: 912 Brakes
+To: porschephiles@karazm.math.uh.edu
+Date: Mon, 6 May 91 9:00:44 MDT
+Mailer: Elm [revision: 64.9]
+
+        Hi there,
+
+        My '67 912 sounds like it needs brake work. 
+        The rear wheels make a scratching noise towards the end
+        of braking, more pronounced when it is cold.
+
+        I wonder if I could get some advice from the experts in what 
+        I'm getting into trying to do brake work myself. (I'm a first 
+        timer on brakes)
+
+        I will probably replace the front struts at the same time.
+
+        Thanks in advance,
+
+        Mick Tegethoff
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 12:15:56 1991
+Received: by karazm.math.uh.edu id <AA04572@karazm.math.uh.edu>; Mon, 6 May 91 12:15:56 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA04567@karazm.math.uh.edu>; Mon, 6 May 91 12:15:47 CDT
+Date: Mon, 6 May 91 13:12:42 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA12561; Mon, 6 May 91 13:12:42 EDT
+Message-Id: <9105061712.AA12561@sirius.cs.rpi.edu>
+To: mick@hpfcpe.fc.hp.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mick Tegethoff's message of Mon, 6 May 91 9:00:44 MDT <9105061500.AA19891@hpfcpe.HP.COM>
+Subject: 912 Brakes
+
+
+The brakes are probably the easiest thing to work on.  
+
+You don't *need* to bleed the brakes to change thepads, but you
+*should*.
+
+Any repair manual will outline the procedure.  Once you do it you'll
+wonder how you ever paid 100 bucks for someone else to do it.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 13:15:56 1991
+Received: by karazm.math.uh.edu id <AA04736@karazm.math.uh.edu>; Mon, 6 May 91 13:15:56 CDT
+Received: from rice.edu by karazm.math.uh.edu id <AA04730@karazm.math.uh.edu>; Mon, 6 May 91 13:14:57 CDT
+Received: from enceladus.rice.edu by rice.edu (AA25437); Mon, 6 May 91 13:13:34 CDT
+Received: by enceladus.rice.edu (AA00236); Mon, 6 May 91 13:14:02 CDT
+Date: Mon, 6 May 91 13:14:02 CDT
+From: cork@rice.edu (Corky Cartwright)
+Message-Id: <9105061814.AA00236@enceladus.rice.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Recommendations on dealer service near Palo Alto
+
+
+I need to have work done on the transmission/clutch of my 89 951S.  It should
+be covered under the factory warranty (which expires in 3 weeks).  I live
+in Houston, Texas so I know nothing about the quality of dealer service in
+the vicinity of Palo Alto, CA where I am working this month.  Is Carlsen
+Porsche-Audi in Palo Alto a good choice?
+
+I am also interested in knowing whatexperience other 951 owners have
+had with transmission/clutch problems.  My car behaves as if the clutch will notdisengage.  I can shift gears normally as long as the engine is not running,
+but it is extremely difficult to shift gears when the engine is running.  I
+cannot engage first gear at all.  The problem suddenly arose yesterday on
+my way from Tucson, Arizona to Palo Alto.  During the four months that I have
+owned the car, I have occasionally had problems with gear clatter on shifts
+from first to second.  But the problem was so infrequent that the dealer could
+not detect anything wrong with the transmission or clutch when I took the car
+in to have it checked.  I attributed the problem to sloppiness in
+my shifting technique but it now appears that it was the forerunner of a
+more serious problem with my transmission or clutch.  Comments?
+
+My account at Xerox Palo Alto Research Center is not yet set up to receive
+mail, so please address any responses to the address on theeeeeeeeeee``From'' line (Alan Demers).  Any help that you can provide will be greatly
+appreciated.
+
+Corky Cartwright
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 18:15:58 1991
+Received: by karazm.math.uh.edu id <AA09081@karazm.math.uh.edu>; Mon, 6 May 91 18:15:59 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA09005@karazm.math.uh.edu>; Mon, 6 May 91 18:12:21 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA24183; Mon, 6 May 91 16:11:26 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105062311.AA24183@jessica.stanford.edu>
+Subject: turning rotors - how much $ ?
+To: porschephiles@karazm.math.uh.edu
+Date: Mon, 6 May 91 16:11:25 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+I pulled the rotors off my '74 914 2.0 this weekend and they are
+pretty groovy (a lot of stuff from the early 70's is pretty groovy,
+but I mean something different here).
+
+So, I called Garretson's about having them ground, and they said it
+costs $48 per disc.  Is this reasonable?  From a place like
+'Mid-Engine Mania' I can get new discs for about $30-40 apiece.
+Automotion has them for only a few dollars more.
+
+I called an auto machine shop, (RPM) but they don't do rotors.
+
+What's the deal?  Are MEM's discs probably crap?  Is there an
+advantage to reground used discs over new ones?  Who else can I call
+to get grinding prices (if not an automotive machine shop)?
+
+Also, what are the best pads to use for the street?  Safety and
+cost are more important to me than longevity (of the pads).
+
+Thanks a bunch,
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  AIR Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 18:35:58 1991
+Received: by karazm.math.uh.edu id <AA09122@karazm.math.uh.edu>; Mon, 6 May 91 18:35:59 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA09098@karazm.math.uh.edu>; Mon, 6 May 91 18:27:46 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA20235); Mon, 6 May 91 18:26:43 CDT
+Received: by ames.arc.nasa.gov (5.64/1.2); Mon, 6 May 91 16:26:40 -0700
+Received: from io. by unet.net.com (4.1/UNET-1.1)
+	id AA29480; Mon, 6 May 91 15:50:05 PDT
+Received: by io. (4.0/SMI-4.0)
+	id AA04743; Mon, 6 May 91 15:51:06 PDT
+From: marktom@io.net.com (Mark Tom)
+Message-Id: <9105062251.AA04743@io.>
+To: porschephiles@bcm.tmc.edu
+Subject: topless 928 recommendation
+Date: Mon, 06 May 91 15:51:04 -0700
+
+
+Does anyone have a recommendations/experiences/opinions on the
+conversion of a 928 to a convertible?
+
+In addition to workmanship and looks, I am primarily interested
+in maintaining the structural integrity and handling the car.
+
+I heard of a company called ZMC(?), located in southern California -
+Has anyone dealt with them before?
+
+Thanks!
+
+Mark Tom
+Network Equipment Technologies
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 23:05:59 1991
+Received: by karazm.math.uh.edu id <AA09995@karazm.math.uh.edu>; Mon, 6 May 91 23:05:59 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA09957@karazm.math.uh.edu>; Mon, 6 May 91 22:56:38 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae13231;
+          6 May 91 23:43 EDT
+Date: Tue, 7 May 91 03:48 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Robert Merithew <merithew@jessica.stanford.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: turning rotors - how much $ ?
+Message-Id: <32910507034823/0004056890NB1EM@mcimail.com>
+
+Regarding groovy rotors, there is, to my understanding, good groovy and there is
+bad groovy.  Somewhere I have a drawing showing the difference, perhaps in a
+tech bulletin...  If you have good groovy, there is nothing wrong with the rotor
+and you need on replace them when their width falls below the minimal
+acceptable.  They have to have both structural strength and the ability to
+dissipate heat.
+
+I have always been told that one does not mill down Porsche rotors.  I don't
+know why this is.  Probably because it is not something which should be
+necessary, and if it is, you have some other problem which first needs
+correcting.
+
+My old Performance Products catalog lists front 914 rotors and about $43, rears
+at about $53.  Dunno if they're OEM.  At this marginal price difference, and
+given that you are going to spend some time swapping them, I would go with new
+parts rather than milling the old.
+
+Hope this helps...
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Mon May  6 23:15:58 1991
+Received: by karazm.math.uh.edu id <AA10017@karazm.math.uh.edu>; Mon, 6 May 91 23:15:59 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA10003@karazm.math.uh.edu>; Mon, 6 May 91 23:08:19 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa13530; 7 May 91 0:03 EDT
+Date: Tue, 7 May 91 03:49 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Mick Tegethoff <mick@hpfcpe.fc.hp.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 912 Brakes (long)
+Message-Id: <95910507034959/0004056890NB1EM@mcimail.com>
+
+Mick and Doug -
+
+My first inclination was to tell you to go get someone to show you how to do it,
+rather than pass along the following instructions.  Well, it is still my first
+inclination.  You can screw up just about anything else on your car without
+placing yourself and those around you at risk, but brakes are a different story.
+See whether your local PCA is having a tech session, and if so, join them. 
+Being shown how the first time is important.
+
+Then I figured you'd probably just go out and buy the Haynes manual anyways.  So
+what follows are the instructions I handed out last year at a 944-series tech
+session I ran.  They were meant to serve as class notes, and not as a
+comprehensive stand-alone script.  They are more or less portable to any car,
+except that they don't describe, obviously, other cars' peculiarities.  Gary
+Edwards wrote an article in this month's Northeast Region newsletter on the
+914's rear calipers, and I would be happy to forward a photocopy to anyone given
+a USPS address.
+
+Please be careful, get a friend to teach you, and don't sue me.
+______________________________________________________________________________
+
+                 944 Brake Fluid and Pad Change
+
+
+1.  Tools
+
+
+The following tools are necessary:
+
+   torque wrench
+   1/2" or 3/8" extensions
+   19 mm deep or soft socket for lug nuts
+   heavy duty ("linesman") pliers
+   needle nose pliers
+   large flat-blade screwdriver
+   metric "ignition wrenches" - 7, 8, and 10 mm
+   clear vinyl hose, about 2' (pet store, for aquarium)
+   catch bottle (empty, screw-top soda bottle)
+   turkey baster
+   jack stands
+   wheel blocks
+   work light
+
+You'll find the following useful:
+
+   breaker bar
+   vice grips
+   punch
+   hammer
+   piston compressor tool
+   hydraulic floor jack (Sears)
+   leather or rubber work gloves
+   drop cloth or dolly
+
+
+2.  Supplies
+
+
+You'll also need some consumable items:
+
+   brake pads
+   brake fluid (Imparts, local shop)
+   wear sensors (if worn out)
+   anti-seize
+   alcohol
+   paper towels, rags
+   hand cleaner
+
+
+3.  Religion
+
+
+There are two consumables of interest: brake fluid and brake
+pads.  What kinds should you use?
+The original Porsche pads are a really great choice for most
+people.  They are available in an asbestos-containing
+compound and the newer asbestos-free compound.  The one
+disadvantage of all asbestos-free pads is that they tend to
+squeal.
+
+If you drive a 944 Turbo or 944 Turbo S, and are advancing
+in track skills, you may want to try using Ferodo DS-11
+pads.  They are a harder compound and stand up better to the
+extreme use pads get on a track.  They are not suitable on
+the street, nor are they useful for autocrossing.  The DS-11
+compound needs to heat up before it becomes useful.  Ferodo
+does not make DS-11's to fit 944 or 944S cars.
+
+Same basic ideas for brake fluid.  Castrol GT LMA is a fine
+fluid for most applications.  It's cheap, it works, and its
+readily available.  If you drive on the track and have
+problems with pedal fade, it may be due to boiling of your
+brake fluid.  In that case, consider using a fluid with a
+higher dry boiling temperature, such as Wilwood, ATE, and so
+forth.
+
+Do not use silicon brake fluid in your car.  Walk quickly
+away from anyone who suggests otherwise.
+
+The other important piece of religion is this:  You will
+always use jack stands and blocks before sticking yourself
+under a car.  Bears repeating...
+
+
+4.  Changing brake pads
+
+
+I'll describe the process for a single wheel.
+
+ 1.  Block the wheels, jack the car, support it with jack
+     stands, and remove the wheel.  Use a "soft socket" if
+     possible, to avoid marring the lug nuts.  Otherwise,
+     use a 19 mm deep socket.
+
+ 2.  Open the hood.  Clean around the cap on the brake fluid
+     reservoir.  Remove the cap, then remove the basket.
+     Pour the brake fluid from the basket into the catch
+     bottle, being careful not to get any on painted
+     surfaces.  Clean the basket, wrap it and the cap in a
+     paper towel, and set aside.
+
+ 3.  The caliper on a 944/944S is different in design to
+     that on a 944 Turbo/944 Turbo S, as is the way pads are
+     removed.
+
+      3a. On a 944/944S, remove the spring lock or hairpin
+          cotters on the retaining pins.
+          Tap out the retaining pins with a hammer and
+          punch, from the inside of the caliper.  Once their
+          loose, or if you haven't a punch, grab their heads
+          from the outside with lineman pliers, pull them
+          out, and set them aside
+
+          Catch the flat spring and set it aside as well.
+
+      3b. On a 944 Turbo/S, compress the spring lock with
+          linesman pliers and move it out of the way.
+
+ 4.  Remove the wear sensor carefully.  Be sure not to lose
+     the leaf spring.
+
+ 5.  Remove the pads.  This generally requires a bid of
+     creativity.  Remove the inner bad first, grabbing one
+     of its "ears" with pliers and wiggling while pulling.
+
+     Then remove the outer pad.  With the 944/944S' floating
+     caliper, this requires yanking the caliper assembly
+     out, so that the caliper's tongue no longer locks the
+     pad in via its slot.
+
+ 6.  Clean the piston bearing surfaces.  Pour rubbing
+     alcohol on a towel and wipe the piston.  Make sure the
+     piston is correctly positioned.
+
+ 7.  Push back the piston(s) to make room for the new pads.
+     While you do this, watch the reservoir to keep it from
+     overflowing.  Use the turkey baster to draw off excess
+     fluid.
+
+     Use either a large flat-blade screwdriver or a special
+     purpose tool to push back the piston(s).  Avoid scoring
+     or damaging the piston.
+
+ 8.  Coat bearing surfaces of the new brake pads with a
+     smear of anti-seize.  Insert the pads in the order
+     reverse of which they were removed: first the outer,
+     then the inner pad.  The fit is tight, and you may need
+     to press back the piston(s) a bit more.
+
+ 9.  Put the wear sensor back in the inner pad.  Replace it
+     with a new one if it has worn and turned on.  The inner
+     pads wear faster, which is why they get the sensor.
+
+ 10. Replace the hardware removed in step 3.  If any parts
+     worn or damaged, a new hardware kit can be bought.  On
+     944/944S', smear a coat of anti-seize on the retaining
+     pins.
+
+ 11. Check the condition of the suspension, electrical, and
+     hydraulic parts in the wheel well.  Look for cracking
+     or swelling of the brake lines.
+     Check for any looseness in the suspension parts.  Grab
+     the tie rod and wiggle it.
+
+ 12. Put the wheel back on, torquing lightly each nut to
+     centre the wheel.  Then torque all five lug nuts to
+     96 ftlb in a star pattern.  Put the car back on the
+     ground.
+
+ 13. When all wheels' pads have been replaced, top off the
+     brake fluid reservoir to the "Max" mark, replace the
+     basket and cap, and wipe up any spilled fluid.
+
+ 14. Very important:  Start your motor with the hand brake
+     applied.  Pump the brake pedal several times, until it
+     becomes firm.  You have pushed the pistons back, and
+     they need a pump or two to get them back to their
+     operating point.
+
+The new pads you have are "green."  During the first couple
+of hundred miles, they will provide slightly less braking
+force than broken-in pads.  Drive accordingly!  If you put
+on new pads before going onto the track, expect an even more
+noticible loss of braking - "green fade."
+
+What is happening is that chemicals used in formulating the
+pad compound boil out of the pad.  They form a microscopic
+liquid film on the pad surface.
+
+
+5.  Bleeding and changing brake fluid
+
+
+Brake fluid should be changed once a year.  And you should
+bleed the brake before each trip to the track.
+
+Changing the fluid means a complete flush of the system.
+Bleeding removes less fluid, concentrating instead on
+ridding the system of broken-down fluid and air bubbles from
+the calipers.
+
+Bleed one wheel's caliper at a time, doing them in order of
+decreasing brake line length.  This means:
+
+     1. rear right,
+     2. rear left,
+     3. front right,
+     4. front left.
+
+You don't have to remove the wheels or jack the car to bleed
+its brakes.  You may, however, find it easier to do the
+fronts if it's jacked.
+
+Bleeding fluid is a two-person job.
+ 1.  Open the hood.  Clean around the cap on the brake fluid
+     reservoir.  Remove the cap, then remove the basket.
+     Pour the brake fluid from the basket into the catch
+     bottle, being careful not to get any on painted
+     surfaces.  Clean the basket, wrap it and the cap in a
+     paper towel, and set aside.
+
+ 2.  Go to the first wheel caliper you plan to bleed.  Take
+     tools, paper towels, and the work light.
+
+ 3.  Remove the dust boot from its bleed valve.  On 944
+     Turbo's, each caliper has two valves, and you have to
+     bleed each valve separately.
+
+ 4.  Place the correct ignition wrench over the valve.  Push
+     the vinyl hose over the valve, capturing the wrench.
+     Put the other end of the hose into your catch bottle.
+
+ 5.  Get your accomplice (#2) into the driver's seat, with
+     his/her foot on the brake.  His/her job is going to be
+     pumping the pedal, to force fresh fluid from the
+     reservoir to the caliper.
+
+ 6.  Have #2 apply pressure to the pedal.  #1 cracks the
+     valve on the caliper, opens its, and lets fluid drain
+     into the catch bottle.  When #2's foot has pushed the
+     pedal to the floor, s/he signal's #1, who then closes
+     the valve lightly.
+
+     #2 should not release the brake pedal until #1 has
+     closed the valve.  Otherwise, the rising pedal will
+     suck air back into the caliper.
+
+ 7.  The two of you now need to establish a co-ordinated
+     rhythm.  Something like:
+
+        #1 (in driver's seat)           #2 (at caliper)
+
+        applies pedal pressure,
+        says: "Pressure!"
+                                        opens valve,
+                                        says: "Open!"
+        pushes pedal to floor,
+        then says: "Floor!"
+                                        closes valve,
+                                        then says "Closed!"
+        releases pedal,
+        says: "Releasing...Up!"
+
+     You need to repeat this cycle a number of times.  If
+     you're just bleeding, anywhere from four to ten pumps
+     may be necessary to remove dirty-looking fluid and air
+     bubbles.  Look through the vinyl hose, watching the
+     quality of the fluid coming out the valve.
+     If you're changing the fluid, the number of pumps
+     needed depends on the line length.  Look for fresh,
+     clean fluid coming down the hose.
+
+ 8.  In all cases, watch your fluid level in the reservoir.
+     Do not let it fall more than half-way down!  If the
+     reservoir runs dry, you will suck air into the lines
+     and have to start all over.  Watching the reservoir and
+     keeping it filled is a good job for a third person.
+
+ 9.  When you're done with a valve, close it snuggly (4 Nm),
+     remove the hose and wrench, and replace the dust boot.
+     Wipe up any fluid which has dripped.
+
+ 10. And when you're done all 'round, check the pedal feel.
+     If you have any doubt about the work you've done, don't
+     drive the car.  Get help!
+
+ 11. Top off the brake fluid reservoir to the "Max" mark,
+     replace the basket and cap, and wipe up any spilled
+     fluid.
+
+Brake fluid is toxic.  Dispose of it using your town's
+hazardous waste program.
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue May  7 03:26:17 1991
+Received: by karazm.math.uh.edu id <AA11763@karazm.math.uh.edu>; Tue, 7 May 91 03:26:32 CDT
+Received: from relay1.UU.NET by karazm.math.uh.edu id <AA11758@karazm.math.uh.edu>; Tue, 7 May 91 03:17:29 CDT
+Received: from photon.UUCP (LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AB15221; Tue, 7 May 91 04:16:33 -0400
+Received: by  photon. (5.51/celerity1.1)
+	id AA02328; Mon, 6 May 91 10:22:56 PDT
+Received: by sulu (5.52/890607.SGI)
+	(for @photon.uucp:porschephiles@karazm.math.uh.edu@uunet) id AA27631; Mon, 6 May 91 10:21:48 PDT
+From: photon!sulu!bvs@uunet.UU.NET (Bruce Shetler)
+Message-Id: <9105061721.AA27631@sulu>
+Subject: zymol endorsement
+To: porschephiles@karazm.math.uh.edu%uunet
+Date: Mon, 6 May 91 10:21:46 PDT
+X-Mailer: ELM [version 2.3 PL10]
+
+
+Hi Porsche Nuts
+
+I am moved to endorse a product.  I have been trying and trying to get
+the paint on my car to look decent.  No matter what, I still could 
+detect a kind of fogginess which I guess was the result of residual 
+oxidation.  This is particularly a problem on dark colors like mine.
+Weekend before last I tried McGuires with good but still not spectacular 
+results.  Before this I have used Karseal products (cleaners and waxes)
+and plain carnuba wax.  Following a short thread on rec.autos (I can
+read but not post) regarding waxes I decided to try this zymol stuff.  
+The stuff is fantastic.  I tried a test on my hood comparing the fresh
+McGuires finish to the zymol half and half and there was an enormous
+difference.  My paint is now deep and clear as it should be.  The
+remainder of the McGuires will grace the Toyota pickup methinks.
+
+I believe one key is the zymol cleaner "HD Cleanse" which I used first
+as recommended.  It gets the paint literally squeaky clean and removes
+any hint of oxidation or grime.  (Mine was in no way what you would
+call oxidized, just kind of "foggy" as I said).  Followed by zymol
+"carbon" for dark colors, I am really pleased by the results.
+
+The bad news is the stuff is truly expensive.  From Beverly Hills
+Motoring Accessories (the nearest place for me) a container of zymol wax
+is 27 odd dollars and a small bottle of hd cleanse is about ten.  I am
+being vague about the sizes since I don't have them here.  However,
+I think the stuff is worth it (belive it or not).  In case you think
+that is bad, they actually sell some stuff called "Destiny" which runs 
+on the order of THREE HUNDRED dollars for a regular wax sized container
+(12 ounces maybe).  I told the mail order clerk they should be selling
+it as a drug not a car care product.  You can get the number of your
+nearest zymol distributor from zymol at (800) 999-5563.  In case there
+is any question, I am in no way associated with zymol products (I'm not
+sure how to pronounce it even, how do you get an umulat on an ascii
+terminal)?
+
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates              San Diego...
+  San Diego, CA   92121                   It's Better Than L.A. 
+  uucp:photon!bvs@{ucsd.edu,uunet}        
+========================================================================
+
+
+From stan  Tue May  7 07:06:00 1991
+Received: by karazm.math.uh.edu id <AA11994@karazm.math.uh.edu>; Tue, 7 May 91 07:06:01 CDT
+Received: by karazm.math.uh.edu id <AA11969@karazm.math.uh.edu>; Tue, 7 May 91 07:04:18 CDT
+Date: Tue, 7 May 91 07:04:18 CDT
+From: Stan Hanks (bcm) <stan>
+To: merithew@jessica.stanford.edu, porschephiles@karazm.math.uh.edu
+Subject: Re:  turning rotors - how much $ ?
+
+914 disks are basicly disposble. They're so thin that there is seldom 
+any percentage in regrinding them (turning them, as it's usually called).
+Replacements should be between $35 and $50 each. Contact places that sell
+VW parts for a quote -- they should have them in stock and they should
+be cheaper than a more conventional Porsche parts dealer....
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Tue May  7 07:16:00 1991
+Received: by karazm.math.uh.edu id <AA12053@karazm.math.uh.edu>; Tue, 7 May 91 07:16:01 CDT
+Received: from brahms.udel.edu by karazm.math.uh.edu id <AA12048@karazm.math.uh.edu>; Tue, 7 May 91 07:13:42 CDT
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA09839; Tue, 7 May 91 08:12:41 -0400
+Message-Id: <9105071212.AA09839@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Tue, 7 May 1991 08:12:40 EDT
+In-Reply-To: Robert Merithew <merithew@jessica.stanford.edu>
+       "turning rotors - how much $ ?" (May  6,  4:11pm)
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: Robert Merithew <merithew@jessica.stanford.edu>,
+        porschephiles@karazm.math.uh.edu
+Subject: Re: turning rotors - how much $ ?
+
+} So, I called Garretson's about having them ground, and they said it
+} costs $48 per disc.  Is this reasonable?  From a place like
+} 'Mid-Engine Mania' I can get new discs for about $30-40 apiece.
+} Automotion has them for only a few dollars more.
+} 
+That's absurd.  Anyone around here charges $5.00 - $7.50 per disc.  Even
+MIDAS!  Any decent auto or muffler type joint should be able to do it.
+Pep boys charges $5.00.
+
+It's NOT a big deal.  They stick the thing in a special macheine, come
+back later, and it's done.  Just make sure they are within wear spec.
+
+My advise is to replace them.   If it is that inexpensive, you are
+better off.
+
+Steve
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Tue May  7 08:46:01 1991
+Received: by karazm.math.uh.edu id <AA12161@karazm.math.uh.edu>; Tue, 7 May 91 08:46:02 CDT
+Received: from uunet.UU.NET by karazm.math.uh.edu id <AA12154@karazm.math.uh.edu>; Tue, 7 May 91 08:38:19 CDT
+Received: from kestrel.ukc.ac.uk by uunet.UU.NET with SMTP 
+	(5.61/UUNET-uucp-primary) id AA02558; Tue, 7 May 91 09:37:23 -0400
+Received: from prl.philips.co.uk by kestrel.Ukc.AC.UK   with UUCP  id aa09881;
+          7 May 91 12:03 BST
+Received: from prsun5h.prl.philips.co.uk by prlhp1.prl.philips.co.uk; Tue, 7 May 91 11:44:29 bst
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Tue, 7 May 91 11:42:31 BST
+Message-Id: <2014.9105071042@prsun5h.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: SSI heat exchangers
+
+Hi Folks
+  can anyone confirm or deny the non-existance of SSI heat exchamgers
+that have the left side totally boxed with an extra, large diameter,
+warm air take-off which suplies warm air to the air intake box ?  I
+have just had new exchangers fitten to my '72 2.4 E and they don't have
+this extra warm air take-off and the left is the same as the right
+(except for the little warm air point at the top of the back part which
+goes to the injection system).  Sorry if these decsriptions are a
+little vague - I could do with being able to draw a couple of pictures !
+
+Anyway when I queried this with the garage where I had the work done,
+he said that SSI don't make such an exchanger.  If that is the case
+then I'm happy (the new exchangers are beautifuly made and look great)
+but if they do make the totally correct original shape then I would
+prefer to fit that.
+
+Thanks for any info
+
+   Richard
+
+ps my silencer (muffler) has a little hole now so I guess I'll have to replace
+that as well - anyone have any opinions on after market one like Bursch etc
+
+colers@prl.philips.co.uk              Mail me for info on the PCGB 2.4 Register
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed May  8 08:46:08 1991
+Received: by karazm.math.uh.edu id <AA23124@karazm.math.uh.edu>; Wed, 8 May 91 08:46:09 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA23119@karazm.math.uh.edu>; Wed, 8 May 91 08:37:27 CDT
+Date: Wed, 8 May 91 09:34:17 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA27146; Wed, 8 May 91 09:34:17 EDT
+Message-Id: <9105081334.AA27146@sirius.cs.rpi.edu>
+To: colers@prl.philips.co.uk
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Richard Cole's message of Tue, 7 May 91 11:42:31 BST <2014.9105071042@prsun5h.prl.philips.co.uk>
+Subject: SSI heat exchangers
+
+
+The Bosch mechanical fuel injection is very dependant on that hose
+from the heat exchanger - don't run it without it.   If you run
+without it you'll be running way rich all the time because the MFI
+will think the engine is still cold.  That hose gives it heated air
+from the heat exchangers and that's how it senses engine temp.
+
+Stoddard sells the left HE in stainless steel, I don't know if it's
+from SSI or not.  Tweeks also sells it in a stainless version, agaim
+don't know if it from SSI.
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Wed May  8 08:56:08 1991
+Received: by karazm.math.uh.edu id <AA23153@karazm.math.uh.edu>; Wed, 8 May 91 08:56:09 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA23140@karazm.math.uh.edu>; Wed, 8 May 91 08:53:14 CDT
+Date: Wed, 8 May 91 09:51:34 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA27225; Wed, 8 May 91 09:51:34 EDT
+Message-Id: <9105081351.AA27225@sirius.cs.rpi.edu>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: "Kevin C. Gross"'s message of Tue, 7 May 91 03:49 GMT <95910507034959/0004056890NB1EM@mcimail.com>
+Subject: 912 Brakes (long)
+
+
+For a 912, the pad changing/bleeding process is slightly different, so
+do get a Haynes or Clymer for exact instructions.
+
+ALso, some notes on Kevins article:
+
+   They are available in an asbestos-containing
+   compound and the *newer* [my emph] asbestos-free compound.  The one
+   disadvantage of all asbestos-free pads is that they tend to
+   squeal.
+
+This means the pads you have on now probably contain asbestos.  Asbestos
+is supposedly highly carcinogenic, and there will be lots of brake
+dust on your wheel, calipers, and pads.  If you are going to clean
+them or not, be cautious not to breath any of that dust in (it won't
+kill you right away, at least).
+
+   you may want to try using Ferodo DS-11 pads.
+
+There are a number of different pads that work well, but keep in mind
+harder pads wear the rotors faster, and (as Kevin said) are only
+useful at the track, they really suck for street driving.
+
+   Do not use silicon brake fluid in your car.  Walk quickly
+   away from anyone who suggests otherwise.
+
+Ditto that.  A number of wanna-bees will tell you silicon is the way
+to go, but it's more trouble than it's worth.
+
+   The other important piece of religion is this:  You will
+   always use jack stands and blocks before sticking yourself
+   under a car.  Bears repeating...
+
+   Brake fluid should be changed once a year.  And you should
+   bleed the brake before each trip to the track.
+
+Amen.
+
+	1. rear right,
+	2. rear left,
+	3. front right,
+	4. front left.
+
+And of course for the few UK subscribers, this is RL,RR,FL,FR
+(seriously).  You start with the wheel farthest from the reservoir.
+
+   Brake fluid is toxic.  Dispose of it using your town's
+   hazardous waste program.
+
+And brake fluid is very good at eating paint.
+
+A final note, if you're going to spend time at the track, don't fill
+your brake fluid to the max line it'l overflow.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Thu May  9 07:36:13 1991
+Received: by karazm.math.uh.edu id <AA04377@karazm.math.uh.edu>; Thu, 9 May 91 07:36:13 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA04372@karazm.math.uh.edu>; Thu, 9 May 91 07:34:31 CDT
+Received: from hila.hut.fi by bcm.tmc.edu (AA16403); Thu, 9 May 91 07:33:27 CDT
+Received: by hila.hut.fi (5.65+/7.0/S-TeKoLa)
+	id AA03609; Thu, 9 May 91 15:33:17 +0300
+Date: Thu, 9 May 91 15:33:17 +0300
+From: Kari Eloranta <kelorant@hila.hut.fi>
+Message-Id: <9105091233.AA03609@hila.hut.fi>
+To: porschephiles@bcm.tmc.edu
+
+Hello fellow porchephiles,
+
+A question for the 944 addicts. What is a sure symptom that your
+waterpump is about to die? I have the Haynes advice already.
+
+The 84 944 cooling system had a small leak some two years a.
+It got fixed with a chemical (Zerex?) into the coolant. Since then
+only tiny leaks until recent 50 kmile belt operation. A bigger
+leak afterwards but no other symptoms. The mechanic that did the
+belts claimed that the waterpump is due. Should I believe him?
+Need to be able to trust my machine since I'm taking it to
+Germany in a about a month. How risky is this in hard driving?
+
+Related to this does anybody know how quick/affordable this is
+to do in Germany? In Helsinki the bill is astronomical (>$1200).
+ 
+Thanks in advance.
+
+Kari 
+
+kelorant@hila.hut.fi
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu May  9 11:46:14 1991
+Received: by karazm.math.uh.edu id <AA05250@karazm.math.uh.edu>; Thu, 9 May 91 11:46:14 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA05230@karazm.math.uh.edu>; Thu, 9 May 91 11:44:41 CDT
+Received: from hyperion.llnl.gov by bcm.tmc.edu (AA19553); Thu, 9 May 91 11:43:39 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA05676; Thu, 9 May 91 09:46:50 PDT
+Date: Thu, 9 May 91 09:46:50 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9105091646.AA05676@hyperion.llnl.gov>
+To: kelorant@hila.hut.fi
+Subject: 944 water pump
+Cc: porschephiles@bcm.tmc.edu
+
+
+>A question for the 944 addicts. What is a sure symptom that your
+>waterpump is about to die? I have the Haynes advice already.
+
+The failure is progressive, so it is hard (and in my opinion unwise)
+to attempt to predict the pump's demise.  My understanding of the
+usual failure mode is that first the shaft seal starts to leak (and
+you will begin to see white-ish coolant residual on the bottom of the
+engine).  Then, the water/coolant mixture gets into the pump bearing.
+Soon the bearing starts to make noise (the "loose drive belt" sound
+the Haynes manual refers to).  This in turn leads to more leaking,
+overheating and the eventual failure of the pump.  The time frame over
+which this process occurs depends on many factors and can vary widely.
+
+>The 84 944 cooling system had a small leak some two years a.
+>It got fixed with a chemical (Zerex?) into the coolant. Since then
+>only tiny leaks until recent 50 kmile belt operation. A bigger
+>leak afterwards but no other symptoms. The mechanic that did the
+>belts claimed that the waterpump is due. Should I believe him?
+
+I'm not sure why you would take your car to someone whose advise you
+don't trust, but this is another issue.  If you cannot get a second
+opinion (us guys on the net can't easily look at your car), only you
+can decide whether to believe him and have the problem repaired or
+ignore him and run the risk that he was right.  If the pump has been
+leaking this long (assuming it is the pump and not a hose somewhere),
+I would definitely replace it.  Things will only get worse, and you
+run the risk of getting slippery coolant on your new belts.
+
+I have no idea about European prices.  I have noticed that many
+after-market companies in the US have begun to offer rebuilt pumps for
+$150-200 plus your old pump (assuming that it can be rebu ilt, which
+is another small incentive for not waiting too long).  If your
+mechanic is willing to install a rebuilt pump, this might save you
+some money.
+
+Good luck,
+-Milo
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu May  9 18:26:18 1991
+Received: by karazm.math.uh.edu id <AA12490@karazm.math.uh.edu>; Thu, 9 May 91 18:26:19 CDT
+Received: from ucsd.edu by karazm.math.uh.edu id <AA12353@karazm.math.uh.edu>; Thu, 9 May 91 18:22:14 CDT
+Received: from photon.UUCP by ucsd.edu; id AA06633
+	sendmail 5.64/UCSD-2.1-sun via UUCP
+	Thu, 9 May 91 16:10:06 -0700
+Received: by  photon. (5.51/celerity1.1)
+	id AA18530; Thu, 9 May 91 08:51:00 PDT
+Received: by sulu (5.52/890607.SGI)
+	(for @photon.uucp:porschephiles@karazm.math.uh.edu@ucsd) id AA04317; Thu, 9 May 91 08:49:58 PDT
+From: photon!sulu!bvs@UCSD.EDU (Bruce Shetler)
+Message-Id: <9105091549.AA04317@sulu>
+Subject: '80 911 Turn Signals
+To: porschephiles%karazm.math.uh.edu@ucsd.edu (porschephiles)
+Date: Thu, 9 May 91 8:49:56 PDT
+X-Mailer: ELM [version 2.3 PL10]
+
+
+Hi All
+
+If anybody has scoped out the turn signal set-up on an around 1980
+911 they could save me some time and cussing.  My signals failed 
+catastrophically yesterday evening.  Fuses is okey and the emergency
+flashers still work fine.  I suspect a "flasher" or a relay.  Is
+the "flasher" for the emergency flashers the same one as the turn 
+signals use?  The wiring diagram seems to indicate such, however it
+also shows a turn signal relay - has anyone found the location of 
+this little dude?  It seems like a very likely suspect.
+
+Thanks
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates              San Diego...
+  San Diego, CA   92121                   It's Better Than L.A. 
+  uucp:photon!bvs@{ucsd.edu,uunet}        
+========================================================================
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 10 02:09:01 1991
+Received: by karazm.math.uh.edu id <AA04861@karazm.math.uh.edu>; Fri, 10 May 91 02:09:02 CDT
+Received: from uunet.UU.NET by karazm.math.uh.edu id <AA04856@karazm.math.uh.edu>; Fri, 10 May 91 02:08:25 CDT
+Received: from kestrel.ukc.ac.uk by uunet.UU.NET with SMTP 
+	(5.61/UUNET-uucp-primary) id AA18835; Fri, 10 May 91 03:07:24 -0400
+Received: from prl.philips.co.uk by kestrel.Ukc.AC.UK   with UUCP  id aa03634;
+          10 May 91 8:02 BST
+Received: from prsun5h.prl.philips.co.uk by prlhp1.prl.philips.co.uk; Fri, 10 May 91 07:52:19 bst
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Fri, 10 May 91 07:50:20 BST
+Message-Id: <400.9105100650@prsun5h.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: SSI heat exchangers
+
+
+Hi folks,
+  just to follow-up on Christopher Welty's warning, the SSI exchanger does
+have the MFI warm air take off refered to, but doesn't have the one
+that feeds warm air to the engine air box through the flap valve on the
+left side of the engine.  So appart from getting slightly less warm air
+on start-up the actual performance shouldn't suffer.
+
+  Thanks to Christopher for the warning anyway.
+
+        __
+       /__) .  _  /_   _   _  _ /
+      / \  / /_  /  / /_| /  /_/
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 10 02:29:02 1991
+Received: by karazm.math.uh.edu id <AA04935@karazm.math.uh.edu>; Fri, 10 May 91 02:29:03 CDT
+Received: from aixwiz.austin.ibm.com by karazm.math.uh.edu id <AA04908@karazm.math.uh.edu>; Fri, 10 May 91 02:25:02 CDT
+Received: by aixwiz.austin.ibm.com (AIX  2.1.2/4.03)
+          id AA05504; Fri, 10 May 91 02:18:16 
+Date: Fri, 10 May 91 02:18:16 
+From: pedz@aixwiz.austin.ibm.com (Perry Smith)
+Message-Id: <9105101418.AA05504@aixwiz.austin.ibm.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: reply to clutch/transmission problems
+
+This is reply to they guy that was asking about a clutch what would not
+disengage.  Turns out I just had the same problem.  The springs in
+the clutch blew apart and had to be replaced.  Because its a turbo,
+the hours of labor goes from 9 to about 14.  I saw the spec book myself
+as the guy was giving me the bad news.  The total hit to me was $1200.
+
+The symptoms match up exactly though.  It came on suddently and the
+clutch would disengage to about a 40% slip.  I basically just put it
+in 4'th, started the engine, and hobbled over to the shop.
+
+pedz
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 10 20:55:18 1991
+Received: by karazm.math.uh.edu id <AA06070@karazm.math.uh.edu>; Fri, 10 May 91 20:55:18 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA06049@karazm.math.uh.edu>; Fri, 10 May 91 20:50:20 CDT
+Received: from NRI.Reston.VA.US by bcm.tmc.edu (AA05568); Fri, 10 May 91 20:49:22 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac20207;
+          10 May 91 21:44 EDT
+Date: Sat, 11 May 91 01:48 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Milo Dorr <dorr@hyperion.llnl.gov>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: kelorant <kelorant@hila.hut.fi>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: 944 water pump
+Message-Id: <25910511014852/0004056890NB3EM@mcimail.com>
+
+Re: price of the work.  Milo's rebuild price is right, but then there's the
+labour.  I'm not sure how many hours; your dealer can quote you what Porsche
+allows for the work.  Getting things apart is, I understand, a bit of a chore.  
+If I understand the print-out I got when mine was done, there is 5.5 hours of
+labour.  (Porsche picked up the tab, so I don't know for sure.)
+
+The good news is that your timing and balance shaft belts will get re-tensioned
+when things are put back together, amortizing the cost a bit!  Whoever does the
+work should also check for and replace, if needed, leaking balance shaft or main
+seals.
+
+Good luck!  If it's the pump, get it fixed sooner rather than later.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 13 11:05:34 1991
+Received: by karazm.math.uh.edu id <AA21174@karazm.math.uh.edu>; Mon, 13 May 91 11:05:34 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA21144@karazm.math.uh.edu>; Mon, 13 May 91 10:57:21 CDT
+Date: Mon, 13 May 91 11:55:25 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA05396; Mon, 13 May 91 11:55:25 EDT
+Message-Id: <9105131555.AA05396@sirius.cs.rpi.edu>
+To: photon!sulu!bvs@ucsd.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Bruce Shetler's message of Thu, 9 May 91 8:49:56 PDT <9105091549.AA04317@sulu>
+Subject: '80 911 Turn Signals
+
+
+   X-Mailer: ELM [version 2.3 PL10]
+
+
+   Hi All
+
+   If anybody has scoped out the turn signal set-up on an around 1980
+   911 they could save me some time and cussing.  My signals failed 
+   catastrophically yesterday evening.  Fuses is okey and the emergency
+   flashers still work fine.  I suspect a "flasher" or a relay.  Is
+   the "flasher" for the emergency flashers the same one as the turn 
+   signals use?  The wiring diagram seems to indicate such, however it
+   also shows a turn signal relay - has anyone found the location of 
+   this little dude?  It seems like a very likely suspect.
+
+On the 78 and later cars, there are two flasher relays - one for the
+turn signal and one for the hazards.  I'm pretty sure the turn signal
+one is located behind the oil temp/press gauge.  If you pull out the
+gauge, turn on your hazards, and touch the relay, if you can feel it
+switching (it's mechanical), then that's the one for the hazards.
+They are both the same *type* of relay, so you can swap the suspected
+broken relay with the known working one to be sure that the relay is
+the problem and not the switch on the steering column.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 13 18:05:37 1991
+Received: by karazm.math.uh.edu id <AA27669@karazm.math.uh.edu>; Mon, 13 May 91 18:05:37 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA27658@karazm.math.uh.edu>; Mon, 13 May 91 18:03:01 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA29186; Mon, 13 May 91 16:01:56 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105132301.AA29186@jessica.stanford.edu>
+Subject: 914 brake pad springs & locking plates (?)
+To: porschephiles@karazm.math.uh.edu
+Date: Mon, 13 May 91 16:01:53 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+Summary:  Can I reuse the brake pad retaining springs and caliper
+          mounting bolt locking plates?
+
+I just bought new calipers and pads for my '74 914 2.0 and went to
+install them this weekend.  But Haynes says to replace the brake pad
+retaining springs (flat cross-shaped metal springs) and the caliper
+mounting bolt locking plates (thin plates with tabs to keep the bolts
+from turning).  Dealer has to order them and wants $1.21 (each) for
+the front locking plates and $121.00 (each) for the rears.  The guy at
+Porsche's central pricing place told the dealer, "yeah, it looks like
+a pricing error, but my computer still says $121.00 and that's what
+counts."  So he's trying to find out what's the deal...  Meanwhile,
+I'd like to be driving the car before the weekend...
+
+So, I want to know if others have simply reused the old springs and
+plates and what kind of results they've had.  Do y'all replace the springs
+every time you replace the pads?  Do you replace the plates when you
+remove the rotors?  Have you paid >$5 for the plates?
+
+I'm getting sick of this.  I spent several days and $265 getting the
+rotors, pads, inner & outer wheel bearings and grease seals, and now
+even the dealer can't get me the rest of the disposable parts!
+
+Does somebody make a kit with this stuff in it?  Like a '914 brake
+hardware kit'?  What do *you* do when you do brake work on *your* 914?
+
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  AIR Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 13 18:35:37 1991
+Received: by karazm.math.uh.edu id <AA28074@karazm.math.uh.edu>; Mon, 13 May 91 18:35:38 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA27926@karazm.math.uh.edu>; Mon, 13 May 91 18:25:42 CDT
+Received: from socrates.ee.rochester.edu 
+	by valhalla.ee.rochester.edu (4.1/cf1.40ee) 
+	id AA03509; Mon, 13 May 91 19:24:32 EDT
+From: Mark Sirota  <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA14304; Mon, 13 May 91 19:24:30 EDT
+Date: Mon, 13 May 91 19:24:30 EDT
+Message-Id: <9105132324.AA14304@socrates.ee.rochester.edu>
+In-Reply-To: Robert Merithew <merithew@jessica.stanford.edu>
+       "914 brake pad springs & locking plates (?)" (May 13,  4:01pm)
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: 914 rear brake calipers
+
+On May 13,  4:01pm, Robert Merithew writes:
+> What do *you* do when you do brake work on *your* 914?
+
+I curse a lot.
+
+You all may recall my brake woes of a few weeks ago, when I couldn't retract
+the inner pistons on my '73 2.0 rear calipers.  The problem turned out to be
+that the retracting screw (the one under the dust cap on the inside, the
+side next to the trailing arm) is simply missing on both rear calipers.
+
+Frank Kerfoot mentioned that he's heard of these things simply falling out.
+I took off a caliper again and took a close look; it appears that it must be
+something that looks vaguely like an allen screw, perhaps an inch long.  It
+may have threads only at the end, and be smooth closer to the head, but I
+don't know since I don't have the piece in question.
+
+I can't really see how it could come out.  It *might* be possible that you
+could just unscrew it out, if the piston was at the end of its travel.  Does
+anyone have a spare caliper they can try this on?  Can this piece just come
+out?
+
+Can anyone recommend a source for these things?  The aftermarket places I'm
+familiar with (Tweeks, Automotion, Performance Products) sell whole
+calipers (for $275), but not just the piece that I'm missing.
+
+Please help!  Thanks.
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 13 21:45:38 1991
+Received: by karazm.math.uh.edu id <AA29841@karazm.math.uh.edu>; Mon, 13 May 91 21:45:38 CDT
+Received: from research.att.com by karazm.math.uh.edu id <AA29836@karazm.math.uh.edu>; Mon, 13 May 91 21:42:15 CDT
+From: anand@research.att.com
+Date: Mon, 13 May 91 22:41:10 EDT
+To: porschephiles@karazm.math.uh.edu
+Subject: 914...
+
+
+	I'm looking for a 914, and am interested in prices in
+California (I plan to move there in a year).  There are some for
+sale here, and I'm wondering if there's any point in buying one
+here (New Jersey...they generally have rust problems), and
+driving it out there.  Prices here start at $1500 for one in
+marginal shape.  Could someone who knows the pricing in the
+San Francisco Bay area give me an idea of what I should expect
+to pay out there?
+
+	Thanks.  
+
+					Anand
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 14 08:06:22 1991
+Received: by karazm.math.uh.edu id <AA02335@karazm.math.uh.edu>; Tue, 14 May 91 08:06:22 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA02326@karazm.math.uh.edu>; Tue, 14 May 91 08:03:03 CDT
+Date: Tue, 14 May 91 09:01:00 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA11677; Tue, 14 May 91 09:01:00 EDT
+Message-Id: <9105141301.AA11677@sirius.cs.rpi.edu>
+To: merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Robert Merithew's message of Mon, 13 May 91 16:01:53 PDT <9105132301.AA29186@jessica.stanford.edu>
+Subject: 914 brake pad springs & locking plates (?)
+
+
+   Summary:  Can I reuse the brake pad retaining springs and caliper
+	     mounting bolt locking plates?
+
+Yes, you can reuse them.  These parts don't take much abuse, so as
+long as they're still in working order you'll be fine.  The locking
+plates sometimes can't be reused because the locking tab has broken
+off is is about to.  If ever your dealer quotes you an outrageous
+price (read: any time you go to the dealer for parts) you should
+always call tweeks or performance products (or automotion, or  ...)
+first.  If they tell you what you want is a dealer only part, call up
+Stoddard for prices, they're a most legitimate business.
+
+Stoddard does sell the stuff you want, but I don't know the price.
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 14 08:05:42 1991
+Received: by karazm.math.uh.edu id <AA02331@karazm.math.uh.edu>; Tue, 14 May 91 08:05:42 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA02323@karazm.math.uh.edu>; Tue, 14 May 91 07:57:16 CDT
+Date: Tue, 14 May 91 08:55:12 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA11634; Tue, 14 May 91 08:55:12 EDT
+Message-Id: <9105141255.AA11634@sirius.cs.rpi.edu>
+To: msirota@ee.rochester.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mark Sirota's message of Mon, 13 May 91 19:24:30 EDT <9105132324.AA14304@socrates.ee.rochester.edu>
+Subject: 914 rear brake calipers
+
+
+Tweeks, Stoddard, and Performance Products all sell "improved design"
+914 caliper plugs. Tweeks has it for 4.25 which is about half what PP and
+Stoddard ask.  The tweeks part number is 1003rcp, though I think the
+PP one may be stainless steel (I don't remember).
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 14 10:45:43 1991
+Received: by karazm.math.uh.edu id <AA02585@karazm.math.uh.edu>; Tue, 14 May 91 10:45:43 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA02559@karazm.math.uh.edu>; Tue, 14 May 91 10:39:15 CDT
+Received: Tue, 14 May 91 08:36:50 PDT by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9105141536.AA21576@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Tue, 14 May 91 08:37:16 PDT
+Date: Tue, 14 May 91 08:37:16 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: 911 air box relief valve installation.
+To: porschephiles@karazm.math.uh.edu
+
+I had an unpleasant experience yesterday.  I am posting it here to help 
+everyone else avoid it.
+
+While replacing the oil light sender in my 1980 911, I decided to also 
+install the air box relief valve.  I had the rear of the engine lowered
+to allow access to the sender unit which is forward (relative to the car)
+of the FI unit.  With the engine lowered in this manner it is easier to 
+get the drill and hole saw in position to cut the installation hole (for
+the relief valve).
+
+The directions that come with the valve contend that all debris from the 
+2" diameter installation hole may be removed with a shop vac, or similar 
+device.
+
+Not true.
+
+There is enough fuel residue in the air box to stick all manner of small chips
+in unreachable locations within the air box.  I suppose that in a brand new 
+air box, the device would install as the manufacturer indicates; with 115k 
+miles, things are different.
+
+The bottom line:  Allow for air box removal when installing the relief valve.
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+p.s.
+
+The good news is that it looks like the engine and transaxle could be removed 
+in well under 2 hours.  I had no idea they would come out that easily.
+
+Also, I don't want to talk anyone out of putting in a relief valve.  By all 
+accounts, they prevent a fairly common, moderately expensive, problem.  What
+happens is that fuel gets into the air box when the car is shut off.  If the 
+car is restarted soon after shutdown, the fuel may explode, destroying the
+air box.
+
+Automotion (and, no doubt, others) carries a stainless steel air box as a 
+replacement.  I believe this box comes with a relief valve installed, and I
+think it is slightly cheaper than the plastic box.
+
+-s.
+
+From stan  Wed May 15 00:15:43 1991
+Received: by karazm.math.uh.edu id <AA08651@karazm.math.uh.edu>; Wed, 15 May 91 00:15:43 CDT
+Received: by karazm.math.uh.edu id <AA08643@karazm.math.uh.edu>; Wed, 15 May 91 00:14:59 CDT
+Date: Wed, 15 May 91 00:14:59 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: anand@research.att.com, porschephiles@karazm.math.uh.edu
+Subject: Re:  914...
+
+Current 914 Owner's Association news has a few CA cars in the <$2k
+range, with most in the $3-5k range. Recognize that these are
+cars owned by people who know something about 914s, and as such are
+probably in better than average shape, at least mechanically.
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 15 10:15:46 1991
+Received: by karazm.math.uh.edu id <AA10325@karazm.math.uh.edu>; Wed, 15 May 91 10:15:46 CDT
+Received: from libra.cs.nps.navy.mil by karazm.math.uh.edu id <AA10290@karazm.math.uh.edu>; Wed, 15 May 91 10:05:42 CDT
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA04026; Wed, 15 May 91 08:03:22 PDT
+Date: Wed, 15 May 91 08:03:22 PDT
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9105151503.AA04026@libra.cs.nps.navy.mil>
+To: Porschephiles@karazm.math.uh.edu
+Subject: Re: 914...
+
+San Jose and Monterey prices for 914's have ranged from $1,000 to over $10,000
+in the last year, with the majority somewhere close to $3,000 +/- $500.
+I looked at one $1,000 car.  It was a 74 2.0 with lots of rust, bondo, 
+and long-time deferred maintenance, and it needed an engine
+rebuild (the heat exchangers appeared to be good, however, and it had alloys).
+Don't assume that because it is a California car, it will be worth
+buying. 
+
+-Dave Erickson
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 15 10:35:45 1991
+Received: by karazm.math.uh.edu id <AA10384@karazm.math.uh.edu>; Wed, 15 May 91 10:35:46 CDT
+Received: from relay.hp.com by karazm.math.uh.edu id <AA10374@karazm.math.uh.edu>; Wed, 15 May 91 10:31:27 CDT
+Received: from hpdmd48.boi.hp.com by relay.hp.com with SMTP
+	(16.5/15.5+IOS 3.13) id AA15286; Wed, 15 May 91 08:30:16 -0700
+Received: from hpbsrl.boi.hp.com by hpdmd48.boi.hp.com with SMTP
+	(15.11/15.5+IOS 3.21+OM) id AA14624; Wed, 15 May 91 09:31:50 mdt
+Received: by hpbsrl.boi.hp.com
+	(15.11/15.5+IOS 3.12) id AA11894; Wed, 15 May 91 09:31:54 mdt
+Date: Wed, 15 May 91 09:31:54 mdt
+From: Bob Pentecost <bpenteco@hpbsrl.boi.hp.com>
+Message-Id: <9105151531.AA11894@hpbsrl.boi.hp.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: 944 overheating
+
+
+Now that warmer weather is arriving (finally), I thought  this would
+be a good time to bring up the question "Does your 944 run as hot as
+mine does?".
+
+I have a very early '83 944 with low mileage (~25K) that has always
+had a tendency to run warm during the summer.  When the outside
+temperature is in the upper 80's or higher and I start running uphill,
+the engine temperature starts to climb.  How high does it go?  The
+highest I let it get is approaching the solid mark on the temperature
+gauge.  Turning off the air conditioning and removing the bra will
+slow the heating rate, but if it's warm enough outside and the hill is
+long and steep enough (and I'm on the gas pretty hard), the
+temperature still rises.
+
+When I come over the top of the hill or, if the top isn't in sight,
+the temperature gets too high and I pull off the road, then the
+temperature goes right back down to normal.
+
+Both fans are operating and they come on when the temperature gets to
+about the halfway mark or when the air conditioning is on.
+
+Any comments on your experiences or suggestions to fix the situation
+would be appreciated.
+
+Bob Pentecost
+bpenteco@hpbsrl.boi.hp.com
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 15 12:55:45 1991
+Received: by karazm.math.uh.edu id <AA11589@karazm.math.uh.edu>; Wed, 15 May 91 12:55:45 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA11570@karazm.math.uh.edu>; Wed, 15 May 91 12:50:42 CDT
+Received: from brahms.udel.edu by bcm.tmc.edu (AA03986); Wed, 15 May 91 12:49:37 CDT
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA17464; Wed, 15 May 91 13:49:36 -0400
+Message-Id: <9105151749.AA17464@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Wed, 15 May 1991 13:49:35 EDT
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Leather shift boot - 944
+
+Are there any sources for leather shift boots OTHER THAN  Alan Gun
+Leather?
+
+Thanks,
+        Steve
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 15 13:35:45 1991
+Received: by karazm.math.uh.edu id <AA11727@karazm.math.uh.edu>; Wed, 15 May 91 13:35:45 CDT
+Received: from  visual2.tamu.edu  (VISUAL2.TAMU.EDU) by karazm.math.uh.edu id <AA11697@karazm.math.uh.edu>; Wed, 15 May 91 13:31:16 CDT
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA03545; Wed, 15 May 91 13:25:34 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA03558; Wed, 15 May 91 13:25:28 PDT
+Date: Wed, 15 May 91 13:25:28 PDT
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <9105152025.AA03558@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: Hot 944
+
+
+Bob,
+
+Right after getting my water pump replaced and both fans working, my  
+car NEVER got above the halfway mark...  It's an '84 944.  At that  
+point it had one three blade fan and one six blade fan, so I could  
+hear the three blade come on and it came on at the first tick mark.   
+Perhaps our gauges are calibrated differently, but I panic if I get  
+to the third tick mark.  I'm STILL running on only one fan here in  
+Texas right now and my gauge has yet to hit the third tick mark  
+except when I sit idling for about three minutes, then the temp  
+starts to rise...  Perhaps you need to check your cooling system.
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 15 23:25:46 1991
+Received: by karazm.math.uh.edu id <AA13986@karazm.math.uh.edu>; Wed, 15 May 91 23:25:46 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA13953@karazm.math.uh.edu>; Wed, 15 May 91 23:22:29 CDT
+Received: from NRI.Reston.VA.US by bcm.tmc.edu (AA13481); Wed, 15 May 91 23:21:25 CDT
+Received: by NRI.NRI.Reston.VA.US id aa20106; 16 May 91 0:18 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac20056;
+          16 May 91 0:13 EDT
+Date: Thu, 16 May 91 04:07 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Steve Timmins <timmins@brahms.udel.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Leather shift boot - 944
+Message-Id: <15910516040751/0004056890NB1EM@mcimail.com>
+
+Yeah, PCNA is a source of leather shift boots.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 06:45:46 1991
+Received: by karazm.math.uh.edu id <AA15103@karazm.math.uh.edu>; Thu, 16 May 91 06:45:47 CDT
+Received: from ultb.isc.rit.edu by karazm.math.uh.edu id <AA15096@karazm.math.uh.edu>; Thu, 16 May 91 06:45:02 CDT
+Received: by ultb.isc.rit.edu (5.57/5.3 (Postmaster DPMSYS))
+	id AA02756; Thu, 16 May 91 07:42:37 -0400
+Date: Thu, 16 May 91 07:42:37 -0400
+From: asd1466@ultb.isc.rit.edu (A.S. Dumas)
+Message-Id: <9105161142.AA02756@ultb.isc.rit.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 951 info
+
+
+Hi All, I have a few questions regarding the 951.
+
+First, what years had the problem with cracking exhaust manifolds?
+Was this covered as a warranty item or as a recall?  If it was a recall,
+can the modifications (to a manifold w/ expansion joints) be made for 
+free (naive, wishfull thinking?!?), outside the warranty period?
+
+I would also like to know the same info for the fuel line (fule rail?)
+problem.
+
+Thanks, Art
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 12:35:47 1991
+Received: by karazm.math.uh.edu id <AA16051@karazm.math.uh.edu>; Thu, 16 May 91 12:35:48 CDT
+Received: from brahms.udel.edu by karazm.math.uh.edu id <AA16046@karazm.math.uh.edu>; Thu, 16 May 91 12:35:33 CDT
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA23970; Thu, 16 May 91 13:34:06 -0400
+Message-Id: <9105161734.AA23970@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Thu, 16 May 1991 13:34:05 EDT
+In-Reply-To: asd1466@ultb.isc.rit.edu (A.S. Dumas)
+       "951 info" (May 16,  7:42am)
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: asd1466@ultb.isc.rit.edu (A.S. Dumas), porschephiles@karazm.math.uh.edu
+Subject: Re: 951 info
+
+  [included note of May 16, A.S. Dumas:]
+} 
+} Hi All, I have a few questions regarding the 951.
+} 
+} First, what years had the problem with cracking exhaust manifolds?
+} Was this covered as a warranty item or as a recall?  If it was a recall,
+} can the modifications (to a manifold w/ expansion joints) be made for 
+} free (naive, wishfull thinking?!?), outside the warranty period?
+} 
+} I would also like to know the same info for the fuel line (fule rail?)
+} problem.
+} 
+} Thanks, Art
+  [end of included note]
+
+86 had the exhaust problems, almost all were fixed under warranty.  The
+ones tah are fixed are easily identifyable by the accordian like section
+of pipe by #1 cylender and a heat-sheilded crossover pipe that is split
+so it need not be removed to do a clutch.
+
+The fuel line's have almost all been fixed too, it was an 86-88 or 89
+problem, and PCNA mailed notices to all 944 owners.  They must have done
+a state by stat registration search, cause I got one and I am second
+owner.
+
+S
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 12:38:01 1991
+Received: by karazm.math.uh.edu id <AA16055@karazm.math.uh.edu>; Thu, 16 May 91 12:38:01 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA16043@karazm.math.uh.edu>; Thu, 16 May 91 12:34:41 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA16888; Thu, 16 May 91 10:33:35 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105161733.AA16888@jessica.stanford.edu>
+Subject: Bad experience at Garretson's in Mt. View, CA
+To: porschephiles@karazm.math.uh.edu
+Date: Thu, 16 May 91 10:33:34 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+I just had a bad experience with Garretson Enterprises in Mountain
+View, and since lots of people recommended them very highly to me
+(even several netters who don't live in Northern CA!), I feel the need
+to relate it to y'all (not to contradict anyone who recommended them
+to me, just to add a bad data point in with the good data points).
+
+I bought German rotors and bearings for my 914 and took them (straight
+out of the box) to Garretson's to have the races pressed in.  They
+charged me for 1/2 hour of labor (at $64 per hour) and did it while I
+waited.  I took the discs home, installed the first one and it turned
+smoothly and beautifully.  I pulled the second one out of the box and
+saw several similar little scratches on the bearing surface of the
+inner race.  They had clearly been made when the mechanic was
+hammering the race into the hub.  I thought "Gee, that's strange.  The
+bearing surface should be really smooth.  But Garretson's is really
+expensive and very experienced, so the (expert) mechanic must know
+that those scratches are too small to matter (or something)."  So I
+installed the second rotor.  When I turned it, it sounded like the
+bearings were bad (scrape scrape scrape...)  Exactly the kind of sound
+you'd expect from little scratches in the race (the scratches were
+deep enough to catch my fingernail!).
+
+This morning I called Garretson's and told them about the scratches.
+"They won't matter," he says.  "But I installed it and they did
+matter," say I.  "OK.  You'd better bring them in and we'll try to get
+to it today."  So I drive out to Garretson's (for the second time)
+before work and show the service manager (or someone) the scratches.
+He says, "The drift we use to press them in looks like this and can't
+make those kinds of scratches if it's used properly."  "Yes, if the
+races are pressed in properly, they won't be damaged.  This one got
+damaged, so someone made a mistake," I reply.  Eventually, he claimed
+that I must have brought in a race that was already banged up.  This
+is absurd!  I gave the races to the mechanic - marks on them would
+have been very noticeable, and mechanics know that pitted races are
+no good!  I *know* they were all fine when I brought them in.
+
+So we argue and argue, and he refuses to do *anything*.  He won't
+remove the damaged race, won't give me a new race, and won't drive a
+new one in.  And he keeps the $64/hr that I already paid him!
+
+So I'm out about $43 ($32 for the labor and $11 for a whole new
+bearing), and I still have to figure out how to get the old race out
+and the new one in.  Now, $43 is not a huge amount of money, but I'm
+really pissed at how the place treated me, especially when I had heard
+that Garretson's was a really professional (though expensive) place
+(this is the place that said they would charge $45 per rotor to turn
+rotors).
+
+Anyway, I remember someone on the list having a connecton to
+Garretson's management (or ownership).  Could that person give me a
+name and/or mailing address so I can send an appropriate letter?  I
+don't expect to get any satisfaction from them, but I would like them
+to hear about the bad service.
+
+Thanks for listening.  I feel much better now...
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  AIR Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 14:05:47 1991
+Received: by karazm.math.uh.edu id <AA16553@karazm.math.uh.edu>; Thu, 16 May 91 14:05:48 CDT
+Received: from Sun.COM by karazm.math.uh.edu id <AA16538@karazm.math.uh.edu>; Thu, 16 May 91 13:59:29 CDT
+Received: from Corp.Sun.COM (jethro.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA24488; Thu, 16 May 91 11:58:20 PDT
+Received: from formula1.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA20000; Thu, 16 May 91 11:58:16 PDT
+Received: by formula1.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA00658; Thu, 16 May 91 11:59:06 PDT
+Date: Thu, 16 May 91 11:59:06 PDT
+From: Stefan.Fielding-Isaacs@Corp.Sun.COM (S. Fielding-Isaacs [Wordsmith - Intercon Eng])
+Message-Id: <9105161859.AA00658@formula1.Corp.Sun.COM>
+To: merithew@jessica.stanford.edu
+Subject: Re:  Bad experience at Garretson's in Mt. View, CA
+Cc: porschephiles@karazm.math.uh.edu
+
+
+ Garretson's generally does pretty poor work on customer
+ cars. They seem to do great work on their race cars.
+ I don't use them anymore.
+
+ The only two shops I think you should consider are:
+
+      Modderman's Porsche 
+      (about two blocks freeway-ward of Garretson's).
+      Formerly run by old man Modderman and now run
+      by his son. Really excellent work, but not cheap.
+      Can't speak to the quality anymore 'cause his son
+      has taken over the shop.
+
+      European Automotive, Evelyn Street, Mountain View
+      Best Porsche shop I know of. I've gone there for
+      the last four years. Owned and operated by Ralph
+      Foglein. He apprenticed to Modderman for a couple
+      of years and learned his trade very well. Meticulous
+      work, imaginative and thorough. No problems in the
+      four years (and I've spent a good 10K in his shop)
+      that weren't resolved rapidly and to my satisfaction.
+      Monday-Thursday, 8am-8pm.
+
+ Other shops with a good rep are Reitmeir's (they race)
+ and Carrera Tech. Both shops race 914s and do very well.
+ Ralph is a 914 enthusiast and has just completely restored
+ his '73 2.0.
+
+ Check them out. Stay away from Garretson's except, possibly
+ for some advice.
+
+ Ralph has re-done a lot of their work.
+
+ Stefan
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 15:25:48 1991
+Received: by karazm.math.uh.edu id <AA17342@karazm.math.uh.edu>; Thu, 16 May 91 15:25:49 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA17285@karazm.math.uh.edu>; Thu, 16 May 91 15:18:23 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA20629; Thu, 16 May 91 13:17:16 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105162017.AA20629@jessica.stanford.edu>
+Subject: Re:  Bad experience at Garretson's in Mt. View, CA
+To: Stefan.Fielding-Isaacs@corp.sun.com (S. Fielding-Isaacs [Wordsmith - Intercon Eng])
+Date: Thu, 16 May 91 13:17:14 PDT
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9105161859.AA00658@formula1.Corp.Sun.COM>; from "S. Fielding-Isaacs [Wordsmith - Intercon Eng]" at May 16, 91 11:59 am
+X-Mailer: ELM [version 2.3 PL8]
+
+S. Fielding-Isaacs [Wordsmith - Intercon Eng] wrote:
+> 
+>  Garretson's generally does pretty poor work on customer
+>  cars. They seem to do great work on their race cars.
+>  I don't use them anymore.
+
+Thanks for letting me know.  I'm glad it's not just me.  Another
+porschephile has already sent me a note saying they botched some work
+on his '79 930 as well.  I'm also glad it only cost me $40 to find
+out, rather than $400 or more!
+
+Thank you very much for your recommendations.  I'll call them and
+check them out.
+ 
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  AIR Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 15:26:56 1991
+Received: by karazm.math.uh.edu id <AA17356@karazm.math.uh.edu>; Thu, 16 May 91 15:26:56 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA17262@karazm.math.uh.edu>; Thu, 16 May 91 15:16:31 CDT
+Date: Thu, 16 May 91 16:14:24 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA29089; Thu, 16 May 91 16:14:24 EDT
+Message-Id: <9105162014.AA29089@sirius.cs.rpi.edu>
+To: merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Robert Merithew's message of Thu, 16 May 91 10:33:34 PDT <9105161733.AA16888@jessica.stanford.edu>
+Subject: Bad experience at Garretson's in Mt. View, CA
+
+
+Garretson's rep comes from the fact that PCA Tech Chairman Bruce
+Anderson used to work there, and from their work with racing cars.
+Bruce no longer works there and has nothing to say about the "new
+management" (though he still teaches courses for them). I got the
+impression from talking with him that he didn't like them, but he
+didn't actually SAY anything. 
+
+Most of us who do our own work have to suffer shops.  It's a tough
+business to make money, especially if you're honest.  Make a mistake
+and you'll probably end up losing money on the job if you admit it.
+Where I used to work it was an unwritten rule that mechanics never make
+mistakes - either we "found something else wrong" or ignore it.  The
+rule was unwritten because if we ever actually told the service mgr.
+we screwed something up, the fix was deducted from our paychecks (I
+did that once...once.  Luckily (for me) it was only a tie rod end).
+That's on real jobs, when a DIYr comes in with the one little thing he
+can't do himself because he needs a lift/press/whatever, the shop
+isn't making more than a few bucks off him, so he's lucky if they
+even do it.  Realistically, it probably does cost them more than what
+they charge you, considering overhead.
+
+What you have to do is:  find a school with a student shop and try to
+get access to it; make friends with a mechanic or shop owner who'll
+let you use the tools you don't have on occasion; find someone in your
+PCA region with access to the tools you need (you'd be surprised).
+For lathes/presses/ other machine shop type equipment, just about
+every High School and college has one, and will probably give you
+access for a few bucks (as long as you follow the safety
+precautions!).  Good Luck.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 16 20:25:50 1991
+Received: by karazm.math.uh.edu id <AA19243@karazm.math.uh.edu>; Thu, 16 May 91 20:25:50 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA19235@karazm.math.uh.edu>; Thu, 16 May 91 20:24:19 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab16992;
+          16 May 91 20:53 EDT
+Date: Fri, 17 May 91 00:48 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Steve Timmins <timmins@brahms.udel.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: "A.S. Dumas" <asd1466@ultb.isc.rit.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 951 info
+Message-Id: <00910517004800/0004056890NB3EM@mcimail.com>
+
+Additions to Steve's info: The fuel rail was replaced in the 944S cars and no
+others that I am aware of.  In fact, mine was done twice.  Apparently PCNA
+wasn't happy with the original replacement part (campaign L01).  I never got a
+second notice, probably because the dealership did it when I happened by one
+day, before PCNA sent the notices.  Question: Does anyone know what was wrong
+with the original part?  My only hypothesis came from noticing that the engine
+ran a bit smoother and the hose at the front end is a bit longer.  Made me think
+that perhaps some "standing pressure wave" in the fuel system was cured.  OK,
+maybe my imagination is a bit wild!
+
+If you are the second owner of a car, PCNA would be happy to know about you. 
+They have a card you can get from a dealership.  Fill it out, send it in, and
+you'll get future notices.
+
+The 951 (944 Turbo) fuel hose replacement is important!  If anyone out there
+hasn't had it done, get it taken care of ASAP.  I was surprised when a new
+colleague at the office told me that he had procrastinated to the point that
+until a week ago it hadn't been done.  Apparently PCNA had started peppering him
+with letters recently, trying to get his attention.  Nice to see that kind of
+care on their part.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 05:15:57 1991
+Received: by karazm.math.uh.edu id <AA21568@karazm.math.uh.edu>; Fri, 17 May 91 05:15:57 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA21563@karazm.math.uh.edu>; Fri, 17 May 91 05:14:18 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA14439 (5.65a/CWI-2.86); Fri, 17 May 91 12:13:06 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.64+/1.34)
+	id AA26781; Fri, 17 May 91 10:52:19 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.20)
+	id AA10817; Fri, 17 May 91 10:35:34 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA07555; Fri, 17 May 91 10:34:28 +0200
+Date: Fri, 17 May 91 10:34:28 +0200
+From: libra!kevinh@relay.EU.net (Kevinh)
+Message-Id: <9105170834.AA07555@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 questions?
+
+
+Hi Folks,
+
+I've just bought a '73 911T that has some small accident damage around the front wing and therefore have not been able to run it on the road yet. Can somebody answer a few questions for me?
+
+Is it possible to check the oil level at any other time than with the engine at operating temperature? The reason I ask this is that I have good oil pressure on starting the engine but the Oil Level Gauge doesn't seem to shift much off zero! How accurate/reliable is this gauge?
+
+Is it OK to use super( 4 star ) graded petrol in a car that is designed to use regular ( 2 star ). I haven't seen leaded regular for sale here in Switzerland and unless the previous owner had some secret source of regular I suppose he must have used Super..
+
+Is it possible to use leadfree petrol ?  Is it possible to retrofit a Catalysor( 3 -way)?
+
+Thanks
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 08:45:57 1991
+Received: by karazm.math.uh.edu id <AA21749@karazm.math.uh.edu>; Fri, 17 May 91 08:45:58 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA21744@karazm.math.uh.edu>; Fri, 17 May 91 08:44:41 CDT
+Date: Fri, 17 May 91 09:42:23 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA02505; Fri, 17 May 91 09:42:23 EDT
+Message-Id: <9105171342.AA02505@sirius.cs.rpi.edu>
+To: libra!kevinh@relay.eu.net
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Kevinh's message of Fri, 17 May 91 10:34:28 +0200 <9105170834.AA07555@libra.hasler.ascom.ch>
+Subject: 911 questions?
+
+
+   Is it possible to check the oil level at any other time than with
+   the engine at operating temperature? The reason I ask this is that
+   I have good oil pressure on starting the engine but the Oil Level
+   Gauge doesn't seem to shift much off zero! How accurate/reliable is
+   this gauge?
+
+That gauge is usually broken on older cars.  The only truly accurate
+way to check oil level is with the dipstick in the oil filler tube.
+THis must be done with the engine running, and will only be accurate
+at OT, though you can at least get a reading while it's cold.  
+
+   Is it OK to use super( 4 star ) graded petrol in a car that is
+   designed to use regular ( 2 star ). I haven't seen leaded regular
+   for sale here in Switzerland and unless the previous owner had some
+   secret source of regular I suppose he must have used Super..
+
+Assuming the European system is similar to the US, in that higher
+grades of gasoline indicate better anti-knock behavior, you can use
+anything above what the car was made for.  As for lead, in this
+country there are a number of lead additives you pour in before you
+fill the tank since leaded gas is illegal in most states.  Opinion is
+mixed as to whether this is really needed in old Porsches.  Clearly
+they were built to run with leaded gas, but unlike other cars built in
+that era, they weren't dependant on that fact.  I use it anyway, about
+one can every 1Kmiles, because it certainly can't hurt.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 12:05:59 1991
+Received: by karazm.math.uh.edu id <AA22740@karazm.math.uh.edu>; Fri, 17 May 91 12:06:00 CDT
+Received: from cameron.egr.duke.edu by karazm.math.uh.edu id <AA22717@karazm.math.uh.edu>; Fri, 17 May 91 12:03:05 CDT
+Received: from flipper.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA04789; Fri, 17 May 91 13:01:56 -0400
+Received: by flipper (4.1/DUKE/08-19-88)
+	id AA00540; Fri, 17 May 91 13:01:54 EDT
+Date: Fri, 17 May 91 13:01:54 EDT
+From: Jeffrey A. Shorey <flipper!js@egr.duke.edu>
+Message-Id: <9105171701.AA00540@flipper>
+To: kevinh@hslrswi.hasler.ascom.ch
+Subject: Re: 911 questions...
+Cc: porschephiles@karazm.math.uh.edu
+
+   Is it possible to check the oil level at any other time than with
+   the engine at operating temperature? The reason I ask this is that
+   I have good oil pressure on starting the engine but the Oil Level
+   Gauge doesn't seem to shift much off zero! How accurate/reliable is
+   this gauge?
+
+You'll have to experiment and see about different oil levels at different
+temperatures.  Check it at 180 degrees and then see what it comes to when
+cold to get a feel for it.  I have found that different grades of oil have
+different thermal expansion rates, with the multi-visc. oil expanding more
+at lower temperatures than the straight grades.
+
+The oil level gauge on my '73 is fairly reliable - it has about a two quart
+range.  When I start the car cold, it won't register any oil, but will be
+somewhere in the middle of the range at operating temperature for the
+proper level via the dipstick.  One thing to realize is that if one of the
+electrical connections on the level sender stops making contact, the level
+gauge will register FULL - so be suspicious if it starts at full and stays
+that way.  Also, the seal around the sender tends to leak - make sure all
+8 or 10 of the nuts holding it on are reasonably snug.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 13:26:00 1991
+Received: by karazm.math.uh.edu id <AA23189@karazm.math.uh.edu>; Fri, 17 May 91 13:26:00 CDT
+Received: from libra.cs.nps.navy.mil by karazm.math.uh.edu id <AA23162@karazm.math.uh.edu>; Fri, 17 May 91 13:17:57 CDT
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA11857; Fri, 17 May 91 10:27:22 PDT
+Date: Fri, 17 May 91 10:27:22 PDT
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9105171727.AA11857@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  911 questions?
+
+I had to read Chris' reply twice, and I thought my confusion was sort
+of funny:
+
+>That gauge is usually broken on older cars.  The only truly accurate
+>way to check oil level is with the dipstick in the oil filler tube.
+>THis must be done with the engine running, and will only be accurate
+>at OT, though you can at least get a reading while it's cold.
+
+I finally realized that OT must refer to operating temp - but that's not
+the first interpretation I tried (OT also meaning TDC in Deutsch, as
+marked on every 356 crankshaft pulley).  Then I realized that I don't
+know what OT actually stands for (in German) - can one of you fill
+me in?
+
+-Dave
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 14:06:00 1991
+Received: by karazm.math.uh.edu id <AA23841@karazm.math.uh.edu>; Fri, 17 May 91 14:06:01 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA23757@karazm.math.uh.edu>; Fri, 17 May 91 13:59:41 CDT
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.1ee) id AA22269; Fri, 17 May 91 14:58:34 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA22017; Fri, 17 May 91 14:58:30 EDT
+Date: Fri, 17 May 91 14:58:30 EDT
+Message-Id: <9105171858.AA22017@socrates.ee.rochester.edu>
+In-Reply-To: erickson@libra.cs.nps.navy.mil (David Erickson)
+       "Re:  911 questions?" (May 17, 10:27am)
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: Re:  911 questions?
+
+On May 17, 10:27am, David Erickson writes:
+> I had to read Chris' reply twice, and I thought my confusion was sort
+> of funny:
+> 
+>> The only truly accurate way to check oil level is with the dipstick in the
+>> oil filler tube.  THis must be done with the engine running, and will only
+>> be accurate at OT, though you can at least get a reading while it's cold.
+> 
+> I finally realized that OT must refer to operating temp - but that's not
+> the first interpretation I tried ...
+
+I interpreted it as "Open Throttle", which is a ludicrous concept but I
+couldn't come up with anything else, and didn't want to admit my ignorance.
+Oh well... :-)
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 14:36:00 1991
+Received: by karazm.math.uh.edu id <AA25821@karazm.math.uh.edu>; Fri, 17 May 91 14:36:01 CDT
+Received: from cgl.ucsf.EDU by karazm.math.uh.edu id <AA25682@karazm.math.uh.edu>; Fri, 17 May 91 14:29:39 CDT
+Received: from babar.mmwb.ucsf.EDU by cgl.ucsf.EDU (5.65/GSC4.19)
+	id AA03769 for porschephiles@karazm.math.uh.edu; Fri, 17 May 91 12:26:41 -0700
+Received: by babar.mmwb.ucsf.EDU (5.64-bind 1.5+ida UNSUPPORTED PROTOTYPE/GSC4.16)
+	id AA15858; Fri, 17 May 91 12:26:36 -0700
+Date: Fri, 17 May 91 12:26:36 -0700
+Message-Id: <9105171926.AA15858@babar.mmwb.ucsf.EDU>
+From: srp@cgl.ucsf.EDU (Scott R. Presnell)
+Sender: srp@babar.mmwb.ucsf.EDU
+To: erickson@libra.cs.nps.navy.mil (David Erickson)
+Subject: Re:  911 questions?
+Cc: porschephiles@karazm.math.uh.edu
+Reply-To: srp@cgl.ucsf.EDU
+
+>what OT actually stands for (in German)
+
+Perhaps "Oberst" - which translates into "the highest," or "topmost."
+
+Only guessing...
+
+	- Scott
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 17 16:06:01 1991
+Received: by karazm.math.uh.edu id <AA27081@karazm.math.uh.edu>; Fri, 17 May 91 16:06:04 CDT
+Received: from caip.rutgers.edu by karazm.math.uh.edu id <AA27063@karazm.math.uh.edu>; Fri, 17 May 91 16:01:23 CDT
+Received: from piano.rutgers.edu by caip.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+	id AA25328; Fri, 17 May 91 17:00:15 EDT
+Received: by piano (5.17/3.01) 
+	id AA03057; Fri, 17 May 91 17:00:12 EDT
+Date: Fri, 17 May 91 17:00:12 EDT
+From: boubez@bass.rutgers.edu
+Message-Id: <9105172100.AA03057@piano>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mark Sirota's message of Fri, 17 May 91 14:58:30 EDT <9105171858.AA22017@socrates.ee.rochester.edu>
+Subject:  911 questions?
+
+
+ummm.... All that time I thought OT meant Operating Temperature! Go figure!
+
+            R 2 4
+            |_|_|      Toufic Boubez
+            | | |      boubez@caip.rutgers.edu
+            1 3 5      CAIP Center, Rutgers University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Sat May 18 06:06:02 1991
+Received: by karazm.math.uh.edu id <AA02870@karazm.math.uh.edu>; Sat, 18 May 91 06:06:03 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA02865@karazm.math.uh.edu>; Sat, 18 May 91 06:00:44 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA06226 (5.65a/CWI-2.86); Sat, 18 May 91 12:59:37 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.64+/1.34)
+	id AA02122; Sat, 18 May 91 12:52:28 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.20)
+	id AA06420; Sat, 18 May 91 12:47:34 +0200 (MET)
+Received: from achernar.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA08510; Sat, 18 May 91 12:46:26 +0200
+Date: Sat, 18 May 91 12:46:26 +0200
+From: libra!kevinh@relay.EU.net (Kevinh)
+Message-Id: <9105181046.AA08510@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Lead Additives
+
+>>   Is it OK to use super( 4 star ) graded petrol in a car that is
+>>   designed to use regular ( 2 star ). I haven't seen leaded regular
+>>   for sale here in Switzerland and unless the previous owner had some
+>>   secret source of regular I suppose he must have used Super..
+
+>Assuming the European system is similar to the US, in that higher
+>grades of gasoline indicate better anti-knock behavior, you can use
+>anything above what the car was made for.  As for lead, in this
+>country there are a number of lead additives you pour in before you
+>fill the tank since leaded gas is illegal in most states.  Opinion is
+>mixed as to whether this is really needed in old Porsches.  Clearly
+>they were built to run with leaded gas, but unlike other cars built in
+>that era, they weren't dependant on that fact.  I use it anyway, about
+>one can every 1Kmiles, because it certainly can't hurt.
+
+Interesting ! In the UK there have been repeated discussions about additives
+to use in Lead free petrol or in leaded petrol to increase it for older cars 
+made in an age when the lead content was much higher.  A few magazines have 
+undertaken tests of these products with the result in one case of the engine 
+requiring an overhaul!!!!  Can you tell me what products are used regularly 
+and has anyone had any negative results. Also do 911`s have sufficient hardening 
+of the valve inserts so that lead is not required??
+
+kevinh@hslrswi.hasler.ascom.ch 
+
+From porschephiles-request@karazm.math.uh.edu  Sat May 18 12:56:06 1991
+Received: by karazm.math.uh.edu id <AA03820@karazm.math.uh.edu>; Sat, 18 May 91 12:56:07 CDT
+Received: from cameron.egr.duke.edu by karazm.math.uh.edu id <AA03807@karazm.math.uh.edu>; Sat, 18 May 91 12:50:19 CDT
+Received: from flipper.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA26115; Sat, 18 May 91 13:49:09 -0400
+Received: by flipper (4.1/DUKE/08-19-88)
+	id AA00932; Sat, 18 May 91 13:49:07 EDT
+Date: Sat, 18 May 91 13:49:07 EDT
+From: Jeffrey A. Shorey <flipper!js@egr.duke.edu>
+Message-Id: <9105181749.AA00932@flipper>
+To: porschephiles@karazm.math.uh.edu
+Subject: Gates Sealed Battery - info?
+
+I've seen something called a Gates Sealed battery advertised in Excellence
+for quite a while now.  This battery supposedly can be mounted in any
+position and requires no maintenance.  Seeing as how I am probably going to have
+to get a new battery in the near future, I was wondering if anybody has had
+any experience with these things.  In particular, how is their cold starting
+ability?  How long do they last?  Do they have the same CCA as a normal battery?
+
+I'm sick of getting "rust dust" on my newly replaced front suspension pan and
+would really like to get rid of the old acid battery.  It's a personal thing.
+Auto Mechanika (I think that's how it's spelled - don't have a copy here at
+work) sells it for around $110 - about twice the price of a garden variety
+battery.
+
+Thanks,
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 20 10:16:16 1991
+Received: by karazm.math.uh.edu id <AA02497@karazm.math.uh.edu>; Mon, 20 May 91 10:16:16 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA02445@karazm.math.uh.edu>; Mon, 20 May 91 10:10:49 CDT
+Received: Mon, 20 May 91 08:08:33 PDT by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9105201508.AA18861@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Mon, 20 May 91 08:08:43 PDT
+Date: Mon, 20 May 91 08:08:43 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: auto-x class
+To: porschephiles@karazm.math.uh.edu
+
+Just thought I'd drop a line about the autocross class that PCA (Loma Prieta 
+Region) last this weekend (5/18-5/19).
+
+The class consisted of drills on saturday and a more typical auto-x on sunday.
+
+There were one or two students per instructor, and (if my experience was 
+typical) most of the instructors were very good.  Of the four that worked
+with me, three gave me a lot of good suggestions and one didn't say much.
+
+The class was a lot of fun.  It is also a good place find out where your 
+car's limits are without endangering anything (except for a cones!), or
+anyone.
+
+I don't know if there will be another class this year or not.  If anyone
+is interested, I will check and post the info, along with whom to contact.
+
+Also, if anyone wants more details about the class I attended, let me know 
+and I will follow up via email (or post if it seems a lot of people are 
+interested).
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 20 11:36:16 1991
+Received: by karazm.math.uh.edu id <AA02847@karazm.math.uh.edu>; Mon, 20 May 91 11:36:17 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA02824@karazm.math.uh.edu>; Mon, 20 May 91 11:30:26 CDT
+Date: Mon, 20 May 91 12:28:18 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA16934; Mon, 20 May 91 12:28:18 EDT
+Message-Id: <9105201628.AA16934@sirius.cs.rpi.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Help needed in LA
+
+
+I have a problem.  My sister is in LA and she wants to buy a used car.
+She doesn't know anything at all about cars, but she can't afford to
+get screwed.  Are there any porschephiles out there in LA that would
+be willing to help (she wouldn't be buying a porsche, but someone who
+knows *something* about cars would be a help)?  She lives in Hollywood.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 20 12:16:16 1991
+Received: by karazm.math.uh.edu id <AA03255@karazm.math.uh.edu>; Mon, 20 May 91 12:16:17 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA03250@karazm.math.uh.edu>; Mon, 20 May 91 12:14:16 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA25063; Mon, 20 May 91 10:13:00 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105201713.AA25063@jessica.stanford.edu>
+Subject: Re: Bad experience at Garretson's in Mt. View, CA
+To: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Date: Mon, 20 May 91 10:12:59 PDT
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9105162014.AA29089@sirius.cs.rpi.edu>; from "Chris Welty" at May 16, 91 4:14 pm
+X-Mailer: ELM [version 2.3 PL8]
+
+Chris Welty wrote:
+> 
+> Garretson's rep comes from the fact that PCA Tech Chairman Bruce
+> Anderson used to work there, and from their work with racing cars.
+> 
+> Most of us who do our own work have to suffer shops.  It's a tough
+> business to make money, especially if you're honest.  Make a mistake
+> and you'll probably end up losing money on the job if you admit it.
+> Where I used to work it was an unwritten rule that mechanics never make
+> mistakes - either we "found something else wrong" or ignore it.  The
+> rule was unwritten because if we ever actually told the service mgr.
+> we screwed something up, the fix was deducted from our paychecks (I
+> did that once...once.  Luckily (for me) it was only a tie rod end).
+
+So, do dealers do this?  Or do dealers just threaten to fire their
+mechanics if they make too many mistakes?  If the dealer is
+responsible to Porsche (I.E. they might lose their dealership if
+Porsche hears too many complaints about bad service) then you can't
+have dealer mechanics trying to cover up their mistakes on customer
+cars, right?  Of course, the dealer doesn't want to go firing its
+mechanics because they've (presumably) invested a lot of money in each
+mechanic (sending them to Porsche-specific training, etc.)  Also, do
+you know if dealer mechanics usually have to buy their own tools, the
+way a lot of independent shops make their mechanics buy their own?
+
+> What you have to do is:  find a school with a student shop and try to
+> get access to it; make friends with a mechanic or shop owner who'll
+> let you use the tools you don't have on occasion; find someone in your
+> PCA region with access to the tools you need (you'd be surprised).
+> For lathes/presses/ other machine shop type equipment, just about
+> every High School and college has one, and will probably give you
+> access for a few bucks (as long as you follow the safety
+> precautions!).  Good Luck.
+
+I found a nice mechanic who drove in the last race for me.  I might
+learn how to use the machines & tools in our physics shop (although
+they're not really automotively-oriented)
+ 
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  AIR Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 20 17:06:17 1991
+Received: by karazm.math.uh.edu id <AA06316@karazm.math.uh.edu>; Mon, 20 May 91 17:06:18 CDT
+Received: from ames.arc.nasa.gov by karazm.math.uh.edu id <AA06169@karazm.math.uh.edu>; Mon, 20 May 91 16:56:53 CDT
+Received: by ames.arc.nasa.gov (5.64/1.2); Mon, 20 May 91 14:55:38 -0700
+Received: by esl.ESL.COM (4.1/SMI-4.1)
+	id AA10401; Mon, 20 May 91 14:39:33 PDT
+Date: Mon, 20 May 91 14:39:33 PDT
+From: dab@ESL.COM (David A. Brown)
+Message-Id: <9105202139.AA10401@esl.ESL.COM>
+To: msirota@ee.rochester.edu
+Cc: dab@ESL.COM, porschephiles@karazm.math.uh.edu
+Subject: 914 Alignments
+Zippy-Says:  YOW!!  I'm in a very clever and adorable INSANE ASYLUM!!
+
+Hmmm, I don't remember seeing much of a response to Mark's recent
+questions about setting up a 914 suspension.
+
+This month's _Pano_ has a really good "Tech Q&A" question and answer
+about 914 alignment specs.  [Mark: if you're not in PCA yet you should
+join]
+
+They have a table of four sample alignment setups; here are some
+highlights:
+
+                914 Stock       "Stoddard       "Stoddard       "Ginther
+                                 street"         914/6"          race car"
+FRONT
+  Toe-in        +20' +/- 10'    +8' +/- 3'      +7'
+
+  Camber        0deg +/- 20'    -10' +/- 5'     -20'            -15' -> -30'
+
+  Caster        6deg +/- 30'    5.75deg +/- .25    5.75deg
+
+  Torsion Bar   17.9mm          17.9mm          17.9mm          22mm
+
+REAR
+  Toe-in        0deg + 15'      +5' +/- 2'      +3'             +20'
+
+  Camber        -30' +/- 20'    -30' +/- 10'    -40'            -1.25deg
+
+  Spring rate   60 lbs/in       60              70              180
+
+There's also a discussion part of the answer which hits a lot of the
+basics of setting up all of this.
+
+-----
+
+Btw, out here in the South Bay, many of the PCA 914 hotshots recommend
+Ken Mack ("Ken's Sportech" in Campbell) for setting up autox 914
+suspensions.  He has all the electronic alignment machine/stuff
+himself (most repair shops don't); he and Dwight Mitchell (way out in
+Sacramento or somewhere) were the ones who were constantly getting
+mentioned by the (many) 914 drivers I asked at PCA events last year.
+
+I've also heard good things about Rich Bontempi's place in Redwood
+City ("High Performance House"), and had as well heard bad reports on
+Garretson's.  I haven't tried any of these firsthand yet (I've been
+doing my own work and setup so far) although I'll probably be hitting
+Ken Mack soon for an alignment (can't do that well enough myself).
+
+Good luck,
+
+- David          dab@esl.com
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 20 17:16:17 1991
+Received: by karazm.math.uh.edu id <AA06339@karazm.math.uh.edu>; Mon, 20 May 91 17:16:18 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA06323@karazm.math.uh.edu>; Mon, 20 May 91 17:09:00 CDT
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.1ee) id AA03238; Mon, 20 May 91 18:07:31 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA26422; Mon, 20 May 91 18:07:28 EDT
+Date: Mon, 20 May 91 18:07:28 EDT
+Message-Id: <9105202207.AA26422@socrates.ee.rochester.edu>
+In-Reply-To: dab@esl.com (David A. Brown)
+       "914 Alignments" (May 20,  2:39pm)
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: Re: 914 Alignments
+Cc: Team dot Net <autox@autox.team.net>
+
+On May 20,  2:39pm, David A. Brown writes:
+> Hmmm, I don't remember seeing much of a response to Mark's recent
+> questions about setting up a 914 suspension.
+
+Thanks for reminding me, David.  I finally got the front end aligned last
+week.  I went with as much negative camber and positive caster as I could
+get (-0.5 degrees camber and about +8 degrees caster), and zero toe.
+
+The rear toe is supposedly adjustable somewhere, but I can't figure out how
+to do it.  Could someone describe to me how to adjust rear toe in a 914?
+Rear camber is also adjustable by shims.
+
+I'm somewhat concerned about these, because the current specs in the back
+are:
+		LEFT		RIGHT
+Toe		1/16" out	1/4" out
+Camber		-1.5 degrees	-2.5 degrees
+
+These are greatly different, and I'd really like to adjust them...  I can
+probably figure out the camber, but haven't really looked yet.  Toe is the
+really important one.  It's probably because I've still got the original
+100K mile old rear springs, which are no longer the same length (the right
+side is about 1/2" longer).
+
+> This month's _Pano_ has a really good "Tech Q&A" question and answer
+> about 914 alignment specs.  [Mark: if you're not in PCA yet you should
+> join]
+
+I am a member, and noticed that timely article.  Unfortunately, it's not too
+helpful.  I question the fact that everyone seems to use toe-in all around
+rather than toe-out; the usual setup for any car is a little toe-out in
+front, and most mid-engine cars get a little toe-out in back, too.  They
+also use less camber and caster all around than I would have thought.
+
+Now, I don't profess to know anything about setting up a 914, or any
+mid-engine cars, for that matter.  Hell, I don't even know anything about
+any RWD car.  But the theory is still the same for any car, and I'm somewhat
+amazed by what they show in this table.
+
+Any other 914 autocrossers have any tips to share?  Thanks for any help!
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 20 21:26:17 1991
+Received: by karazm.math.uh.edu id <AA07900@karazm.math.uh.edu>; Mon, 20 May 91 21:26:17 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA07895@karazm.math.uh.edu>; Mon, 20 May 91 21:19:50 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad06755;
+          20 May 91 22:08 EDT
+Date: Tue, 21 May 91 02:13 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Robert Merithew <merithew@jessica.stanford.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: Chris Welty <weltyc@sirius.cs.rpi.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Dealer mechanics
+Message-Id: <32910521021323/0004056890NB4EM@mcimail.com>
+
+My understanding is that mechanics do pay for their mistakes.  The explanations
+I've gotten have always been a little confusing, perhaps because different folks
+have slightly different rules.  They own their own tools.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 21 08:56:18 1991
+Received: by karazm.math.uh.edu id <AA11785@karazm.math.uh.edu>; Tue, 21 May 91 08:56:19 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA11777@karazm.math.uh.edu>; Tue, 21 May 91 08:46:43 CDT
+Date: Tue, 21 May 91 09:44:21 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA23424; Tue, 21 May 91 09:44:21 EDT
+Message-Id: <9105211344.AA23424@sirius.cs.rpi.edu>
+To: merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Robert Merithew's message of Mon, 20 May 91 10:12:59 PDT <9105201713.AA25063@jessica.stanford.edu>
+Subject: Bad experience at Garretson's in Mt. View, CA
+
+
+Well, I didn't work for a dealer, but I know many who did.  PCNA
+establishes "book labor" times for specific jobs (I'm [retty sure it's
+that way for most manufacturers).  The shop charges (or is reembursed
+on warranty jobs) the book time, regardless of how long the job took,
+and that time usually has some built in leeway.  If they go over,
+though, or if an extra part is needed due to error, the shop has to
+eat the cost.  On warranty jobs, if you document the mistake PCNA is
+usually tolerant and will cover it (as long as it's not happening a
+lot from one shop or mechanic), otherwise it may come out of the
+mechanics pocket.  This rule depends on the dealership, though, and
+some may cover mistakes as long as there aren't too many.  Independant
+shops have to charge less that book to compete, and thus have less
+leeway, but they also have more at risk if the customer is
+dissatisfied.  It really is tough, I have sympathy for people who run
+these businesses...
+
+It's real hard to lose a dealership because of customer complaints.
+ALthough it's probably happened, I don't know of any cases and I know
+some BAD dealerships (service wise).  They're really not risking that
+much. 
+
+As far as I know, all mechanics own their tools, whether it's a dealer
+or not. 
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 21 11:56:18 1991
+Received: by karazm.math.uh.edu id <AA14224@karazm.math.uh.edu>; Tue, 21 May 91 11:56:18 CDT
+Received: from cameron.egr.duke.edu by karazm.math.uh.edu id <AA14159@karazm.math.uh.edu>; Tue, 21 May 91 11:53:02 CDT
+Received: from dukee.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA15927; Tue, 21 May 91 12:51:44 -0400
+Received: by dukee.egr.duke.edu (1.00/DUKEE/12-05-90)
+	id AA01071; Tue, 21 May 91 12:51:38 edt
+Date: Tue, 21 May 91 12:51:38 edt
+From: Jeffrey A. Shorey <js@egr.duke.edu>
+Message-Id: <9105211651.AA01071@dukee.egr.duke.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 Valve Adjustment...
+
+Ok - here's the deal:  I adjust the valves on my 911 to perfection using
+the special adjustment feeler gauge, as well as the micrometer setup, and
+the car runs great.  The following days after the adjustment the car runs
+progressively rougher and upon checking the valves they seem to have a
+bigger gap than when I set them.  What gives?  Is there some trick I am
+missing in my procedure?  I am tightening the nuts on the valve adjusters
+to a reasonable level, given that they are thin 13mm nuts and are covered with
+oil.  Is there something I can do to "settle" them (like beat on them with a
+hammer maybe) ?
+
+Frustrated,
+
+Jeff Shorey - js@egr.duke.edu
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 21 12:16:18 1991
+Received: by karazm.math.uh.edu id <AA14549@karazm.math.uh.edu>; Tue, 21 May 91 12:16:19 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA14471@karazm.math.uh.edu>; Tue, 21 May 91 12:11:21 CDT
+Received: Tue, 21 May 91 10:08:59 PDT by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9105211708.AA04064@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Tue, 21 May 91 10:09:05 PDT
+Date: Tue, 21 May 91 10:09:05 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: auto-x class (more)
+To: porschephiles@karazm.math.uh.edu
+
+I received some info requests regarding the auto-x school I attended last
+weekend.  I'll summarize the class a little more completely here.
+
+Saturday:
+
+First drill:
+      Skid pad.  150' dia. circle.  Goal is to get just on the edge of a 
+      drift.  LIGHT touches on the throttle are the name of the game here.
+      Make that LIGHT and SMOOTH touches!
+
+Second drill:
+      Crossover.  Kind of a squared off figure 8.  Goal is to hit the turns
+      correctly, then set up for the next turn after the straight.  Stay at
+      the edge of the track whenever possible to optimize the next turn.
+      There is a lot of emphasis on late apex turns throughout the course.
+
+Third drill:
+      Decreasing radius turns.  This course is hard to describe.  The turns 
+      get tighter as you go through them.  Late apexes are essential.
+
+Fourth drill:
+      Boxed chicane (sp?).  Another hard one to describe.  A 90 degree
+      turn followed by another 90 degree turn in the opposite direction.
+      The dirll here was two straigt sections connected by two sets of 
+      six 90 degree turns.  I guess that would be 2 chicanes sort of connected
+      by a squared off U-turn.  I am a little unclear about the exact terms.
+      Chicanes are often used to slow you down before a straight.  The goal
+      is to set up to accelerate as soon as possible comming out.  This will
+      usually entail A LOT of deceleration comming into the turn.
+
+Fifth drill:
+      Slalom.  Evenly spaced cones (75' interval).  This actually got fairly
+      boring (much to my suprise), fairly quickly.  One of the instructors 
+      commented that it is easy to LOOSE time in a slalom (hitting a cone is
+      the easiest method), but hard to gain any.  You really are limited by
+      by the cone spacing.  One point, pace the cones and determine if they
+      are evenly spaced or not.  If the interval is increasing, you will be
+      able to accelerate at the end, if decreasing, you MUST lift the throttle
+      slightly.  Of course, throttle lift can bring your back end around (911's
+      in particular).  No one did the cadillac commercial :-(
+
+Sixth drill:
+      Oval.  Need I say more?  This was supposed to be a gear shifting drill.
+      However, they made it too small for the 911SC's to get out of second.
+      Late apexes are essential here, as you will be accelerating down a long
+      straight after the turn.
+
+Seventh drill:
+      Dinner and party at the holiday inn in santa nella.  I missed the after 
+      dinner part of this drill 'cause I got up at 4:30 am and went to sleep 
+      about 9:30.  ;-)
+
+Sunday:
+
+Course 1:
+      Slow, tight auto-x course.
+
+Course 2:
+      Faster, more open course.  I suspect course 1 was more typical.
+
+Both courses incorporated aspects from the drills (except drill 7) which we
+now had to put together.
+
+Everyone ran and worked both courses.  I found that working the course REALLY
+helped me to run it later.  I was able to watch what did, and did not, work.
+One suggestion from this is: work the course before running (if possible) and
+find out who (if you don't know already) the "big boys" (and girls!) are. 
+Watch the lines they use and try to follow them on your run.
+
+At the risk of restarting the air/water wars, I did notice one interesting 
+thing:  Out of about 75 or 80 students, there were (maybe) 10 or 15 water
+cooled cars, 1 928, the rest 944's (didn't notice any 924's).  The remainder
+were about 40% 914's, 40% 911's, 20% 356's & 912's.
+
+Costs:
+      Course cost: $45
+      Fuel:        $20  (including driving from mountain view to crows landing)
+      Hotel:       $25  (shared double room)
+      Tires:      $150  (hard to estimate, crows is hard on tires; it is a
+                         concrete surface.  Also, we made more runs than 
+                         would be possible in a normal auto-x)
+
+A final point, the instructors were drivers that normally drove the same car
+as you, i.e., you got a 911 driver teaching other 911 drivers.  I don't think
+this is as critical with non-911 cars, but I really appreciated having 
+instructors who could tell me how the start to drift the rear end with a 
+(remarkablely small) throttle lift.  I also learned a lot about not unsettling
+the car (innappropriate braking), i.e., the instructor said: "next time brake
+just where you did this time, get through the gate, go back on the gas, DON'T
+brake, just lift the throttle A LITTLE; this will bring the rear around just
+a bit, get through the next gate, lift again, get through the last gate, get
+SMOOTHLY on the gas again, and open up the wheel a little more than you did
+this run to finish just at the outside of the lane going past the timing mark."
+
+You know what?  She was right.  The next run felt really good, except for 
+missing a gate on the parctice lap and mowing down some cones, thus getting a
+slow start and a poor time.  However, the run after that, I turned in my best 
+time by almost a second!
+
+A few more details, the instructors rode with you during both the drills and 
+the course runs.  This helped a lot, as you could get VERY helpfull suggestions
+while you were driving.
+
+If you have not atuo-xed before, don't go in thinking you know everything, no
+matter how good a street racer you are.  There is still a lot to learn.  Also,
+don't be afraid of driving hard.  So you hit a few cones.  Big deal.
+
+I still haven't checked if there is another school this year, will try to get
+that information later.
+
+There are two auto-x's june 1 and 2.  6/1 is in santa rosa, 6/2 is at crows
+landing.
+
+I expect to be at santa rosa.  My car is a blue 1980 911SC, license 2RZD855.
+So if anyone is up there, say hello.
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+
+p.s.  I will try to post locations and or directions later.  -s.
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 21 13:16:18 1991
+Received: by karazm.math.uh.edu id <AA14737@karazm.math.uh.edu>; Tue, 21 May 91 13:16:19 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA14708@karazm.math.uh.edu>; Tue, 21 May 91 13:06:40 CDT
+Date: Tue, 21 May 91 14:04:21 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA25127; Tue, 21 May 91 14:04:21 EDT
+Message-Id: <9105211804.AA25127@sirius.cs.rpi.edu>
+To: js@egr.duke.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Jeffrey A. Shorey's message of Tue, 21 May 91 12:51:38 edt <9105211651.AA01071@dukee.egr.duke.edu>
+Subject: 911 Valve Adjustment...
+
+
+1) Make sure the engine is COLD.  Porsche recommends something like 12
+   hours wait after running the engine.
+2) Make sure, when doing to adjustment, that you are breaking the oil
+   seal between the rocker arm and the cam, and especially between the
+   rocker arm and the lifter.  Grab the rocker arm and pull it back
+   and forth, you should be able to feel the gap.  Sliding in the
+   feeler gauge won't break the seal.  This is the most common cause
+   of loose valves.
+3) use a box end wrench, not an open end, and make sure the nuts are
+   very tight.  I don't think you can strip them with a 13mm box end
+   unless you are Arnold.
+4) do them 1-6-2-4-3-5 and then go around one more time and check all
+   of them - gap and tightness of the nut.  This usually prevents
+   erroneous readings from any debris.  Always do one complete
+   rotation where you haven't checked anything.
+
+Also check the cam lobes for wear, and that the valve stem is very
+snug (it shouldn't jiggle).  Also make sure your rocker arms aren't
+bent or broken.  If all this seems obvious to you, let me know and we
+can get deeper.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 21 13:26:18 1991
+Received: by karazm.math.uh.edu id <AA14915@karazm.math.uh.edu>; Tue, 21 May 91 13:26:19 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA14740@karazm.math.uh.edu>; Tue, 21 May 91 13:17:50 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA14814; Tue, 21 May 91 11:16:35 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105211816.AA14814@jessica.stanford.edu>
+Subject: 914 Windshield remove/install ?
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 21 May 91 11:16:33 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+I must be a real downer for all you guys.  Every time I post it's
+because I'm having some problem with my 914.  But I keep getting
+such good advice...
+
+So, the brakes are fine now, and I drove it around for a couple of
+days (great fun) and now I notice that some of the windshield chrome
+on the passenger side is loose, so I push on the inside of the
+windshield glass with my fingers and the glass moves.  Sigh.
+
+The windshield is in good shape.  It's not chipped or anything.  I
+guess what I need to do is remove it and reinstall it (or have that
+done).  How do you do this?  Haynes essentially says "You're not a
+professional, so you can't be removing and reinstalling the windshield
+or the rear window."  Has anyone removed or installed a windshield on
+a 914?  Ought I pay a porsche body shop tons o' bucks rather than risk
+it falling out?
+
+thanks,
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  AIR Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 21 22:16:21 1991
+Received: by karazm.math.uh.edu id <AA19948@karazm.math.uh.edu>; Tue, 21 May 91 22:16:22 CDT
+Received: from ucsd.edu by karazm.math.uh.edu id <AA19928@karazm.math.uh.edu>; Tue, 21 May 91 22:12:49 CDT
+Received: from photon.UUCP by ucsd.edu; id AA07273
+	sendmail 5.64/UCSD-2.1-sun via UUCP
+	Tue, 21 May 91 20:10:14 -0700
+Received: by  photon. (5.51/celerity1.1)
+	id AA28573; Tue, 21 May 91 10:13:18 PDT
+Received: by sulu (5.52/890607.SGI)
+	(for @photon.uucp:porschephiles@karazm.math.uh.edu@ucsd) id AA21188; Tue, 21 May 91 10:12:25 PDT
+From: photon!sulu!bvs@UCSD.EDU (Bruce Shetler)
+Message-Id: <9105211712.AA21188@sulu>
+Subject: Sealed Batteries
+To: porschephiles%karazm.math.uh.edu@ucsd.edu (porschephiles)
+Date: Tue, 21 May 91 10:12:24 PDT
+X-Mailer: ELM [version 2.3 PL10]
+
+
+> 
+> I've seen something called a Gates Sealed battery advertised in Excellence
+> for quite a while now.  This battery supposedly can be mounted in any
+> [deleted]
+> Auto Mechanika (I think that's how it's spelled - don't have a copy here at
+> work) sells it for around $110 - about twice the price of a garden variety
+> battery.
+> 
+> Thanks,
+> 
+> - Jeff Shorey  js@egr.duke.edu
+> 
+> 
+
+I recently got one of these and so far I am real happy with it.  I 
+wanted to replace the acid eaten carpet in my 911 and didn't want to
+start the whole process over again; also, I continually got a mild 
+corrosion in areas around the battery which I got tired of fighting
+with baking soda, wire brush, paint and invective.  I can't really
+speak to the cold starting capabilities (for obvious reasons) but 
+otherwise it seems to be an excellent and well made item.  I
+remember that the guarantee seemed better than the average type battery.
+My dealings with AutoMechanika have been excellent as well.  I
+don't believe the brand name is Gates however.  I will post in the
+next couple of days the details of cold cranking amps, warranty 
+period, etc.
+
+IMHO this is a real godsend for cars like ours that mount an acid-filled
+and corossive gas spewing device close-in to our precious bodywork.
+I will be interested to see how it performs over the long haul.
+
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates              San Diego...
+  San Diego, CA   92121                   It's Not As Bad As L.A. 
+  uucp:photon!bvs@{ucsd.edu,uunet}        
+========================================================================
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 22 12:16:23 1991
+Received: by karazm.math.uh.edu id <AA24715@karazm.math.uh.edu>; Wed, 22 May 91 12:16:24 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA24689@karazm.math.uh.edu>; Wed, 22 May 91 12:12:30 CDT
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.1ee) id AA26274; Wed, 22 May 91 13:11:17 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA29213; Wed, 22 May 91 13:11:14 EDT
+Date: Wed, 22 May 91 13:11:14 EDT
+Message-Id: <9105221711.AA29213@socrates.ee.rochester.edu>
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: 914 rear brakes (again)
+
+.. or maybe that should be 914 rear brakes (still).  Argh, boy is this
+frustrating.
+
+Anyway, thanks to Mark Skala, I now have all the parts I need to put together
+two complete rear brake calipers.  Unfortunately, when I do so, the inner
+pistons still won't budge.  The little allen screw thingie turns, and feels
+like it's working some mechanism inside, but the piston doesn't actually
+retract.
+
+So, I probably need to rebuild these calipers.  Can anyone explain what's
+involved in this?  I'm mostly concerned about it because (1) I've never
+rebuilt a brake caliper before, although I'm not afraid of it, and (2) many
+sources indicate that these calipers cannot be rebuilt, although I've seen
+rebuild kits available.  But there must be a reason why they say they're not
+rebuildable...
+
+Thanks again for your continued help!
+
+Mark
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 22 12:56:23 1991
+Received: by karazm.math.uh.edu id <AA24846@karazm.math.uh.edu>; Wed, 22 May 91 12:56:24 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA24838@karazm.math.uh.edu>; Wed, 22 May 91 12:49:02 CDT
+Date: Wed, 22 May 91 13:46:42 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA07362; Wed, 22 May 91 13:46:42 EDT
+Message-Id: <9105221746.AA07362@sirius.cs.rpi.edu>
+To: merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Robert Merithew's message of Tue, 21 May 91 11:16:33 PDT <9105211816.AA14814@jessica.stanford.edu>
+Subject: 914 Windshield remove/install ?
+
+
+   days (great fun) and now I notice that some of the windshield chrome
+   on the passenger side is loose, so I push on the inside of the
+   windshield glass with my fingers and the glass moves.  Sigh.
+
+What do you mean by "moves"?  There's nothing wrong with a *little*
+play, but there should be too much and it shouldn't leak.  It
+is quite possible that the winshield was installed wrong, it's quite
+easy to get wrong and not realize it.  The best way to check is if it
+leaks water.
+	
+   The windshield is in good shape.  It's not chipped or anything.  I
+   guess what I need to do is remove it and reinstall it (or have that
+   done).  How do you do this?  Haynes essentially says "You're not a
+   professional, so you can't be removing and reinstalling the windshield
+   or the rear window."  Has anyone removed or installed a windshield on
+   a 914?  Ought I pay a porsche body shop tons o' bucks rather than risk
+   it falling out?
+
+It won't fall out.  It's not that complex to do, it just requires AT
+LEAST two people and is a royal pain.  A big royal pain.  Perhaps the
+biggest of any job, which is why it's frequently done wrong - many
+people "just leave it" if it isn't perfect.  
+
+Find out how much it is at a shop, it may be cheap enough that it's
+not worth the trouble for you to do it.  The first time I ever did it
+took something like 10 or 12 hours (start to finish).  The next time
+it took more like 6 to 8.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 22 13:26:23 1991
+Received: by karazm.math.uh.edu id <AA25228@karazm.math.uh.edu>; Wed, 22 May 91 13:26:24 CDT
+Received: from cameron.egr.duke.edu by karazm.math.uh.edu id <AA25066@karazm.math.uh.edu>; Wed, 22 May 91 13:19:52 CDT
+Received: from dukee.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA09337; Wed, 22 May 91 14:18:40 -0400
+Received: by dukee.egr.duke.edu (1.00/DUKEE/12-05-90)
+	id AA07714; Wed, 22 May 91 14:18:35 edt
+Date: Wed, 22 May 91 14:18:35 edt
+From: Jeffrey A. Shorey <js@egr.duke.edu>
+Message-Id: <9105221818.AA07714@dukee.egr.duke.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: 914 windshield...
+
+   I've been contemplating replacing my leaky front windshield seal on my 911
+(replace the headliner too?  hmmm...self-inflicted torture) and asked my
+local mechanic about doing it myself - I've already done the rear window.  He
+said if I do it, I _will_ break it because the windshield is laminated glass
+as opposed to the tempered glass on the rest of the car (He pointed to a rock
+pock mark, smiled, and said it would break right there).  We agreed that a
+windshield place should probably do the dirty work so that I could blame them
+when the windshield broke.
+
+  I don't know if it is the same case with 914's...just food for thought.  914
+owners are lucky - they don't have to take out the windshield to replace the
+dash.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 22 14:06:24 1991
+Received: by karazm.math.uh.edu id <AA25405@karazm.math.uh.edu>; Wed, 22 May 91 14:06:25 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA25344@karazm.math.uh.edu>; Wed, 22 May 91 13:58:59 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA06786; Wed, 22 May 91 11:57:40 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105221857.AA06786@jessica.stanford.edu>
+Subject: Re: 914 windshield...
+To: js@egr.duke.edu (Jeffrey A. Shorey)
+Date: Wed, 22 May 91 11:57:37 PDT
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9105221818.AA07714@dukee.egr.duke.edu>; from "Jeffrey A. Shorey" at May 22, 91 2:18 pm
+X-Mailer: ELM [version 2.3 PL8]
+
+Jeffrey A. Shorey wrote:
+> 
+>    I've been contemplating replacing my leaky front windshield seal on my 911
+> (replace the headliner too?  hmmm...self-inflicted torture) and asked my
+> local mechanic about doing it myself - I've already done the rear window.  He
+> said if I do it, I _will_ break it because the windshield is laminated glass
+> as opposed to the tempered glass on the rest of the car (He pointed to a rock
+> pock mark, smiled, and said it would break right there).  We agreed that a
+> windshield place should probably do the dirty work so that I could blame them
+> when the windshield broke.
+> 
+>   I don't know if it is the same case with 914's...just food for thought.  914
+
+The 914 front windshield (at least mine) is also laminated -- I'm not
+really considering doing the work myself anymore -- too many horror
+stories.  Not only could I break the windshield (which has got to be
+expensive) but I imagine I could really hurt myself!
+
+> 914 owners are lucky - they don't have to take out the windshield to
+> replace the dash.
+
+Yeah, but all 914 owners have is a 914!  I really wouldn't mind having
+a 911...
+
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  ??? Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 22 15:06:24 1991
+Received: by karazm.math.uh.edu id <AA25834@karazm.math.uh.edu>; Wed, 22 May 91 15:06:24 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA25727@karazm.math.uh.edu>; Wed, 22 May 91 14:57:32 CDT
+From: fwk@homxc.att.com
+Date: Wed, 22 May 91 15:20 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: sirius.cs.rpi.edu!weltyc@att.UUCP (Chris Welty),
+        merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: 914 Windshield remove/install ?
+
+>   days (great fun) and now I notice that some of the windshield chrome
+>   on the passenger side is loose, so I push on the inside of the
+
+Be very careful of the trim itself. It is aluminum, not chrome, it bends
+easily never to straighten again, and bends itself easily from the
+wind if it is loose.
+
+>   windshield glass with my fingers and the glass moves.  Sigh.
+>
+>What do you mean by "moves"?  There's nothing wrong with a *little*
+>play, but there should be too much and it shouldn't leak.  It
+>......
+>It won't fall out.  It's not that complex to do, it just requires AT
+>LEAST two people and is a royal pain.  A big royal pain.  Perhaps the
+>biggest of any job, which is why it's frequently done wrong - many
+>people "just leave it" if it isn't perfect.  
+>
+>Find out how much it is at a shop, it may be cheap enough that it's
+>not worth the trouble for you to do it.  The first time I ever did it
+>took something like 10 or 12 hours (start to finish).  The next time
+>it took more like 6 to 8.
+
+The 914 windshield mounting method is to my knowledge very different
+from that for a 911. The 911 has a rubber gasket, effectively with
+two notches, one for the body sheet metal edge and one for the windshield.
+getting the windshield into its notch without breaking it is a trick.
+
+I have never installed a 914 windshield, but I have removed one,
+and it appears to be bonded with a rubberized glue which effectively
+glues the windshield to a parallel section of body sheet metal.
+There is no tricky gasket at all. I would be concerned by movement of
+the glass given the 914 mounting approach. You might be able to do some
+selective re-glueing without removing the windshield, but I am not
+sure what to suggest as the glue.
+>
+>Christopher Welty                               Asst. Director, RPI CS Labs
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 23 09:32:53 1991
+Received: by karazm.math.uh.edu id <AA06182@karazm.math.uh.edu>; Thu, 23 May 91 09:32:54 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA06177@karazm.math.uh.edu>; Thu, 23 May 91 09:32:02 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA00273 (5.65a/CWI-2.88); Thu, 23 May 91 16:30:46 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.64+/1.34)
+	id AA25666; Thu, 23 May 91 16:12:15 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.20)
+	id AA01358; Thu, 23 May 91 16:08:58 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA12401; Thu, 23 May 91 16:07:40 +0200
+Date: Thu, 23 May 91 16:07:40 +0200
+From: libra!kevinh@relay.EU.net (Kevinh)
+Message-Id: <9105231407.AA12401@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Long Term Storage of 911
+
+It look as though I might have to keep my `73 911T of the road for some time and i'm a bit concerned about the effects on the engine. I've heard that, for example 944 Cylinder bores `dry out` if not used for some time (the effects of the silicon ?), does this apply to 911's.
+
+
+Are there any recommended procedures, Eg starting periodically, special lubrication etc??
+
+Any advice appreciated!!
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 23 10:32:54 1991
+Received: by karazm.math.uh.edu id <AA06309@karazm.math.uh.edu>; Thu, 23 May 91 10:32:55 CDT
+Received: from libra.cs.nps.navy.mil by karazm.math.uh.edu id <AA06285@karazm.math.uh.edu>; Thu, 23 May 91 10:24:27 CDT
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA07182; Thu, 23 May 91 08:22:21 PDT
+Date: Thu, 23 May 91 08:22:21 PDT
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9105231522.AA07182@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  Long Term Storage of 911
+
+This topic has come up before - perhaps someone has it saved and can
+forward it to Kevin.  One thing I would like to add, which I have not
+seen here or in any book: back off the valve adjusters enough that
+none of the valves are depressed.  I have dissassembled many core
+engines, some of which had been sitting in junkyards or under a tree
+in someone's back yard for years.  Invariably, the cylinders that are
+rusted are those with an open valve.  
+
+-Dave
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 23 15:22:53 1991
+Received: by karazm.math.uh.edu id <AA08442@karazm.math.uh.edu>; Thu, 23 May 91 15:22:54 CDT
+Received: from ucsd.edu by karazm.math.uh.edu id <AA08345@karazm.math.uh.edu>; Thu, 23 May 91 15:16:35 CDT
+Received: from photon.UUCP by ucsd.edu; id AA06346
+	sendmail 5.64/UCSD-2.1-sun via UUCP
+	Thu, 23 May 91 13:10:09 -0700
+Received: by  photon. (5.51/celerity1.1)
+	id AA03148; Thu, 23 May 91 09:27:24 PDT
+Received: by sulu (5.52/890607.SGI)
+	(for @photon.uucp:porschephiles@karazm.math.uh.edu@ucsd) id AA24386; Thu, 23 May 91 09:26:31 PDT
+From: photon!sulu!bvs@UCSD.EDU (Bruce Shetler)
+Message-Id: <9105231626.AA24386@sulu>
+Subject: Sealed Battery
+To: porschephiles%karazm.math.uh.edu@ucsd.edu (porschephiles)
+Date: Thu, 23 May 91 9:26:30 PDT
+X-Mailer: ELM [version 2.3 PL10]
+
+
+Here are the specs on the Optima sealed batery from AutoMechanika:
+
+600 cold cranking amps
+
+120 min reserve power
+
+24 month full unlimited warranty
+
+72 month limited (prorated) warranty
+
+"not recommended for deep drain applications (ie: fishing motors, solar
+power installations, RV electrical systems)"
+
+P.S.  The thing is physically smaller than the standard group whatever 
+that is normally used, hence the need for the $10.00 adaptor plate that
+you also get from AutoMechanika.  In my case this required a new ground
+cable, be ready for this.  I just looked and after two months or so
+my battery area is clean as clean can be.  I just might by one of these
+dudes for my Toyota pickup.
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates              San Diego...
+  San Diego, CA   92121                   It's Not As Bad As L.A. 
+  uucp:photon!bvs@{ucsd.edu,uunet}        
+========================================================================
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 23 19:52:53 1991
+Received: by karazm.math.uh.edu id <AA10240@karazm.math.uh.edu>; Thu, 23 May 91 19:52:53 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA10235@karazm.math.uh.edu>; Thu, 23 May 91 19:52:46 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ag24993;
+          23 May 91 20:44 EDT
+Date: Fri, 24 May 91 00:46 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Kevinh <libra!kevinh@relay.eu.net>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Long Term Storage of 911
+Message-Id: <70910524004607/0004056890NB3EM@mcimail.com>
+
+I have never heard of "cylinder bores drying out."  In fact, I don't even know
+what a "cylinder bore" is.  Maybe it's that guy who can't stop talking about the
+comparative virtues of Nikasil vs. Alusil.
+
+Porsche issued two tech bulletins with their recommendations for storage of both
+new and used cars a couple of years ago.  I would be happy to forward copies to
+you, Kevin, given a USPS binding.
+
+Regarding periodic starting.  If you do start the car, drive long enough that
+you drive the moisture out of the exhaust system.  On a sunny day, take a twenty
+to thiry minute spin.  You don't have to hammer the car, just find a highway and
+go cruising.
+
+What you do before storing the car depends a bit on just how long you plan to
+keep it in storage, as well as what kind of storage site you plan to use.  There
+are also some outdated storage practices which you may be tempted to use, like
+unweighting the tires by jacking the car.  I think the bulletins go into this.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 24 18:02:56 1991
+Received: by karazm.math.uh.edu id <AA18570@karazm.math.uh.edu>; Fri, 24 May 91 18:02:56 CDT
+Received: from elroy.Jpl.Nasa.Gov by karazm.math.uh.edu id <AA18565@karazm.math.uh.edu>; Fri, 24 May 91 18:02:08 CDT
+Received: from wciu.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA01880; Fri, 24 May 91 16:00:54 PDT
+Received: by wciu.EDU (5.51/smail2.5/06-01-89)
+	id AA27810; Fri, 24 May 91 16:01:07 EDT
+From: Pete Gregory <pete@wvus.wciu.EDU>
+X-Mailer: SCO System V Mail (version 3.2)
+To: porschephiles@karazm.math.uh.edu
+Subject: auto-X
+Date: Wed, 22 May 91 13:19:45 PDT
+Message-Id:  <9105222019.aa05731@wvus.wciu.EDU>
+
+Hi -
+
+Can anyone recommend a beginners' autocross in Southern California?
+
+BTW, I've got a '69 912, and I'd like to do it more justice (bought it last
+October - no wrecks or close calls, but I KNOW I can drive better).
+
+Please include prices.  Thanks.....
+ 
+Pete Gregory, UNIX SA  |  pete@wvus.wciu.edu                  |
+World Vision USA/ISD   |  elroy!wciu!wvus!pete             ___|___
+919 W. Huntingon Dr.   |  Voice: 818/357-7979 x3347           |
+Monrovia, CA  91016    |  FAX:   818/303-6212                 |
+                                                              |
+
+From porschephiles-request@karazm.math.uh.edu  Mon May 27 03:23:07 1991
+Received: by karazm.math.uh.edu id <AA02588@karazm.math.uh.edu>; Mon, 27 May 91 03:23:07 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA02578@karazm.math.uh.edu>; Mon, 27 May 91 03:16:26 CDT
+Date: Mon, 27 May 91 03:59:33 EDT
+From: mvmas@mvgpf.att.com (Mark A Skala)
+To: porschephiles@karazm.math.uh.edu
+Subject: 914 for (some) parts
+Organization: AT&T Network Systems
+Reply-To: vwp@cbnewsk.att.com
+
+This will be of interest only to those around the New England area, sorry I
+can't do a restricted distribution on the mailing list.  I need to get rid
+of a 914 chassis.  Best offer >=$50.  '73, has full operational
+suspension, steering, gas tank, cheap wheels and tires.  Too rusted to
+restore, but able to be towed on its own wheels.  Email for more complete
+description if interested.  Car is in N. Andover, Mass.
+Thanks for the bandwidth.
+
+Mark A. Skala              "Remember to include the $1.00 fee
+vwp@cbnewsk.att.com         if you order any free booklets."
+508-960-4208 (work)                    - Consumer Information Catalog
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 28 10:33:14 1991
+Received: by karazm.math.uh.edu id <AA08490@karazm.math.uh.edu>; Tue, 28 May 91 10:33:14 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA08464@karazm.math.uh.edu>; Tue, 28 May 91 10:27:43 CDT
+Received: Tue, 28 May 91 08:25:09 PDT by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9105281525.AA03683@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Tue, 28 May 91 08:25:32 PDT
+Date: Tue, 28 May 91 08:25:32 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: re: 928 oil pressure
+To: porschephiles@karazm.math.uh.edu
+
+John Ko writes:
+
+//
+ 
+I have an '81 928s (Euro) and the oil pressure gauge constantly
+reads high.  From the owners manual, it states that after a warm up
+period, each bar should  represents approx. 1,000rpm, but mine reads
+5 bar for anything above 1,500rpm.  I've replaced the oil
+pressure sending unit twice and still get the same reading.
+What's wrong?
+ 
+//
+
+John,
+
+First I dont know of any problems associated with HIGH oil pressure, as
+long as you're not blowwing hoses, seals, etc.
+
+Since you have replace the sending unit, I suspect that it reads high, 
+because the pressure is high.
+
+There is usually (I don't know anything about 928's) an oil pressure
+relief valve.  This beast controls your oil pressure.  It may be out
+of adjustment.
+
+Again, though, I wonder, why do you want to reduce your oil pressure?
+All your journal bearings will support more load with higher pressure, 
+they will also maintain more clearance between the metal surfaces with
+higher pressure (this avoids damage if there is crud in your oil).
+
+I would determine that there is a possible problem with high pressure
+before doing anything to lower my oil pressure.  Of couse, I drive 
+a 911, and you know how neurotic we get about oil...
+
+A friend at work sez I should have to file an EIR when I do an oil change...
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+Oil:  It's a coolant.  No, it's a lubricant!
+
+It's a COOLANT and a LUBRICANT!
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue May 28 20:43:15 1991
+Received: by karazm.math.uh.edu id <AA11218@karazm.math.uh.edu>; Tue, 28 May 91 20:43:15 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA11190@karazm.math.uh.edu>; Tue, 28 May 91 20:34:09 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ak03986;
+          28 May 91 21:04 EDT
+Date: Wed, 29 May 91 01:04 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Nice car for sale
+Message-Id: <80910529010408/0004056890NB3EM@mcimail.com>
+
+A PCA friend, Michele Sceppa, has a beautiful, guards red '87 924S for sale.  If
+you're in Zone 1, you have probably seen it on display at Zone and regional
+concours, where it has done quite well.  It's not a "baggy" car - it does get
+driven in nice weather!
+
+Michele is selling it to move up to a 944S2 cabri she has on order.  Her asking
+price is flexible and reasonable.  This would be a good purchase for someone
+wanting to get into concoursing, or someone looking for a "like new" car at an
+affordable price.
+
+Mechanically, it's dead stock to the best of my knowledge.  Maintenance has been
+done by European Performance, my favourite independent.  The car has a new motor
+mount and timing belt.
+
+I have no financial interest in the car or its sale...  Reply to me if you're
+interested, and I'll put you in touch with Michele.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 29 00:43:14 1991
+Received: by karazm.math.uh.edu id <AA14892@karazm.math.uh.edu>; Wed, 29 May 91 00:43:15 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA14884@karazm.math.uh.edu>; Wed, 29 May 91 00:36:25 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA27044; Tue, 28 May 91 22:35:07 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9105290535.AA27044@jessica.stanford.edu>
+Subject: Mystery Crud in my engine oil!
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 28 May 91 22:35:06 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+Who can identify the Mystery Crud in my engine oil?
+
+I removed the oil screen on my 914 this evening and discovered little
+bits of red stuff caught in the screen.  I quickly recognized these as
+pieces of the RTV I used when I installed the pushrod tube seals a few
+months ago -- no biggie -- probably just means that half the oil
+passages are plugged and half the bearings are getting no oil and the
+engine will be completely shot in a couple more months.  Sigh.
+
+Anyway, the Mystery Crud is something else.  It collected in the bottom
+of the metal plate that holds the oil screen in (none of it was
+actually caught in the screen itself).  It is hard bits (brittle, but I
+can break it if I push on it hard with my fingernail) of stuff that
+looks like it might once have formed an annular ring (like a seal) a
+few inches in diameter.  It's hard to tell how big the ring would have
+been because the broken pieces are pretty small.
+
+So presumably some seal or plastic part in the engine has fallen to
+bits and found its way to the oil sump.  My question, of course, is
+what part?
+
+The car really doesn't seem to leak or burn oil.  The owner manual says
+1/2 to 1 quart of oil per 600 miles, but it's burning less than half a
+quart in that time.  Plugs look OK.  Gets at least 32 mpg highway on
+super.  The crap in the oil tell me the engine is rapidly turning to
+shit, but all these other things (oil & fuel consumption, etc) make it
+hard to take the Mystery Crud too seriously...
+
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  ??? Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 29 10:03:16 1991
+Received: by karazm.math.uh.edu id <AA15905@karazm.math.uh.edu>; Wed, 29 May 91 10:03:16 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA15899@karazm.math.uh.edu>; Wed, 29 May 91 10:00:09 CDT
+Received: Wed, 29 May 91 07:57:53 PDT by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9105291457.AA15768@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Wed, 29 May 91 07:57:59 PDT
+Date: Wed, 29 May 91 07:57:59 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: auto-x this weekend!
+To: porschephiles@karazm.math.uh.edu
+
+This weekend there are two PCA auto-x meets.
+
+Santa Rosa 6/1/91  Hosted by redwood region.  
+Contact:  Tom Poole @ (415) 381-9633
+
+Crows Landing 6/2/91  Hosted by golden gate region.
+Contact:  Kirk Doberenz @ (415) 837-0479
+
+There is also a practice auto-x at cal-expo in sacramento 6/2/91  Hosted 
+by the sacramento valley region.
+Contact:  Dwight Mitchell @ (916) 488-8743
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 29 12:53:16 1991
+Received: by karazm.math.uh.edu id <AA16563@karazm.math.uh.edu>; Wed, 29 May 91 12:53:17 CDT
+Received: from Sun.COM by karazm.math.uh.edu id <AA16537@karazm.math.uh.edu>; Wed, 29 May 91 12:47:29 CDT
+Received: from Corp.Sun.COM (lemay.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA00204; Wed, 29 May 91 10:46:11 PDT
+Received: from placer.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA07178; Wed, 29 May 91 10:49:01 PDT
+Received: by placer.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA02568; Wed, 29 May 91 10:42:17 PDT
+Date: Wed, 29 May 91 10:42:17 PDT
+From: Robert.Worrall@Corp.Sun.COM (Bob Worrall)
+Message-Id: <9105291742.AA02568@placer.Corp.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: Porsche Information
+
+Can anyone out there recommend a good source of Porsche information that provides the following:
+
+  Year/ Models offered/ Options offered/ Specifications.
+
+
+Any information would be appreciated.
+
+Bob
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 29 21:03:16 1991
+Received: by karazm.math.uh.edu id <AA18690@karazm.math.uh.edu>; Wed, 29 May 91 21:03:16 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA18645@karazm.math.uh.edu>; Wed, 29 May 91 20:58:20 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ag07772;
+          29 May 91 21:43 EDT
+Date: Thu, 30 May 91 01:46 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Bob Worrall <Robert.Worrall@corp.sun.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Porsche Information
+Message-Id: <83910530014638/0004056890NB4EM@mcimail.com>
+
+Depends on what years you want.  The PCNA Fact Books have been around since the
+mid-80's I think, and offer the greatest detail on options available.  If you
+want to go back further than that, you might want to consult Brett Johnson's
+series, eg, "The 911 & 912 Porsche: A Restorer's Guide to Authenticity."  Other
+books are alos very good, eg, Dean Batchelor's book.
+
+If you have a particular car in mind, the factory can give you its build list
+given its VIN.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Wed May 29 21:13:16 1991
+Received: by karazm.math.uh.edu id <AA18725@karazm.math.uh.edu>; Wed, 29 May 91 21:13:16 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA18693@karazm.math.uh.edu>; Wed, 29 May 91 21:08:39 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa07977;
+          29 May 91 21:55 EDT
+Date: Thu, 30 May 91 01:49 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: autox <autox@hoosier.utah.edu>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Pyrometer recommendation?
+Message-Id: <83910530014938/0004056890NB2EM@mcimail.com>
+
+Can anyone recommend a particular tire pyrometer?  Sources?
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Thu May 30 00:43:17 1991
+Received: by karazm.math.uh.edu id <AA22504@karazm.math.uh.edu>; Thu, 30 May 91 00:43:17 CDT
+Received: from hoosier.utah.edu by karazm.math.uh.edu id <AA22498@karazm.math.uh.edu>; Thu, 30 May 91 00:42:34 CDT
+Received: by hoosier.utah.edu (5.65/utah-2.17s-cs)
+	id AA12547; Wed, 29 May 91 23:41:06 -0600
+Date: Wed, 29 May 91 23:41:06 -0600
+From: mjb@hoosier.utah.edu (Mark Bradakis)
+Message-Id: <9105300541.AA12547@hoosier.utah.edu>
+To: 0004056890@mcimail.com
+Cc: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu
+In-Reply-To: "Kevin C. Gross"'s message of Thu, 30 May 91 01:49 GMT <83910530014938/0004056890NB2EM@mcimail.com>
+Subject: Re: Pyrometer recommendation?
+
+
+I'll toss in a recommendation for the $89.95 Pyrometer available from
+Silver King Safety Equipment in Salt Lake.  I have been meaning to buy
+one myself, but without a car to campaign so far this year I haven't seen
+much point in spending that money yet.  So this isn't a real endorsement,
+jst a pointer.  Silver King can be reached at 800-866-4631
+
+mjb.
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 11:43:26 1991
+Received: by karazm.math.uh.edu id <AA02178@karazm.math.uh.edu>; Fri, 31 May 91 11:43:27 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by karazm.math.uh.edu id <AA02166@karazm.math.uh.edu>; Fri, 31 May 91 11:40:06 CDT
+Received: from vega.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA03749; Fri, 31 May 91 12:37:34 EDT
+Received: by vega.cs.rpi.edu (4.1/SMI-4.1)
+	id AA16308; Fri, 31 May 91 12:37:32 EDT
+Date: Fri, 31 May 91 12:37:32 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9105311637.AA16308@vega.cs.rpi.edu>
+To: merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Robert Merithew's message of Tue, 28 May 91 22:35:06 PDT <9105290535.AA27044@jessica.stanford.edu>
+Subject: Mystery Crud in my engine oil!
+
+
+
+   I removed the oil screen on my 914 this evening and discovered little
+   bits of red stuff caught in the screen.  I quickly recognized these as
+   pieces of the RTV I used when I installed the pushrod tube seals a few
+   months ago -- no biggie -- probably just means that half the oil
+   passages are plugged and half the bearings are getting no oil and the
+   engine will be completely shot in a couple more months.  Sigh.
+
+For everyone - Paterek recommended a sealant that will dissolve in
+oil, unlike the classic red, and thus wont damage things when the
+excess breaks off.  It was from Wurth's I believe, I don't have the
+list but it was reprinted in a lot of newsletters (it's fromthis
+year's tech tactics).
+
+NO idea what the other crud could be.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 12:03:26 1991
+Received: by karazm.math.uh.edu id <AA02303@karazm.math.uh.edu>; Fri, 31 May 91 12:03:27 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by karazm.math.uh.edu id <AA02240@karazm.math.uh.edu>; Fri, 31 May 91 11:58:02 CDT
+Received: from vega.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA03795; Fri, 31 May 91 12:55:33 EDT
+Received: by vega.cs.rpi.edu (4.1/SMI-4.1)
+	id AA16392; Fri, 31 May 91 12:55:30 EDT
+Date: Fri, 31 May 91 12:55:30 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9105311655.AA16392@vega.cs.rpi.edu>
+To: msirota@ee.rochester.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mark Sirota's message of Wed, 22 May 91 13:11:14 EDT <9105221711.AA29213@socrates.ee.rochester.edu>
+Subject: 914 rear brakes (again)
+
+
+In case no one responded, 914 rear brakes are rebuildable.  I have
+done it and they work perfectly well.  Remember that if the piston or
+cylider is scored you must replace it.  There are a lot of people
+parting out 914s that have decent used brakes for sale...
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 12:03:28 1991
+Received: by karazm.math.uh.edu id <AA02307@karazm.math.uh.edu>; Fri, 31 May 91 12:03:29 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by karazm.math.uh.edu id <AA02229@karazm.math.uh.edu>; Fri, 31 May 91 11:56:03 CDT
+Received: from vega.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA03792; Fri, 31 May 91 12:53:32 EDT
+Received: by vega.cs.rpi.edu (4.1/SMI-4.1)
+	id AA16385; Fri, 31 May 91 12:53:30 EDT
+Date: Fri, 31 May 91 12:53:30 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9105311653.AA16385@vega.cs.rpi.edu>
+To: msirota@ee.rochester.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mark Sirota's message of Mon, 20 May 91 18:07:28 EDT <9105202207.AA26422@socrates.ee.rochester.edu>
+Subject: 914 Alignments
+
+
+I was reading through the piles of mail and just noticed this one with
+no responses:
+
+   The rear toe is supposedly adjustable somewhere, but I can't figure out how
+   to do it.  Could someone describe to me how to adjust rear toe in a 914?
+   Rear camber is also adjustable by shims.
+
+It's been a while, but I remember the  procedure, if no one responded
+let me know.
+
+   I'm somewhat concerned about these, because the current specs in the back
+   are:
+		   LEFT		RIGHT
+   Toe		1/16" out	1/4" out
+   Camber		-1.5 degrees	-2.5 degrees
+
+   I am a member, and noticed that timely article.  Unfortunately, it's not too
+   helpful.  I question the fact that everyone seems to use toe-in all around
+   rather than toe-out; the usual setup for any car is a little toe-out in
+   front, and most mid-engine cars get a little toe-out in back, too.  They
+   also use less camber and caster all around than I would have thought.
+
+Huh?  This is 100% contrary to what I learned.  Toe-out is supposedly
+DANGEROUS - especially at speed.  Where did you get this information?
+I was taught to align a car with a little toe-in in the back, to
+insure that any measurement errors didn't translate into actual
+toe-out.  I've never driven with toe-out so I don't know what it would
+handle like.  But I learned this at a performance shop and they were
+fairly serious about it.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 12:13:27 1991
+Received: by karazm.math.uh.edu id <AA02339@karazm.math.uh.edu>; Fri, 31 May 91 12:13:27 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA02319@karazm.math.uh.edu>; Fri, 31 May 91 12:08:52 CDT
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.1ee) id AA03996; Fri, 31 May 91 13:07:28 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA12286; Fri, 31 May 91 13:07:26 EDT
+Date: Fri, 31 May 91 13:07:26 EDT
+Message-Id: <9105311707.AA12286@socrates.ee.rochester.edu>
+In-Reply-To: weltyc@cs.rpi.edu
+       "914 Alignments" (May 31, 12:53pm)
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: weltyc@cs.rpi.edu
+Subject: Re: 914 Alignments
+Cc: porschephiles@karazm.math.uh.edu
+
+On May 31, 12:53pm, weltyc@cs.rpi.edu writes:
+>> [ How do I adjust the rear alignment? ]
+> It's been a while, but I remember the  procedure, if no one responded
+> let me know.
+>
+> Mark Sirota writes:
+>> I'm somewhat concerned about these, because the current specs in the back
+>> are:
+>> 		LEFT		RIGHT
+>> Toe		1/16" out	1/4" out
+>> Camber	-1.5 degrees	-2.5 degrees
+
+Thanks, a number of people sent me messages on how to do it.  Thanks for all
+the help!  For those who are curious, there were a couple of problems.  The
+rear springs differ significantly in length; that's part of it.  Also, there
+were two camber shims in the left rear, and only one in the right.  I was
+also wrong about the toe; I had the signs wrong from the alignment computer
+printout, so the above numbers should be toe-in, not out.
+
+Anyway, for the hell of it last Sunday I removed all the camber shims (over
+-3 degrees each side), and toed it out all the way (about 1/2" (!) total
+toe-out), just to see what would happen.  The answer is, it oversteers a lot
+and the rear tires (205/50-15 on stock 5.5" alloys) rub against the inner
+fenderwells under cornering.
+
+This weekend I'm trying one camber shim on each side (about -2.5 degrees)
+and about zero toe (which should give me more power down the straights, too).
+
+>> I question the fact that everyone seems to use toe-in all around rather
+>> than toe-out; the usual setup for any car is a little toe-out in front,
+>> and most mid-engine cars get a little toe-out in back, too.  They also use
+>> less camber and caster all around than I would have thought.
+> 
+> Huh?  This is 100% contrary to what I learned.  Toe-out is supposedly
+> DANGEROUS - especially at speed.  Where did you get this information?
+> I was taught to align a car with a little toe-in in the back, to
+> insure that any measurement errors didn't translate into actual
+> toe-out.  I've never driven with toe-out so I don't know what it would
+> handle like.  But I learned this at a performance shop and they were
+> fairly serious about it.
+
+Well, yes, toe-out in back can be dangerous.  My car is a dedicated
+autocrosser, and I want it to be very maneuverable (aka unstable).  Street
+cars should definitely have toe-in in back, as should any car driven by
+someone not very comfortable with being sideways.
+
+Mark
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 14:23:27 1991
+Received: by karazm.math.uh.edu id <AA02993@karazm.math.uh.edu>; Fri, 31 May 91 14:23:28 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA02986@karazm.math.uh.edu>; Fri, 31 May 91 14:23:17 CDT
+From: fwk@homxc.att.com
+Date: Fri, 31 May 91 15:17 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: Mark Sirota <karazm.math.uh.edu!porschephiles-request@att.UUCP>
+Cc: porschephiles@karazm.math.uh.edu, weltyc@cs.rpi.edu
+Subject: Re: 914 Alignments
+
+>
+>On May 31, 12:53pm, weltyc@cs.rpi.edu writes:
+>
+>>> I question the fact that everyone seems to use toe-in all around rather
+>>> than toe-out; the usual setup for any car is a little toe-out in front,
+>>> and most mid-engine cars get a little toe-out in back, too.  They also use
+>>> less camber and caster all around than I would have thought.
+>> 
+>> Huh?  This is 100% contrary to what I learned.  Toe-out is supposedly
+>> DANGEROUS - especially at speed.  Where did you get this information?
+>> I was taught to align a car with a little toe-in in the back, to
+>> insure that any measurement errors didn't translate into actual
+>> toe-out.  I've never driven with toe-out so I don't know what it would
+>> handle like.  But I learned this at a performance shop and they were
+>> fairly serious about it.
+>
+>Well, yes, toe-out in back can be dangerous.  My car is a dedicated
+>autocrosser, and I want it to be very maneuverable (aka unstable).  Street
+>cars should definitely have toe-in in back, as should any car driven by
+>someone not very comfortable with being sideways.
+>
+>Mark
+
+I can understand the possibility that consiously planned instability
+such as that caused by rear toe-out might be suitable for autocrossing
+(not being a serious autocrosser myself). However, I think it is worth
+saying that IMHO this does not extend to high speed track driving,
+even for a very experienced driver. My understanding of the conventional
+wisdom on the subject agrees with Chris', and I understand it to apply
+to dedicated race drivers driving all types of race cars, and that is that
+rear toe-out is deadly and to be avoided like the plague, including
+the possibility of "dynamic" toe-out where bushing compliance causes
+changes (in cars that have rubber or other compliant material). A good
+reference is Caroll Smith in " Prepare to Win" or one of his other similar
+books.
+
+To make sure there is no confusion, front toe-out is a valid alternative
+for high speed track driving. It improves turn-in at the expense of
+straight line stability. Not all cars benefit from it or need it,
+but it works in some cases.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 21:33:29 1991
+Received: by karazm.math.uh.edu id <AA05210@karazm.math.uh.edu>; Fri, 31 May 91 21:33:29 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA05204@karazm.math.uh.edu>; Fri, 31 May 91 21:33:23 CDT
+Received: by NRI.NRI.Reston.VA.US id af28342; 31 May 91 22:23 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aw28286;
+          31 May 91 22:19 EDT
+Date: Sat, 1 Jun 91 01:31 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: weltyc <weltyc@cs.rpi.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: msirota <msirota@ee.rochester.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 914 Alignments
+Message-Id: <35910601013153/0004056890NB2EM@mcimail.com>
+
+I dunno about dangerous, but rear toe-out definitely messes up the handling.  My
+car had gone for about a year and a half without alignment.  When I had it done,
+the shop found a bit of toe-out in the rear.  Since fixing it, the 245/45's hunt
+much much less on crowned or grooved roads.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 21:33:56 1991
+Received: by karazm.math.uh.edu id <AA05222@karazm.math.uh.edu>; Fri, 31 May 91 21:33:56 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA05201@karazm.math.uh.edu>; Fri, 31 May 91 21:33:17 CDT
+Received: by NRI.NRI.Reston.VA.US id ae28342; 31 May 91 22:23 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ar28286;
+          31 May 91 22:18 EDT
+Date: Sat, 1 Jun 91 01:23 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: weltyc <weltyc@cs.rpi.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: merithew <merithew@jessica.stanford.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Mystery Crud in my engine oil!
+Message-Id: <73910601012337/0004056890NB2EM@mcimail.com>
+
+I helped run a 911 tech session last year, despite my minor knowledge of the
+series.  We pulled and clean the sump screen on a 70's car, probably the first
+time in a loooong while it had been done.  And we found a lot of crud on it,
+which looked in part kind of like an outdoors trash bag shredded into 1 and 2 mm
+size pieces.  No doubt this was just varnish.
+
+I don't know whether this is like the crud in question...
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Fri May 31 22:23:29 1991
+Received: by karazm.math.uh.edu id <AA05541@karazm.math.uh.edu>; Fri, 31 May 91 22:23:29 CDT
+Received: from ucsd.edu by karazm.math.uh.edu id <AA05535@karazm.math.uh.edu>; Fri, 31 May 91 22:17:02 CDT
+Received: from photon.UUCP by ucsd.edu; id AA09723
+	sendmail 5.64/UCSD-2.1-sun via UUCP
+	Fri, 31 May 91 20:10:05 -0700
+Received: by  photon. (5.51/celerity1.1)
+	id AA11849; Fri, 31 May 91 14:56:23 PDT
+Received: by sulu (5.52/890607.SGI)
+	(for @photon.uucp:porschephiles@karazm.math.uh.edu@ucsd) id AA06077; Fri, 31 May 91 14:55:32 PDT
+From: photon!sulu!bvs@UCSD.EDU (Bruce Shetler)
+Message-Id: <9105312155.AA06077@sulu>
+Subject: Sealed Batteries
+To: porschephiles%karazm.math.uh.edu@ucsd.edu (porschephiles)
+Date: Fri, 31 May 91 14:55:30 PDT
+X-Mailer: ELM [version 2.3 PL10]
+
+
+Hi Porschephiles
+
+Sorry to post this to the whole list, but mail to Stephen bounced.
+I have been having *terrible* mail problems of late :-(
+
+> 
+> > 
+> > 
+> > 
+> >  Would they make motorcycle batteries as well??
+> > 
+> >  Stef
+> > 
+> 
+> Beats me, sure would be nice tho.  Might try to call Optima Batteries
+> in Denver, or write:
+> 
+> Optima Batteries
+> PO Box 5887 
+> Denver, CO  80217
+> 
+> Bruce
+> 
+> P.S.
+> 
+> Sorry this took so long to get out, my mailer has been on the blink.
+> 
+> 
+> -- 
+> 
+> ========================================================================
+>   Bruce Shetler                           
+>   Photon Research Associates              San Diego...
+>   San Diego, CA   92121                   It's Not As Bad As L.A. 
+>   uucp:photon!bvs@{ucsd.edu,uunet}        
+> ========================================================================
+> 
+> 
+
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates              San Diego...
+  San Diego, CA   92121                   It's Not As Bad As L.A. 
+  uucp:photon!bvs@{ucsd.edu,uunet}        
+========================================================================
+
+

@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: poor running when cold</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'J.J. Slowik' <jjslowik@rmii.com>, <bropez@jps.net>, '914 Porsche' <914@porschefans.com>">
+  <META NAME="MsgPropFrom" CONTENT="Dave Darling <darling@simlab.arc.nasa.gov>">
+  <META NAME="MsgPropSubject" CONTENT="Re: poor running when cold">
+  <META NAME="MsgPropDate" CONTENT="Wed, 25 Mar 1998 09:19:51 -0800">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<000e01bd57ba$2f9d1840$6f115da6@jjslowik.rmii.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">J.J. Slowik &lt;jjslowik@rmii.com&gt;, &lt;bropez@jps.net&gt;, 914 Porsche &lt;914@porschefans.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Dave Darling &lt;darling@simlab.arc.nasa.gov&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: poor running when cold</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Wed, 25 Mar 1998 09:19:51 -0800</td></tr>
+</table>
+<pre>
+	JJ has some good suggestions.  However, I'd like to clear up one
+or two minor points about how the cold-start enrichment works on the D-jet
+engines.
+
+At 6:49 AM -0000 3/25/98, J.J. Slowik wrote:
+>In addition, the cold start valve injects additional fuel into the intake.
+>Normally, the Aux. Air Valve opens to compensate for the additional fuel,
+>thus increasing the overall engine speed, but not changing the micture.
+
+	The Cold Start Valve is an extra fuel injector in the plenum (or
+Intake Air Distributor or Manifold or...).  It has two wires going into it.
+The wire that supplies power (+12V) to the valve is connected (in the relay
+board) to the yellow wire that goes to the starter motor.  That's right,
+the valve only gets power when the starter motor is cranking.  The other
+wire from the valve goes to the Thermo-Time Switch.  This switch shorts its
+input to ground when it gets cold enough.  I don't remember the operating
+temp offhand.  When the switch is warmer, it opens the circuit.  So current
+cannot flow through the CSV, even though the starter may be cranking.
+	The Aux Air Valve (Auxiliary Air Regulator, whatever) serves ONLY
+to give you a higher idle on start-up.  The AAR has one wire going into the
+bottom of the "can".  This wire gets power (+12V) whenever the fuel pump
+does.  (This includes the 1/2-second shot when you first turn the key.)
+The power goes through a small heating element in the bottom of the can (it
+only has about 13 ohms of resistance, so it doesn't heat much!).  Also in-
+side the can is a bimetallic spring.  When heated, one of the two metals of
+the spring expands more than the other.  This makes the spring move, which
+closes a rotary valve going from one vaccuum hose to the other.  Note that,
+if the engine is warm enough, the valve will be closed without getting any
+power.
+	The two vaccuum hoses serve to bypass the throttle.  One comes from
+the air cleaner (and goes to the AAR), the other goes from the AAR to the
+plenum.  When the valve is open, it lets air from the air cleaner (at ambi-
+ent air pressure) into the manifold, without being blocked by the throttle
+which may be closed.
+	This raises the pressure in the manifold, which the Manifold Pres-
+sure Sensor detects.  This causes the ECU to command more fuel to be squir-
+ted by the (regular) fuel injectors.  Thus, the extra air from the AAR is
+dealt with the same way that air coming in through an open throttle would
+be.  (Ditto with most vaccuum leaks, which is why the D-jet system is so
+tolerant of leaks, unlike the L-jet.)
+
+	Things for Clark to check:  Ignition.  Always.  Let me repeat, when
+you have an FI problem, check the ignition system first.  Inspect your spark,
+make sure it looks good.  Check timing and dwell.
+	After you've done that, you can start the FI system checks.  Check
+the resistance of the Head Temp sensor.  It should be about 2.5K - 3K ohms
+when cold, then <250 ohms when warm.  That  may help your backfires and rough
+running.  Check that the MPS will hold a vaccuum.
+	The backfires on deceleration might be a separate problem.  (Probably
+not, though.)  The factory added the Decel Valve (same mount as the MPS; the
+Haynes book calls it a pressure regulator or some such drivel) to help with
+backfires on deceleration.  When the valve "sees" a very high vaccuum in the
+small hose (from the manifold to the Decel Valve), it opens up the passage
+from one of the large hoses on the valve to the other.  This creates yet
+another path from the air cleaner to the manifold, letting air in just as if
+you had opened up the throttle.  The very high vaccuum only occurs with the
+throttle closed at high RPMs.
+	If your decel valve is stuck closed, you may get some backfires on
+deceleration.  You can check it by pulling off the hose from it to the air
+cleaner (at the decel valve).  Rev the motor up to 3500 RPM or so, then let
+the throttle snap closed.  You should feel air coming into the valve.  If
+you don't, try going up to 5K RPM (if you can stand the noise).  If there is
+still no suction at the valve when you close the throttle, then the valve
+has failed.  Replace it or live with it.
+
+	Good luck!
+
+--DD
+
+Dave Darling                                     74 914 2.0 (VROOM!)
+                   darling@simlab.arc.nasa.gov
+	   "If it ain't broke--fix it until it *is*!"
+
+
+.
+</pre>
+</BODY></HTML>

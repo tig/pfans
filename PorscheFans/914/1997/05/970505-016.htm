@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: Throttle switch alignment method?</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="jrb@autoweb.net, jhadler@rmi.net">
+  <META NAME="MsgPropFrom" CONTENT="Dave Darling <darling@simlab.arc.nasa.gov>">
+  <META NAME="MsgPropSubject" CONTENT="Re: Throttle switch alignment method?">
+  <META NAME="MsgPropDate" CONTENT="Mon, 5 May 1997 10:08:53 -0700">
+  <META NAME="MsgPropCc" CONTENT="914 Porsche Fans <914@Porschefans.com>">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<336E0425.4FCE@autoweb.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">jrb@autoweb.net, jhadler@rmi.net</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Dave Darling &lt;darling@simlab.arc.nasa.gov&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: Throttle switch alignment method?</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Mon, 5 May 1997 10:08:53 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">914 Porsche Fans &lt;914@Porschefans.com&gt;</td></tr>
+</table>
+<pre>
+At 9:00 AM -0700 5/5/97, Jerry R. Brady wrote:
+> I couldn't find any *definitive* reference for alignment of this
+>device in my manuals (I don't have the factory ones which is where the
+>answer is - I bet).
+
+	Haynes and the Factory manuals both kinda suck on this one.  All
+Haynes says is "take it to the dealer", and the factory manual assumes
+you have the EFI tester box (talk to RD Ricks if you really wanna buy
+one).
+
+>In any case, I'd like the same answers you're looking for.  Ohmeter
+>readings for each contact at closed throttle, WOT and inbetween.
+
+	The ohmmeter readings are pretty simple--either 0 ohms (short
+circuit) or infinity ohms (open circuit).  There are only four active
+terminals on most 914 throttle switches--the "idle" contacts, and the
+"accelerator pump" contacts.  Many switches also have a WOT contact, but
+it is not used (except possibly on early 1.7s?).
+	When at idle, you should see zero ohms across the idle contacts.
+When not at idle, there should be no continuity--infinity ohms.
+	When you open the throttle (but not when you close it!), you
+will get 8-10 shifts from infinity to zero ohms and back across the "accel
+pump" contacts.  Each one signals the brain to trigger an extra injection
+pulse (on one or more, don't know how many, of the injectors).
+	At WOT, you might see zero ohms from the WOT contact to the
+"ground" contact you used for the "idle" measurement--but it doesn't
+matter, because the ECU never sees that.  The "common" one is, I think,
+the contact in the center of the plug.
+	That's all there is to it.
+
+--DD
+
+Dave Darling                                     74 914 2.0 (VROOM!)
+                   darling@simlab.arc.nasa.gov
+"If I were such an expert, I woudn't have broken it in the first place!"
+
+
+.
+</pre>
+</BODY></HTML>

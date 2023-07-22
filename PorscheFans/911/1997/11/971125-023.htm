@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Fuel Pump Fuses and Relays</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="911@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="Walter Fricke <FrickeW@ci.boulder.co.us>">
+  <META NAME="MsgPropSubject" CONTENT="Fuel Pump Fuses and Relays">
+  <META NAME="MsgPropDate" CONTENT="Tue, 25 Nov 1997 14:32:11 -0700">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">911@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Walter Fricke &lt;FrickeW@ci.boulder.co.us&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Fuel Pump Fuses and Relays</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 25 Nov 1997 14:32:11 -0700</td></tr>
+</table>
+<pre>
+Several owners have asked questions about where the fuse guarding
+their fuel pumps might be.  There have also been questions about relays
+for the fuel pumps.  I don't have any special knowledge of such details
+beyond what I have gleaned working on my 77 (and very very minimally
+on wife's 84, knock on wood), but I do have the first six factory manuals,
+so I took a look at all the circuit diagrams over the years to see what they
+revealed about fuel pump circuitry.
+
+The first 911s had mechanical fuel pumps, so no such circuits were
+there.  However, by the time the first E arrived, electric pumps were
+installed.  These pumps were controlled directly from the ignition switch. 
+This situation continued until the 1976 models, which were the first to
+have a fuse protecting the fuel pump!  Before 1976 the hot wire from the
+ignition switch was connected at a fuse terminal post to the wire which
+leads back to the fuel pump, without fuse protection.  As James H. Taylor
+surmised, this must simply have been a convenient place to connect. 
+The other side of this fuse terminal, which is protected by the fuse, goes
+to the fresh air blower.    
+
+Additionally, it was not until 1976 that a relay was used to move current
+to the fuel pump.  Up until that time it all ran through the ignition switch. 
+This relay may not have been added for its current carrying capacity,
+however, as it also serves as a logic circuit essential to the interlock
+feature which prevents the fuel pump from running if the engine is not
+running (unless you are using the starter).  
+
+In a nutshell, the interlock (76 through 83) works like this:  back at the air
+flow sensing part of the fuel injection is a switch.  When the air sensing
+plate is closed (no air flow), this switch is closed.  When air flows, the
+switch opens.  The switch, when closed, grounds the relay coil up on
+the front fuse box (relay pin 85).  The relay coil at all times gets its
+current (pin 86) from the ignition switch on position (red wire).  The same
+red wire also is connected to the normally closed terminal of the relay
+(87a).  The normally open terminal of the relay (87) is connected by a
+yellow wire to the starter terminal of the ignition switch.  Both switches
+in the relay are joined to a common output (30) which goes to the fuel
+pump.
+
+So, with ignition on and engine not running, the interlock switch grounds
+the relay coil, which opens the "running" switch in the relay and closes
+the "starter" switch.  When starter is switched on, so is fuel pump. 
+When enough air flows to lift the air flow sensor plate and open the
+switch there, the relay coil is deenergized, no current gets to the fuel
+pump via the starter circuit, but it gets there via the red wire main ignition
+circuit.  
+
+If you roll your car up into a wad and are sitting there upside down
+looking out at the world counting your blessings and wondering about
+how you are going to get out of the car, but not thinking about maybe
+turning off the ignition just for good measure, if the preceeding spin killed
+the engine, the sensor plate switch will close, the relay will energize and
+open the red wire circuit, and the fuel pump will stop and not spew any
+gas out any ruptures which may have happened.  If the engine didn't kill,
+but the aforesaid ruptures happened, with luck they will kill the engine
+(since the CIS is dependent on 30-45 psi of fuel pressure at all times),
+which will turn off the pump.
+
+The factory procedure for turning on the fuel pump to test the CIS with
+the engine not running advises bridging pins 30 and 87a of the fuel pump
+relay externally.  I find it easier just to reach around behind everything on
+top of the engine and disconnect the two pin interlock connector.  I knew
+from past experience about the general functions served by all of the
+above, but I won't tell you how long I looked at the circuit diagram last
+weekend trying to figure out how it worked, and thinking of a most
+memorable statement someone posted on this list earlier this year: 
+"Thinking about all this made my head hurt."
+
+Trina (whose post I couldn't relocate, and whose e-mail address
+wouldn't work, according to my machine) wonders about why the
+previous owner of her 77 cut off the #86 pin on her fuel pump relay. 
+This has the effect of an open sensor switch, and means that the fuel
+pump will run at all times unless the ignition is switched off.  Since the
+factory didn't bother to prevent this until 1976, one might wonder if this is
+something to worry much about, but I wouldn't consider doing this to my
+car except as a field expedient to get me home.  I'd find out why a proper
+fuel pump relay wasn't working.  If the sensor switch was stuck closed,
+or if there was a short to ground in the line between that switch and the
+relay pin 85, then the car would start on the starter circuit but
+immediately stop when the key was released.
+
+Trina also noted there was a diode inside the relay.  This diode is
+intended to bridge the coil, not to carry current nor to be part of the
+"logic."  According to the electronics books, when a relay coil is
+deenergized, it produces a high voltage spike as the fields collapse etc,
+pretty much like, I suppose, a spark coil.  The diode is intended to prevent
+this happening, or at least to keep it from somewhere it will do some
+harm.  The circuit diagram shows this diode.  Oddly enough, none of the
+other relays for horns, fog lights, blower motors, etc have diodes
+shown.  My 77 had a red relay in the fuel pump position, and black ones
+elsewhere.  What the differences in their internals (if any) are, I don't
+know, although the catalogs tend to differentiate.  They all seem to  have
+the same number of pins, which may or may not mean they all have the
+87a pin active.  
+
+Perhaps someone with real knowledge will enlighten us all on these
+arcana.  An automotive engineer in our midst?  Perhaps even explain
+why it took so long for factory to put a fuse in the fuel pump line? I can
+imagine various reliability considerations, but shorts can be really bad
+news.  A short in a small diameter wire will probably just burn the wire in
+half somewhere pretty quickly, making it only a pain to replace - it can act
+as its own fuse.  A short in a medium diameter wire will set the insulation
+and protective tubing on fire, and then the upholstery, plastic parts, etc.. 
+Results (observed, fortunately, on someone else's pickup truck cab,
+where blown fuses were replaced by progressively larger fuses) are
+pretty dramatic.  I was disillusioned a bit when I found factory didn't
+bother to fuse the kick panel auxiliary heater blowers when first installed
+(I think) in '84, although later they did.  Most of us would like to think
+Porsche's engineers know more than we do, given the extraordinary
+overall product.
+
+Walt Fricke
+.
+</pre>
+</BODY></HTML>

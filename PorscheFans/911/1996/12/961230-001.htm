@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Torque, anti-seize, etc. (was: "Re: Frozen Spark Plug ans physic</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="911@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="'Andrew Warren' <fastfwd@ix.netcom.com>">
+  <META NAME="MsgPropSubject" CONTENT="Torque, anti-seize, etc. (was: 'Re: Frozen Spark Plug ans physic">
+  <META NAME="MsgPropDate" CONTENT="Mon, 30 Dec 1996 04:44:32 -0800">
+  <META NAME="MsgPropCC" CONTENT="general@porschefans.com">
+  <META NAME="MsgPropOrganization" CONTENT="Fast Forward Engineering">
+  <META NAME="MsgPropReply-to" CONTENT="fastfwd@ix.netcom.com">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">911@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Andrew Warren &lt;fastfwd@ix.netcom.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Torque, anti-seize, etc. (was: Re: Frozen Spark Plug ans physic</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Mon, 30 Dec 1996 04:44:32 -0800</td></tr>
+<tr><td class="HeaderItemLabel">CC:</td><td class="HeaderItemContent">general@porschefans.com</td></tr>
+</table>
+<pre>
+SgShields <rbcsaver@ptd.net> wrote:
+
+> Now a related question to the engineer/physics guys. Because
+> anti-seize reduces the thread to thread friction and allows for
+> increased torquing...Is there a formula that could/should be used
+> reduced to reduce ft/lb tightening and be in the the normal spec
+> range, if one had not used anti-seize.  IE, lugs without
+> anti-seize should be 94 ft/lbs, and I read "somewhere" in the past
+> that with anti-seize, they should be about 80 ft/lbs. 
+
+Steven:
+
+Torque specs for high-torque fasteners in tension assemblies are
+invariably written under the assumption that the fasteners WILL be
+lubricated; if a spec says 94 ft-lbs and doesn't explicitly say that
+this measurement should be taken with dry threads, you MUST
+lubricate the threads.
+
+By the way, the Porsche wheel-nut spec (94 ft-lbs) DEFINITELY
+assumes the use of anti-seize; whoever recommended torquing to a
+lower value was wrong.
+
+Besides, anti-seize is NECESSARY whenever you're dealing with
+dissimilar metals (in the example you gave, either alloy nuts on
+steel studs or steel nuts tightened directly against alloy wheels). 
+
+Ok...
+
+The deal with threaded fasteners in tension (as opposed to
+assemblies where the fasteners are used in double-shear, or as axles,
+with locknuts or whatever) is that they can ONLY work if the bolt
+stretches... The more they stretch, the more preload (tension) they
+generate.
+
+The most accurate way to measure the tension across a bolt is by 
+measuring its installed length; unfortunately, it's not practical for 
+most fasteners to be measured this way, so torque specs are used 
+instead.
+
+Now... Most people assume that the relationship between torque and
+preload is more-or-less linear (at least, up to the point at which
+the bolt fails).  Except in the case of an assembly coated with a
+VERY slippery lubricant, however, this is not true.
+
+When you tighten a dry (unlubricated) bolt, much of the torque
+you're applying goes toward overcoming friction between the male and
+female threads -- remember, the bolt's stretching -- and between the
+underside of the bolt head and the washer against which you're
+tightening it.
+
+As the bolt is tightened, the percentage of the torque required to
+overcome this friction grows exponentially... At some point, in
+fact, the bolt will STOP TURNING; once the threads stop making
+forward progress, the bolt stops stretching and no more preload will
+be generated.  If you continue to add more torque beyond this
+friction-bound limit, the head of the bolt will just twist off and
+you'll have to ask Pete Albrecht to explain EDM again.
+
+With a lubricated bolt, the point at which the fastener becomes
+friction-bound and stops turning will be VERY high up the
+torque-vs-preload curve... Ideally, it'll be ABOVE the point at which
+the bolt fails (that is, it will NEVER occur; the bolt will be
+capable of being tightened until it simply snaps).
+
+With a dry bolt, on the other hand, the friction-bound point is
+likely to be very low on the curve; attempts to generate high levels
+of tension across that dry bolt will be futile, since it just won't
+turn far enough to stretch sufficiently.
+
+Even if you don't reach the point at which the bolt stops turning,
+you're still in trouble if you apply lubruicated-bolt torque specs to
+dry bolts.  Because the torque-vs-preload curve for dry bolts levels
+off very rapidly, you may discover (or worse, may NOT discover until
+it's too late) that the tension you're generating across the bolt is
+SIGNIFICANTLY lower than what you want.  Even at moderate torque
+values, the difference between dry-bolt tension and lubed-bolt
+tension can be 50% OR MORE.
+
+You can find more information from any of the fastener manufacturers
+who know what they're doing -- Unbrako has a LOT of good literature,
+for instance -- or you can read Carroll Smith's "Engineer To Win" or
+"Nuts, Bolts, and Fasteners Handbook" (aka "Screw To Win").
+
+If you have a copy of "Engineer To Win", turn to page 138 and take a
+look at the graph in Figure 143.
+
+The graph shows Installation Torque versus Pre-Load for a
+cadmium-plated bolt (3/8-24 MS 20006) under three conditions:
+Lubricated with graphite in petroleum jelly, lubricated with engine
+oil, and dry.
+
+The differences are HUGE... At 17 foot-pounds of torque, the dry bolt
+achieves only 2400 pounds of preload, while the graphite-in-vaseline
+bolt generates about 5500 pounds -- over TWICE the preload.
+
+At higher torque settings, the differences are even larger due to the
+higher-than-linear increase in friction between the underside of the
+bolt and the washer, and between the male and female mating threads: 
+At 50 foot-pounds of torque, the dry bolt generates only 7800 pounds
+of preload while the lubricated bolt makes over 19,000.
+
+Additionally, the chart indicates that the dry bolt has an ultimate
+friction-bound preload limit of somewhat less than 15,000 pounds,
+while the lubricated bolt looks good up to its yield strength (which
+I'd guess is 100,000 pounds or so).
+
+The bolt in this example would probably be used in an application
+requiring 60-90,000 pounds of preload; if the bolt was installed with
+no lubrication, the absolute MAXIMUM achievable preload will only be
+16-25% of the desired value... Not good, especially if you're using 
+that bolt to hold some essential piece to your car.
+
+-Andy
+
+P.S.  Randy Hubbard, aka BoltMeister, will probably have something
+      to say on this subject, as well.  Listen to him... He's an
+      expert. 
+
+P.P.S.  I'm copying this to the "General" list, since it has 
+        applicability beyond 911s.
+
+=== Andrew Warren - fastfwd@ix.netcom.com               ===
+=== Fast Forward Engineering - Vista, California        ===
+===                                                     ===
+=== For sale: 73 914-6 w/ 2.7 Euro Carrera RS motor.    ===
+=== Info at http://www.geocities.com/SiliconValley/2499 ===
+
+==================================
+PorscheFans 911/912 Message
+To post a message, send e-mail to 911@PorscheFans.com
+.
+</pre>
+</BODY></HTML>

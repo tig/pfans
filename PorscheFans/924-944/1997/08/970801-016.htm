@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: LEDS </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="angel1 <angel1@oaktree.net>">
+  <META NAME="MsgPropFrom" CONTENT="'Ezra D. Hall' <ehall@btv.ibm.com>">
+  <META NAME="MsgPropSubject" CONTENT="Re: LEDS">
+  <META NAME="MsgPropDate" CONTENT="Fri, 01 Aug 1997 11:14:46 -0400">
+  <META NAME="MsgPropcc" CONTENT="silver@argenteus.co.uk, 924-944@porschefans.com">
+  <META NAME="MsgPropIn-reply-to" CONTENT="<33E1F325.302@oaktree.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">angel1 &lt;angel1@oaktree.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Ezra D. Hall &lt;ehall@btv.ibm.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: LEDS</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Fri, 01 Aug 1997 11:14:46 -0400</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">silver@argenteus.co.uk, 924-944@porschefans.com</td></tr>
+</table>
+<pre>
+LED's are rated for maximum current, forward voltage drop will vary between 
+types and batches of LEDs. For a given power supply voltage (Vdd), desired 
+current draw (Imax), and forward voltage drop (Vf), the following formula can 
+be used to determine the required series resistance to limit current:
+R=(Vdd-Vf)/Imax (This is Ohms Law, V=IR ->> R=V/I)
+
+For example, if you have two leds in series with 1.7v drop across each LED, 
+and a blinker circuit that outputs 13v max, and a max current rating for the 
+LEDs of 10mA:
+R=(13v-2*1.7v)/0.01A = 960ohms =~ 1Kohms
+
+      D1       D2  
+      |\       |\       R=1K
+ Vdd__| \|__ __| \|__/\/\/\/\__GND
+      | /|     | /|            
+      |/       |/ 
+
+A simple ckt can be made with a 555 timer IC to provide the desired blink, 
+with all parts available from radio shack. There are many ckts that can be 
+made to provide the blinking. Perhaps the simplest to create would incorporate 
+a blinking LED (it has a small chip within the LED to provide the blink). I 
+can prototype such a ckt, and give the details to the list if anyone is 
+interested. Or, you could replace the LED's in the door handles with blinking 
+LED's, and power appropriately.
+Good Luck,
+          Ezra
+
+
+On Fri, 01 Aug 1997 09:31:01 CDT angel1 wrote:
+>I have a suggestion.  Have someone (it is easy) build a blinker board to
+>drive the 2 LEDs.  Find the wires from the door to the stock alarm,
+>disconnect from the stock alarm, hook the blinker board to the  LEDs,
+>(make certain the polarity + - is correct so they don't burn out) hook
+>the blinker board to 12Vdc supply.  This will make the door LEDs blink,
+>all you will need to add is a switch to turn them on and off.  I'll
+>build the board for you if you wish, but someone local can do it and
+>Radio Shack has circuits to do this.  Easy!
+>
+>The LEDs probably run off 1.5 - 3 volts or so, which is standard for an
+>LED.  I don't have the exact specs, go to Radio Shack (or equivalent) 
+>and take a look at recommended voltages for their LEDs.
+>
+>Dana
+>
+>http://www.oaktree.net/angel1
+>
+>==================================
+>PorscheFans 924/944/968 Message
+>To post a message, send e-mail to 924-944@PorscheFans.com
+>
+
+--
+
+
+.
+</pre>
+</BODY></HTML>

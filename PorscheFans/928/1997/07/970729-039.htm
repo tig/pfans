@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: Electrical Problems et al. </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'David Roberts' <mm_innov@earthlink.net>">
+  <META NAME="MsgPropFrom" CONTENT="dkelly@hiwaay.net">
+  <META NAME="MsgPropSubject" CONTENT="Re: Electrical Problems et al.">
+  <META NAME="MsgPropDate" CONTENT="Tue, 29 Jul 1997 21:19:46 -0500">
+  <META NAME="MsgPropcc" CONTENT="dkelly@hiwaay.net, 'Jim Whipshaw' <WhipsawJim@aol.com>, '928 Fans -Website' <928@porschefans.com>">
+  <META NAME="MsgPropIn-reply-to" CONTENT="Message from 'David Roberts' <mm_innov@earthlink.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">David Roberts &lt;mm_innov@earthlink.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">dkelly@hiwaay.net</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: Electrical Problems et al.</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 29 Jul 1997 21:19:46 -0500</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">dkelly@hiwaay.net, Jim Whipshaw &lt;WhipsawJim@aol.com&gt;, 928 Fans -Website &lt;928@porschefans.com&gt;</td></tr>
+</table>
+<pre>
+David Roberts asks:
+>
+>  David,
+> Help me out with your last post to Jim, it seems your message to him is
+> quite confusing, of course it could just be the heat in HOTLANTA.
+> 
+> Jim Wrote:
+> >> *   My Porsche voltmeter reads from .5 to 1.5 volts lower than an
+> >> external voltmeter hooked to the jumping post in the engine compartment.
+
+[snip]
+
+> You make this sound like Jim dosn't have a problem, just normal resistance
+> variances from differant locations of voltage sampling, especially since the
+> higher voltage was taken at the remote start terminal which is about 6-8
+> feet (wire footage) closer to the alternator . Plus I am sure that the
+> factory gauge will never be as accurate as a DMM.
+
+Was trying to establish that an automobile is a nasty place for 
+electronics. :-)
+
+> >Another thing to consider is replacing the original wire(s) between the
+> >battery and alternator. Or double it by adding a second huge wire beside
+> >the first.
+> >--
+> >David Kelly
+> 
+> Please help to make this a little clearer for Jim and myself.
+
+Lets assume the alternator and regulator are working correctly for a moment. But the battery isn't getting charged. The alternator can typically crank out 60A or 80A (didn't look it up just now) when running at full tilt. And the battery is 10' of wire away. My "e = i * r" diatribe was to demonstrate how high currents only require very little voltage to make a significant voltage drop.
+
+If the portion of the regulator in the alternator where voltage is detected is accessible, then one can cause the alternator to correct for voltage drop betwen alternator and battery by extending the voltage sensor to the battery with additional wires. These wires don't have to be large, 16ga or 18ga would do, because almost no current will be flowing thru them, they will have little or no voltage drop. And the alternator/regulator would see the true voltage of the battery.
+
+On the other hand, the stuff in the engine compartment will run at a higher voltage because its connected to the alternator, which is connected to the battery thru this suspect voltage drop. Ouch.
+
+Lets look at another solution. If the alternator/regulator is working correctly and the problem is the huge wire running from alternator to battery then a solution would be to replace this huge wire. But there may not be anything really wrong with this wire, only that its minimally degraded and causes the charging system not to work. Another solution would be to run another huge wire in addition to the one which exists. This would lower the total resistance, and increase the margin of safty. Resistors in parallel add like this:
+
+    1/Rt = 1/R1 + 1/R2 + 1/R3 .... + 1/Rn
+
+For only 2 resistors (and for those lacking 1/x on their calculators)
+
+    Rt = ( R1 * R2 ) / ( R1 + R2 )
+
+Where:
+    Rt = Resistance total
+    R1 = first resistor
+    R2 = second
+    Rn = last
+
+Adding a 2nd wire of identical resistance will lower the total resistance to half. Even adding a 2nd wire of higher resistance will lower the total resistance.
+
+Running heavy wires as described above is a pain.
+
+While it sounds ridiculous, its not such a bad idea to run a ground wire from the battery to the alternator. While you have a huge metal chasis between the two, its not always the best. When installing amateur radio equipment in cars I always run power and ground all the way to the battery. At the radio and at the antenna, it also gets grounded to the chassis. A real ground wire to the battery prevents lots of little problems in the future. Oh, and fuse both ground and power. This is a good idea for high power audio stuff too.
+
+The other thing I want to point out is in an automobile, voltages vary all over the place. I have 13.8 or so in my fuse box. But only 12 or so in my instrument pod. Not sure where its going but as an engineer I can't say its unexpected. Also can't say my 928S's electrical system is healthy as it pulls almost 1/2A from the battery with everything turned off. I suspect my alternator. Will deal with it after the water pump. Will do the water pump after I get the transmission fully back in the car. Will finish the transmission job when I did the car out from the pile that has accumulated around it in the garage. Will work on that when I get off this d*mn computer and the 'net.....
+
+'83 928S
+(7) cats
+--
+David Kelly N4HHE, dkelly@hiwaay.net
+=====================================================================
+The human mind ordinarily operates at only ten percent of its
+capacity -- the rest is overhead for the operating system.
+
+
+.
+</pre>
+</BODY></HTML>

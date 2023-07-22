@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Cruise Control Servo cleaning, and related info</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="924-944@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="'Ezra D.B. Hall' <ehall@btv.ibm.com>">
+  <META NAME="MsgPropSubject" CONTENT="Cruise Control Servo cleaning, and related info">
+  <META NAME="MsgPropDate" CONTENT="Tue, 22 Apr 1997 15:30:49 -0400">
+  <META NAME="MsgPropOrganization" CONTENT="IBM/x86">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">924-944@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Ezra D.B. Hall &lt;ehall@btv.ibm.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Cruise Control Servo cleaning, and related info</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 22 Apr 1997 15:30:49 -0400</td></tr>
+</table>
+<pre>
+Here is some info on fixing what seems to be the most common cruise
+control problem with 944's, from my own experience with my '86 with 230K
+miles.. This info generally applies to '85.5 and newer 944's. I believe
+pre '85.5 vehicles used the same servo, but different control
+electronics which used RPM's instead of vehicle speed as a feedback
+parameter.
+
+Symptoms:
+     o Cruise Control works intermittently
+     o Surging
+     o Full or partial throttle acceleration above pre set speed
+
+Component identification:
+     o The Cruise Control Electronics are located under the dash on the 
+       left side of the vehicle behind and above the hood release lever.
+     o The Cruise Control Servo is located in the Engine compartment in 
+       front of the Battery.
+
+  The Cruise Control electronics compare vehicle speed to set speed, and
+adjust servo position accordingly. I am not sure if a Proportional
+Integral Derivative (PID) controller is used, or some other combination
+thereof. It really isn't too important for our purposes. The important
+thing to understand is how the servo needs to operate for correct cruise
+control functionality. The controller needs to set the position of the
+servo (which in turn moves the gas pedal, and throttle). Since the servo
+uses a DC motor, which produces a force somewhat proportional to the
+current supplied to it, an additional positional feedback loop is
+required. A variable resistor is used in this case, which is attached to
+a shaft inside the servo. If this variable resistor fails due to
+contamination, oxidization, etc, this feedback loop is broken, and the
+cruise control electronics can not position the servo correctly, causing
+surging and/or related symptoms. In my case, I was able to disassemble
+the servo, and clean the variable resistor parts to restore operation of
+this feedback loop, and therefor my cruise control. If you are
+experiencing similar cruise control problems, this may be worth trying.
+
+You will need:
+    o Goggles
+    o phillips
+    o assorted sockets,wrenches (10mm,12mm?)
+    o Spray on contact cleaner (Radio Shack, local electronics supply,
+or 
+      mail order) look for something that also contains a protectant to
+      minimize future oxidization. This is typically some sort of
+mineral oil. 
+
+o Remove cable from servo. It is a small ball joint which is held on by
+a metal clip. The metal clip has to be slid off to remove the cable.
+
+o Remove the Electrical Connector from its housing/mount, and
+disconnect.
+
+o Take note as to how the servo and related brackets are attached,
+unbolt, and remove from vehicle. Be careful not to loose any parts. The
+metal spacers inside the rubber grommets fall out easily. 
+
+o Mark the relationship of the lever on the servo shaft (the one you
+just disconnected the cable from), and take note as to which side the
+spring returns it to. If the shaft doesn't feel like it has a spring
+attached to it, this is another big problem with your servo. Remove the
+bolt holding this lever on by holding the lever with a pair of pliers.
+
+o Use a high quality phillips head screwdriver to remove the cover. Be
+careful, the spring may come flying out. You may need to gently tap the
+sides of the case to open it. Observe how things are assembled. The
+variable resistor consists of two carbon traces on the PCB board, and a
+wiper attached to the internal shaft. You will notice that the internal
+shaft is not directly attached to the shaft which exits the case. It is
+connected in such a way as to only allow the servo to pull on the cable
+in a manner as to increase throttle. You will also note that you can not
+rotate the internal shaft by rotating the external shaft while the unit
+is assembled. This is why we couldn't test for correct variable resistor
+operation while the unit is assembled. Inspect the carbon traces. They
+should not look burnt, or otherwise damaged. Mine had some grease on it.
+Use spray on contact cleaner to clean the carbon traces, and the wiper
+on the inner shaft. Make sure you hold the servo so that the liquid
+(cleaner and dirt) can run out of the case. Insert the inner shaft and
+check for adequate wiper pressure. If the wiper has deflected over time,
+you may want to bend it a bit to restore contact pressure with the
+traces. You don't want too much pressure or it will wear out
+pre-maturely. Now would be a good time to check  operation with an ohm
+meter. Connect to the wiper, and the end of one of the traces. Check for
+smooth readings as you rotate the shaft (must be perpendicular to the
+PCB). I believe the resistance should vary from several Kohms to close
+to Zero. Check both traces. Once you are certain the traces are clean
+enough, re-assemble. I re-greased appropriate areas, just make sure you
+don't get any on the variable resistor contact surfaces. Once the cover
+is back on, check that the shaft returns to its original
+counter-clockwise position via operation of the internal spring. If so,
+re-assemble, and re-install in your vehicle. Now take it out on the
+highway and see if it works!  
+
+  The above shouldn't take more than about an hour to do.
+
+Let me know if there are any comments or questions on the above. I am
+just going from memory. Maybe we could improve on the above, and make an
+addition to the FAQ once it is refined enough.  
+
+Good Luck!
+
+Ezra Hall (ehall@btv.ibm.com)
+'86 Guards Red 944, '87 Engine
+.
+</pre>
+</BODY></HTML>

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: MIME messages </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="928@porschefans.com, tavern@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="David Kelly <dkelly@hiwaay.net>">
+  <META NAME="MsgPropSubject" CONTENT="Re: MIME messages">
+  <META NAME="MsgPropDate" CONTENT="Mon, 13 Apr 1998 21:02:10 -0500">
+  <META NAME="MsgPropIn-reply-to" CONTENT="Message from 'Gene O'Rourke' <abeo@worldnet.att.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">928@porschefans.com, tavern@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">David Kelly &lt;dkelly@hiwaay.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: MIME messages</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Mon, 13 Apr 1998 21:02:10 -0500</td></tr>
+</table>
+<pre>
+"Gene O'Rourke" writes:
+> 
+> If you go to Eudora; after its' installed, click on Options, then under
+> "Encoding Method", click on "Attachments", then on "Uuencode".  After that,
+> all your messages will go out in Uuencode unless you want to revert to
+> MIME.  If you're running a Mac, click on "BinHex" instead of Uuencode.  The
+> results will be the same.
+> 
+> I know this will sound absolutely obtuse to all the computer dudes on the
+> list but I'm a writer, not a hacker. 
+
+Now wait one second. Am afraid my employer has turned me into a
+Certified Computer Nerd, and the above makes little sense to me. OTOH,
+it might just be The Way It Was Implemented. (PC software is stupid this
+way).
+
+The problem is *not* MIME. MIME is a good thing. This message is in MIME
+and I'm not going to apologize for it. The magic (which keeps people
+from complaining, including me) is that little header above which says,
+"Content-Type: text/plain", combined with the fact it doesn't say
+"Content-Type: text/enriched", or html, or worst of all, "Content-Type:
+multipart/mixed". Eudora (Pro and Lite) users, click on your "Blah Blah
+Blah" button to see the headers I'm talking about.
+
+Attachments are usually thought of as a different animal entirely. An
+attachment is usually a way to send a file along with your message.
+Usually when a mailer sends an html formatted message it uses the MIME
+technique for attachments and starts out with the "Content-Type:
+multipart/mixed" header. Then puts the html version in one attachment
+(part), and plain text in another.
+
+In the Bad Old Days before there was MIME the most popular method of
+emailing files was uuencode. Uuencode was invented for a slightly
+different reason (ever use uucp?) but due to the nature of Unix and the
+ability to build new functionality by borrowing existing tools, uuencode
+was found to be useful for email "enclosures". The great thing about
+uuencode is that it ignores everything outside of its bounding begin/end
+lines. One could simply save an email message, headers and all as a
+file, then throw it at uudecode which would find its stuff. BinHex works
+the same way for Macs.
+
+When MIME encloses a file, a newer replacement for uuencode is
+preferred, known as base-64. Base-64 gets the data packed a bit tighter.
+Base-64 and uuencode protect your data against systems who would change
+line termination, drop high bits, or otherwise alter your data. Once
+Upon A Time, 7 bit data paths were common, 6 bits wasn't uncommon.
+Anyway, a 7 bit serial data stream is about 10% faster than an 8 bit
+data stream over the same modem. At 300 baud when paying for long
+distance telephone calls, that's an important 10%.
+
+Now to close the loop: its possible your email client disables MIME
+entirely when uuencode is selected as the method for encoding
+attachments. Without MIME, it has no way to tag the formatting method
+used to make your text "pretty", so it defaults to plain text.
+
+I have never had any problems sending anything other than plain text in
+the message using Eudora Pro/Light versions thru 3.1.1 on the Mac, nor
+version 3.0.5 of Eudora Lite under Win-32 (Win95/NT). However, if you
+use any text formatting, such as font selection, font size, underlining,
+bold, etc., Eudora will instantly drop the text/plain Content-Type for
+something more exotic. Set your font and font size using the Settings...
+menu item.
+
+By any chance do you have a "template" or "style sheet" in your email
+client? I'd bet that is where the nasty "MIME" formatting originates.
+
+'83 928S
+
+--
+David Kelly N4HHE, dkelly@nospam.hiwaay.net
+=====================================================================
+The human mind ordinarily operates at only ten percent of its
+capacity -- the rest is overhead for the operating system.
+
+
+.
+
+</pre>
+</BODY></HTML>

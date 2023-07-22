@@ -1,0 +1,5020 @@
+
+Date: Sat, 1 Aug 92 11:32:14 EDT
+From: edwards@jargon.whoi.edu (Gary Edwards)
+Subject: RE: 914 spongy brakes
+
+
+Philip Katz  writes:
+
+
+	"You referred to "exercising" calipers in your last message to the
+porschephiles list.
+
+	I know that this was in connection with 914s, but I have a problem
+with my 944 in that the rear calipers seem to stick slightly. The inner
+surface of both rear disks ("rotors"?) is not clean and shiny, though the
+outside is. The car is in use every day, but I rarely tend to brake hard.
+I was planning to rebuild the calipers, but am intrigued by the idea of
+"exercising" them.
+
+	Could you please give me a brief idea of how you do this?"
+
+Philip,
+
+Exercising calipers is a method of breaking loose caliper pistons that have 
+bonded to their rubber seal ring.  I first saw it in an article by Chuck 
+Stoddard in Panorama years back and I've since discovered it in my shop 
+manual for the 914.  For a dual piston caliper (911's, 914's, some others), the procedure is simple.  Remove one pad and replace it with a piece of thin wood,
+a worn out pad, or anything that will allow you to get the piston most of the
+way extended and still retract it manually.  Retract the piston as far as you 
+can by pushing it back with a C clamp or whatever works.  Now extend it as 
+far as possible by pumping it out with your foot on the brake pedal.  Retract
+and repeat three or four times.  Do for all caliper pistons.  Check your brake
+fluid often while doing this; retracting the pad could potentially overflow the
+resevoir and extending could drain it (for extremes of low/high level). 
+
+Since you have a 944, you probably have single piston calipers, unless you have
+a turbo or at least turbo brakes.  I've never done this on a single piston 
+caliper, but it seems easy enough to adapt.  Remove both pads and replace with
+worn pads or something thin, retract and extend piston several times.  The worst
+thing you can do (I've done it) is to forget to put in the thin object.  Then
+you have to somehow retract the piston off your disc with no place to push!
+
+The problem you describe does not sound like a sticky piston.  Assuming you
+do have single piston calipers, assymetric (one pad more than the other)
+disc or pad wear is more likely due to excessive drag in some other component 
+of the caliper.  I would remove the pads and inspect the areas where the 
+(floating) caliper slides over the fixed mounts.  The pads should be free
+sliding.  From what you describe, I'd expect the inner pad to be stuck, so 
+the outer one is doing all the work.  I saw this problem on a Honda recently, 
+one pad was totally worn away, while the other had about 6 mm left on it.
+My experience with single piston calipers is limited (my Fiesta and my Ford
+truck, plus a Honda I "consulted" on), but I think you'll find this to be 
+accurate. 
+
+You might try a few maximum performance stops from moderate speeds (100 kph)
+in a safe area to exercise the brakes in a different way; sometimes this 
+dramatically improves their feel. 
+
+Gary
+
+------------------------------
+
+Date: Sat, 1 Aug 92 17:34 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: K-Jetronic questions..
+
+Craig -
+
+The best source of info on Bosch EM/FI systems is Probst's book, published by
+Bentley and carried by most of the Porsche, BMW, etc. aftermarket suppliers.
+
+Rather than trying to retrofit a K-Jet system to your Wankel engine, I think you
+would derive more benefit and less pain by sticking large pins into your eyes.
+There are a lot of suppliers of aftermarket tuning systems for RX-7's.  Perhaps
+Haltech has something... I really don't know who's got the best stuff.
+
+Kevin
+
+------------------------------
+
+Date: Sun, 2 Aug 92 13:14:17 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Subject: Brake bleeder tools
+
+Does anyone have any opinions of the various brake bleeder kits on the
+market? I need something that will allow me to bleed my brakes (951 and
+914) without the assistance of another person.
+
+Tweeks, Imparts and Performance Products all sell the 'MityVac'; Are
+there others? I seem to remember some discussion a year or so ago
+comparing a few of these tool.  Which is 'best'?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Look out! There are llamas!
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+------------------------------
+
+Date: Sun, 2 Aug 92 15:49:28 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Subject: 944 rollbars again...
+
+Sorry to keep bringing this up, but after much soul searching, I'm still
+having a hard time deciding what sort of roll bar/cage to put in my 944
+turbo. 
+
+I've looked into the Saftey Devices cage and I was (until yesterday)
+ready to run out and either buy one or have a local shop cutom make me
+one of similar design.  It'll require a little welding inside the car,
+but I think I'm resolved to go ahead and do that. The nice thing about
+this design is that, while the rollbar hoop is permanently attached to
+the car, the rest of the cage is 'easily' removable (the sales dude at
+Shoestring Racing claims "10 or 20 minutes to install/remove the cage by
+yourself"). (BTW: does anyone know of any other suppliers of SD bars
+other than Shoestring?)
+
+My mechanic _strongly_ advises against a bolt-together cage. His
+reasoning is that in the event of a crash, the bolts (or the welds near
+them) will probably fail -- he cites an incident several years ago when
+he crashed his Spitfire and says that the cage almost killed him when it
+broke apart...
+
+My reason for leaning towards a bolt-together cage is that the car is my
+street car and a full cage would appear to be rather invasive for
+day-to-day driving (e.g. the A-pillar bars look like they'll impede
+airflow out of the side fresh air blowers and block access to the window
+switches; the dead-pedal will be partially blocked). Can anyone with a
+caged 944 comment on the cage's impact on the car's creature comforts?
+Unfortunately all the local caged 944's have been sold out of the area
+recently so I won't be able to look at any examples until my next event
+(at which time, I hope to have already installed the cage...)
+
+I drive at 6-8 club (PCA/BMWCCA) events per year. Once I get the cage, I
+plan on competing in the HSR Walter Mitty events 2-3 times a year at Rd.
+Atlanta -- I'll drive in the "Sports" class which from what I gather has
+similar passing rules, etc. to PCA club events.  I have no plans to
+start wheel to wheel racing in this car. [My apologies to the w2w list --
+I'm a lurker looking for as much advice as I can get: On this particular
+topic, I'd guess that you guys to have more experience than the school
+or porsche lists...] 
+
+Thanks for your help!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Look out! There are llamas!
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+------------------------------
+
+Date: Mon, 3 Aug 1992 08:26:23 EDT
+From: timmins@ravel.udel.edu (Steve Timmins)
+Subject: Re: Brake bleeder tools
+
+  [included note of Aug  2, Steve Tynor:]
+} Does anyone have any opinions of the various brake bleeder kits on the
+} market? I need something that will allow me to bleed my brakes (951 and
+} 914) without the assistance of another person.
+} 
+} Tweeks, Imparts and Performance Products all sell the 'MityVac'; Are
+} there others? I seem to remember some discussion a year or so ago
+} comparing a few of these tool.  Which is 'best'?
+} 
+} =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+} Look out! There are llamas!
+}                      
+}     Steve Tynor
+}     Georgia Tech Research Institute
+}     tynor@prism.gatech.edu
+  [end of included note]
+
+
+Pep boys sells clearplastic hose for about two bucks.  Get a 2 litre
+bottle and drill 2 holes in ther lid to tightly fit the hose.  Add one
+pumper person.
+
+I've had mixed results -w- my mityvac. and the vaccum CAN suck air into
+the system since sals were designed to work the other way, pressurewise.
+
+Steve
+
+- -- 
+
+------------------------------
+
+Date: Mon, 3 Aug 92 07:38:40 EDT
+From: "George Beuselinck" <gb@vnet.ibm.com>
+Subject: Brake Bleeding Kits
+
+Steve, I have the Mityvac bleeder and am pleased with its functionality.
+It's only drawback is that you do tend to suck air through the threads
+of the bleeder valve (that is not a problem, but it is disconcerting
+the first time you see it).
+
+There are two levels of mityvac available.  The first is a plastic,
+light duty one (I believe that performance products sells this one).
+The second is aluminum (or metal, at least), has a vacuum gauge, is
+rebuildable, and comes in a plastic carrying case.  That is the one to
+get. It is available from Imparts in St Louis.
+
+The bottom line, out with the old fluid, in with the new, and don't
+get any air bubbles in the lines while you're doing it.
+
+George Beuselinck
+
+------------------------------
+
+Date: Mon, 3 Aug 92 09:06 EDT
+From: fwk@homxc.att.com
+Subject: Re: Brake bleeder tools
+
+>
+>Does anyone have any opinions of the various brake bleeder kits on the
+>market? I need something that will allow me to bleed my brakes (951 and
+>914) without the assistance of another person.
+>
+>Tweeks, Imparts and Performance Products all sell the 'MityVac'; Are
+>there others? I seem to remember some discussion a year or so ago
+>comparing a few of these tool.  Which is 'best'?
+>
+I use a homebrew approach which works quite well, assuming you have an
+air compressor or other source of compressed air at relatively low
+pressure and volume.
+
+Buy a replacement brake reservoir cap (914 and 944 are interchangable),
+either new or at a swap meet. Drill a suitable hole in the center of the
+cap and install a standard tire valve. I bought a metal one (actually
+a set of 4) designed for mag wheels which uses a nut and several rubber
+washers for mounting, to make sealing to the cap relatively easy.
+Buy an air chuck which clips onto a tire valve (they are more frequently
+used for getting initial bead sealing in mounting tires)- Pep Boys
+has them, but I'm sure others do also.
+
+To use, replace the standard cap with the cap with the valve. Set the
+compressor to about 20 PSI and attach the air hose to the tire valve 
+in the cap. Use standard bleeding equipment (e.g. a hose and a can or
+bottle) at each wheel. Just open the bleeder, and fluid comes out for
+as long as you leave the valve open. Note that you can go through a
+lot of fluid quickly, so check the reservoir frequently. Don't forget
+to reduce the pressure to 20 PSI or so, or you WILL make a big mess.
+If you use something other than a compressor (like an air bottle),
+I would still rig up a regulator to hold the 20 PSI.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+------------------------------
+
+Date: Mon, 3 Aug 1992 10:10:48 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Address of UK Porsche registers.
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	Recent questions about Porsche tractors on the list has prompted
+me to post this list of PCGB (Porsche Club Great Britain) registers. If
+you have (or know of anyone has) any of the cars listed, I'm sure that the
+register keeper would be pleased to hear from you. They can also supply
+copies of the registers to interested parties.
+
+	I have met John Hearn (the keeper of the tractor register) and he
+brings his 911 back to the factory in Stuttgart every year for its annual
+service!! I doubt whether he does the same with his tractor :-)
+
+
+
+356, 912 registers
+==================
+c/o PCGB,
+Ayton House,
+West End,
+Northleach,
+Gloucestershire,
+England
+GL54 3HG
+
+Tel : +44 451 60792
+
+
+914 register
+============
+David Fagan,
+c/o ICL Nederland B.V.,
+Het Kwadrant 1,
+3606 AZ Maarssen
+Netherlands
+
+Tel : +31 3465 98111
+Fax : +31 3465 61298
+
+
+Carrera RS register
+===================
+David Gilhooley,
+1, The Crescent,
+Maidenhead,
+Berkshire,
+England
+SL6 6AA
+
+Tel : +44 628 20897
+
+
+Carrera 3 register
+==================
+Michael Payne,
+Dynelea,
+Woodchurch Road,
+Shadowhurst,
+Ashford,
+Kent,
+England
+TH16 1LQ
+
+Tel : +44 233 732655
+
+
+911 (2 litre) register
+======================
+Bert Gear,
+Uplands,
+Cairn Road,
+Ilfracombe,
+Devon,
+England
+EX34 8EL
+
+Tel : +44 271 63700
+
+
+911 2.4 register
+================
+Mark Waring,
+PO Box 160,
+Epsom,
+Surrey,
+England
+KT19 0QN
+
+Tel : +44 81 394 1707
+
+
+911 2.7 carrera 1974/5 register
+===============================
+Richard Hill,
+11, Sunnyside Crescent,
+Drumoak,
+Banchory,
+Kincardineshire,
+Scotland
+AB3 3EG
+
+Tel : +44 330 8581
+
+
+924 carrera GT register
+=======================
+Nigel Hull,
+20, Livonia Road,
+Sidmouth,
+Devon,
+England
+EX10 9JR
+
+Tel : +44 3955 78658
+
+
+Tractor register
+================
+John M Hearn,
+Follyfield,
+Eight Ash Green,
+Colchester,
+Essex,
+England
+CO6 3QB
+
+Tel : +44 206 210553
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: Philip Katz                     ::  'phone : +44 394 693446           ::
+:: BT D&P Computing Security Unit  ::  fax    : +44 394 693464           ::
+:: Anzani House, Trinity Avenue,   ::  e-mail : Katz_P_M@bt-web.bt.co.uk ::
+:: Felixstowe, England, IP11 8XB   ::                                    ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------
+
+Date: Mon, 03 Aug 92 12:45 EDT
+From: "Bruce.Pigozzi" <22107BWP@msu.edu>
+Subject: Wax?
+
+This may open the flood gates!  I have been very happy using 100% (is it
+really?) Carnuba Wax on my '84 944.  The car is Copenhagen Blue (VERY dark
+blue) and I've found the Carnuba Wax keeps it looking new.  My Porsche dealer
+is now stocking (and pushing) a "system" by ZYMOL.  I also had ocassion to
+visit a very reputable body shop whose owner recommends (but DOESN'T sell)
+something called "AQUA-SEAL" (by Vespa? or Vesta?).  He saids there is nothing
+better for very dark colored cars.  I can't find it.  Any one know it?
+
+The literature for the ZYMOL is impressive, a different pamphlet for each of
+at least 3 steps, a "bathe" (the cute "e" puts me off), a pre-wax cleaner, and
+a wax. The wax comes in 3 varieties (one for light colors, one for dark
+colors, and one for Japanese paints of any color; the latter is called "japon"
+ - that's two cuties, yuk).  Supposedly this stuff is great for all cars but
+especially good for those with "clear-coat" finishes. The pre-wax step is $14
+and the wax (enough for two applications) is $35!!
+
+Are there any "concourse" types among the readers who have knowledge (or
+opinion?) about waxes and wax-like compounds for cars which we pretend will
+last forever and, unlike their drivers, look like it?  Obviously there are
+climatic variations; some "waxes" are better for sunny climes (NOT Michigan)
+and some better for snow and salt (that's us).  Seems obvious anyway.  But, I
+don't have the answer.  Do any of you?  I'm sure there are a lot of scams out
+there.  It's not that much different from oil additives, rust proofing, and
+other schemes designed to separate me from my $.  Can anyone help cut through
+the haze and....I'll end before I lapse into any more double entendre.
+
+------------------------------
+
+Date: Mon, 3 Aug 92 12:25:14 PDT
+From: merithew@saffron.Stanford.EDU (Robert Merithew)
+Subject: 914 rubber engine parts
+
+I just finished putting my '74 914 2.0 engine back in the car and have
+misplaced the rubber grommet that fits in the engine shroud just above
+the oil pressure sender and allows the oil pressure sender wire to pass
+through the engine shroud without letting the cooling air out.  The
+Porsche dealer tells me this part is no longer available from the
+factory.  Any Ideas where I might get one or a suitable replacement?
+
+Also, the car is having problems coming off idle with load on the
+engine.  Whenever I take off from a stop, the car feels like it's only
+running on two or three cylinders for a second until the rpms come up.
+In neutral, the off-idle transition feels smooth.  Any ideas?
+
+thanks,
+- -- 
+  Robert Merithew                              _______________    __o
+  An Ex-Overhead Cost at Stanford University  ______________     -\<,
+  merithew@jessica.stanford.edu                            ......O/ O
+
+------------------------------
+
+Date: Mon, 3 Aug 92 12:40:56 PDT
+From: stine@jeeves.UCSD.EDU (Blaine Stine)
+Subject: RE: Brake bleeder tools
+
+
+I got one of the MightyVac's from Imparts, it's great. The model is
+the SilverLine which is their all metal delux version. They also make
+a plastic model with out the vaccum gauge for around $30 but I'd 
+spring for the SilverLine. They outline a number of uses for it int
+the manual besides brake bleeding. It has saved me hours on my
+'77 Mercedes tracking down vaccum leaks. One thing is that the
+rubber fitting that attaches to the bleeder valve on the caliper
+does allow some air to slip into the bleeder line (not back into
+the brake system) so it looks like you are sucking out a lot of 
+air, but it's just the way the adaptor seats. I think a bit of 
+silicon vaccum grease would stop it.
+
+Blaine Stine
+
+------------------------------
+
+Date: Mon, 3 Aug 92 16:10:04 EDT
+From: edwards@jargon.whoi.edu (Gary Edwards)
+Subject: Re: 914 rubber engine parts
+
+Robert,
+
+For your missing oil sending unit grommet, I'd try Automobile Atlanta in 
+Marietta, GA.  I hate to recommend them, but sometimes they have 914
+parts you just can't get anywhere else.
+
+Your drivability problem could be lots of things.  If you get black smoke out
+the exhaust, the pressure sensor is likely bad.  Since you just put the engine 
+back in the car, I'd look for disconnected or broken vacuum hoses.  Make sure
+your timing and dwell are OK, especially since the timing marks on the 
+impeller can be hard to find on some cars.  I once had the timing so far off
+the exhaust lines were glowing red, all because I mistook a red smudge
+for the 27 BTDC timing mark.  If nothing found, do an RPM drop test to see if
+all the cylinders are working OK.  If still nothing, try either a leak-down or
+compression test.
+
+You really didn't say what maintenance was performed while the engine was
+out.  The above is a generic troubleshooting procedure.  Tell me more specifics
+and I'll try to be more helpful.  The universe of possible problems is much 
+larger after major engine work than if it just started happening by itself.
+
+And don't expect to find 914 parts at a Porsche dealer.  We`ve been forgotten
+as Porsche has taken its vehicles so far upscale that only 4500 people in the
+US cared to purchase them last year.  My favorite parts source is Zim's @
+800-356-2964.
+
+Gary
+
+------------------------------
+
+Date: Mon, 3 Aug 92 16:45:16 EDT
+From: edwards@jargon.whoi.edu (Gary Edwards)
+Subject: Re: 944 rollbars again...
+
+Steve,
+
+I have two 914 race cars, one with a welded cage and one with a bolt in Safety
+Devices cage.  If bolt in wasn`t good enough, SCCA wouldn't allow it for 
+racing.  Showroom stock and IT both allow bolt in cages.
+
+I suspect your mechanic's problem was due to improper bolts or improper design.
+You should get a copy of the SCCA General Competition Rules for a guide to 
+the right way to do safety systems.  
+
+One of my cages is from Safety Devices, and I'm sure these folks never read
+the GCR.  The cage is strong enough, but it doesn`t comply with an SCCA 
+requirement that all portions of the cage be made of the same material.
+
+I recently helped a friend with installation of a fully bolt in cage on a 
+944.  There are lots of people making cages for 944's and prices vary
+widely.  The cage did not seem to block anything in the pedal area and the
+window switches were accessible (I think).  If the cage you are looking at
+blocks these things, find another manufacturer.  I prefer a full cage (minus
+the door bar for accessibility) even when driving on the street - racing's
+safer!
+
+Gary
+
+------------------------------
+
+Date: Mon, 3 Aug 92 14:15:10 PDT
+From: Stefan.Fielding-Isaacs@corp.sun.com (S.Fielding-Isaacs [WWFO Pubs Project Lead])
+Subject: 914 windshield washers
+
+
+ 
+ Just install the 914/6 kit. It was electrically driven,
+ with a different reservoir. Works great.
+
+ Stefan
+
+------------------------------
+
+Date: Tue, 4 Aug 92 02:56 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Wax?
+
+Bruce,
+
+I have met a number of people who really like the Zymol products, including my
+favourite body shop.  Aside from all the claims about how great it makes your
+car look, their wax is apparently also very very easy to work with.
+
+Me, I drive my car year-round.  It's certainly not a concours baggie car, but I
+do keep it very clean and pretty, as much as I can.  I've used Meguire's yellow
+paste wax (#26) for the last few years, in large part because of its durability.
+I hate doing a sub-zero wash of my car in January, only to learn that it needs a
+coat of wax!  The Zymol products are not durable (this wisdom from several
+people who do use and love the stuff).  The Meguires #26 is also relatively easy
+to work, compared for example with Blue Coral.
+
+I have other friends who use the polymer sealants rather than wax, and they too
+are happy and have a gorgeous car.  I think it all comes down to personal
+preference.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 4 Aug 92 03:15 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: re: Brake bleeder tools
+
+I may have mentioned this before.  I have this absolutely wonderful shade-tree
+pressure bleeder.  It's called an Eezi-Bleed, and Moss Motors sells it for a tad
+under $40 (800-235-6954, fax 805-968-6910).  Moss is a british car
+aftermarketer, kind of like Automotion is to Porsches.
+
+The Eezi-bleed comes with the world's assortment of reservoir caps.  Like
+Frank's system, it has an air chuck which gets fastened to a tire.  Differently,
+the air pressure first feeds a bottle you fill with fresh fluid.  A second hose
+leaves the bottle and plugs into a reservoir cap, which you screw onto the brake
+fluid reservoir.
+
+They recommend you use no more than 20 lb. of pressure.  I just did my car with
+a tire that had 16 lb. in it, no sweat.  The lower the pressure, the less risk
+of cavitation during bleeding, which is a somewhat bizarre way of getting more
+air into the system rather than out!  This tool is absolutely recommended if
+you're going to bleed a hydraulic clutch.
+
+When a friend called two weeks ago, saying he was putting together a Pegasus
+order, I splurged on a pair of their Tilton brake fluid catch bottles. 
+(414-782-0880).  I had just flushed my wife's car's brakes, and was annoyed (so
+to speak) at my clumsiness with a piece of hose and an old spaghetti sauce jar. 
+The Tilton catch bottle has a  top and the hose enters into it - no chance of it
+flopping out.  The only stupid thing is that you have to remember to crack open
+the top, else you'll compress air in the bottle, and when you pull the hose off
+the calliper screw, fluid shoots back out!  (You might guess I learned this the
+hard way.)
+
+The pair of bottles went for some outrageous price in excess of $20.  However,
+with both the Eezi-bleed and the catch bottles, I really love the convenience
+they bring; they're worth it.  Moreover, I can get a great bleed with flowing
+very little brake fluid, which is darned expensive when it's the high temp
+stuff.  I used maybe 1/4 to 1/3 of a bottle this evening.
+
+The one other tool I recommend is a glass turkey baster.  (When doing a complete
+flush, you use a baster to remove first as much fluid as possible from the
+reservoir.  Then fill the reservoir with fresh fluid.  You end up flushing less
+fresh fluid, because it has less of a chance to mix with the old stuff).  I had
+a plastic one, but after a few months it hazed up, became brittle, and cracked. 
+My wife found the glass one for me at a high-end cooking store.
+
+Kevin
+
+
+------------------------------
+
+Date: Mon, 3 Aug 92 21:29:39 MDT
+From: Matt Harildstad <matt@idacom.hp.com>
+Subject: Re: 914 rubber engine parts
+
+> 
+> Also, the car is having problems coming off idle with load on the
+> engine.  Whenever I take off from a stop, the car feels like it's only
+> running on two or three cylinders for a second until the rpms come up.
+> In neutral, the off-idle transition feels smooth.  Any ideas?
+> 
+> thanks,
+> -- 
+>   Robert Merithew                              _______________    __o
+>   An Ex-Overhead Cost at Stanford University  ______________     -\<,
+>   merithew@jessica.stanford.edu                            ......O/ O
+
+My car did this for several weeks once about eight years ago.  I
+"fixed" it by changing plug plug wires.  A couple of months later it
+did it once more, one day, and cleared up.  Hasn't done it since.
+
+Even given the breif recurrance, I still think it was ignition
+related.
+
+Matt Harildstad
+
+------------------------------
+
+Date: Tue, 4 Aug 92 07:54:05 BST
+From: Richard Cole <colers@prl.philips.co.uk>
+Subject: Error in "911, Guide to Purchase & Restoration"
+
+
+Summarised from Porsche Post, summer '92 p26
+
+There is an error in Porter & Morgans book "911, Guide to Purchase and
+Restoration" which you should be aware of.  In the section on
+installation of cylinder cooling air deflectors, the photos show these
+being fitted UPSIDE DOWN ! (This can lead to overheating due to reduced
+air flow).  The offending pics are FPB15 (p178) and CHF14 (p 181).  The
+correct installation is shown during the disassembly sequence CHR5
+(p158).  The "T"-shaped deflectors should be fited with the crossbar of
+the "T" downwards (on the side of the oil return tubes).
+
+It might be a good idea to annotate any copies of this book you might have
+lying around.
+
+
+Richard Cole
+
+
+------------------------------
+
+Date: Tue, 4 Aug 92 07:40:12 BST
+From: Richard Cole <colers@prl.philips.co.uk>
+Subject: Re: Address of UK Porsche Registers
+
+
+Hi folks,
+  I help Mark Waring run the 911 2.4 Register so if anyone wants to
+correspond to the Register by email - fire away
+
+Richard Cole
+
+colers@prl.philips.co.uk
+
+------------------------------
+
+Date: Tue, 4 Aug 1992 14:46:50 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Re: Brake Bleeder Tools
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	I recently wanted to bleed the brakes on my 944, and in the absence
+of anyone to help me went around to the local accessory store to see what
+they could offer me.
+
+	For the princely sum of 4 pounds (about US$7), I got a low-tech but
+effective tool. I can't remember the name of the manufacturer, but
+basically you get a length of transparent hose with a one-way valve at the
+end and a container which this valve sits in.
+
+	You attach the tube to the bleed nipple, loosen the nipple half a
+turn or so, run around and pump the brake pedal a couple of times and then
+have a look to see how much air is in the tube. Pump the pedal again until
+no air, tighten the nipple and move on to the next wheel.
+
+	You don't need to have the one-way valve immersed in brake fluid,
+and you don't have to worry about air getting back into the system when
+you take your foot off the pedal (because of the one-way valve).
+
+	As I said, very low-tech, very simple, very cheap *and* it works -
+my pedal is a lot firmer since doing this.
+
+Philip
+
+P.S. The hydraulic clutch on the UK spec 944 has a separate reservoir to
+the brake fluid. Does anyone know if it is possible to bleed this system?
+I've not seen anything which looks like a bleed nipple anywhere. I don't
+have any problems with my clutch, but after seeing the improvement to my
+brake pedal ...
+
+------------------------------
+
+Date: Mon, 3 Aug 92 13:34:29 -0600
+From: MAILER-DAEMON@aspen.den.mmc.com (Mail Delivery Subsystem)
+Subject: Returned mail: Host unknown
+
+   ----- Transcript of session follows -----
+550 menudo.den.mmc.com.tcpld... 550 Host unknown
+554 Menudo.UH.EDU... 550 Host unknown (Authoritative answer from name server)
+
+   ----- Unsent message follows -----
+Received: by aspen.den.mmc.com (911016.SGI/1.34.a)
+	id AA14636; Mon, 3 Aug 92 13:34:29 -0600
+Date: Mon, 3 Aug 92 13:34:29 -0600
+From: kanas (Jon Kanas)
+Message-Id: <9208031934.AA14636@aspen.den.mmc.com>
+To: UH.EDU@Menudo
+Subject: 914 Information
+
+
+ODO Problem:  Very common.  Usually stripped plastic gear that drives odo unit. This problem is caused by the driver resetting the trip odometer while the car is moving.  Appx $40 to fix by reputable speedometer shop.  Problem also common  to several VW 
+models, so any speedometer shop that does decent volume of business should
+be able to adequately address the problem.
+Note: Parts are available, but fixing this yourself is really a pain in the ass.
+Oil Leaks/Cleaning:  Take floorjack and car to car wash (do-it-yourself-type)
+jack car; remove wheels; go crazy with washer hose.  Highly recommend that this 
+be done when car wash is not busy, and owner is not present, as flying clumps
+of grease tend to make proprietor irritable.  Drive car home, jack again and 
+find oil leaks.  Probably push rod tube seals.  Recommend removal of engine
+to replace (much easier), although replacement can be done in car.  Get only
+Viton seals as replacements (Available various aftermarket vendors).
+
+Windshield Washer:  Most nifty trick of all!  914 late (post 1972?) have an
+additional set of contacts that close when the wipe/wash stalk is pulled.  These
+are originally intended to activate the intermittent wiper option, though few
+cars were so equipped.  Find appropriate contacts (switched ground) using VOM
+at bottom of column connection cluster or visually by removing switch.  Hook
+up electric washer pump to these contacts for ground, and ignition hot.  New
+electric washers work exactly as if stock but no hose under dashboard, no flat
+spare and no unsightly hoses wandering through the luggage area.
+
+For specifics on any of the above, contact:
+kanas@aspen.den.mmc.com; Jon Kanas; 303-977-6354 Days, M.S.T.
+
+
+
+------------------------------
+
+Date: Tue, 4 Aug 1992 10:48:33 -0500
+From: sundt@athens.cc.bellcore.com
+Subject: 944 hydraulic clutch (was Re: Brake Bleeder Tools)
+
+>P.S. The hydraulic clutch on the UK spec 944 has a separate reservoir to
+>the brake fluid. Does anyone know if it is possible to bleed this system?
+>I've not seen anything which looks like a bleed nipple anywhere. I don't
+>have any problems with my clutch, but after seeing the improvement to my
+>brake pedal ...
+
+Unless you've "looked" above the starter on the clutch bellhousing then you
+wouldn't have "seen" the clutch slave cylinder. I use the quote marks
+because on my '86 951 it is not possible to see much of anything - only
+feel. There is a bleed nipple coming straight out of the slave cylinder to
+the rear of the car (same axis as the driveshaft/torque tube). On a 951, at
+least, there are also one or more exhaust heat shields (shielding the
+starter). One or both of them need to be removed before bleeding. Hope this
+helps.
+
+Mark
+- --
+Mark Sundt, Bell Communications Research, (908) 758-3134
+sundt@athens.cc.bellcore.com or uunet!bellcore!athens!sundt
+
+
+------------------------------
+
+Date: Tue, 4 Aug 92 10:50:45 EDT
+From: alfred@nyquist.bellcore.com (Alfred Kwan 21342)
+Subject: Re: 914 rubber engine parts
+
+
+>Also, the car is having problems coming off idle with load on the
+>engine.  Whenever I take off from a stop, the car feels like it's only
+>running on two or three cylinders for a second until the rpms come up.
+>In neutral, the off-idle transition feels smooth.  Any ideas?
+
+  Robert Merithew                              _______________    __o
+  An Ex-Overhead Cost at Stanford University  ______________     -\<,
+  merithew@jessica.stanford.edu                            ......O/ O
+
+Robert:
+
+I had a similar problem with my 914 2.0 right after I cleaned 
+the distributor.  I took it completely apart, cleaned it and 
+greased it. Well, the grease inside started to get gummy in a day
+or 2 and the timing
+advance weight just can't move until the engine's rpms gets to 3K.
+It felt like a turbo engine. Well, I took it apart again, cleaned
+it and re-oiled with some high tempature Bosch grease.
+
+Good Luck
+Alfred
+
+
+
+------------------------------
+
+Date: Tue, 4 Aug 92 10:59:41 EDT
+From: alfred@nyquist.bellcore.com (Alfred Kwan 21342)
+Subject: re: Brake bleeder tools
+
+I also bought the tool that Kevin mentioned. The Eezi-Bleed works great.
+
+I have a mityvac vacuum pump also. But it draws air boubles thru the 
+threads of the bleeder valve; it is Ok but I can't tell if that is
+air coming from my break system.  I used it for the complete flush;
+vacuum out the old fluid from the reservoir, re-fill the reservoir,
+than the Eezi-Bleed or ask my wife to come on out and step on it.
+
+Good Luck
+Alfred
+
+------------------------------
+
+Date: Tue, 4 Aug 92 11:02:33 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Subject: Tools: Air or electric?
+
+I can't find a more appropriate place, so I'll my Porsche and Autocrossing
+friends.
+
+I've been coveting air tools for some time now, but when my new Craftsman
+Tool catalog came yesterday, I was looking through it and couldn't figure
+out why air tools should be better than electric.  All the statistics,
+including price, are pretty similar.  The only significant difference I
+could find is that the electrics tend to be a little heavier.
+
+So, why is it again that I really want air tools?
+
+- -- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+------------------------------
+
+Date: 4 Aug 92 10:30:36 U
+From: "Graphics Group" <graphics_group@qmgate.arc.nasa.gov>
+Subject: 914 parts
+
+REGARDING                914 parts
+(included:)
+>I just finished putting my '74 914 2.0 engine back in the car and have
+>misplaced the rubber grommet that fits in the engine shroud just above
+>the oil pressure sender and allows the oil pressure sender wire to pass
+>through the engine shroud without letting the cooling air out.  The
+>Porsche dealer tells me this part is no longer available from the
+>factory.  Any Ideas where I might get one or a suitable replacement?
+
+
+Since you are at Stanford, I might recommend High Performance House in 
+Menlo Park.  I tend to think of that place as "the graveyard of all 914's".  
+They have a truly amazing number of corpses lying around there.  You can 
+find them on (I think) Bay street, just off of Woodside.
+
+They managed to get a few parts for me that I couldn't seem to find 
+anywhere else.  They can be a bit pricey--They wanted $150 for a used 
+front brake caliper, and I (eventually) found one for about $100.
+
+
+Another place to try which is a bit more out of your way is EASY, European
+Auto Salvage Yard, in Emeryville.  I've heard good things about that place.
+
+
+Luck!
+
+                               --Dave Darling
+                                   graphics_group@qmgate.arc.nasa.gov
+
+
+
+------------------------------
+
+Date: Tue, 4 Aug 92 14:03:16 CDT
+From: Stan Hanks <stan>
+Subject: Re: Tools: Air or electric?
+
+> So, why is it again that I really want air tools?
+
+Well, if you have a compressor and a shop, air tools are great
+because you can get so many different things. I routinely
+use the air hammer, chisle, impact wrenches, screwdriver,
+and blow-off nozzle. Once you have the compressor, the tools
+are relatively inexpensive.
+
+With electric (and I have the Sears tool as well) you get a
+good tool that you have to replicate the motor for every time
+you need a new tool. So, for all of the tooling I have (not
+counting compressor) it's far cheaper to use air tools than
+use electrics. 
+
+If I needed just an impact wrench, the Sears electric is a 
+good thing to buy. Since I needed a compressor anyway, it
+was a relatively easy decision to get air tools. 
+
+You really don't want to know how I also wound up with an
+electric tool....
+
+Stan
+
+------------------------------
+
+Date: Tue, 4 Aug 92 16:38:30 EDT
+From: bownes@sunbow.east.sun.com (Robert Bownes {Professional Services})
+Subject: List of useful air tools was: Re: Tools: Air or electric?
+
+ 
+> Well, if you have a compressor and a shop, air tools are great
+> because you can get so many different things. I routinely
+> use the air hammer, chisle, impact wrenches, screwdriver,
+> and blow-off nozzle. Once you have the compressor, the tools
+> are relatively inexpensive.
+> 
+
+I disagree. I spent as much or more on tools as I did on the
+compressor, and I bought a *BIG* compressor. By the time you add
+bodywork tools (3 sanders, paint guns, etc) into the equation at $N ea,
+it gets up there.
+
+	Say, how about a list of useful air tools.
+
+	Impact Wrenches (1/2" anvil and 3/8" butterfly)
+	Air rachet (3/8")
+	tire chuck
+	blower with tip asst.
+	reversible high speed drills (3/8" and 1/2")
+	sanders (orbital, jitterbug, in-line, rotary)
+	grinders (4 *and* 7 inch)
+	air hammer with bit asst. (esp tie rod separator!)
+	body saw
+	hacksaw
+	engine washer
+	paint guns (airbrush, touchup, and fullsize)
+	die grinder &| cut-off tool (1/4")
+	siphon feed sandblaster
+	Bournulii vacuum thang.
+	a couple of old inner tubes (used for lifting things)
+	
+	
+> If I needed just an impact wrench, the Sears electric is a 
+> good thing to buy. Since I needed a compressor anyway, it
+> was a relatively easy decision to get air tools. 
+> 
+	And there's always the need to inflate tires....
+
+------------------------------
+
+Date: Tue, 4 Aug 92 15:44:52 PDT
+From: johnson@wrs.com (David Johnson)
+Subject: Re: Error in "911, Guide to Purchase & Restoration"
+
+Anyone stupid enough to install the air deflectors upside down
+deserves a seized engine :>
+
+The Haynes manual also shows the pistons installed upside-down in their
+cylinders with the intake cutout in the piston crown pointing downward.
+If someone is going to rebuild a 911 engine and be as gulible as that,
+then the engine will probably never run anyway :-O
+
+I get a kick out of this stuff! =8-)
+
+DAVE (johnson@wrs.com)
+
+------------------------------
+
+Date: Wed, 5 Aug 92 00:59 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Brake Bleeder Tools
+
+Philip -
+
+>P.S. The hydraulic clutch on the UK spec 944 has a separate reservoir to
+>the brake fluid. Does anyone know if it is possible to bleed this system?
+>I've not seen anything which looks like a bleed nipple anywhere. I don't
+>have any problems with my clutch, but after seeing the improvement to my
+>brake pedal ...
+
+The location of the slave cylinder is as Mark described it.  It is mildly
+inconvenient to get to even without the extra shields he apparently has.  But
+you can reach up to it and get the needed 7 mm wrench and hose onto the nipple,
+which should have a protective rubber booty on it, like the brake nipples do.
+
+I found it really easy to get air into the slave cylinder when bleeding it with
+someone pumping the pedal, probably because the bleed screw is hard to reach.
+Once in, the air is difficult to get out because of the angle of the slave
+cylinder.  I recommend you not try bleeding unless you have some sort of
+positive-pressure power bleeder, like the Eezi-Bleed.
+
+Someone also suggested to me a while back that it's best to let sleeping dogs
+lie.  If the clutch has not been bled in many years, and it is working well,
+then bleeding it may only move crud around which damages the master or slave
+cylinder's seals.
+
+Kevin
+
+------------------------------
+
+Date: Wed, 5 Aug 1992 01:55:23 -0500
+From: Stan Hanks <stan>
+Subject: Who's Who on Porschephiles
+
+To post to Porschephiles, send mail to:
+	porschephiles@karazm.math.uh.edu
+
+Your list administrator is:
+	Stan Hanks <porschephiles-request@karazm.math.uh.edu>
+
+This list is also available in a digest format. Mail to porschephiles-request 
+for more info.  Archives are kept, but not readily available. If someone wants
+to volunteer to maintain them on-line, let me know.
+
+Current distribution by car type:
+
+Total membership is 212 ; Who's Who list is  126 ;  59 % participation
+
+No Porsche	  15
+356		   3
+911		  30
+912		   5
+914		  29
+914-6		   2
+914/6		   1
+924		   3
+928		   9
+930		   4
+931		   4
+944		  22
+951		  16
+
+Legend: 356, 911, 912, 914, 914-6, 924, 928, and 944 counts  all non-
+turbo models. 930 == 911 Turbo, 931 == 924 Turbo, 951 == 944 Turbo.
+
+Porschephiles members who have told me what they drive as of this date.
+Porsches owned/driven are listed, other cars are not. This may change
+if enough people bitch about it.  And, if you have any corrections, tell me!
+
+Damon Beals              IN '74 914                damon@tnt.cadcam.iupui.edu
+Bob Benson               TX '73 914 2.0            bbenson@arco.com
+George Beuselinck        NY '83 944                gb@vnet.ibm.com
+James Bober              VA '89 928 GT             JBOBER@FATVAX.IDA.ORG
+George Bono              CA '62 356 B Cabriolet    BONO_GEORGE/HP4500_MP@sr.hp.com
+Paul Booth               NY '81 931                paul@eye.com
+Toufic Boubez            NJ '71 914 1.7L           boubez@cesl.rutgers.edu
+Don Breitbarth           CA '86 951                donb@cirrus.com
+Don Breitbarth           CA '86 951                donb@cirrus.com
+Michael Brodesky         CA '73 914 1.7            MBRODESKY@SC9.intel.com
+David Brown              CA '74 914 1.8            dab@esl.com
+Corky Cartwright         TX '89 951 S              cork@cs.rice.edu
+Queguiner Charles        FR '85.5 944              Charles.Queguiner@irisa.fr
+Lee Chen                 NJ '87 944 S, '86 928 S   thx1138@nyu.edu
+Richard Cole             UK '72 911 E              colers@prl.philips.co.uk
+Gary Cook                CA '81 931                gary.cook@sun.com
+Richard Core             CA '83 911 SC Cabrio      rcore@kpc.com
+Carlos Costa             CA '75 911 Carrera        carlos.costa@corp.sun.com
+Corey D. Jackson         CO                        cj414491@Longs.LANCE.ColoState.Edu
+Donald Day               MI '80 928                don@cimage.com
+Carl DeSousa             CA '84 911, '73 914 2.0   desousa@cisco.com
+Carl DeSousa             CA '86 951, '80 931       desousa@cisco.com
+Nancy Dorighi            CA '74 914 2.0            dorighi@eos.arc.nasa.gov
+Milo Dorr                CA '86 951                dorr@hyperion.llnl.gov
+Ralph Droms              PA                        droms@bucknell.edu
+Ben Dubin                CA '73 911 T              Ben.Dubin@Eng.Sun.COM
+Gary Edwards             MA '71 911, '73 914, '73 914, '74 914, '74 914 edwards@jargon.whoi.edu
+Tony Eggers              TX '86 944                tonye@yoda.eng.hou.compaq.com
+Doug Fields              CT '88 951 S              fields-doug@CS.YALE.EDU
+James Fuerstenberg       IL '79 911 SC Targa       xgg2356@dcmdc.dla.mil
+Stuart Galt              WA '77 911 S, '74 914 2.0 sag5004@yak.boeing.com
+Bdale Garbee             CO                        bdale@gag.com
+Pete Gayde               IL '87 924 S              iwcs!gayde@att.att.com
+Jon Glickman             CA '83 911 SC targa       jon@qcktrn.com
+Jane Gonyea              IL '83 911 Targa          janeg@ihlpb.att.com
+Pete Gregory             CA '69 912                pete@wvus.org
+Greg Grohoski            TX '88 951                grohoski@futserv.austin.ibm.com
+Kevin Gross              MA '87 944 S              0004056890@mcimail.com
+Tom Haapanen             ON '74 914 2.0            tomh@wes.on.ca
+Shel Hall                GA                        76701.103@CompuServe.Com
+Stan Hanks               TX '81 911, '71 914, '74 914, '74 914 stan@karazm.math.uh.edu
+Jim Harriger             WA '79 928                jimharr@microsoft.com
+Paul Harvey              CA '70 911 S              pharvey@mipos3.intel.com
+Mike Hearn               CO '86 930                hearn@druco.att.com
+Karl Held                NV '84 944                karl@sparksnv.NCR.COM
+Devon Heron              CA                        devonh@sol.metaware.com
+Greg Hill                CA '80 911 SC             hill@spectra.com
+Scott Hinckley           CA                        HINCKLEYS@H8700A.ai.ca.boeing.com
+Craig Huber              WA '71 911 T              craighub@tc.fluke.COM
+Violet Jen               CA '89 951 S              violet@mips.com
+Dave Johnson             CA '66 911                johnson@wrs.com
+Michael Jorgensen        NE '73 914 2.0            dsndata!mike@sparky.IMD.Sterling.COM
+Jon Kanas                  '69 912, '75 914 1.8   kanas@aspen.den.mmc.com 
+Chris Kantarjiev(Kent)   CA                        kent@parc.xerox.com
+Dan Kasha                CT '66 912                kasha@twolf.ce.yale.edu
+Philip Katz              UK '85 944 Lux            katz_p_m@bt-web.bt.co.uk
+Craig Keast              MA '83 944                keast@submicron.LL.mit.edu
+Frank Kerfoot            NJ '87 944 S              fwk@homxc.att.com
+Adam King                UT '93 928 GTS            ark@unislc.slc.unisys.com
+Dave Kissel              CO '77 930                damiki@druco.att.com
+Mark Kosten              OZ '83 944                ccmk@latrobe.edu.au
+Alfred Kwan              NJ '70 914-6              alfred@nyquist.bellcore.com
+Soren LaForce            CA '80 911 sc coupe       LAFORCE@xenon.arc.nasa.gov
+Cliff Lasser             MA                        cal@think.com
+Bart Locanthi            OR '89 951 S              bart@teni.cse.ogi.edu
+Dick Lucas               CA '62 356 B S90          dick@hpcdcel.cdc.hp.com
+John Lupien              MA '70 914                lupienj@hpwarq.wal.hp.com
+Vijay Madisetti          GA '67 912                vkm@eedsp.gatech.edu
+Tassos Markas            NC '87 951                am@cs.duke.edu
+Robert Merithew          CA '74 914 2.0            merithew@jessica.stanford.edu
+Chris Michael            IL '90 944 S2             cm@nwu.edu
+Miq Millman              CA '66 911 S              miq@sgi.com
+Jeff Moersch             NY '73 914 2.0L           AGJEM@ACVAX.INRE.ASU.EDU
+Bob Mohr                 VA '87 924 S              mohr_bob@po.gis.prc.com
+Skip Montanaro           NY                        montanaro@crd.ge.com
+Tim Mueller              UT '72 911 T              mueller@cs.utah.edu
+Scott Murray             CA '55 356 Speedster REPLICA murrays@Tymnet.COM
+Scott Murray             CA                        murrays@tymnet.com
+Ken Neff                 TX '73 914 2.0            kneff@tivoli.com
+Steven Neighorn          OR '84 944                neighorn@qiclab.scn.rain.com
+Fred Orndorff            PA                        fo07+@andrew.cmu.edu
+Fred Pack                NJ '89 944 S2             fhp@unipress.com
+Paul Parenteau           OR '85.5 944              dog@sequent.com
+Gordon Patterson         NJ                        gordonp@icarus.montclair.edu
+Bob Pentecost            ID '83 944                bpenteco@hpbs987.boi.hp.com
+John Pezaris             MA '70 914-6              pz@mit.edu
+Bruce Pigozzi            MI '84 944                22107BWP@msu.edu
+Scott Presnell           CA '72 911 T Targa        srp@cgl.ucsf.edu
+Bob Quarterman           WA '73 914 1.7L, '74 914 1.8L bobq@tc.fluke.COM
+Robert Rogers            CA '78 930, '79 930       brogers@auspex.com
+Carl Scholz              MA                        scholz@osf.org
+M Seibert                MA '79 924                seibert@xn.ll.mit.edu
+Hurf Sheldon             NY '79 928                hurf@love.graphics.cornell.edu
+Bruce Shetler            CA '80 911 SC Targa       photon!bvs@uunet.uu.net 
+Jeff Shorey              NC '73 911 S              js@aixservr.egr.duke.edu
+Josh Sirota              CA                        Josh.Sirota@Eng.Sun.COM
+Mark Sirota              NY '73 914 2.0            msirota@ee.rochester.edu
+Mark Skala               MA '73 914 1.7            vmp@mvgpf.att.com 
+Monty Smith              OR '79 928                montys@mapme6.map.tek.com
+Drew Spencer             UT '82 911 SC             drew_spencer@npd.Novell.COM
+Sally Sprafka            MI '70 914/6, '73 914     22159SAS@msu.edu
+Ken Stanton             CDN '81 931                Ken.Stanton@QueensU.CA
+Bert Still               CA '80 928                bert@athena.llnl.gov
+Blaine Stine             CA '85.5 944              stine@sdbio2.UCSD.EDU
+David Sugirtharaj        QE '79 911 SC Coupe       lmcsugi@noah.ericsson.se
+Mark Sundt               NJ '86 951                sundt@athens.cc.bellcore.com
+Walt Thode               CA '72 911 T              thode@nprdc.navy.mil
+John Thomas              CA '69 911 E              jt@dazixca.ingr.com                       
+Steve Tice               TX '66 911                stic@redsand.tivoli.com 
+Steve Timmins            DE '86 951                timmins@sun.udel.edu
+Mike Todd                NY '70 911 T              miketodd@cs.cornell.edu
+Peter Tracy              MA '88 944                pgt@keps.kodak.com
+Steve Tynor              GA '87 951, '74 914 2L    tynor@prism.gatech.edu
+Nathan Ulrich            MA '86 911, '85 944 ITS racecar ulrich@canberra.whoi.edu
+Ilsa VanHook             CA '71 914 1.7L           ilsa@netcom.netcom.com
+Alan Vayda               MI '83 944                vayda@erim.org
+Keith Watson             OR '81 911 SC Targa       kwatson@ws.MENTORG.COM
+John Weiler              GA                        gt7734a@prism.gatech.edu
+RJ White                 ON '68 912                rjwhite@watmath.waterloo.edu
+Joe Wiesenfeld           MA '89 944 S2             jwiesenf@dg-webo.webo.dg.com 
+Jay Wilkinson            MA '86 951                jcw@ksr.com
+Charlie Wilson           OR '82 928                charlesw@sail.labs.tek.COM
+Patty Winter             CA '86 951                winter@apple.com
+Bob Wittick              MI '88 911 Coupe          rwittick@ibm.cl.msu.edu
+Robert Yen               IL '88 951                rsyen@rtsg.mot.com
+Christopher Zach         MA '87 944 S              cz@silver.lcs.mit.edu 
+
+
+- -----
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0336
+
+------------------------------
+
+Date: Wed, 5 Aug 1992 02:00:28 -0500
+From: Stan Hanks <stan>
+Subject: Your Monthly Missive....
+
+August 1992
+
+Monthly Notices for the Porschephiles mailing list. 
+PLEASE READ THIS WHOLE MESSAGE!!
+
+And I only THOUGHT I was busy in June.... I've been gone so much I
+didn't even remember I *had* a 911.... I sat down to do list maintenence
+tonight for the first time since July 14. Please keep this in mind if you 
+have had problems with your subscription.
+
+I still edit the newsletter for the Lone Star Region of the PCA. 
+If you happen to have on-line copies of your regional newsletter, or
+at least the interesting articles, maybe we can set up an article exchange.
+Or, if you'd like to write something or have something written that you'd like
+to see in print outside of your own region, let me know....
+
+Several members have sent me stuff, and it's great to see guys around here
+going "Geeze, this guy must be important to have his article printed so far
+from home" Little to they know how easy it all is!
+
+Some Porsche Club info follows. IF you're not a member, join!! 
+I'm going to investigate getting permission to create an "electronic region"
+where the "region boundaries" are defined by network connectivity. Won't
+displace your regular physical region, but hey, you should see how we'd
+get to do the driving events... 8{)
+
+Porsche Club of Americia.
+Does take non-US membership.
++1 703 922-9300, roughly 9:00 to 5:00 EST (GMT - 6).  Dues are $36/year.
+Have your Visa/MC number *AND* your VIN number handy, if you own a car.
+
+Porsche Club of Great Britain
+Ayton House
+West End
+Northleach
+Gloucestershire
+England GL54 3HG
+Telephone : +44 451 60792
+
+This list is still being run as a mail reflector, which sends incoming
+mail to the whole list at once. The participants include people with a 
+variety of backgrounds, some technical, some race/autocross/performance 
+drivers, some owners, some just admirers.  
+
+To send a message to the whole list, mail to
+
+		porschephiles@karazm.math.uh.edu
+
+To send mail regarding distribution problems, or other administrative issues,
+send mail to
+
+		porschephiles-request@karazm.math.uh.edu
+
+
+The list is also available as a digest, where you get a compilataion of
+the day's messages once per day, rather than getting all of the individual
+messages. This seems to be a win for people with slow mail links or who
+are just too busy to stay current. If you want to convert to (or from)
+the digest, send mail to the porschephiles-request address above.
+
+PLEASE NOTE A FEW ITEMS:
+
+1) There are a lot of  members on the list. It's small enough to be effective,
+   and large enough to have a number of diverse opinions and sets of
+   experience. Remember that before you decide to not ask a question, or
+   if you get flamed for asking an "obvious" question. Diversity -- it's
+   a *feature*....
+
+2) The list is maintained irregularly. If I'm in town or can reach the
+   host system from wherever I am and I have the time to deal with it,
+   I *try* to handle changes on a real-time basis. However, as a consultant
+   I travel extensively and from time to time, changes will be batched
+   on a weekly basis.
+
+3) Please try to send all administrative mail to the "porschephiles-request"
+   address, or to me directly. And, as some members have discovered,
+   you can also reach me by phone (sometimes) at (800) 582-6892.
+
+4) In the same vein, if you use a "pure" System V mail system, please pay
+   attention to your replies. The default will send the reply to 
+   the "porschephiles-request" address, as it is the UUCP "From "
+   address (first actual line of the mail header). 
+
+   PLEASE BE AWARE THAT I TRASH SUCH MIS-ROUTED MAIL!!!
+
+5) If your mailer starts screwing up *you will be dropped from the list*
+   Should you notice that you aren't getting the list any more, send me
+   mail and I'll figure out why not...
+
+Enjoy the list! If I can be of assistance, please don't hesitate to drop
+me a note.
+
+Regards From Your Moderator,
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@hugs.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0633
+
+'81 Euro 911SC Targa (daily driver and occassional autox weapon),
+'74 914 1.8 (SCCA DS autox weapon and backup daily driver)
+'74 914 2.0 (SCCA ITA/PCA Club Racing)
+'70 914 1.7 (in prep to a SCCA GT-3 weapon)
+
+------------------------------
+
+Date: Wed, 5 Aug 92 09:44:28 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Subject: Brake Bleeding Tools / 944 clutches
+
+
+>I found it really easy to get air into the slave cylinder when
+>bleeding it with someone pumping the pedal, probably because the 
+>bleed screw is hard to reach.
+
+I also struggled with this operation, but, at least in my case, I
+think the problem in keeping air out of the system was mainly due to
+the fact that the hose connecting the reservoir to the clutch master
+attaches fairly high up on the side of the reservoir.  If the fluid
+level drops very far at all during the bleeding process, it is
+extremely easy to begin sucking air into this hose.  This problem is
+exacerbated by the fact that the partition of the reservoir that feeds
+the clutch is fairly small, and, at least on my car, it is very hard
+to see the fluid level in this little chamber.  Although I have not
+used the Eezi-bleeder on the clutch (I have used it on brakes with
+great satisfaction, thanks Kevin!), I agree that this is the way to
+go.  The Eezi-bleeder will keep the reservoir completely full and
+under pressure during bleeding, which should solve the problems
+mentioned above.
+
+ -Milo
+
+P.S.: Don't forget to disconnect the battery when attempting to bleed
+your clutch.  Although this is good practice in general when working
+on your car, it is particularly important when bleeding the clutch
+since the starter terminals are in close proximity.
+
+
+
+------------------------------
+
+Date: Wed, 5 Aug 92 10:00:21 PDT
+From: Paul Parenteau <dog@sequent.com>
+Subject: 944 trans main seal
+
+
+1985.5 944, 64k miles here...
+
+a question for the net.gods:
+
+	  my local repair shop said i have a leaking transmission main
+	  seal.  (makes sense since i dribbled oil on my in-law's new
+	  concrete, sloped driveway from the back of the car)  since 
+	  the parts for this job are approx $14 and the labour makes
+	  up the rest of the $360 repair quote, i wonder what other
+	  seals/gaskets can be replaced whilst the transmission
+	  is disassembled.  Can anyone comment on this?  I'd hate to
+	  find out later that the newly repaired tranny may have to be
+	  taken apart once again.
+
+			thanks. :-)
+
++-----------------------------------------------------------------------+
+ Paul Parenteau				Sequent Computer Systems, Inc.
+ OS Software Engineering 
+
+ Phone: (503) 578-4119
+ Internet: dog@sequent.COM
+ UUCP: { uunet ogicse tektronix } !sequent!dog   
+ USmail: 15450 SW Koll Parkway/MS DES2-745/Beaverton, OR 97006
++-----------------------------------------------------------------------+
+
+------------------------------
+
+Date: Wed, 5 Aug 92 13:10:06 EDT
+From: anselmo@cumesb.mech.columbia.edu (Andrew P. Anselmo)
+Subject: new to the 'phile group; replacements for the glass hatch on 924/944/944S
+
+Greetings.
+
+I've got a 1977 924 with about 125,000 miles on it; please add me to your
+list of people/car type.
+
+If my memory serves me right, there was an aftermarket option that replaced
+the glass hatch on a 924/944 that made the car look like it had a notch
+in the back:
+	
+					
+		-------_ 
+			\   <--- new rear window, canvas/type cover for 
+			 \__________.		  horizontal area	
+		924/944		     \		
+				     |			
+			            /		 
+
+
+
+(excuse the poor ascii art)
+
+Has anyone ever had any experience with such an option?  Personally, I like
+having the hatch; it gives me more room to throw stuff; yet having an
+open back seems like an interesting option, especially since the internal
+ventilation on my car seems a bit inadequate (no A/C). 
+
+- --------------------------------------------------------------------------------
+ Andrew Anselmo / Department of Mechanical Engineering / Columbia University
+	           Thermal Science Research Laboratory  
+   236A SW Mudd Building 212-854-2965 / anselmo@cumesb.mech.columbia.edu                   --------------------------------------------------------------------------------
+
+
+------------------------------
+
+Date: Wed, 05 Aug 92 10:09:02 -0700
+From: king@la.TIS.COM
+Subject: 914 seatbelts won't retract
+
+We have a 914 whose seatbelts won't retract
+and usually manage to stick when I need to
+reach something in the center console.  It
+looks like the mechanisms are buried behind the
+seats somewhere.  Can they be lubricated/rebuilt?
+How do I get to them?  Thanks for any help.
+
+Jon King
+king@la.tis.com
+
+------------------------------
+
+Date: Wed, 5 Aug 92 09:11:48 -0500
+From: kehler@daisy.wichitaks.ncr.com (Kyle Ehler)
+Subject: RE:  Tools or Electric?
+
+>    Porsche People <porschephiles@karazm.math.uh.edu>
+>Subject: Tools: Air or electric?
+>
+>I can't find a more appropriate place, so I'll my Porsche and Autocrossing
+>friends.
+>
+>I've been coveting air tools for some time now, but when my new Craftsman
+>Tool catalog came yesterday, I was looking through it and couldn't figure
+>out why air tools should be better than electric.  All the statistics,
+>including price, are pretty similar.  The only significant difference I
+>could find is that the electrics tend to be a little heavier.
+>
+>So, why is it again that I really want air tools?
+>
+>-- 
+>Mark Sirota - Department of Electrical Engineering Systems Staff
+
+    <kyle sez:>
+
+    For all of you out there who are contemplating air tools i would like
+   to share my experience with these.
+    If you have ever used an air drill for long, you know that these get
+   colder the longer you run them.  The same is true for almost all air
+   powered tools and is one of the reasons they will outlast an electric
+   tool.  Air powered tools are also easier to manufacture and because of
+   this, are cheaper, especially the far east vended variety.  These tools
+   are simple and relatively easy to get parts to repair them yourself.
+
+    Air tools are also totally worthless without a compressor of sufficient
+   capacity to drive them efficiently, and this is where the greatest 
+   expense lies.  A good 3 Hp, 30 gallon, single stage compressor will set
+   you back 3 or 4 hundred bucks and will only produce around 5 cfm at 
+   useable pressure (less cfm at max. pressure).
+    Many air tools consume 4 cfm or more and will drain a 30 gallon tank
+   down to 40 psi in 3 minutes or less, most tools are weak at that pressure.
+    Meanwhile the pump is consuming around 1500 watts of energy. 
+    A single stage (any number of cyl.)
+   pump is good for around 45% efficiency, a dual stage pump is good for 
+   almost twice that.  There is tremendous loss in the making of compressed
+   air at 125 psi using any method other than a two-stage pump.
+    Your best bet with air tools is to pinch yourself at the onset of
+   procurement and buy the 60 gallon, > 5 hp, two-stage compressor -doesnt
+   matter if it is gas or electric powered.  By doing this you will save time
+   that would be lost in waiting for your pump to build up a useable head
+   of pressure to continue working.  Unfortunately, this big tool will set 
+   you back nearly a $1000, so you must balance your requirements and
+   practicality (your wife, too =8^)).
+    With compressors and air tools it comes down to CFM and receiver(tank)
+   size if you want to retain your sanity when using these tools.
+
+    Other useful air tools;
+   
+    Air nibbler  (not a scissor shear type)
+    cylinder leak-down tester
+    Air powered lift
+
+     -kyle
+- -- 
+
+------------------------------
+
+Date: 5 August 1992 1049-PDT (Wednesday)
+From: brattlan@nprdc.navy.mil (CDR Michael Brattland)
+Subject: Re: RE:  Tools or Electric?
+
+Most Price Clubs' offer the 60 gallon 5 horsepower compressors for $425
+if that helps with the sticker shock.
+Mike Brattland
+
+------------------------------
+
+Date: Wed, 5 Aug 92 15:51:15 PDT
+From: merithew@saffron.Stanford.EDU (Robert Merithew)
+Subject: Re: 914 rubber engine parts
+
+Gary Edwards wrote:
+
+> Your drivability problem could be lots of things.  If you get black
+> smoke out the exhaust, the pressure sensor is likely bad.  Since you
+> just put the engine back in the car, I'd look for disconnected or broken
+> vacuum hoses.  Make sure your timing and dwell are OK, especially since
+> the timing marks on the impeller can be hard to find on some cars.
+
+Thanks for your help - Here's some more information:
+
+My 914 2.0 seems to be missing between about 1800 and 2300 rpm, whether
+or not there is load on the engine (when I have it in gear, this causes
+lurching/bucking).  A couple of people suggested dwell - I just
+installed an Allison optical ignition, so that isn't it (problem existed
+before and after installation).  I reset the timing, and the thing idles
+very well and is very smooth above 2500 rpm.  It's not an off-throttle
+transition problem - if I hold the rpms at 2000, the engine continuously
+misses.  I'm pretty baffled!
+
+While the engine was out, I did some rust work on the body and replaced
+simple things like fuel line and intake seals.  I didn't split the case
+or pull the heads. 
+
+thanks,
+- -- 
+  Robert Merithew                              _______________    __o
+  An Ex-Overhead Cost at Stanford University  ______________     -\<,
+  merithew@jessica.stanford.edu                            ......O/ O
+
+------------------------------
+
+Date: Wed, 5 Aug 92 17:46:27 PDT
+From: johnson@wrs.com (David Johnson)
+Subject: headers 4 911
+
+Is there anyone out there who has a left-side header that they would want
+to trade for a right-side header? Or just forget the trade, I need the
+left side anyway.  Or maybe a good set of heat exchangers (yeah right!).
+
+BTW I posted a long time ago that I had a complete belly pan for a 911,
+(from front suspension mounts, to rear torsion bar area). Someone was 
+interested in it, but got cleaned out of my mailbox. Anyway, some idiot kid 
+jumped the fence in my backyard and stepped on it :-(   I paid $200 for
+it and was asking $150 last post, well considering that it now has a small
+dimple at the mid section of the floor, I'm now asking $100.  It isn't
+a big dimple, but alas it isn't "perfect" anymore. If anybody is seriously
+interested, I can send a picture of it, (probably won't be able to see the
+dimple). It is just laying around and I'd rather get it out and under someone's
+baby. ;-)
+
+Later,
+
+DAVE (johnson@wrs.com)
+
+------------------------------
+
+Date:        6 Aug 92 12:43:00 EDT
+From: John (J.R.) Soucie <SOUCIE@BNR.CA>
+Subject:    914 Inner Rocker Panel Repair
+
+ I'm absolutly brand new to this list and also new to my '73 914 1.7 and as
+such I am starting all of my info gathering and self education all over again
+since my Austin Mini and race engine building experience doesn't really carry
+over very well. The car I bought is in decent shape overall but it is afflicted
+with what I understand is the standard rotting inner rocker panels.
+ My first thought was to locate a book outlining structural restorations such as
+the series "guide to purchase and DIY restoration" that is availlable for the
+Mini and various other collector cars. Unfortunatly I haven't seen anything like
+this type of book for the 914; is there such a book. I have been told that the
+PCA would send me a package of the 914 articles that have appeared in Panorama
+but in looking through the magazine I haven't seen any mention of this service
+or the cost. I will be joining the PCA shortly.
+ So, my question is basically how to do a correct job with the inner rocker
+panels. Is there a FAQ about this sort of thing. I am sort of embarassed about
+asking this because the veteran 914 owners are probably saying" Oh no, not
+another inner rocker repair thread!"
+ The main thing I want to know is how to assure the car is straight before
+welding up the panels and any tricks or pitfalls that I may need or encounter.
+Also do you have to disturb any of the suspention, or to put it another way,
+what has to be removed to do a proper job.
+ Also, should I worry about getting the highest quality inner rocker panel or
+even factory. Could it be a case of the ill-fitting cheaper panels are not worth
+the effort in custom fitting as opposed to an identical factory one. I am for
+the moment going to assume that places like Automobile Atlanta, Tweeks and the
+other big guys are going to supply decent quality in an aftermarket panel. Is
+this a correct assumption.
+ Maybe there is a back issue of European Car or some other that has covered this
+that I could get photocopies from one of you guys or at least a month/issue
+number so I can order it.
+
+ One other question. Should I be able to turn off the heat COMPLETLY. I find
+that even with everything off I still get heat. I am assuming that the flapper/
+valve operated by the floor lever is not closing completly.
+
+
+------------------------------
+
+Date: Thu, 6 Aug 92 13:29:20 EDT
+From: edwards@jargon.whoi.edu (Gary Edwards)
+Subject: Re: 914 rubber engine parts
+
+Robert,
+
+Thanks for the additional info.  With no engine work done, the troubleshooting 
+task gets easier, although driveability problems are really the hardest.  I'd
+rather fix a won't start problem, usually (not always) it's obvious.
+
+I once had a miss that I could hear at around 1800 rpm, and every once and
+awhile at full throttle. Since this was at a qualifying session, I had to 
+fix it, but really didn`t have a clue.  I checked the injection grounds at
+the rear of the engine, (fine) dwell and timing (OK) and then did an RPM
+drop test.  Two cylinders did not seem to be firing all the time.  Also, 
+when I pulled the injector plugs to do the drop test, two cylinders actually 
+caused an increase in RPM while the plug was being removed.   The two cylinders
+happened to be two that inject at the same time.  A component common to these
+is the set of injection points located in the bottom of the distributor.  
+Although a failure here usually kills the engine, I found the points were very
+oily.  I put in a different set (removed from a different car for the same 
+reason and cleaned up) and the problem was solved.  This could be your 
+problem.  It would be a coincidence that it happened at the same time as your 
+engine removal, but!
+
+Assuming internal engine condition is good and the items on my previous hit 
+list have been done, I`d swap injection components one at a time to see if
+any affected it.  I'd do it in this order:
+ - pressure sensor (easiest to get to and most fragile)
+ - trigger points in distributor (mentioned above)
+ - injection harness 
+ - ECU (most reliable component, do this with harness)
+I maintain a stockpile of these parts for this reason.  If you don't have these
+spares, bribe a friend with a 2.0 and spend an afternoon swapping.
+
+Another assumption I make is that you've made everything that effects engine 
+performance perfect.  Serious troubleshooting of a problem like this should
+start from a known baseline: new plugs, points, condensor, good wires, injectors
+know to be good, perfect dwell and timing (I'd revert to conventional stock
+ignition for the troubleshooting), new good fuel, fuel pressure correct, engine
+warm, valve clearances correct, no vacuum leaks, hoses plumbed to correct
+locations etc.  Many of these don't relate, but it is sometimes hard to predict
+ the response of a system that isn`t in its normal state.
+
+I'd still be suspicious of a vacuum leak (or a trigger points problem).
+
+Let me know what you find out.
+
+Gary
+
+------------------------------
+
+Date: Thu, 6 Aug 1992 17:24:58 GMT
+From: msirota@ee.rochester.edu
+Subject: Re: 914 heat
+
+In article <9208061644.AA04440@gateway.bnr.ca> SOUCIE@bnr.ca (John  Soucie, J.R.) writes:
+> One other question. Should I be able to turn off the heat COMPLETLY. I find
+> that even with everything off I still get heat. I am assuming that the
+> flapper/valve operated by the floor lever is not closing completly.
+
+Wow, someone complaining about *too much* heat!  The mind boggles.
+
+This reminds me...  Has anyone converted their 914 (or other air-cooler car,
+for that matter) to electric heat?  I am considering going to headers rather
+than heat exchangers, removing the messy heat system, and installing some
+electric heaters for the defroster and occasional floor heat when I drive
+the car in April and October, when it's still occasionally cold.
+
+Is this a crazy idea?  Will it work?  Any thoughts where I might find the
+appropriate parts?
+- -- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+------------------------------
+
+Date:         Thu, 6 Aug 92 13:53-0400
+From: Ken.Stanton@queensu.ca
+Subject:      Damaged Rubber / lawsuit
+
+I have learned via what I believe to be a reliable grapevine that Porsche
+is involved in a damages suit with the manufacturer  of Armorall. Apparently
+Porsche used to have a deal with Armorall in which they provided an Armorall
+car care kit with each new car. The result was a great deal of decaying
+rear spoilers, cracked dashboards and so on. I have serious damage to the rear
+spoiler on my '81 931 and a typically cracked dash. Does anyone know the
+details of the deal with Armorall? ie. What model years did this occur?
+Furthermore, can we get any kind of warranty or other assistance from
+Porsche?
+We would have been better served if they had thrown in a handful of assorted
+jumper wires and a good circuit tester with the tool kit instead of
+something which eats rubber I think.   :^O
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+------------------------------
+
+Date: Thu, 6 Aug 92 11:15:31 PDT
+From: miq@chromavac.esd.sgi.com
+Subject: Re: Damaged Rubber / lawsuit
+
+> I have serious damage to the rear
+> spoiler on my '81 931 and a typically cracked dash. Does anyone know the
+> details of the deal with Armorall? ie. What model years did this occur?
+> Furthermore, can we get any kind of warranty or other assistance from
+> Porsche?
+> We would have been better served if they had thrown in a handful of assorted
+> jumper wires and a good circuit tester with the tool kit instead of
+> something which eats rubber I think.   :^O
+> 
+The problem with Armor All and cracking dashes/destroyed rubber is not using
+the product.  By this I mean that if you start using it, don't ever stop or
+your dash will crack, but as long as you apply it every two weeks or so, your
+car will be fine.  Armor All is the drug dependancy of the auto care world.
+The have a pretty good racket I think, get a bunch of people to start using
+the product, and then build in a cemical imballance that requires constant
+reapplication of their product or watch your dash disintegrate.  
+
+Every detailer I have talked too recommends staying as far away as possible
+from Armor All if you have never used it yet.  Its sort of like cocaine.
+
+- -- 
+
+Miq Millman -- miq@sgi.com or {decwrl,pyramid,att}!sgi!miq  415 390 1041
+
+
+
+------------------------------
+
+Date: Thu, 6 Aug 92 14:37:37 EDT
+From: Paul B. Booth <paul@eye.com>
+Subject: Re: Damaged Rubber / lawsuit
+
+> The problem with Armor All and cracking dashes/destroyed rubber is not using
+> the product.  By this I mean that if you start using it, don't ever stop or
+> your dash will crack, but as long as you apply it every two weeks or so, your
+> car will be fine.  Armor All is the drug dependancy of the auto care world.
+> The have a pretty good racket I think, get a bunch of people to start using
+> the product, and then build in a cemical imballance that requires constant
+> reapplication of their product or watch your dash disintegrate.  
+> 
+> Every detailer I have talked too recommends staying as far away as possible
+> from Armor All if you have never used it yet.  Its sort of like cocaine.
+> 
+Is this a common 'feature' of all rubber/vinyl protectants, or just armor all?
+Any recommendations for 'non-addictive' dressings for rubber, vinyl, or
+leather?
+
+Enquiring minds want to know...
+- --
+Paul B. Booth  (paul@eye.com)
+- -------------------------------------------------------------------------------
+3D/EYE, Inc., 2359 N. Triphammer Rd., Ithaca, NY  14850    voice: (607)257-1381
+                                                             fax: (607)257-7335
+
+------------------------------
+
+Date: Thu, 6 Aug 92 14:17 CDT
+From: emuroga@ihlpe.att.com
+Subject: Re: Damaged Rubber / lawsuit
+
+
+>
+>> The problem with Armor All and cracking dashes/destroyed rubber is not using
+>> the product.  By this I mean that if you start using it, don't ever stop or
+>> your dash will crack, but as long as you apply it every two weeks or so, your
+>> car will be fine.  Armor All is the drug dependancy of the auto care world.
+>> The have a pretty good racket I think, get a bunch of people to start using
+>> the product, and then build in a cemical imballance that requires constant
+>> reapplication of their product or watch your dash disintegrate.  
+>> 
+>> Every detailer I have talked too recommends staying as far away as possible
+>> from Armor All if you have never used it yet.  Its sort of like cocaine.
+>> 
+>Is this a common 'feature' of all rubber/vinyl protectants, or just armor all?
+>Any recommendations for 'non-addictive' dressings for rubber, vinyl, or
+>leather?
+>
+>Enquiring minds want to know...
+>--
+
+I thought there was some product that contained plasticiser (sp?) which is
+the ingredient that makes vinyl soft. I read that this is the preferred
+product to use over Armor All. But I don't know the name of the ingredient
+nor the commercial product.
+
+
+Eisuke Muroga
+AT&T Bell Labs
+muroga@att.com
+
+------------------------------
+
+Date: Thu, 6 Aug 92 14:06:37 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: Re: Damaged Rubber / lawsuit
+
+>> The problem with Armor All and cracking dashes/destroyed rubber is not using
+>> the product.  By this I mean that if you start using it, don't ever stop or
+	... stuff deleted ...
+>> Every detailer I have talked too recommends staying as far away as possible
+>> from Armor All if you have never used it yet.  Its sort of like cocaine.
+>> 
+>Is this a common 'feature' of all rubber/vinyl protectants, or just armor all?
+>Any recommendations for 'non-addictive' dressings for rubber, vinyl, or
+>leather?
+
+I once used Armor All on my 911, and have had various detailers and
+car washes reccommend various things none of whihc I would use again.
+
+I HAVE found an off the shelf a product called "something 503" I
+think. It is claimed to be used in the aircraft industry and contains
+NO petrolieum (sp?) products.  It appears to work after over a year of
+use and 6 mos of neglect I don't get the whitening effect Armor All
+would produce in a month or two of non-use.
+
+I will get the actual name tonite and send it out.  I buy it in
+non-chain auto supply stores but it is hard to find in the Santa Cruz,
+CA area.
+
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+PORSCHEPHILES:
+
+My digest software got too smart for its own good, and noted mail from
+someone's MAILER-DAEMON in the package, and aborted. As the digest never
+got sent, it never was re-zeroed, so kept failing for the same reason.
+I finally figured it out today. 
+
+Anyway, enjoy a 5-days-at-one-time batch of Porschephiles-Digest!!
+
+Stan
+
+----------------------------
+
+Date: Fri, 7 Aug 92 08:11:03 BST
+From: Richard Cole <colers@prl.philips.co.uk>
+Subject: Re: Damaged Rubber / lawsuit
+
+
+
+Is there a "cold turkey" treatment for Armor All adicts ?  My dash etc has been
+treated in the past so should I be retreating periodically and if so how
+often (every 2 weeks seems a bit much).  I wonder if climate/exposure to
+UV from sitting in the sun affects how often you need to retreat.
+
+Its kind of worrying to think that my dash may imminently self desctruct :-(
+
+Depressed ...
+
+Richard Cole
+
+------------------------------
+
+Date: Fri, 7 Aug 92 3:59:01 CDT
+From: Stan Hanks <stan>
+Subject: Re: 914 heat
+
+> This reminds me...  Has anyone converted their 914 (or other air-cooler car,
+> for that matter) to electric heat?  I am considering going to headers rather
+> than heat exchangers, removing the messy heat system, and installing some
+> electric heaters for the defroster and occasional floor heat when I drive
+> the car in April and October, when it's still occasionally cold.
+
+Actually did this to a 914/6 some years ago. Heat exchangers are made of
+unobtainium, and I had this header laying around... Used a VW kit, some
+orange 911 heat/air duct tubing, and bent some other metal parts. I forget
+what all was necessary. Located it where the gas heater would have gone 
+had it had a gas heater (Note for the underexposed: Porsche used to use
+a gasoline heater in the Euro versions ofthe older cars. Basicly a little 
+ram-jet engine with a heat exchanger. Nice, but wierd. Even late 911s still
+have vestigal gas heater fitments. Which is even wierder.)
+
+> Is this a crazy idea?  Will it work?  Any thoughts where I might find the
+> appropriate parts?
+
+There is this guy in Arizona who sells Bug kits. See your Hot VWs type
+magazines for his ad. Works pretty well, too.
+
+Stan
+
+------------------------------
+
+Date: Fri, 7 Aug 92 4:12:33 CDT
+From: Stan Hanks <stan>
+Subject: Re: 914 seatbelts won't retract
+
+> We have a 914 whose seatbelts won't retract
+> and usually manage to stick when I need to
+> reach something in the center console.  It
+> looks like the mechanisms are buried behind the
+> seats somewhere.  Can they be lubricated/rebuilt?
+> How do I get to them?  Thanks for any help.
+
+To get to the seatbelts, you have to take the back panel off of the
+rear firewall. To do that, you have to take out the seats and if
+you have it, the rear portion of the console.
+
+They are not unit repairable items. They are fairly expensive when you
+can find them. The last place that had them was Dennis What's-his-name
+who runs the 914 Owners Association. I grabbed a pair at $50/ea. two
+years ago, and count myself luck at that price.
+
+Stan
+
+------------------------------
+
+Date: Fri, 7 Aug 1992 12:04:13 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Lotus vs Porsche
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	The "attached" note (god, how I *hate* ALL-IN-ONE) from the Lotus
+cars list may be of interest if anyone wants to join in the "debate"
+:-)
+
+Philip
+
+
+
+
+Author:	Philip Katz           [DIP11 ]
+Date:	06-Aug-1992
+Posted-date: 06-Aug-1992
+Subject: Text file via Automail                                                  
+
+
+
+          Development & Procurement     From:     esprit!allan@NETCOM.COM@R11F@MRGATE@WEBCS
+                 WEB Mail               Tel No:    
+                                        Date:     06-Aug-1992 00:59
+
+TO:  KATZ P M
+
+
+Subject: Re: Lotus stature
+
+VMSmail To information: lotus-cars@netcom.com
+
+
+From: "K.C.Babb" <aw2.fsl.ca.boeing.com!kcb4286@netcomsv.netcom.com>
+>  A Porsche person had the audacity recently to refer to Lotus as a "cottage
+>industry" when discussing the legitimacy of production cars for Stock 
+>class competition.  Aside from something like 30 years in F1 and an Indy
+>500 win (neither of which can be claimed by Porsche, I think), what info
+>could I toss his way to shut him up?  Thanks.
+
+How about Lotus being only 4 points behind Lotus in the Supercar series
+and a Lotus driver (Doc Bundy) is winning the driver's championship?
+
+How about Lotus having an extensive dealership network in the U.S.?
+
+How about the fact that the former president of the U.S. distributor of
+Lotus was president of the Porsche distributor before that?
+
+How about the fact that Lotus was the second largest importer of cars from
+the U.K. into Japan in the early 80s?
+
+How about the fact that Lotus had EPA-accepted smog testing equipment before
+most other U.K. auto manufacturers?
+
+How about the fact that Lotus Engineering as performed R&D services for
+major auto manufacturers, include Volvo, Toyota and Mercedes?
+
+alan
+
+
+------------------------------
+
+Date: Fri, 7 Aug 92 9:05:08 EDT
+From: Paul B. Booth <paul@eye.com>
+Subject: paint?
+
+Hi-
+
+A novice question, I guess, but the armor-all thread got me thinking re. touch
+up's.  Does Porsche make touch up paints?  If so, are we talking brush-on
+bottles or small spray cans?  Would (shudder) VW colors/products match at
+least some of the more mundane Porsche colors, dark brown in particular?
+
+Thanks-
+- --
+Paul B. Booth  (paul@eye.com)
+- -------------------------------------------------------------------------------
+3D/EYE, Inc., 2359 N. Triphammer Rd., Ithaca, NY  14850    voice: (607)257-1381
+                                                             fax: (607)257-7335
+
+------------------------------
+
+Date: Fri, 7 Aug 92 10:20:18 -0400
+From: nicos@cs.bu.edu (Nicos Kontopoulos)
+Subject: heat
+
+ There has been some discussion about not being able to stop the heat in
+a 914.
+
+ I have the same problem in my 931. With all levers to the left I am
+still getting some flow of WARM air. When I use the top lever (fan speed)
+I am getting HOT air through the vents eventhough the second lever
+(temperature) is all the way to the left (blue region). I cannot get cool air
+without using the a/c...
+
+ What do other 931 owners/users think/have observed?
+ Any comments/suggestions appreciated.
+
+
+- -------------------------------------------------------------------------
+   Nicos Kontopoulos                             Voice: (617) 787-1780
+   INTERnet: nicos@cs.bu.edu                    BITnet: ecolpqc@buacca
+- -------------------------------------------------------------------------
+
+------------------------------
+
+Date: Fri, 7 Aug 92 09:21 CDT
+From: emuroga@ihlpe.att.com
+Subject: Re: Damaged Rubber / lawsuit
+
+Another thing I read about vinyl "plasticiser". The film that builds up
+on the inside of your windows on hot days is evaporated plasticiser. The
+article I read said that you want to restore the plasiciser into the vinyl
+to keep it soft and keep it from cracking. The article said stuff like
+Armor-all was actually bad for vinyl, because it "seals" the vinyl and
+actually makes it brittle.
+
+
+Eisuke Muroga
+
+------------------------------
+
+Date: Fri, 07 Aug 92 11:27 EDT
+From: "Bruce.Pigozzi" <22107BWP@msu.edu>
+Subject: 944 mpg gauge
+
+A "does this mean something worse is soon to happen?" question.
+
+Yesterday, a beautiful sunny (80 degee) day in Michigan, I was cruising at
+about 65 to 70 mph on an almost perfectly flat two lane road (no traffic).  I
+noticed the "miles per gallon gauge (simply a vaccum gauge I guess) was buried
+in the rectangle at the extreme left of the dial.  This is a 1984 944.  I
+seldom pay much attention to this dial but thought it odd that in 5th gear
+cruising, not accelerating, the gauge would continue to read like I was
+stomping on it. I backed off of the gas and the gauge, as usual, swung quickly
+over to the other side of the dial, the 60+mpg side.  As soon as I'd bring gas
+back (even though I may have only dropped to 60 mph) the dial would again bury
+itself into the rectangle.  On one occassion I even noticed the upshift
+indicator light flash - IN FIFTH GEAR!!
+
+I tried changing my driving pattern dramatically, speed (less of it), stopping
+and starting again, etc.  I noticed no change in the way the car drove.
+Suddenly, and associated with nothing, the gauge came back to the "normal"
+position and the upshift indicator light was working as usual.  I drove about
+30 more miles and shut the car down for about 20 minutes; Started it and
+everything was fine for 10 miles or so (still cruising country 2 lane roads;
+5th gear, occassionally 4th - it's straight and flat in this part of MI).
+Then, again with no warning, the mpg gauge buries itself, and the upshift
+light doesn't come on at all.  I get home shut the car off, go inside get the
+Haines (right? Like the underwear??) manual to see what I can figure out - not
+much - the wiring diagrams are of limited detail.  But I thought I'd try to
+switch a few things on and off to see.  Started the car and everything was
+fine again (at least "seemed" fine).
+
+I virtually never use either of this displays (the mpg dial or the upshift
+indicator although the latter is remarkably sensible).  But what is going (or
+has gone) wrong and what else is linked to it?  Are these displays on the same
+circuits as other things I might try to diagnose what's going on?  Or should I
+just forget them altogether?
+
+------------------------------
+
+Date: Fri, 7 Aug 1992 18:01:22 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: RE: 944 mpg gauge
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	I have a UK spec 85.5 944 and I also had a problem with my mpg
+gauge not working. I don't have an upshift indicator on this car (though
+if it's good enough for Formula 1 drivers I wouldn't mind one :-) ).
+
+	In my case, once the ignition was on the gauge would go to
+"maximum" (i.e. extreme RHS or 0 mpg), and when the ignition was off it
+would rest on the LHS (as normal).
+
+	I must have spent 12 hours or more trying to trace this. Even with
+the relevant bits of the factory technical bulletin (which Kevin Gross
+kindly sent me) I was having no joy, until I got to the point where I was
+disconnecting *every* electrical connector in sight, so that I could clean
+them and re-assemble.
+
+	Eventually I came across a red 4-pin connector under the dash on
+the passenger side (driver's side in the US) in which one pin had come out
+of its socket! I had seen this connector on the wiring diagram but had not
+known where it was physically located until I came across it by chance.
+
+	I don't think that the mpg gauge is a vacumn gauge - it's fed from
+the tachometer and speedometer (I think). The "intermittentness" of your
+problem (and the fact that the upshift indicator is also involved) sound
+like a loose connection to me. Try taking out the instrument panel (you'll
+need to remove the steering wheel first) and looking for any loose
+connections. The Haynes manual covers this for the pre-85.5 car (though
+not the later ones, despite what it says on the cover!)
+
+	If you send me your fax number or address, I'll send you a copy of
+the tech bulletin which Kevin sent me.
+
+Philip
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: Philip Katz                     ::  'phone : +44 394 693446           ::
+:: BT D&P Computing Security Unit  ::  fax    : +44 394 693464           ::
+:: Anzani House, Trinity Avenue,   ::  e-mail : Katz_P_M@bt-web.bt.co.uk ::
+:: Felixstowe, England, IP11 8XB   ::                                    ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+------------------------------
+
+Date: Fri, 7 Aug 92 11:34:54 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: Re: Damaged Rubber / lawsuit
+
+>
+>Is there a "cold turkey" treatment for Armor All adicts ?  My dash etc has been
+>treated in the past so should I be retreating periodically and if so how
+>often (every 2 weeks seems a bit much).  I wonder if climate/exposure to
+>UV from sitting in the sun affects how often you need to retreat.
+>
+>Richard Cole
+>
+Yes, there is a cure.  I was a Armor All "user" and didn't like the
+greasy feel and the whitening that happened if I didn't get to all the
+rubber regularly.
+
+After trying several things, I found "303 Protectant" a fall out of
+the aerospace industry it claims in the pamphlet that comes with it.
+It also says "no petrochemicals or silicones" both of which cause the
+problems with Armor All as I hear it.
+
+I've been using it for over a year and often don't get to the rubber
+for weeks at a time (as much a 8) with out any bad effects except
+looking bad.  It also doesn't give that greasy-glossy look of some
+treatments if you use it sparingly.  It has lots of UV protection
+which is needed here in Calif.  It is a little hard to find, ususally
+in independant Auto Supply/Parts Stores.  Another product I liked but
+can't get regularly comes from a Calif Comp called The Wax Shop.
+
+Hope this helps.
+
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+Date: Fri, 7 Aug 92 18:17 GMT
+From: KEVIN <KEVIN+la+rBEYOND%Beyond+c_Inc+p@mcimail.com>
+Subject: Re: Damaged Rubber / lawsuit
+
+MHS:   Source date is:     7-Aug-92 14:15 EDT
+
+Form: Reply
+Use OEM Field: true
+Text: (14 lines follow)
+Eisuke -
+
+It is true that the plasticizers evaporate over time, both coating the
+windshield and making the plastic brittle.  I have never heard it reliably
+said that one can:
+
+  a) replace ("feed") the plasticizers in the plastic, or
+  b) seal the plastic in such a way that the plasticers cease to evaporate
+out of it.
+
+Which is not to say the neither is possible - I just don't know one way or
+the other.
+
+Kevin
+Original text: (13 lines follow)
+From EMUROGA @ MCIMAIL (emuroga) { NOTRK | NAME: emuroga | EMS: INTERNET |
+MBX: emuroga@ihlpe.att.com }, on 08/07/92 9:21 AM:
+Another thing I read about vinyl "plasticiser". The film that builds up
+on the inside of your windows on hot days is evaporated plasticiser. The
+article I read said that you want to restore the plasiciser into the vinyl
+to keep it soft and keep it from cracking. The article said stuff like
+Armor-all was actually bad for vinyl, because it "seals" the vinyl and
+actually makes it brittle.
+
+
+Eisuke Muroga
+
+
+Use Proportional Font: true
+Original to: PORSCHEP @ MCIMAIL (Richard Cole) { NOTRK | NAME: Richard Cole |
+ EMS: INTERNET | MBX: porschephiles@math.uh.edu }
+Attachment Count: 0
+Encatts: *beyond*|*beyond*|712|7398|713222148|
+//BEGIN BINARY MAIL SEGMENT:
+begin 0777 @F@$TXX0751
+M0F5Y;VYD(%!A8VME9"!!='1R:6)U=&5S  VO$JHF"@                  
+F                         !$       0 #0!> 0          
+M                 $]R:6=I;F%L('1E>'04 D8*             $P! P 4
+@ D8! @ "    #  "  $  0!^          ( ?P"6 0  
+M       X_P       ) !          !-4R!386YS(%-E<FEF            
+>                   X_P       ) !        
+M  !#;W5R:65R                                       !  $ ?P "
+: '\ ]W\" ,< ]W\" ! !]W\" %L!]W\" *( 
+M ?=_ @#I ?=_ @ $ O=_ @ % O=_ @ & O=_ @ 4 O=_ @ 5 O=_        
+6        9  !I $!2 ,![ 0!D 8!-'\"
+M" '8"0%\"P$@#0'$#@%H$ $,$@&P$P%4%0'X%@               &0  > !
+: < # : % 8 ' 6 ) 4 + 2 - 0 / > 0 <  
+M$@&@% & %@%@& % &@  $0      !  $ -D                         
+:  !497ATG0%%;@            #'  , G0$ 
+MP  !  $    *  $  0 ! )T!        ./\       "0 0          0V]U
+:<FEE<@                              
+M          $  0 )  $ "@ *  $ "P"O  $ L "P  $ L0#J  $ ZP!  0$ 
+700%! 0$ 0@&7 0$ F &8 0$ F0&> 0  
+M              !D  '@ 0'  P&@!0& !P%@"0% "P$@#0$ #P'@$ ' $@&@
+ -% & %@%@& % &G0   &8
+ 
+end
+//END BINARY MAIL SEGMENT
+
+------------------------------
+
+Date: Fri, 7 Aug 92 11:48:12 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: Armor All Replacement...
+
+Forgot to say the manafacturer of "303 Protectant" is 
+303 PRODUCTS INC
+Redding Calif 96002
+
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+Date:         Fri, 7 Aug 92 14:55-0400
+From: Ken.Stanton@queensu.ca
+Subject:      Car care kits
+
+One last kick at this rubber damage business:  Does anyone know WHEN Porsche
+supplied Armorall kits with new cars? And, is there any kind of Porsche
+policy to fix the damage given that they encouraged its use? I am  a L O N  G
+way from a Porsche dealer here so I haven't pushed this query onto any
+dealer as yet.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+------------------------------
+
+Date: Fri, 7 Aug 92 12:13:20 pdt
+From: John Wright <jpw@hpsadlb.sad.hp.com>
+Subject: Automotion one day sale
+
+If anyone is interested.  Automotion is having a 20% off sale
+this Saturday, August 8 from 6:30AM to 4:00PM, California time.
+
+Mention "1-Day sale" to get 20% discount off any item in their catalog.
+
+Toll free number is 800-777-8881
+
+Fax number is 408-736-9013, address fax to "1-Day sale department"
+
+They state in the flyer that the discount is "20% off current prices".
+"Current price" does not always equal "catalog price" so get a quote
+to avoid sticker shock.
+
+Usual disclaimer...I have no connection with Automotion. etc.
+
+
+------------------------------
+
+Date: Fri, 7 Aug 92 14:15:33 PDT
+From: INTEL CORP. 408-765-9833 <MBRODESKY@libra.intel.com>
+Subject: PArts, seat belts, rubber parts and headers
+
+
+
+Hello Everyone,
+
+	While calling for the 75, 76 fuel pump mounting plate for my 73 914
+I asked Dave at mid engine mania, about the headers, rubber parts and seat belt
+units. He sells the header for $400 and $500. The rubber part for the oil
+sensor for $5, and used seat belt units for $25. He also sells lap belts and
+other harneses. 
+	Back to moving the fuel pump. He suggested just moving it lower
+and closer to the fire wall to keep it cool. Any Suggestions?
+
+Michael
+
+The number for mid -engine Mania is 800-321-5432.
+ 
+
+------------------------------
+
+Date: Fri, 7 Aug 92 14:26:19 PDT
+From: johnson@wrs.com (David Johnson)
+Subject: Re: Automotion one day sale
+
+Does anyone know if Automotion is going to have a swap meet this year?
+
+DAVE (johnson@wrs.com)
+
+------------------------------
+
+Date: Fri, 7 Aug 92 14:51:39 pdt
+From: John Wright <jpw@hpsadlb.sad.hp.com>
+Subject: automotion swap meet
+
+The Automotion swap meet happened in April.
+
+The dealer Carlsen is having one this Sunday, August 9 in Palo Alto, CA.
+
+------------------------------
+
+Date: Fri, 7 Aug 92 15:07:32 PDT
+From: johnson@wrs.com (David Johnson)
+Subject: Re: automotion swap meet
+
+Funny how I get their catologs but not the announcements.
+Anyway, how would I get to Carlsen?  coming from the north
+(San Mateo Bridge). 
+
+Thanx,
+
+DAVE (johnson@wrs.com)
+
+BTW, what is their phone #?  Thanx again!
+
+------------------------------
+
+Date: 08 Aug 1992 10:29:56 +1000
+From: "Mark Kosten - Computer Centre, La Trobe Uni." <M.Kosten@latrobe.edu.au>
+Subject: Re: paint?
+
+From: "Paul B. Booth" <paul@eye.com>
+>A novice question, I guess, but the armor-all thread got me thinking re. touch
+>up's.  Does Porsche make touch up paints?  If so, are we talking brush-on
+>bottles or small spray cans?  Would (shudder) VW colors/products match at
+>least some of the more mundane Porsche colors, dark brown in particular?
+
+I have never seen any, but you may be able to do what I did.  Go
+down to your local Porsche repair place with a small bottle and ask
+for a few dribbles of your paint.  You don't need much for touch-ups
+(they gave me about 400ml, which has lasted now about 5 years).
+
+I must say my '83 944 doesn't have a particularly good paint job.  It
+is thin, chips easily and is prone to fading in the sun quite quickly.
+I have waxed the car a number of times to try and stave off the dull look,
+but of course the cutting takes yet more paint off.  So much for
+Guards Red!
+
+Mark Kosten
+(ccmk@latrobe.edu.au)
+
+------------------------------
+
+Date: Sat, 8 Aug 92 21:47:16 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Subject: Re: paint?
+
+"Mark Kosten - Computer Centre, La Trobe Uni." <M.Kosten@latrobe.edu.au> writes:
+
+| From: "Paul B. Booth" <paul@eye.com>
+| >A novice question, I guess, but the armor-all thread got me thinking re. touch
+| >up's.  Does Porsche make touch up paints?  If so, are we talking brush-on
+| >bottles or small spray cans?  Would (shudder) VW colors/products match at
+| >least some of the more mundane Porsche colors, dark brown in particular?
+| 
+| I have never seen any, but you may be able to do what I did.  Go
+
+I have a bottle of Guards Red touchup paint -- it's a tiny 18ml bottle
+with integral brush (just like VW paints). The color matches my '87 951
+very well.  I seem to remember it cost a few dollars at the dealer.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+------------------------------
+
+Date: Sun, 9 Aug 92 15:23:19 PDT
+From: jon@qcktrn.com (Jon Glickman)
+Subject: Re: paint?
+
+
+| From: "Paul B. Booth" <paul@eye.com>
+| >A novice question, I guess, but the armor-all thread got me thinking re. touch
+| >up's.  Does Porsche make touch up paints?  If so, are we talking brush-on
+| >bottles or small spray cans?  Would (shudder) VW colors/products match at
+| >least some of the more mundane Porsche colors, dark brown in particular?
+| 
+| I have never seen any, but you may be able to do what I did.  Go
+
+
+
+I bought  a small bottle of Porsche factory touchup paint at the
+local Posrche dealer.  It came with a brush built into the cap
+and a small wire brush on top of the cap.  It was cheap -- around
+$7, and it was in stock.
+
+Two things:
+
+1. When you ask for the paint, you have to know the official Porsche
+name or number for the color.  For example, "Guards Red", "Alpine White", 
+or "Chiffon White" (my car).
+
+The name/number is supposed to be on a sticker on your doorpost or in
+your trunk.  My car had no sticker, so I had to flip through the
+color brochure for my year to find the name.  The dealership was
+very helpful.  Note that different models within the same year
+have different available colors.
+
+2. Don't use the brush on the inside of the cap; it's way too big
+for touching up small nicks.  Go to a hobby shop and get a smaller
+brush.
+
+
+
+Jon Glickman				jon@qckturn.com
+Quickturn Systems			Drive fast.  Go sideways.
+Mountain View, CA			Hit cones.
+
+------------------------------
+
+Date: Mon, 10 Aug 92 00:54 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: paint?
+
+Paul -
+
+I know from looking in a PCNA parts catalog recently that at least some of the
+standard colours are available as parts (guards red, grand prix white, etc).  I
+don't know about the less long-lived paints.
+
+As Jon mentioned, the paint code is printed on a sticker somewhere in the car. 
+In 944-series cars, there's a silver paper sticker on the body in the engine
+bay, between the fresh air fan and the central electric board.  I believe all
+cars also have a full build list sticker somewhere.  In 944's and 928's, it's
+under the carpet in the rear hatch.  It will show the paint code (not its name,
+but some code like "LY5Z").
+
+Moreover, if your car was made for the US, PCNA has all its particulars in their
+computer.  Any dealer can, given your VIN, look up its build list, production
+date, and so forth.  For non-US (or perhaps all) cars, Porsche AG has the info
+in their Cardex system; I have an address somewhere to which you can write.
+
+My preferred technique for application is a straight pin.  Beforehand, clean out
+the stone chip, and the pin, with a solvent like Prepsol, Pre-Kleeno, or
+Acryli-Clean.  Rust, wax, and dirt in the chip will not only interfere with the
+paint's adhesion, but can also discolour the paint, esp. metallics.  With the
+non-metallic paints, you can flatten and blend the edges of the chip with fine
+sandpaper.  This works a lot less well with metallics.
+
+Kevin
+
+------------------------------
+
+Date: Mon, 10 Aug 1992 10:04:09 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: RE: paint?
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	paul@EYE.COM@R11F@MRGATE@WEBCS
+CC:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	I was able to get touch-up paint as a stock item from my local
+Porsche dealer for my black 944.
+
+	I don't have it with me, but think it has a 911 part number. It
+comes in a small bottle with quite a thick brush built into the
+handle - too thick for small spots.
+
+	It was relatively expensive - about #6 (compared with #1.50 for
+touch-up paint from a GM dealer when I had a Vauxhall Cavalier/Opel
+Ascona).
+
+	You will need the "paint number" for your car - on the 944 this is
+on a sticker behind the spare wheel.
+
+Philip
+
+
+------------------------------
+
+Date: Mon, 10 Aug 92 11:00:11 PDT
+From: LAFORCE@xenon.arc.nasa.gov
+Subject: WANTED: anti-sway bar
+
+Does anyone out there have a 19mm Weltmeister rear anti-sway bar
+for a 911 that they'd like to sell?
+
+I live in the bay area (mountain view, ca) but am willing to 
+negotiate on shipping.
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+(415)967-7560
+
+------------------------------
+
+Date: Mon, 10 Aug 92 11:03:30 PDT
+From: jon@qcktrn.com (Jon Glickman)
+Subject: Yoko A008P
+
+
+
+Does anyone out there have experience with Yokohama A008P tires?
+I'm looking to replace my worn tires with something that
+gives good street performance and will be used for occasional
+autocrossing.
+
+My Goodyear Eagle NCTs were very durable, but were noisy
+and a bit too slippery for autocrossing.
+
+In the SF Bay Area, Mark Morris Tires has A008s on sale for
+10 to 40% off (I'm assuming this sale includes A008Ps)
+
+
+
+Jon Glickman				jon@qckturn.com
+Quickturn Systems			Drive fast.  Go sideways.
+Mountain View, CA			Shred your tires.
+
+
+------------------------------
+
+Date: Mon, 10 Aug 92 08:41 PDT
+From: "SSP::SSP::MRGATE::\"A1::HINCKLEYS\""@ada3.ca.boeing.com
+Subject: Re: Armorall Replacement
+
+From:	NAME: Scott H Hinckley              
+	FUNC: B1-B Logistics                  
+	TEL: 205 461 2073                     <HINCKLEYS AT A1 AT SSP>
+To:	" porschephiles@karazm.math.uh.edu"@MAILGATE@ADA3@MRGATE
+
+
+Yes, 303 Protectant beats ArmorAll the heck and back. No greasy residue, no
+cracked dash (yes, dashes will crack with ArmorAll after a few years).
+It doesn't keep it's shine quite as long 2-3wks vs 1month, but I would never
+go back.
+
+BTW: Telephone #s -> +1 916 221 2225 or 1-800-223-4303
+
+Standard Disclaimer about only being a satisfied customer and such...
+
+!!! DO NOT USE YOUR MAILER'S AUTO-REPLY TO SEND TO ME, IT WILL NOT WORK !!!
+- -------------------------------------------------------------------------------
++1 205 650 0400|This message contains nothing|HINCKLEYS@H8700A.a1.ca.boeing.com
+I heart my VW! |other than my opinions.      |Copyright 1992 Scott Hinckley
+OR hinckley@ebs330.eb.uah.edu
+
+
+------------------------------
+
+Date: Mon, 10 Aug 92 13:56:39 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: Finding 303 Protectant
+
+303 Products Inc has this number:  800-223-4303
+and will give you name and number of a distributor in your area.  They
+also have some names of retail outlets.
+
+The lady operator was quite helpful, Redding Calif is pretty laid
+back.  It seems all too often these 800 numbers are personed by people
+that should NOT be in the public service business.
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+Date: Mon, 10 Aug 92 17:21:40 EDT
+From: don@acad.cimage.com (0)
+Subject: Porsche General Competition Rules?????
+
+
+Someone from the Autox list mentioned that the reason 914's don't come
+and play in the SCCA is that the rules are soo different in the SCCA
+than in the PCA.
+
+My question is: How does one get a copy of the PCA Competition rules?
+I've heard people mention that these rules do exist but in my (2)
+years of PCA membership I've never heard/seen a way to obtain a copy.
+
+I've heard that they classify via a sum of modifications to a
+particular car (Should be easy enough when dealing with a single
+marque).
+
+Thanks in advance 
+
+don@cimage.com
+
+------------------------------
+
+Date: Tue, 11 Aug 92 02:39 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Yoko A008P
+
+Jon -
+
+No experience with A008P, but many positive reports with Yoko AVS and 508 tires
+for street use.
+
+Kevin
+
+------------------------------
+
+Date: Mon, 10 Aug 92 22:41:59 CDT
+From: Stan Hanks <stan>
+Subject: Re: Yoko A008P
+
+> No experience with A008P, but many positive reports with Yoko AVS and 508 tires
+> for street use.
+
+No personal experience with the 008P's but a good friend uses them on his
+Turbo-look for street, track and the ocassional autox. He claims to get good
+tread wear, and seems to be reasonably sticky on the track. I usually
+toast him in my Euro 911SC with AVS Intermediates, though, so who knows?
+Then again, he's clearly not a 10/10ths kind of guy...
+
+I did just order a new set of AVS today. I've gotten about 18 months of
+wear out of them, including about 20K miles of street wear, 20 autocrosses
+(that's events, not laps), and 4 track days. I *HIGHLY* recommend them.
+At least for the air-cooled crowd. No claims for water-pumpers.
+
+Stan
+
+------------------------------
+
+Date: Mon, 10 Aug 92 22:47:38 CDT
+From: Stan Hanks <stan>
+Subject: Re: Porsche General Competition Rules?????
+
+> Someone from the Autox list mentioned that the reason 914's don't come
+> and play in the SCCA is that the rules are soo different in the SCCA
+> than in the PCA.
+
+Watch out, or Mark Sirota will get you! (Hint: there at least 4 people on 
+this list actively campaigning 914s SUCESSFULLY in autox or road racing. 
+Be careful about such statements....)
+
+The rules are different, but in some classes, 914's take names and kick ass.
+Both autox and road race. Depends on the car and driver combination A LOT,
+and to some extent who else is driving what else.
+
+> My question is: How does one get a copy of the PCA Competition rules?
+> I've heard people mention that these rules do exist but in my (2)
+> years of PCA membership I've never heard/seen a way to obtain a copy.
+
+You call up the national office and ask for a set of rules. Ruth can usually
+UPS them to you in a day or so. If you're a member, look in the back of Pano
+for the phone number. I don't remember what they cost these days. If you're
+not a member, WHY NOT???? (You don't have to answer that; you just have live
+with yourself 8{)/2 )
+
+> I've heard that they classify via a sum of modifications to a
+> particular car (Should be easy enough when dealing with a single
+> marque).
+
+Pretty much the case. They charge points oddly, to my way of thinking.
+
+Stan
+
+------------------------------
+
+Date: Tue, 11 Aug 92 08:28:02 -0600
+From: Bob_Pentecost <bpenteco@hpbs987.boi.hp.com>
+Subject: Somthin' Else
+
+
+A few days ago someone mentioned using a product called Somthin' Else on
+interior surfaces. They didn't have a ready source for the product but I
+noticed the Imparts catalog that just arrived has it. You can call Imparts
+at 1-800-325-9043.
+
+Bob Pentecost
+
+P.S. I hope this isn't repeat info. I haven't received my daily porschephiles
+digest for the last few days (I don't know why).
+
+------------------------------
+
+Date: Tue, 11 Aug 1992 15:21:57 GMT
+From: msirota@ee.rochester.edu
+Subject: Re: Porsche General Competition Rules?????
+
+In article <199208110347.AA29069@casc.math.uh.edu> stan@math.uh.edu (Stan Hanks) writes:
+>> Someone from the Autox list mentioned that the reason 914's don't come
+>> and play in the SCCA is that the rules are soo different in the SCCA
+>> than in the PCA.
+>
+> Watch out, or Mark Sirota will get you! (Hint: there at least 4 people on 
+> this list actively campaigning 914s SUCESSFULLY in autox or road racing. 
+> Be careful about such statements....)
+
+Don is undoubtably aware of that...  In SCCA autocrossing, 2.0's do very
+well in C Stock (Reitmeir just keeps winning), 6's do quite well in F
+Prepared (Team.Net's own David Ferguson has popped into the autox world and
+done impressively well), and it's not unusual to see some former 914's in E
+Modified.
+
+In Street Prepared, though, 914's just don't show up, and that's the
+conversation on the autox list to which Don is referring.  They are
+currently misclassed in SP, but it looks like that will be correct next
+season, and hopefully we'll be trophying in CSP soon.
+
+Mark
+- -- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+------------------------------
+
+Date: Tue, 11 Aug 1992 12:46 EST
+From: Kevin Jones <KPJONE01@ulkyvx03.louisville.edu>
+Subject: 944 info.
+
+ Well, I'm looking at a 944 again.  This time it is an 84.  Anyone have any 
+hints on what to look for when viewing/testing this car?
+
+Kevin
+
+------------------------------
+
+Date: Tue, 11 Aug 92 13:21:19 EDT
+From: "George Beuselinck" <gb@vnet.ibm.com>
+Subject: 84 944 Info - What Problems to Look For
+
+1) Cooling System Problems - radiator leaking, water pump, hoses
+2) Evidence of Timing Belt having been replaced and tensioned recently
+3) Power Steering - rack leaking, hoses leaking
+4) Noisy Transaxle
+5) Clutch Wear - Check at inspection hole in clutch housing
+6) Motor Mounts - shaking steering wheel at idle
+7) Bent or cracked suspension parts (VW stamped steel A-arms)
+
+A typical 84 944 with 50K miles goes for about 5500-6000 U.S. dollars
+up here.  The good news is that parts are readily availble from
+several aftermarket sources.
+
+------------------------------
+
+Date: Tue, 11 Aug 92 13:23:56 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: Euro 911SC ?
+
+Re: '83 911SC Euro with pinging
+
+I just had a tuneup and mentioned what I have learned from the
+reflector discussions on pinging at 4000rpm, esp. in Euro 911SC's.
+He mentioned there is a vacuum advance in the control circuit of the
+FI that is *JUST* for coming on when load is high but *NOT* at
+full-throttle.  This is just what I experience at high engine and
+ambient temps.
+
+Anyone know of this to be true of just Euro cars?  What would this be
+for?  He says he will disconnect it if I still get ping and want to get 
+rid of this possible cause.  
+
+By the way, it is not pinging right know, immediately after the tuneup
+and we are having a heat wave, 90-100 F so I can test it readily.
+
+Thanks,
+Rich
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+Date: Tue, 11 Aug 92 17:11:08 EDT
+From: lmcsugi@noah.ericsson.se (David Sugirtharaj)
+Subject: Re: 944 info
+
+Yeah, the service records!
+
+A friend of mine bought a 86 944 and a week later, his water pump failed.
+Two main design flaws on the 944 concern the water pump and the timing
+belt. The water pump was repaired using an update kit and he cautiously
+replaced the tming belt. Needless to say, it cost him $$$. The service
+record for the car should indicate that these mods have been performed or
+you should negotiate the price accordingly.
+
+Good luck.
+
+Sugi
+Ericsson
+Montreal
+
+
+------------------------------
+
+Date: Tue, 11 Aug 92 21:31:21 CDT
+From: Stan Hanks <stan>
+Subject: Re: Euro 911SC ?
+
+> I just had a tuneup and mentioned what I have learned from the
+> reflector discussions on pinging at 4000rpm, esp. in Euro 911SC's.
+> He mentioned there is a vacuum advance in the control circuit of the
+> FI that is *JUST* for coming on when load is high but *NOT* at
+> full-throttle.  This is just what I experience at high engine and
+> ambient temps.
+
+The pressure control device AKA "warmup regulator" and fuel distributor
+are *DIFFERENT* for the Euro SCs (and probably other Euro CIS 911s too).
+I tried to map the curve for the two, but given what the device does,
+that is use temperature and manifold pressure to regulate fuel pressure,
+it's not hard to believe that things work as described.
+
+> Anyone know of this to be true of just Euro cars?  What would this be
+> for?  He says he will disconnect it if I still get ping and want to get 
+> rid of this possible cause.  
+
+Nope. Don't do that. It's there for a reason. The trick is, do you have the
+right warmup regulator for your fuel distributor? And secondly, is it working
+right? 
+
+By the way, if he's offering to do that, TAKE THE CAR TO SOMEONE ELSE. He
+obviously doesn't understand what he's doing on your CIS. Not to worry, 
+most people don't. But still, it's criminal to pay someone to knowingly
+fuck up your car.
+
+Stan
+
+------------------------------
+
+Date: Wed, 12 Aug 92 03:23 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: 944 info
+
+David -
+
+>A friend of mine bought a 86 944 and a week later, his water pump failed.
+>Two main design flaws on the 944 concern the water pump and the timing
+>belt. The water pump was repaired using an update kit and he cautiously
+>replaced the tming belt. Needless to say, it cost him $$$. The service
+>record for the car should indicate that these mods have been performed or
+>you should negotiate the price accordingly.
+
+Unfortunately, my limited experience has been that the water pump fails at some
+entirely random point in the 944's lifetime.  It may fail at 10K miles, it may
+last till 80K miles.  There is an updated design, but I have not heard it said,
+one way or the other, that the new design is less prone to failure.
+
+Kevin
+
+------------------------------
+
+Date: Wed, 12 Aug 92 08:22:57 -0400
+From: Peter Mullarkey <mullarke@falcon.AA.CAD.SLB.COM>
+Subject: for sale - 86 944 Turbo 
+
+
+1986 Porsche 951 (944 turbo)
+white exterior, tan leather interior
+5 spd, sunroof, a/c, cruise
+86k miles
+
+Car is currently in Ann Arbor, Michigan,
+but is from Texas - no winters (yet!).
+
+$9900.
+
+	-Peter
+	mullarkey@aa.cad.slb.com
+	(313) 429-1119 
+
+------------------------------
+
+Date: Wed, 12 Aug 1992 08:27:32 EDT
+From: timmins@ravel.udel.edu (Steve Timmins)
+Subject: Re: Euro 911SC ?
+
+} Re: '83 911SC Euro with pinging
+} 
+} I just had a tuneup and mentioned what I have learned from the
+} reflector discussions on pinging at 4000rpm, esp. in Euro 911SC's.
+} He mentioned there is a vacuum advance in the control circuit of the
+} FI that is *JUST* for coming on when load is high but *NOT* at
+} full-throttle.  This is just what I experience at high engine and
+} ambient temps.
+} 
+} Anyone know of this to be true of just Euro cars?  What would this be
+} for?  He says he will disconnect it if I still get ping and want to get 
+} rid of this possible cause.  
+} 
+} By the way, it is not pinging right know, immediately after the tuneup
+} and we are having a heat wave, 90-100 F so I can test it readily.
+} 
+
+I have exactly the same symptoms in my 83 SC non-euro engine.
+
+Perhaps I'm a bit dense, but what is the solution?
+
+
+Thanks,
+	Steve
+
+
+- -- 
+
+------------------------------
+
+Date: Wed, 12 Aug 92 8:50:18 CDT
+From: Stan Hanks <stan>
+Subject: Re: Euro 911SC ?
+
+> } Re: '83 911SC Euro with pinging
+> 
+> I have exactly the same symptoms in my 83 SC non-euro engine.
+> 
+> Perhaps I'm a bit dense, but what is the solution?
+
+The problem is that you're not getting enough gas for the load on
+the engine. Load in this case is measured by the CIS system in terms of 
+temperature and manifold pressure. The key elements are measurements
+at the warmup regulator and metering at the fuel distributor.
+
+Trouble shooting this takes roughly forever, because it typically won't
+reproduce itself at idle in a shop, and requires either luck or a 
+chassis dyno so you can make it happen under controlled conditions.
+The method involves using a high-pressure fuel pressure guage and a 
+fairly complex set of plumbing. Most of the aftermarket guys (Automotion,
+Performance Products, etc.) sell the setup for about $120 or so.
+In case you're able to scare up all the right tools, and a factory manual,
+what you're looking for is discontinuities in the pressure curve under
+load -- particularly between 3 and 5K RPM, when you depress the accellerator
+further. What part of the pressure path you see the discontinuity in
+will indicate which piece is probably broken.
+
+Typical causes: bad fuel pressure regulator, bad "warmup regulator", bad
+fuel pump (i.e. can't make enough pressure at the high end), bad fuel
+distributor (often clogged distribution slots in the flow control plunger),
+bad injector(s) (often just one or two, but it makes a difference).
+
+Due to the failure mode, most places won't even attempt to really diagnose
+the problem, but will replace the warmup regulator as a matter of course. If
+that doesn't work, they usually shoot for the fuel distributor. By this time,
+you're into them for say $1200 or so and may be reluctant to take the car
+elsewhere. So on it goes....
+
+One other thing: it is possible to adjust the CO mixture to about 5% on non-
+Lambda cars, and very slightly retard the timing to keep this from being
+a problem on the street. For Lambda cars, this doesn't work, and if you
+autocross or track the car, you still have to be careful or you'll overload
+the engine and it will be back. Pinging in an aircooled engine is a serious
+problem, unlike a US cast-iron V8 or something. If you hear pinging, take
+your foot off the gas -- right then.
+
+Stan
+
+------------------------------
+
+Date: Wed, 12 Aug 92 08:57:00 PDT
+From: LAFORCE@xenon.arc.nasa.gov
+Subject: re: 911sc pinging
+
+After reading this morning mail regarding 911sc pinging I have a question
+and a comment.
+
+Have you tried running some techroline (sp?) through the system?  This 
+may help a dirty fuel distributer or injectors.
+
+Also, Rockwell Motorsports (near SJ airport) has a chassis dyno, though
+I don't know how much he (Charles Rockwell) knows about 911's, but
+he does advertise in the Nugget (Golden Gate Region's newsletter).
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+------------------------------
+
+Date: Wed, 12 Aug 92 10:46:06 -0700
+From: Patty Winter <winter@apple.com>
+Subject: Re:  84 944 Info - What Problems to Look For
+
+
+>From: "George Beuselinck" <gb@vnet.ibm.com>
+>
+>1) Cooling System Problems - radiator leaking, water pump, hoses
+>2) Evidence of Timing Belt having been replaced and tensioned recently
+>3) Power Steering - rack leaking, hoses leaking
+>4) Noisy Transaxle
+>5) Clutch Wear - Check at inspection hole in clutch housing
+>6) Motor Mounts - shaking steering wheel at idle
+>7) Bent or cracked suspension parts (VW stamped steel A-arms)
+
+
+Why would number 2 be a problem? I thought changing the timing belt
+frequently was a Good Thing. I'd be more worried if there were evidence
+that it *hadn't* been changed.
+
+
+Patty
+
+p.s. Any recommendations on good Porsche garages in the South Bay
+now that Garrettson's has disappeared?
+
+
+------------------------------
+
+Date: Wed Aug 12 13:33:36 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: gastankrenu
+
+Just a follow up on my gas tank problems.
+
+I pulled the tank on my 79 SC and per recommendations took it to the 
+closest Gas Tank ReNu franchise in Downers Grove, IL
+
+
+I picked it up about a week later, paid $165 and appear to have solved fuel
+system problems.
+
+they cut open the tank in several places, grit blast the interior (after 
+removing the fuel pickup) weld up the holes ( after replacing the pickup),
+then coat the interior and oven bake the tank to cure the coating.
+
+they also repaint/coat the tank exterior. it  all seems to work quite well
+
+
+I guess time will tell.
+
+
+jim fuerstenberg		
+
+
+			186,000 miles per second, it's not just a good idea
+			it's the law!
+						
+						
+jfuerstenberg@dcmdc.dla.mil or
+xgg2356@dcmdc.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+------------------------------
+
+Date: Wed, 12 Aug 92 18:34 GMT
+From: KEVIN <KEVIN+la+rBEYOND%Beyond+c_Inc+p@mcimail.com>
+Subject: Re:  84 944 Info - What Problems to Look For
+
+MHS:   Source date is:     12-Aug-92 14:32 EDT
+
+Form: Reply
+Use OEM Field: true
+Text: (1 line follows)
+What's become of Garrettsons?
+Original text: (25 lines follow)
+From WINTER @ MCIMAIL (Patty Winter) { NOTRK | NAME: Patty Winter | EMS:
+INTERNET | MBX: winter@apple.com }, on 08/12/92 10:46 AM:
+>From: "George Beuselinck" <gb@vnet.ibm.com>
+>
+>1) Cooling System Problems - radiator leaking, water pump, hoses
+>2) Evidence of Timing Belt having been replaced and tensioned recently
+>3) Power Steering - rack leaking, hoses leaking
+>4) Noisy Transaxle
+>5) Clutch Wear - Check at inspection hole in clutch housing
+>6) Motor Mounts - shaking steering wheel at idle
+>7) Bent or cracked suspension parts (VW stamped steel A-arms)
+
+
+Why would number 2 be a problem? I thought changing the timing belt
+frequently was a Good Thing. I'd be more worried if there were evidence
+that it *hadn't* been changed.
+
+
+Patty
+
+p.s. Any recommendations on good Porsche garages in the South Bay
+now that Garrettson's has disappeared?
+
+
+
+Use Proportional Font: true
+Original to: kevin @ beyond,PORSCHEP @ MCIMAIL (porschephiles) { NOTRK | NAME:
+ porschephiles | EMS: INTERNET | MBX: porschephiles@karazm.math.uh.edu }
+Attachment Count: 0
+Encatts: *beyond*|*beyond*|531|7390|713655167|
+//BEGIN BINARY MAIL SEGMENT:
+begin 0777 @F@$T300401
+M0F5Y;VYD(%!A8VME9"!!='1R:6)U=&5S  VO$G0L"@                  
+F                         !$       0 #0"F 0         @
+M                 $]R:6=I;F%L('1E>'10 T8*             )0! P!0
+? XX! @ "    &  "  $  0"#          ( A #- @  
+M        ./\       "0 0          35,@4V%N<R!397)I9@          
+>                    ./\       "0 0      
+M    0V]U<FEE<@                                       0 ! (0 
+9 @"$ /=_ @"Q /=_ @"S /=_ @#U /=_ @  
+M #T!]W\" &X!]W\" ((!]W\" +\!]W\" /$!]W\" # "]W\" #$"]W\" #("
+8]W\" '8"]W\" +X"]W\" -T"]W\" -X"
+M]W\" -\"]W\" .4"]W\" .8"]W\" "@#]W\" $\#]W\" % #]W\" %$#]W\ 
+8              !D  &D 0%( P'L! &0
+M!@$T" '8"0%\"P$@#0'$#@%H$ $,$@&P$P%4%0'X%@               &0 
+: > ! < # : % 8 ' 6 ) 4 + 2 - 0 / >  
+2$ ' $@&@% & %@%@& % &@  
+ 
+end
+//END BINARY MAIL SEGMENT
+
+------------------------------
+
+Date: Wed, 12 Aug 92 11:50:54 PDT
+From: jon@qcktrn.com (Jon Glickman)
+Subject: Porsche Garages in South Bay
+
+
+
+Patty writes:
+
+> p.s. Any recommendations on good Porsche garages in the South Bay
+> now that Garrettson's has disappeared?
+
+
+I highly recommend Carerra Tech in Campbell.  The owner,
+Don Wise, is always there and happy to give advice.  I see
+lots of Porsches of all types parked in front and his shop
+is immaculate.
+
+He helped me evaluate 911s and steered me away from four or five
+before I found a reliable one.
+
+Carerra Tech supports the Loma Prieta PCA region by advertising in 
+the newsletter and holding tech sessions.
+
+
+Unfortunately, I'm moving to Mountain View, and will be
+too far from Carerra Tech.  I was hoping to go to Garrettson's.
+When and why did they disappear?  Who's good near Mountain View?
+
+
+
+
+Jon Glickman				jon@qcktrn.com
+Quickturn Systems			Drive fast.  Go sideways.
+Mountain View, CA			Get bad autox times.
+
+------------------------------
+
+Date: Wed, 12 Aug 92 15:04 EDT
+From: "Bruce.Pigozzi" <22107BWP@msu.edu>
+Subject: vinyl protection
+
+The problems with Armor-All were just appearing as the digest form of the
+network went down.  So, what I have to ask may have been answered already;
+sorry, I lost it in the crash!
+
+What can I use instead of Armor-All?  What can reverse any damage caused by an
+Armor-all addiction?  I have not been using it very long, nor have I seen any
+cracking.  But, the chaulky after appearance I've noticed.
+
+------------------------------
+
+Date: Wed, 12 Aug 92 13:16:34 -0700
+From: montys@mapme6.map.tek.com
+Subject: 928 Brake Pressure Light
+
+Help!
+
+I'm going nuts trying to find the source of a warning system error.
+I have a 79 928 and the "Brake Pressure" warning light keeps coming
+on.  This is of the flashing variety and can't be cleared until you
+disconnect the ground strap under the tool kit.  Now, more often than
+not, it ALSO requires that you mash the brake pedal a few times to
+reset the pressure switch (and by mash I mean put your foot through the
+firewall!)
+
+As I understand it, there is a switch that senses the pressure
+differential between the two braking systems and warns the driver if
+the pressure isn't equal on both sides.  It's a sort of "toggle"
+switch wherein a finger gets pushed to one side if the pressure is
+off.  This switch has a long history of failures and the first thing
+to do when encountering this problem is to replace the switch.  
+Another failure mode is that there is air in the lines and one side
+compresses while the other side doesn't, triggering the switch.
+
+I've replaced the switch and bled the brakes twice, and the problem
+seems to be getting worse.  There's no pattern to when it trips,
+sometimes during hard braking, other times with just a light tap.
+
+Can anyone out there offer any advice?
+
+
+While I'm at it, I also have two other questions concerning the
+brake portion of the warning system.  How do the brake pad and stop
+lamp warnings work and what makes them come on (aside from starting the
+car before you first tap the brakes)?
+
+Thanks in advance
+
+Monty
+
+------------------------------
+
+Date: Wed, 12 Aug 92 15:34 CDT
+From: rondl@ihlpy.att.com
+Subject: paint stripper recommendations
+
+
+I'm trying to strip multi-layers of paint off my '66 and
+have been using 'strip-away' which works fine for removing the paint
+and but leaves the primer.
+
+Has anyone tried a paint stripper in one of the Porsche catalogs
+with good success??  I'm starting to ponder using my sandblaster, but,
+am worried what kinds of imprints in the metal it would leave.
+
+Thanks!
+
+Ron De Lange
+rondl@ihlpy.att.com
+708-979-9362
+
+------------------------------
+
+Date: Wed, 12 Aug 1992 21:06:34 GMT
+From: msirota@ee.rochester.edu
+Subject: Re: paint stripper recommendations
+
+In article <199208122041.AA07774@math.UH.EDU> rondl@ihlpy.ATt.COM writes:
+> I'm trying to strip multi-layers of paint off my '66 and
+> have been using 'strip-away' which works fine for removing the paint
+> and but leaves the primer.
+
+Tell me more!  I need to strip my '73 914 -- it has a really shitty, ugly
+paint job over the beautiful original paint.  Is this something I should
+consider?  What is "strip-away" exactly, where can I get it, what does it
+cost, what does it involve, how does it work, etc....
+
+I've found a place that will bead-blast the car for about $400 -- bead
+blasting seems preferable to sandblasting or hand-sanding, and is probably
+preferable to chemicals too.  Any opinions there?  I plan on completely
+removing the trim, windshield, rear window, gaskets, etc before stripping.
+
+Mark
+- -- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+------------------------------
+
+Date: Wed, 12 Aug 92 16:12:36 PDT
+From: johnson@wrs.com (David Johnson)
+Subject: Re: paint stripper recommendations(beadblasting)
+
+> I've found a place that will bead-blast the car for about $400 -- bead
+> blasting seems preferable to sandblasting or hand-sanding, and is probably
+> preferable to chemicals too.  Any opinions there?  I plan on completely
+> removing the trim, windshield, rear window, gaskets, etc before stripping.
+
+Beadblasting is beneficial for small corners, seams, and otherwise
+unaccessable areas. It is detrimental to sheet-metal body and exterior parts
+due to the shot-peening effect that ends up warping the sheet-metal.
+
+DAVE (johnson@wrs.com)
+
+------------------------------
+
+Date: Wed, 12 Aug 92 17:33:54 PDT
+From: desousa@cisco.com
+Subject: For those who have Yokohama tires
+
+
+A friend sent me this:
+
+
+ I found this in one of my newsletters in the office.  Quite interesting...
+> 
+> 
+> 
+> .......................................................................
+> 
+> 
+> Yokohoma Rubber Company of Tokyo is planning to recall a line of
+> its automobile tires after receiving protests from Islamic groups
+> (Washington Post, 7-25-92). Apparently, upon close observation,
+> the tread pattern of the tires resembles the Arabic word for
+> Allah. A company spokesman said they plan to stop producing the
+> tires and will recall or replace them free of charge in Islamic
+> countries. He also apologized for the company's ignorance of
+> Islam and said the treads "were designed by computer to maximize
+> driving safety and were not meant to blaspheme Allah."
+
+
+- ------- End of Forwarded Message
+
+------------------------------
+
+Date: Wed, 12 Aug 92 22:05:39 CDT
+From: Stan Hanks <stan>
+Subject: re: 911sc pinging
+
+> Have you tried running some techroline (sp?) through the system?  This 
+> may help a dirty fuel distributer or injectors.
+
+Nothing but. Finest kind 8{) I *only* use Chevron Supreme Unleaded, and
+occassionally use Techroline addative. I also use this super-double-x
+secret rocket fuel stuff we got for the racing platforms (no detergent in
+race gas) from time to time. I forget what it is, but will investigate.
+I'll bet that it's some sort of German goo from Wurth, though.
+
+Stan
+
+------------------------------
+
+Date: Wed, 12 Aug 92 22:38:43 CDT
+From: Stan Hanks <stan>
+Subject: Re: Porsche Garages in South Bay
+
+> Unfortunately, I'm moving to Mountain View, and will be
+> too far from Carerra Tech.  I was hoping to go to Garrettson's.
+> When and why did they disappear?  Who's good near Mountain View?
+
+Not being a ba.native, I can't answer the last part, but Garretson's disappeared
+about 5 months ago. IRS problems, mainly. The IMSA team I participate in
+just missed getting all of the remaining G-series camshafts before seizure.
+The truck with our parts and several other items of interest forgot something
+and went back to the shop, where it was impounded. I hope they found
+good homes 8{(. Garrettson's will be missed.
+
+On to the other point: despite a good reputation, a friend of mine had
+a clutch done under warranty at Carlson's, and they basicly didn't do it
+right. Didn't replace obvious stuff, didn't use new parts in places where
+you should never re-use the old part given that you've taken it off the
+car, etc. In short, the work actually done (or rather, the work that seemed to
+have been done on inspection after he had it taken apart to get fixed right)
+didn't match the work order or work claimed to have been done. 
+
+As a side note, I'm finding this more and more as other friends who are
+had work done other places are switching to this one shop with which I have
+a very close association. Many of the other shops in the area are selling
+used parts as new, rebuilt parts as original equipment, or charging for
+work that is not done (i.e. using carb cleaner to spiff up electrical parts
+to that they look new and charging for the work, or using Soft-Scrub to clean
+tranny cases to let them claim to be new or re-built, etc.)
+
+Be *SURE* you can trust your mechanic. The more ways I learn to fake work,
+the more scared I get....
+
+Stan
+
+------------------------------
+
+Date: Wed, 12 Aug 92 22:46:30 CDT
+From: Stan Hanks <stan>
+Subject: Re: paint stripper recommendations
+
+> Tell me more!  I need to strip my '73 914 -- it has a really shitty, ugly
+> paint job over the beautiful original paint.  Is this something I should
+> consider?  What is "strip-away" exactly, where can I get it, what does it
+> cost, what does it involve, how does it work, etc....
+
+The only thing I've found that works is something called Soft-Strip, which is
+a franchise operation. It does however take it right down to the metal. If
+you think about it, it's hard to build a chemical that eats so many mils
+of paint then stops....
+
+> I've found a place that will bead-blast the car for about $400 -- bead
+> blasting seems preferable to sandblasting or hand-sanding, and is probably
+> preferable to chemicals too.  Any opinions there?  I plan on completely
+> removing the trim, windshield, rear window, gaskets, etc before stripping.
+
+DON'T DO IT!!!! Ghost Racing has two 914/6's and a regular 914 2.0 which have
+recently been done. We didn't take the enging out of the 2.0 or one of
+the /6's and are now in the process of re-building them. Beads aren't as
+bad as sand, but they get just everywhere. Even in the oil. NOT good.
+The other /6 was fully stripped, no interior, no drive train, etc -- just
+a roller. We got to replace all the bearings and rebuild the calipers
+after that -- sand in the brake fluid -- ick!
+
+The right thing is probably to either fully strip the car to nothing but a 
+roller then soft-strip it, or trim-strip it and take it to a reasonably
+competent body shop for sanding to the metal then re-painting. Paint is
+one of those places where there just aren't any short cuts.
+
+Stan
+
+------------------------------
+
+Date: Wed, 12 Aug 92 23:30:56 -0700
+From: Patty Winter <winter@apple.com>
+Subject: Porsches and RFI
+
+
+The American Radio Relay League (ARRL), the country's largest
+amateur radio organization, has been contacting various automobile
+manufacturers to find out their recommendations or cautions about
+the use of radio transmitters in their products. Some manufacturers
+are actually putting prohibitions in their owners' manuals these
+days because of concern about interference with computerized
+engine controls, airbag triggers, etc. Yes, it can void the warranty
+on some cars.
+
+Anyway, here's the letter the ARRL got back from PCNA.
+
+- ---------------------------------------------------------------------
+July 22, 1992
+
+
+Dear Mr. Hare,
+
+In response to your recent correspondence regarding the installation
+of radio transceivers in new automobiles, please be advised that
+Porsche Cars North America, Inc., prohibits the installation of
+radio transceivers and any after-market electrical equipment in new
+Porsche vehicles. Moreover, we also discourage the addition or use
+of non/Porsche supply [their typos] telephone equipment in the vehicle. 
+
+It is our experience that control/warning lamps may light up with no
+apparent reason, or malfunction of other electronic components may
+occur in conjunction with the operation of mobile telephones (even a
+portable, self-contained type) inside the vehicle. Therefore, we do
+not recommend the installation of any type of radio transmitting
+equipment and/or non-Porsche approved telephone equipment.
+
+Thank you for this opportunity to respond.
+
+Sincerely,
+
+George A. LocCascio
+Manager, Owner Relations
+
+- -----------------------------------------------------------------------
+
+Well, I personally am going to keep living dangerously. I'm leaving
+my after-market battery-powered Mickey Mouse watch taped to the
+dashboard....
+
+And I'm going to keep using my ham radio, too. So far, no problems
+with up to 30 watts on the 144 MHz band.
+
+
+Patty
+
+p.s. FYI, Mercedes says HF radios should be okay up to 100 watts and VHF
+radios up to 50 watts. BMW says they haven't run tests but that a non-BMW-
+approved accessory that causes damage could result in the warranty being 
+voided.
+
+
+------------------------------
+
+Date: Thu, 13 Aug 92 10:50:03 BST
+From: rob@wet.sbi.com (Robert  Greenwood)
+Subject: Re: Porsches and RFI
+
+
+>In response to your recent correspondence regarding the installation
+>of radio transceivers in new automobiles, please be advised that
+>Porsche Cars North America, Inc., prohibits the installation of
+>radio transceivers and any after-market electrical equipment in new
+>Porsche vehicles. Moreover, we also discourage the addition or use
+>of non/Porsche supply [their typos] telephone equipment in the vehicle.
+Having recently had a new CD/Tuner installed in the Carrera 4 I noticed
+stickers *everywhere* saying not install non-Porsche telephone
+equipment at the risk of electrical interference.  Before getting the
+car kit for my Mitsubishi MT5, I checked with the local Porsche garage
+(Chariots, St Albans, UK) and talked to their telephone installation
+chappy.  He told me that Porsche telephone equipment is just Panasonic,
+and I could fit my MT5 or indeed just about any car-phone on the market
+without worry, and without voiding my warranty.
+
+Rob.
+- -- 
+Robert J Greenwood                           Salomon Brothers International Ltd
+rob@sbil.co.uk                                 Business Technology Organisation
+
+------------------------------
+
+Date: Thu, 13 Aug 92 08:44:39 EDT
+From: min@Kodak.COM (Mark Niedzielski (722-5938))
+Subject: Re: paint stripper recommendations(beadblasting)
+
+
+I have heard that plastic pellets are also used as a medium for
+blasting, and that different sizes and hardnesses are available
+for different applications.  Does anyone have anymore information
+on this?  (my source only said he had heard of this, but no more)
+
+
+Mark
+
+
+------------------------------
+
+Date: Thu, 13 Aug 92 06:44:09 PDT
+From: T Cox <tcox@dom1.nuwes.sea06.navy.mil>
+Subject: mail list
+
+Could you please take me off the mailing list for a while.  I will be gone and
+don't want to have 600000000000000000 messages when I get back (give or take a
+few).
+
+Thanks
+
+------------------------------
+
+Date: Thu, 13 Aug 92 08:47:38 -0600
+From: Bob_Pentecost <bpenteco@hpbs987.boi.hp.com>
+Subject: Re: Porsche General Competition Rules?????
+
+
+I know of two ready sources for the rules (offically designated Parade
+Competition Rules or "PCRs"). Everyone that registers for the Porsche
+Parade receives a copy (do you know anyone that went this year?) and
+each region president receives a copy, usually in the spring time. If
+you fail to find one from the above sources, I'm sure the PCA Executive
+Office can help you (as previously mentioned).
+
+Bob Pentecost
+
+------------------------------
+
+Date: Thu, 13 Aug 92 11:18:18 -0500
+From: kehler@daisy.wichitaks.ncr.com (Kyle Ehler)
+Subject: High Volume Low Pressure painting systems -questions
+
+
+  Greetings netters:
+     I will soon be shooting paint upon my beloved 914 and i am curious about
+   the latest in paint technology.  I will be using Glasurit 21 glasodur
+   L-32-K urethane acrylic.  In the documentation i see a gravity feed gun,
+   John Paterek uses these in his shop and claims he uses only paint and
+   activator with no thinner.  He says thinners cause most paint failures.
+      Anybody got experience with this?
+
+     On a related thread; has anyone got experience with the HVLP (high volume
+   low pressure) painting equipment?  I understand that these generate air
+   pressure at 5 to 10 psi at 60 to 100 cfm.  The larger cfm are for thicker
+   paints.  These are claimed to produce a transfer efficiency of ~80%, as
+   compared to ~40% on older tech systems.  Do these improve the chances of
+   success and reduce chances for maladies?
+
+     -kyle
+     <kehler@daisy.wichitaks.ncr.com>
+
+     -of 'hail' hell
+      OH, my '77 cutlass totaled out from hail damage, the insurance co. gave
+      me a check for -get this- $944.  its an omen of things to come.
+
+- -- 
+
+------------------------------
+
+Date: Thu, 13 Aug 92 11:13:15 -0500
+From: kehler@daisy.wichitaks.ncr.com (Kyle Ehler)
+Subject: You and RFI, EMC (electro-magnetic-crabbbiness)
+
+
+  RFI:
+       I was wondering when this was going to come up...
+    The fact that Zuffenhausen is prohibiting use of certain electronic gear
+   is evidence there is a problem.  I do EMC work (among other things here)
+   and it was tough proving to managment here that it was safer to design-in
+   EMI and RFI controls than try to 'patch' the system after its built.
+    A damn sight cheaper too.
+    This makes me wonder what emission signature the recent Porsches portray.
+    Since what goes out can also get in.  The term for this is "radiated
+    susceptibility"
+
+   Considering this is Germany we are dealing with, I find this extremely
+   disconcerting.  Mostly because the krauts have the tightest EMC regulations
+   in the world! (the VDE)  They are pissing us off, they have to be....
+   Our own FCC wont even let you sell a product that does'nt meet or exceed
+   emission limits, conducted or radiated.
+
+   This kind of work (EMC) is sort of like black magic, partly why I like it
+   so much.
+   I think it funny that some folks out there are radiating tens of watts of
+   RF from a mobile, these are probably ham's so they should already know
+   about shielding.  Perhaps they modified their ride so 'keying up' doesnt
+   disrupt anything.  A retrofit to any model could be made to 'radiation-
+   proof' for any type of electronic gear, the only problem is it requires
+   a couple million $ worth of calibrated gear to test.  Otherwise you get
+   to play trial and error.  PCNA's behavior is similar to our product
+   designers; well, just tell them not to do that (until we get a fix).
+
+
+   Its a good thing that most of the nuclear powers have agreed to stop
+   testing bombs in the air- an EMP pulse would kill all non-rad-hardened
+   electronic gear within at least 300 miles of ground (space) zero.  That
+   means
+   all cars with electronic anything are dead too.  We better hope that
+   saddam and the mad iraqi's dont get the nuke...
+
+   -kyle
+
+- -- 
+
+------------------------------
+
+Date: Thu, 13 Aug 92 11:16:06 -0500
+From: kehler@daisy.wichitaks.ncr.com (Kyle Ehler)
+Subject: RE: paint stripper (advised methods)
+
+
+  <Kyle sez;>
+                In response to the threads about stripping paint from a body,
+   I would like to share my general (researched) methods.
+   
+   According to Bob and Bill Jones (and John Paterek), chemical stripping is
+   by far less intrusive and damaging to your car's body.  Blasting should be
+   reserved for only the most difficult areas, even then the blast media will
+   entrain itself in the body and must be removed using a variety of methods.
+   Dipping for stripping is decidedly bad for any future coatings as the stuff
+   remains in the body seams and will leach out when you least need it.
+     This is one instance where there are no short-cuts if you want a 'right'
+   job done, brush application of the stripper followed by scraping with a
+   putty knife and or scrubbing with steel wool.  Another valuable aid is a
+   DOTCO with 3M scotchbrite cookies -medium to fine will leave your bare
+   metal shiny.  All this is so much easier with your car mounted to a 
+   ROTISSERIE!... 
+   Leave the blaster for the last, and then use it sparingly, i use a rag to
+   psuedo-contain the blast.
+
+   Chemical strippers;  strip-eez automotive grade will do a fine job.
+    <i wound up using Eastwood's Aircraft grade @ $75/4 gal.>
+   Multiple applications may be neccessary to remove several layers of paint
+   putty, or primer/filler.  Stripper compounds contain methyl chloride and or
+   methyl alcohol as active ingredients and will soften the asphalt sound
+   absorption pads.  I found this to be a boon because i found rust under
+   them, and removing with a torch really makes a sooty mess.
+  
+   Hazards;  This generates toxic waste and must be disposed of properly.
+             The fumes are bad for you, but not deadly.
+             Dry sanding creates toxic dusts.
+             The stripper is caustic to skin.
+ 
+   My application is specifically to restore a rusty 914, i firmly believe
+   in completely dismantling the car- to less than a roller in efforts to
+   annihilate all rust.  (for now anyway)
+   The factory really did a marvelous job painting these bodies, in some
+   places it seems like they dipped 'em in paint.  But after being inside
+   the inner sanctums, I can testify this is not the case.
+
+    -kyle
+      'no such thing as a rust-free 914'
+- -- 
+
+------------------------------
+
+Date: Thu, 13 Aug 92 10:37:37 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: re: 911sc pinging
+
+>
+>> Have you tried running some techroline (sp?) through the system?  This 
+>> may help a dirty fuel distributer or injectors.
+>
+>Nothing but. Finest kind 8{) I *only* use Chevron Supreme Unleaded, and
+>occassionally use Techroline addative. I also use this super-double-x
+>secret rocket fuel stuff we got for the racing platforms (no detergent in
+>race gas) from time to time. I forget what it is, but will investigate.
+>I'll bet that it's some sort of German goo from Wurth, though.
+>
+>Stan
+>
+I quit using Chevron a long time ago because they had a red dye in it
+that would clog/gum up my carb in my mustang (I did my own maint
+then, this was the '70s).  Is it dye-less today?  Here in Calif Chevron 
+is NOT a "green" company according to all the press from the environmental
+people although if they had a better product then BP or U76 I'd probably use
+it.
+
+While I'm on "myths", I also heard in the '60s from a Porsche owner
+that worked in the Standard Oil of Ind chem labs that Shell was
+dangerous to Porsche alloy engines at the time.  What does anyone know
+of Shell gas today?  Any tear down experience, what does the inside of
+an engine look like after running a particular gas for a while?
+
+Out here in Calif, ARCO is rumored to have the cleanest gas, but I've
+been runing BP, Union76, and a little Shell with seemingly OK results.
+
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+Date: Fri, 14 Aug 1992 10:04:44 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: RE: re: 911sc pinging
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	rcore@KPC.COM@R11F@MRGATE@WEBCS,
+	porschephiles@karazm.math.uh.edu@UNET
+
+
+Richard Core writes:
+
+> While I'm on "myths", I also heard in the '60s from a Porsche owner
+> that worked in the Standard Oil of Ind chem labs that Shell was
+> dangerous to Porsche alloy engines at the time.  What does anyone
+> know of Shell gas today?
+
+	In the UK, Porsche Cars GB actively recommend Shell petrol ("gas").
+According to a recent article in one of the car magazines, the detergents
+which Shell add to all their petrols (unleaded, leaded and super unleaded)
+are better than those which any other company use.
+
+	Shell had an advert in Porsche Post (the Porsche Club GB
+equivalent of Panorama) showing a 911 at a Shell pump under the heading
+"Porsche recommend Shell detergents in their front loaders" [pun on washing
+machines, in case the terminology doesn't travel across the pond].
+
+	At the time (a couple of months ago) I rang both Shell and Porsche
+Cars GB and they confirmed that Porsche Cars GB are recommending the
+stuff. Also, when I was in a 968, the under-bonnet ("hood") sticker said
+something about the car being filled with Shell lubricants from the
+factory.
+
+	I was also told by Porsche Cars GB that my '86MY 944 could run on
+super unleaded (98 octane) without modification, as it needed the higher
+octane of leaded petrol (97 octane) but *not* the lead as lubricant. I
+could only use unleaded (95 octane) if I got mt timing adjusted, but would
+suffer loss of performance. I have now switched to Shell super unleaded,
+but still use Shell leaded about every 4th tank, just in case!
+
+Philip
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: Philip Katz                     ::  'phone : +44 394 693446           ::
+:: BT D&P Computing Security Unit  ::  fax    : +44 394 693464           ::
+:: Anzani House, Trinity Avenue,   ::  e-mail : Katz_P_M@bt-web.bt.co.uk ::
+:: Felixstowe, England, IP11 8XB   ::                                    ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------
+
+Date: Fri Aug 14 08:18:30 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: plastic beads
+
+RE: the question re plastic media blasting.
+
+I had my mini done this winter using that method. the engine compartment,
+interior and trunk were done.
+
+It works real well, BUT I still find plastic media coming out of wormholes in
+space and ending up in the car, although I have used compressed air and a 
+vacuum alternately to clean the car many times
+
+If I used it again, I would tape over every hole leading to a body cavity.
+
+
+
+
+jim fuerstenberg		
+
+
+			186,000 miles per second, it's not just a good idea
+			it's the law!
+						
+						
+jfuerstenberg@dcmdc.dla.mil or
+xgg2356@dcmdc.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+
+------------------------------
+
+Date: Fri, 14 Aug 92 15:41:47 PDT
+From: damon@tc.fluke.com (Damon Darley)
+Subject: WANTED 50 MM SIDE DRAFT CARBS
+
+
+
+
+I am looking for a set of 50 mm, side draft carbs.  I perfer Mikuni's, but
+would concider other brands, if the price is right.
+
+You can use E-mail, or call (206) 356-6049 days or (206) 629-4356 durring
+non working hours.  Seattle area.
+
+
+Thanks for the use of your new letter.
+
+------------------------------
+
+Date: Sat, 15 Aug 92 11:06:54 -0400
+From: miketodd@cs.cornell.edu (Michael Todd)
+Subject: yugo
+
+
+ 
+Copyright 1992 Michael J. Todd
+ 
+ 
+ 
+With all the problems in the Balkans, it is no surprise that the famous 
+Yugo works have broken up into several regional firms, offering:
+ 
+The Slo, based on the original;
+ 
+The Cro, an all-black monochromatic version; 
+ 
+The Monte Negro, also black, a joint venture with Chevrolet; 
+ 
+The Big Ser, a dune buggy; 
+ 
+The Bos 302 (cc.), a performance machine; 
+ 
+and, unfortunately in great demand recently. 
+ 
+The Herz. (Also black.) 
+ 
+ -- Mike Todd
+ 
+miketodd@cs.cornell.edu
+
+1958 BMW R69, ex-Viennese police bike
+1970 Porsche 911T, for sale 
+1992 Duc 900SS, maybe this year^H^H^H^Hdecade
+1951 Vincent Rapide, sold some years ago for < $1000 :^( ...
+
+
+------------------------------
+
+Date: Sat, 15 Aug 92 13:46:13 -0700
+From: Patty Winter <winter@apple.com>
+Subject: Brake warning lights
+
+
+montys@mapme6.map.tek.com writes:
+
+>While I'm at it, I also have two other questions concerning the
+>brake portion of the warning system.  How do the brake pad and stop
+>lamp warnings work and what makes them come on (aside from starting the
+>car before you first tap the brakes)?
+
+
+I was hoping someone else would answer this, but since it's been a few
+days, I'll take a shot at it and hope my memory is correct.
+
+I just had the brake pads in my 944 (951) changed a few months ago. The
+mechanic showed me how the warning light wouldn't be triggered until
+the pads were *this close* to being totally gone. As I recall, there's
+a thin piece of metal near the bottom of the pad lining that becomes
+exposed when the pad wears and makes contact with a wire that leads to
+the warning light. He said at that point, there's a good chance of the
+rotors being scored. I.e., don't wait that long to replace the pads.
+
+While looking for a place to have the brakes changed, I called one guy
+who said, sort of sneeringly, "Why would you want to change the pads if
+the light hasn't come on yet?" I took the car elsewhere. I don't believe
+in doing unnecessary work on the car, but I also don't care for the
+idea of creating problems by putting things off.
+
+
+Patty
+
+
+------------------------------
+
+Date: Sun, 16 Aug 1992 19:23:26 EDT
+From: timmins@ravel.udel.edu (Steve Timmins)
+Subject: 40 IDA webers + stock SC -w- SSI
+
+What are the airs, idles, and mains recommended?
+
+I'm starting -w- 180/55/150  -w- 35mm venturis on a small port 83 3.0.
+
+Venturis are a bit big with an eye towards supertraps and having the
+heads done.  Planning on leaving the P/C + cams stock for a while.
+
+Has anyone a similar setup -w- knowledge of their optimum jets?  I
+realize I'll have to do some jetting, bt I want to make sure I'm in the
+right ballpark.
+
+,
+
+- -- 
+
+------------------------------
+
+Date: Mon, 17 Aug 92 09:55:07 -0400
+From: miketodd@cs.cornell.edu (Michael Todd)
+Subject: water in brakes
+
+Cc: ron@hpfcpm.fc.hp.com
+
+Someone posted a very interesting technical discussion of how 5% water in
+the brake system made a huge difference in the compressibility of the fluid.
+Could you please resend the message to Ron Miller (see below)?
+ 
+ Thanks, Mike
+
+
+>From ron@hpfcpm.fc.hp.com Mon Aug 17 09:43:28 1992
+>Received: from hpfcla.fc.hp.com by cloyd.cs.cornell.edu (5.67/I-1.99D)
+>       id AA27594; Mon, 17 Aug 92 09:43:22 -0400
+>Received: from hpfcpm.fc.hp.com by hpfcla.fc.hp.com with SMTP
+>       (1.36.108.3/15.5+IOS 3.20) id AA24809; Mon, 17 Aug 92 07:42:16 -0600
+>Received: by hpfcpm.fc.hp.com
+>       (15.11/15.5+IOS 3.22) id AA29705; Mon, 17 Aug 92 07:43:40 mdt
+>Date: Mon, 17 Aug 92 07:43:40 mdt
+>From: ron miller <ron@hpfcpm.fc.hp.com>
+>Message-Id: <9208171343.AA29705@hpfcpm.fc.hp.com>
+>To: miketodd@cs.cornell.edu
+>Subject: Re:  boiling brakes
+>Status: R
+>
+>Aha! Thinking works!  :-)))
+>
+>Thanks for the confirmation.  Did your discussion go very far in determining
+>how much water would be a problem? I would deduce that if MC racers are 
+>going to DOT5 then even fresh DOT3 could be a problem. 
+>
+>Cables & drums--- naw. Discs work too well to give them up. Clutches, on the
+>other hand, were MEANT to be cable operated!
+>
+>Thanks for the note,
+>
+>Ron
+>
+
+
+------------------------------
+
+Date: Mon, 17 Aug 1992 13:47:41 -0400
+From: weltyc@cs.rpi.edu (Chris Welty)
+Subject: Supercars on TNN
+
+Did anyone see that pathetic coverage?  I was in shock.  
+
+Grumble grumble....later.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+------------------------------
+
+Date: Tue, 18 Aug 92 01:06 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Porsches and RFI
+
+I'm a little surprised by George A. LocCascio's vague letter to the AARL.  To
+the contrary, Porsche has recently published two bulletins aimed at helping
+install aftermarket equipment and diagnose problems.  I have a great deal of
+sympathy for Porsche and PCNA in this matter.  Porsche builds a first rate
+electrical system (my opinion) in their cars.  I have seen any number of
+absolutely awful accessory installations in Porsches: loose and/or unsheathed
+wires in the engine bay, splice connectors, vinyl tape, lousy crimps... blech.
+
+Tech bulletin Group X, No. 9104, dated 10 Sept 91 is a litany against poor
+aftermarket installations.  I think PCNA is simply trying to, quite reasonably,
+protect themselves from warranty claims brought about because of poorly
+installed aftermarket systems.
+
+Tech bulletin Group 9, No. 9003, issued 22 June 1990, gives detailed
+instructions on how to install telephones in Carrera 2 and 4, 85-1/2-forward 944
+series, and 928S4 and GT models.  They show where to mount the equipment and how
+and where to hook it into the CEB.
+
+Missing is a catalogue of available connector parts, notably the odd ones used
+in the CEB plugs.  I think Porsche or PCNA would do themselves a great favour in
+publishing a guidebook to CEB theory, practice, and parts.  I've educated myself
+here by exploring, gleaning bits from other tech bulletins, and having a patient
+and persistant parts man who's made a number of calls to Reno in search of
+ordering information.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 18 Aug 1992 09:36:52 -0500
+From: sundt@athens.cc.bellcore.com
+Subject: Porsches causing RFI
+
+I've noticed that my car (an '86 951) causes alot of RFI, or in my case
+mostly "CB"FI. My CB radio has a constant whine until, that is, I pull fuse
+#17 (I think that's the number). This fuse controls the fan that blows air
+across the interior temperature sensor for the climate control system.
+Anyone else have this problem??? It's very quiet once this fuse is pulled.
+
+I'm planning to try the radio in a couple of other cars (Frank, any idea
+about possible cars...) to see if this is normal. The replacement part is
+~$110 so I'm not real anxious to replace it unless it will definately cure
+the problem. I'll also check the ground connection before coming to any
+conclusions.
+
+Thanks in advance.
+
+Mark
+- --
+Mark Sundt, Bell Communications Research, (908) 758-3134
+sundt@athens.cc.bellcore.com or uunet!bellcore!athens!sundt
+
+
+------------------------------
+
+Date: Tue, 18 Aug 92 10:23:47 -0400
+From: Hurf Sheldon <hurf@graphics.cornell.edu>
+Subject: 928/944 Wheel Offsets?
+
+
+I have a friend with an '87 944Turbo being offered a set of 928S "Disc" 
+wheels ET 65-7Jx16, Part No. 928.362.115. 
+His question is will they fit the 944 without harm/clearance problems
+and what are the offset differences between the two?
+
+thanks,
+hurf
+
+------------------------------
+
+Date: Tue, 18 Aug 92 10:24:47 -0400
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Subject: Cool Carbon brakes at discount
+
+The Cool Carbon carbon/kevlar brakes are the current rage at the local
+track scene (the manufacturer is a member of the local PCA) -- my Repcos
+are ready for replacement, so I decided to give CC a try.  After calling
+most dealers that advertise CC in Pano and Excelence, I was almost
+resigned to paying list price when I finally called RSR -- he offers a
+10% discount to PCA members. Seems like a nice guy.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+------------------------------
+
+Date: Tue, 18 Aug 92 11:47 EDT
+From: fwk@homxc.att.com
+Subject: Re: Porsches causing RFI
+
+>I've noticed that my car (an '86 951) causes alot of RFI, or in my case
+>mostly "CB"FI. My CB radio has a constant whine until, that is, I pull fuse
+>#17 (I think that's the number). This fuse controls the fan that blows air
+>across the interior temperature sensor for the climate control system.
+>Anyone else have this problem??? It's very quiet once this fuse is pulled.
+
+I think most of the discussion so far on this topic has related to
+the risk that the RF emissions from the radio equipment will affect the
+operation of the car. The opposite direction, where the car affects
+the radio, is a well studied problem. For CB, most of the ham radio
+wisdom should be applicable, and there are lots of reference books.
+On your particular (apparent) problem of commutator noise from the
+small fan motor, I would try an RF bypass capacitor with short leads
+directly across the motor terminals.
+
+>
+>I'm planning to try the radio in a couple of other cars (Frank, any idea
+>about possible cars...) to see if this is normal. The replacement part is
+>~$110 so I'm not real anxious to replace it unless it will definately cure
+>the problem. I'll also check the ground connection before coming to any
+>conclusions.
+
+You are welcome to try your radio in my car, but from my experience this
+sort of thing varies from car to car and also with time, so checking
+another car (or buying a new motor) may not solve anything.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+------------------------------
+
+Date: Tue, 18 Aug 92 12:41:43 EDT
+From: Hurf Sheldon <hurf@graphics.cornell.edu>
+Subject: Notes re: parts shopping and 928 Water Pump replacement
+
+
+I replaced a water pump in the old 928  - "Nicest rat I ever saw" sez Al
+
+Phone shopping results:
+My good friend's wholesale price from a direct german importer: $260
+Tweeks                                                        : $499
+PAR rebuilt                                                   : $139 exchange
+Stoddard new OEM pump                                         : $209 exchange
+A couple of other places didn't have a pump for a pre "S"
+
+Went for the Stoddard pump, had it 14 hrs later via UPS next day air. $25 extra.
+Used the opportunity to get some little bits and pieces only 
+a dealer would have.
+
+PLUG ON: Stoddard has always been suberb to deal with and I always
+         call them. In most cases they get the business.
+PLUG OFF;
+
+I haven't found a shop manual set I can afford so I used a cheapo
+Haynes book for pointers: 
+"Remove all brackets and hoses obstructing" covers quite a bit more
+than one would suspect...
+They left out the fact you have to pull the harmonic balancer to get the
+pump out - not a difficult job - also allows replacing the timing belt,
+which I did.  The balancer is not pressed on so a little judicious pulling
+gets it off easily.
+Subtler details on request...
+
+All in all: 6+hrs teardown and cleaning(Sat), 6+hrs replacing the pump and
+putting back together(Sun), 2hrs spent rechecking each thing
+done (Timing belt/marks in particular) and warmup (Mon eve)
+
+hurf
+
+------------------------------
+
+Date: 18 Aug 1992 15:29:42 U
+From: terry_jackson@macunix.lbl.gov (Terry Jackson)
+Subject: FWD>924 gas overflow
+
+                       Subject:                               Time:4:02 PM
+  OFFICE MEMO          FWD>924 gas overflow                   Date:8/17/92
+I haven't tried this before, so no idea of correct form, etc.  My problem is
+with a 3/4 to full tank of gas in my '81 924 if the car is on a slope so the
+passenger side is somewhat lower than the driver side, the gas tank leaks.  It
+clearly comes from the top of the tank and not the fill-tube.  Is there anyway
+to work on this short of dropping the whole rear-end?  
+I have a friend with a later 944 and he says he observes the same problem. 
+Thanks for your help.  TJ 
+
+
+
+------------------------------
+
+Date: Wed, 19 Aug 92 03:29 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: 928/944 Wheel Offsets?
+
+Hurf -
+
+The 928 wheels you describe, p/n 928.362.115.00/01, are 7x16" rims with a 65.0
+mm. offset.  The '87-forward 944-series cars came with rims having a 52.3 mm.
+offset.  So you may have a clearance problem with these wheels, esp. in the
+front.
+
+Kevin
+
+------------------------------
+
+Date: Wed, 19 Aug 92 03:35 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Brake warning lights
+
+Patty -
+
+The pad wear indicators you describe are sacrificial.  That is, if the light
+comes on, you have to replace not only the pad but also the wear indicator.  I
+would replace the pads before then, because
+
+ a) who want's to pay for the silly indicator, and
+ b) if you do track events, having at least 50% pad depth is both safer and
+    dissipates heat better.
+
+Kevin
+
+------------------------------
+
+Date: Wed, 19 Aug 92 09:26:37 PDT
+From: Gary.Cook@corp.sun.com (Gary Cook - ICON Edu Mgr)
+Subject: Gas Tank Leak
+
+
+Terry,
+
+The fuel sending unit is on the top of the tank.  It might be leaking.
+There is an access hole under the carpet, near the center of the 
+cargo area.
+
+
+Gary W. Cook, CSD Education Manager	
+Intercontinental Operations (ICON)
+Sun Microsystems, Inc.
+2550 Garcia Avenue  MS MPK2-02		Mountain View, Ca  94303-1100
+Tel: 415-688-9371  -  Fax: 415-688-9477  -  Email: gary.cook@Sun.COM
+
+------------------------------
+
+Date: Wed, 19 Aug 1992 13:12:13 -0400
+From: weltyc@cs.rpi.edu (Chris Welty)
+Subject: A celebrity among us
+
+	LOS ANGELES (UPI) -- Los Angeles Dodgers pitcher Kevin Gross, known
+more for his artwork off than on the mound, created his finest baseball
+masterpiece Monday night.
+	The 31-year-old right-hander fired the first no-hitter of 1992,
+blanking the San Francisco Giants 2-0. He needed just 99 pitches, 71 of
+them strikes.
+
+Congrats Kevin.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+------------------------------
+
+Date: Thu, 20 Aug 92 00:30 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: A celebrity among us
+
+>       LOS ANGELES (UPI) -- Los Angeles Dodgers pitcher Kevin Gross, known
+>more for his artwork off than on the mound, created his finest baseball
+>masterpiece Monday night.
+>       The 31-year-old right-hander fired the first no-hitter of 1992,
+>blanking the San Francisco Giants 2-0. He needed just 99 pitches, 71 of
+>them strikes.
+>
+>Congrats Kevin.
+
+Ah, by "artwork off the mound," they must be referring to my splendid driving
+over last weekend's three days at Watkins Glen.  Where I happily achieved a
+no-hitter of a slightly different, but just as pleasing kind!  Truth be told,
+this guy's got five years on me.  And I've never been to LA.
+
+And while on the subject, I was working pit-out at the Glen when the course was
+red-flagged.  Next thing I heard was that the ambulence was underway.  You know
+how that feels, esp. when we had no idea what had happened to whom.  Turns out
+they had to transport one of the professional flaggers who work the Glen to the
+hospital.  We never found out why, but it had nothing to do, so far as anyone
+knows, with cars on the course.  Very strange experience.
+
+Kevin
+
+------------------------------
+
+Date: Thu, 20 Aug 92 00:38 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Gas Tank Leak
+
+First thing I'd do would be to pin down the source of the leak.
+
+Most of the fuel system is pressurized to 3+ bar.  If there is leaking induced
+by car position, it is almost certainly from the tank or filler.  (Something
+else could be really messed up in an extreme case, of course.)  As Gary
+suggested, looking at the fuel level sender is the first step, since it's easily
+accessible.
+
+It may be that your fuel pump or hoses to it are leaking.  Fuel may be
+accumulating in its shroud, and spilling when the car is parked on an angle. 
+The pump is under the gas tank and accessible from under the car.
+
+I would next look at the filler neck, expansion tank, and related hoses.  I've
+never gone digging here.  According to the wkshp manual, part of the multi-step
+process of getting to it involves removing the right rear window.  I hope it
+doesn't come to this for you!
+
+Kevin
+
+------------------------------
+
+Date: Thu, 20 Aug 92 08:44:10 -0600
+From: Bob_Pentecost <bpenteco@hpbs987.boi.hp.com>
+
+Last spring I posted a question I had about my car (early '83 
+944, 30K miles) and its problem with overheating (on long uphill 
+stretches on warm days). Well, I had a new radiator put in it 
+this spring and have finally tested it to my satisfaction. I can 
+say that the fix solved the problem. The new radiator is an 
+updated design, a bit thicker than the old one.
+
+I just returned from California, a 2000 mile trip, and the car 
+never ran much above where the thermostat opens in spite of long 
+grades (some fairly steep) and 100+ outside temperatures. Of 
+course the air conditioning was going all the time too. I did 
+notice that running on flat ground the engine seemed to run 
+cooler at speeds over 80 than under 80 (that was on a track, of 
+course :-).
+
+On my next trip I'll put the bra on the car and see if it stays 
+cool.
+
+Bob Pentecost
+
+------------------------------
+
+Date: Thu, 20 Aug 92 10:04:01 PDT
+From: Gary.Cook@corp.sun.com (Gary Cook - ICON Edu Mgr)
+Subject: Re: Gas Tank Leak
+
+
+
+You have to remove the window because they tuck the upholstery for the
+interior panel under the rubber gasket for the window.  You won't be
+able to remove the filler tube shroud without removing this part of the
+interior.  Not a fun job.  I went through this process once when I
+installed new speakers in the rear.  I bet the leak is from the vent
+hose near the filler tube or the filler tube, both on the passenger
+side.
+
+
+
+Gary W. Cook, CSD Education Manager	
+Intercontinental Operations (ICON)
+Sun Microsystems, Inc.
+2550 Garcia Avenue  MS MPK2-02		Mountain View, Ca  94303-1100
+Tel: 415-688-9371  -  Fax: 415-688-9477  -  Email: gary.cook@Sun.COM
+
+
+------------------------------
+
+Date: Sat, 22 Aug 92 13:01:14 -0400
+From: cz@silver.lcs.mit.edu (Christopher R. Zach)
+Subject: 944/S and ABS
+
+Hello.
+
+I have a 87 944S porsche without the ABS option (bought it used). Is it 
+possible to retrofit the car with an ABS kit?
+
+CZ
+
+------------------------------
+
+Date: Sat, 22 Aug 92 19:28:24 -0400
+From: am@cs.duke.edu (Anastassios Markas)
+Subject: Noise in rear whell
+
+Here we go again ....!!
+Noise is coming from rear left wheel. Mechanic says it is a wheel bearing
+problem. I did an initial inspection with the following scaring findings:
+  - Wheel is not very stable. I can move it slightly along its vertical axis.
+    When I move the wheel, the drive shaft moves also.
+  - The noise is very noticeable when making turns (sounds like a group of
+    high-speed ducks is following me). It is also noticeable when I slowly
+    decelerate at low speeds, until full stop.
+    
+If it really a bearing problem, which one is at fault? I think my car
+(87 951) has a big bearing (referred as inclined bearing) and a smaller one.
+
+thanks in advance,
+Tassos
+
+------------------------------
+
+Date: Mon, 24 Aug 1992 13:56:21 +0900
+From: mshaler@noah.sps.mot.com
+Subject: UNSUBSCRIBE
+
+UNSUBSCRIBE
+Best wishes...
+
+Michael Shaler
+Nippon Motorola Ltd.
+Tokyo Design Center
+voice:  +81 3 3280-8761
+fax:    +81 3 3440-0033
+e-mail: mshaler@noah.sps.mot.com
+
+
+------------------------------
+
+Date: Tue, 25 Aug 92 00:34 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: 944/S and ABS
+
+Christopher,
+
+It is certainly possible in so far as you could go out and buy all the parts,
+new or used.  As a practical matter, the cost of new parts would be prohibitive.
+For that matter, finding and installing used parts would be an immense pain as
+well.  If you really, really just had to have ABS, you would probably be better
+off selling your current S and buyimg another that came with ABS.
+
+In shooting the breeze recently with an '87 944S owner who has ABS (Bill
+Gilbert), he mentioned that very few dealer cars came through with ABS that
+year.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 25 Aug 92 00:41 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Noise in rear whell
+
+Tassos -
+
+There is a single, rather large rear wheel bearing in 944-series cars, at least
+the 85-1/2-forwards.  (Dunno about the earlier ones but expect the same to be
+true.)  It is pressed into a heated control arm, retained by a circlip.
+
+Sounds like you know which side is bad.  I am not an expert in these matters. 
+But if you have significant play in the bearing, I would replace it ASAP.
+
+In general, you can diagnose which side has the bad bearing by loading it up. 
+Driving spiritedly down a stretch of road, rock the car from side to side.  Nine
+times out of ten, the loaded side will exhibit the noise.  You can apparently be
+fooled once in a blue moon - the unloaded side may in fact be the bad one. 
+(This wisdom from my mechanic when we replaced one of my bearings over last
+winter.)
+
+The noise, at least in my case, was not unlike tire howl.  The giveaway that it
+was indeed a bearing-on-a-short-string was the rocking test, which quieted
+things down on one side but not the other.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 25 Aug 1992 12:40:15 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Porsche to kill off 968?
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	The following is reproduced (without permission) from _Autocar &
+Motor_ dated 19 August, 1992. The heading is "Porsche to kill off 968?" -
+my comments are in [square brackets].
+
+
+Porsche will kill the 968 next year if new, cheaper versions don't halt an
+apalling decline in sales.
+
+The lower-cost 968 coupe and cabriolet models will be launched in October
+at the Paris show.
+
+Porsche is looking to knock 3,500 off the price (DM10,000 is the official
+target) by scrapping luxury items such as electric seats and windows and
+the cabriolet's power roof. That should reduce the price of a 968 to less
+than DM80,000 in Germany. For the UK, that could mean a 968 coupe for
+28,300 [you can currently get a 944 for about 27,000].
+
+Sales of the 968 have never reached Porsche's projections, despite heavily
+reduced prices in the US, the car's most important market outside Germany.
+
+In the US, sales of the 968 for the first six months of 1992 totalled 552
+cars, compared with 477 sales of 944s in 1991 and 1346 in 1990.
+
+When the 968 was launched, Porsche predicted production levels of 33 to 35
+cars per day, but when the Zuffenhausen factory went back to work on 10
+August after the summer holidays, 968s were coming off the line at the
+rate of only 30 per month [sic].
+
+At their peak, in September/October 1985, 944 production reached 152 cars
+per day, although this declined to 44 a day by mid 1990. Porsche believes
+the extra 3500 the 968 cost compared with the 944 in Germany and the UK
+is the main reason for plunging sales since the 968 was launched a year
+ago.
+
+Potential buyers weren't fooled by Porsche's claims that the 968 was a new
+car, realised it was a facelifted 944 and stayed away in droves.
+
+So unless there's an immediate upturn in demand after the cheap 968 is
+introduced, Porsche insiders predict the four-cylinder model will be
+replaced by yet another version of the classic rear-engined 911 late next
+year.
+
+It could happen even sooner than that. One source inside Zuffenhausen
+says: "The 968 could be dead in a couple of months; it's out of our hands
+now."
+
+The entry-level 911 would cost DM90,000 in Germany (about 32,000 in the
+UK).
+
+It will be powered by a 3.2-litre variant of the flat six and will exclude
+expensive equipment such as anti-lock brakes and a driver's airbag from
+its standard specification.
+
+By comparison, the cheapest current 911, the Carrera 2, costs 48,311 in
+the UK or DM119,120 in Germany.
+
+Sales are down so much that Porsche is believed to be losing money,
+despite lay-offs and short working weeks that reduced the break-even point
+to less than 25,000 cars per year.
+
+[For comparison, UK1 is about US$2 currently. Also, the same issue of
+Autocar has an article about "The best driver's cars in Britain" in which
+they compare the Renault Clio 16v, VW Corrado VR6, Ford Escort RS Cosworth,
+Caterham 7 K-series, Porsche 968, Mazda RX-7 and Honda NSX. The concluded
+that the NSX was "out on its own" with second place split between the RX-7
+and the 968.]
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: Philip Katz                     ::  'phone : +44 394 693446           ::
+:: BT D&P Computing Security Unit  ::  fax    : +44 394 693464           ::
+:: Anzani House, Trinity Avenue,   ::  e-mail : Katz_P_M@bt-web.bt.co.uk ::
+:: Felixstowe, England, IP11 8XB   ::                                    ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------
+
+Date: Tue, 25 Aug 92 10:10:32 -0700
+From: Patty Winter <winter@apple.com>
+Subject: Re:  Porsche to kill off 968?
+
+	
+	
+	The following is reproduced (without permission) from _Autocar &
+	Motor_ dated 19 August, 1992. The heading is "Porsche to kill off 968?" 
+	
+	Porsche is looking to knock 3,500 off the price (DM10,000 is
+	the official target) by scrapping luxury items such as electric
+	seats and windows and the cabriolet's power roof. That should
+	reduce the price of a 968 to less than DM80,000 in Germany. For
+	the UK, that could mean a 968 coupe for 28,300 [you can
+	currently get a 944 for about 27,000].
+
+
+I thought the 968 was a replacement for the 944. Are they really still
+making 944s?
+
+
+Patty
+
+
+------------------------------
+
+Date: Wed, 26 Aug 1992 10:07:37 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: RE: Re: Porsche to kill off 968?
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	winter@APPLE.COM@R11F@MRGATE@WEBCS,
+	porschephiles@karazm.math.uh.edu@UNET
+
+
+Patty says:
+
+> I thought the 968 was a replacement for the 944. Are they really
+> still making 944s?
+
+	No, but at least in the UK Porsche still have very large stocks of
+944s to get rid of. Sales have been very sluggish (the recession is a
+major factor - not only can most people not afford an expensive car, but
+those who can don't feel it is right to flaunt it. The only plus point is
+that used car prices have put some of these cars back into the hands of
+the enthusiasts rather than speculators or those who buy the car for the
+badge), and I have seen photographs in the press of a huge compound full
+of unsold 944s.
+
+	My local dealer is doing a very good price on the 944 (UK27k as
+against UK35k or so a while ago) and Porsche Cars GB don't seem to be
+pushing the 968 until they get rid of their 944 stocks.
+
+	What this will do to the second-hand market I don't know, but I
+wonder if the 968 will end up with collector status as the shortist-lived
+production Porsche model :-)
+
+	As Porsche don't seem willing to develop the 944S2/968 into a turbo
+version for fear of losing sales of 911s :-(, I wonder whether they will
+soon disappear off the planet and Porsche will try to exist as a single
+model (911) company?
+
+Philip
+
+------------------------------
+
+Date: Wed, 26 Aug 92 15:22 GMT
+From: KEVIN <KEVIN+la+rBEYOND%Beyond+c_Inc+p@mcimail.com>
+Subject: re: Porsche to kill off 968
+
+MHS:   Source date is:     26-Aug-92 11:23 EDT
+
+Form: Memo
+Use OEM Field: true
+Text: (29 lines follow)
+>As Porsche don't seem willing to develop the 944S2/968 into a turbo
+>version for fear of losing sales of 911s :-(, I wonder whether they will
+>soon disappear off the planet and Porsche will try to exist as a single
+>model (911) company?
+
+Sure is tempting to speculate...  I think the net of Arno Bohn's showdown
+with the Porsche and Piech families a few months ago would lead me to
+guess otherwise.  Briefly, my understanding of their understanding was:
+
+  1. Porsche will not become a boutique company, like (alas) Ferrari.
+     They will re-assert themselves in the "low end", if you will, of
+     the luxury car market, for now with the 968 and in the next few
+     years with its successor (I forget the model number).
+
+  2. The families were once again told to butt out and let the company
+     get on with its business, by people who have to work for their
+     salary.  (Again, I forget the exact term, but I think it's the
+     Management Board as opposed to the Board of Directors.)
+
+The rumor-to-fact ratio runs pretty high.  Some months ago, I heard
+through the US dealer network that we could expect to see Mercedes running
+Porsche Cars NA within a few days, for example.
+
+The one interesting fact I've learned recently is that Porsche AG is
+apparently losing some of the Weissach R&D contract volume which has
+supported it so much in the past.
+
+Kevin
+
+
+------------------------------
+
+Date: Wed, 26 Aug 92 09:28:03 PDT
+From: INTEL CORP. 408-765-9833 <MBRODESKY@libra.intel.com>
+Subject: 914 mounting plate for fule pump
+
+
+Hello again,
+	
+
+	A little while ago we there was a thread on 914 fuel pumps
+and moving them to the front of the car. In this process, someone wrote that
+a plate would be needed to mount the fuel pump in the front. I think this is
+the plate used in the 1975,76 cars. What I need to know, is do I really need
+this plate that does not seem to exist, or can I just mount the pump to the
+car without the plate.
+
+Michael
+
+
+------------------------------
+
+Date: Wed, 26 Aug 92 14:57:06 EDT
+From: John Davis <jdavis@encore.com>
+Subject: Please remove me from the mailing list
+
+Please remove me from your mailing list.
+
+Thanx,
+- -- 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+John Davis                     |"Statistics are like a drunk leaning
+Process Quality Assurance      | against a light post.  He uses it
+Encore Computer Corporation    | more for support than illumination."
+Melbourne, Florida. USA        |     Internet : jdavis@encore.com
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------
+
+Date: Wed, 26 Aug 92 17:55:07 -0400
+From: Hurf Sheldon <hurf@graphics.cornell.edu>
+Subject: Street tire info wanted (Comp T/A)
+
+My 928 will be the daily driver this year - my kid took the Honda
+across the country for a year. I need tires and my friendly (really)
+local tire guy has offered me Comp/TA VR-4's for $140 each mtd & balanced
+and Comp TA/3's for slightly more. - Does anyone have any experience
+with either of these tires in weather? If the VR-4's work well in the wet
+with some hope in the slush that would be ok. I rarely push the car in the
+dry to it's limit. It ain't hard to get there in the wet.
+
+Are there alternative tires to suggest. The car came with Fuldas -
+not too impressive. I have a set of Goodyear Eagle GT-4 on the rear now.
+They have given good service. Is there an all weather Eagle?
+
+thanks,
+hurf
+
+------------------------------
+
+Date: Wed, 26 Aug 92 23:01:22 -0400
+From: edudley@mailbox.syr.edu
+Subject: Re: Street tire info wanted (Comp T/A) 
+
+
+
+>Are there alternative tires to suggest. The car came with Fuldas -
+>not too impressive. I have a set of Goodyear Eagle GT-4 on the rear now.
+>They have given good service. Is there an all weather Eagle?
+
+>hurf
+
+There's (was?) an out-and-out Eagle M+S, I went through a set and
+have used the GT+4 as well on the same car and a 931 as well.  I'd
+say the Eagle M&S is made obsolete by the GT+4, which has rather
+good snow and very good wet compared to anything else I've run accross.
+Going from P6s to GT+4s on the 931 just transformed it from something
+you dared not push into a plaything.
+
+
+Not that I'm sold on the GT+4, kinda pricy, seem to chunk easily, but
+to me wet performance is top priority, you can make good time on
+dry pavement with any tire whatsoever.  
+
+Call KT Motorsports in Vorheesville (518 555 1212) and pick their brains,
+they might have a good Dunlop rain tire or somesuch.  They might even 
+have an applicable Nokia snow or rain tire to get you up and down them 
+hills.
+
+Cheers,
+
+   Eliot
+
+
+Eliot W. Dudley                       
+3388 State Rt 370  
+Cato, New York  13033
+315 626 2878
+edudley@mailbox.syr.edu
+
+
+
+
+------------------------------
+
+Date: Thu, 27 Aug 1992 22:04:23 -0500
+From: Stan Hanks <stan>
+Subject: NOTICE: List will be undergoing an address change
+
+Well, I finally did it, and now have an Internet connection.
+As a result, I will be moving the list to TTA.COM at some
+point in the near future. I still have some stability testing
+to do, and then the migration to perform. I'd guess that the
+move will happen next week.
+
+And, just as we did during the last move, the previous aliases
+will forward the mail to the new location. 
+
+This also means I'll be able to put the archives up for FTP.
+
+More details as I have them. Until then, continue to use the
+old address.
+
+Stan
+
+------------------------------
+
+Date: Fri, 28 Aug 92 15:00:53 MDT
+From: mueller%velo@cs.utah.edu (Tim Mueller)
+Subject: 72 911T for sale/trade
+
+
+FOR SALE $7000 obo:
+
+1972 911T Coupe (red) VIN# 9112100910 Eng# 6121551
+2.4 L mechanical FI
+All original
+124K miles 17K miles on top-end rebuild
+New master cylinder, brake pads all around, left heat exch., recent
+tune-up (FI, valves adjusted, new gaskets, etc.)
+Fuchs 4.5Jx15 (5) (original Fuchs alloys from '67)
+Goodyear Eagle NCT 195/65vr in decent shape.
+Interior - Sheepskins, interior basically in good shape (no stereo).
+Exterior - Here's the problem area. Previous owner painted (5 yrs ago?)
+over rust. It doesn't look too bad, but needs body work and repaint. 
+Problem areas: front fenders, windsheild posts, left rear qtr (some
+rust thru). For serious restoration would need new rear quarter.
+
+Basically, this car runs great, is a blast to drive, doesn't look too
+bad, but the body needs TLC. I bought this car rusty, but I have decided
+I don't have the time or ability to restore it. Therefore it's for sale
+or I would trade + $$$$ for 78-80 SC sunroof coupe without rust
+problems.
+
+Tim Mueller
+Salt Lake City, UT
+mueller@cs.utah.edu
+
+(801) 581-3569 wk
+(801) 581-5843 FAX
+(801) 582-0761 home
+
+------------------------------
+
+Date: Sun, 30 Aug 92 0:20:43 CDT
+From: Stan Hanks <stan>
+Subject: 356 Porsche (fwd)
+
+You are doubtless aware of my policy of just discarding mis-routed
+messages. [REMINDER: *DON'T* mail stuff to "porschephiles-request"
+that isn't subscription or policy related]. However, every now and
+again, there is an exception. Read on....
+
+Forwarded message:
+> From: tjohnson@dsd.mentorg.com (Tom Johnson)
+> Date: Fri, 21 Aug 92 15:01:20 PDT
+> To: porschephiles-request@karazm.math.uh.edu
+> Subject: 356 Porsche
+> 
+> 
+> 
+> Subject: Porsche cars
+> 
+> 
+>   I friend of mine got a 356 Porsche as part of a trade the other day.  He
+>   wants to get rid of it as Porsches aren't "his thing."  Someone said that
+>   some of the porschephiles might be interested.  Here are the details:
+> 
+>   Very early 1956(?) 356 bathtub Porsche.  No engine.  Lots of surface
+>   rust.  most of interior missing.  Has lights, instruments, transaxel,
+>   etc.  Sell all or part.   $1250 for all.
+> 
+>   Please contact him for more details.
+> 
+>   Mark Loebner      (503) 789-4477  or (503)  297-1979
+>   Portland, Oregon:
+> 
+>   
+> 
+
+
+------------------------------
+
+Date: Sun, 30 Aug 92 01:06:25 -0500
+From: stan@tta.com (Stan Hanks)
+Subject: Cars for sale
+
+It seems to be garge cleaning time at Ghost Racing. Joe Shemenski, the
+king of the 914/6s, has finally decided to sell off his non-6 914's and
+his autocross 911. If you are interested, give him a call. Be warned:
+he's a stock broker by day, and can negotiate the smell off of doggy doo.
+He is however fair minded, and pretty motivated to sell, so if you're in
+the market, call. If you want more info on the cars first, shoot me a 
+note and I'll let you know what the deal is (since I'm 1/4th of Ghost Racing
+and know the cars).
+
+1974 914 2.0L. Autocross car, known as "Cone-an" in these parts. Undefeated
+in last 12 autocross outings. Prepared to the limits of SCCA SoloII Stock
+rules. Solid car, could be daily driver but you might get tired of the
+seriously stiff ride. Asking $4500. Engine is in the process of being re-built
+even as we speak, so if you want it built differently than stock *this
+is an unmatched opportunity to have it your way for VERY small difference
+in the price*.
+
+1974 914 2.0 Special Edition. This was an investment car, and he decided 
+he'd sat on it long enough. Only will be sold to a good home. Bone stock.
+Was getting front motor mounts and a tune up earlier this afternoon.
+White with orange trim. I forget the interior color. Has original orange
+Mahle "gas-burner" wheels, owners manual, some paperwork. Can be a very
+different daily driver, or concours car (after prep, natch). No asking
+price, but I know that the market is between $5500 and $7500 on these
+cars as they're pretty rare. He'll know that too.
+
+'8? 911. Was Divisional Champ in some East Coast SCCA region in the
+F Prepared class. Tubbed cabrio body, single Recaro racing shell, roll
+bar and bracing. Lightened to the extreme, 300+ HP 3.6 liter engine
+with Webers, on a 915 transmission. I think it's on 9 & 11 by 15 wheels,
+with fresh Goodyear slicks. THIS IS NOT A STREET CAR. Blue, with louvered
+slope nose and 934-style flares. Not sure what he has in the car, not
+sure what is reasonable to offer for it. We have determined that it will
+not be readily usable for anything but FP Solo II or GT-1 road racing
+(and then you'll need a zillion dollars worth of other stuff to be 
+competitive). However, for the *FASTEST* 911 ride of your life, it
+can't be beat.
+
+Now, for contact info: Joe Shemenski, (713) 623-7037 work, and
+(713) 665-5646 home. This is Central Time, and don't call after
+10:00 PM.
+
+I have no financial interest in any of these cars. Let him know
+I sent you, though.
+
+Stan
+
+------------------------------
+
+Date: Mon, 31 Aug 92 10:56:58 EDT
+From: Hurf Sheldon <hurf@graphics.cornell.edu>
+Subject: Re:  Street tire info wanted (Comp T/A)
+
+
+Thanks for all the responses re: Shopping for street tires.
+
+I ended up ordering the newer Comp T/A 225/50 ZR 16's @$170 mtd & balanced ea.
+Another 928 owner around here had them and was very happy with them. The local
+Goodyear guy didn't mentiontion anything but the Eagle GT4 vr's and they were
+more $$. 
+Will let you know how they do.
+
+
+hurf
+
+
+------------------------------
+
+Date: Mon, 31 Aug 92 14:09:06 EDT
+From: don@acad.cimage.com (Don Day)
+Subject: Mail Order Brake Pads
+
+Take this post for what it is worth but I believe the most important
+message is buyer beware.
+
+A few weeks ago there was some discussion on the Mustang list about
+the "Great New Carbon Kevlar brake pads" that some list members had
+used.  After attempting to track down the "Carbon Kevlar" (CK) pads I
+wound up going with "Porterfield Racing" they have a full line of
+racing brake pads and components from AN hardware to FERODO products.
+
+On August 24th ~8:00 AM PST I called Porterfield racing and asked to
+talk to Andy (Who is the owner).  I asked if he had the CK pads for
+84-87 Corvette.  He told me he did, I asked him to ship them UPS 2nd
+day air as I had an event to run on Thursday Aug 27th, He told me no
+problem.  I waited around Wednesday prepping the Vette for the Porsche
+Club Drivers' school and to my surprise NO pads.
+
+Thursday came and I was forced to run on my Bendix pads (Not alot of
+fun, the 84-87 Vette brakes are marginal for the amount of rubber on
+the ground for the weight they must handle).  When I returned from the
+school I found the pads at my door.  I opened the box, after closer
+inspection of the actual braking surface I saw (2) grooves per pad
+which I assume are for letting gasses escape during use.
+
+The groove depths were inconsistent between pads, but that wasn't the
+problem.  The problem is that the grooves broke away a fair amount of
+brake material from the pad.  In fact, only one of the pad's grooves
+had a clean 90 degree cut in them.
+
+To say the least I am not impressed by:
+
+	1. Mr. Porterfield's promptness in shipping (When someone calls 
+	you at 8:00AM your local time and requests 2nd day air I would 
+	think it would be shipped that day).  
+
+	2. The quality of the product (If these were a set of street
+	pads I might accept the poor quality but for racing pads I 
+	expect something a bit different).
+
+Prior to purchasing the pads from Porterfield I had heard nothing 
+negitive about them, in fact all feedback was positive, including
+custom pad services.  Since, I have found another list member who has
+had worse service than what I have just described.
+
+I talked to Tim at Porterfield today (8/31/92), he told me that the
+pads had to be "custom made" on Monday and that's why they were
+shipped on Tuesday.  His explaination for the chips in the pads were:
+"That's just the way it is" and followed with: "The decreased surface
+area will increase friction and not effect overall pad life".  Why
+don't I believe him???  He told he didn't have the authority to do
+anything further (Which leads me to believe that this is how they
+treat all of their customers) I asked to speak to Andy Porterfield who
+took the order.  Of course by now it was not a surprise that he was
+unavailable.
+
+In the past I have ordered pads from Performance Friction for my 928
+and been very pleased.  I would've gone with PF once again but they do
+not offer a pad for the 84-87 Corvette brakes.  I believe my only
+solution is to switch to the larger 13" rotors and dual piston
+calipers (88-later Z51/Z07 type) and to stick with the Performance
+Friction pads.
+
+Finally, could anyone who has received the Carbon Kevlar pads from 
+Porterfield relate their experience, good or bad with me directly.
+
+Thanks in advance.
+
+don@cimage.com
+
+
+
+------------------------------

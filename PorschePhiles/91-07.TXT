@@ -1,0 +1,2462 @@
+From porschephiles-request@karazm.math.uh.edu  Mon Jul  1 09:20:01 1991
+Received: by karazm.math.uh.edu id <AA24916@karazm.math.uh.edu>; Mon, 1 Jul 91 09:20:02 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA24909@karazm.math.uh.edu>; Mon, 1 Jul 91 09:13:52 CDT
+Received: from relay.hp.com by bcm.tmc.edu (AA11776); Mon, 1 Jul 91 09:11:39 CDT
+Received: from hpwala.wal.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA25705; Mon, 1 Jul 91 07:11:27 -0700
+Received: from hpwadac.wal.hp.com by hpwala.wal.hp.com with SMTP
+	(15.11/15.5+IOS 3.22) id AA15575; Mon, 1 Jul 91 10:12:32 edt
+Received: by hpwarq.HP.COM; Mon, 1 Jul 91 10:10:46 edt
+Message-Id: <9107011410.AA03624@hpwarq.HP.COM>
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Date: Mon, 1 Jul 91 10:10:03 EDT
+X-Server: hpwadac
+X-Citing: Celtics!
+X-Cargo: steamed snails
+X-Mailer: Mail User's Shell (6.5.6 6/30/89)
+To: John Ko <ko@eecs.nwu.edu>, porschephiles@bcm.tmc.edu
+Subject: Re: 928s engine overhaul
+
+> Well, story goes like this: an '81 928s (euro 4.7), 125k miles,
+> smokes and knocks when pushed beyond 4k rpm, very little power
+> after 4k rpm, but with octane booster 104+ and 93 octane gas
+> no smoke, almost no knocks, and some power (no great amount).
+
+This smells like a pretty expensive problem, but could be as
+simple as a blocked catalytic converter. The backpressure a blocked
+converter would make can cause poor combustion, detonation, and
+poor power, all of which you list above. Hopefully that's all it is...
+
+
+-- 
+---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul  1 17:40:01 1991
+Received: by karazm.math.uh.edu id <AA26993@karazm.math.uh.edu>; Mon, 1 Jul 91 17:40:02 CDT
+Received: from taurus.cs.nps.navy.mil (taurus-campus.cs.nps.navy.mil) by karazm.math.uh.edu id <AA26940@karazm.math.uh.edu>; Mon, 1 Jul 91 17:37:11 CDT
+Received: from atlas.cs.nps.navy.mil.nps.navy.mil by taurus.cs.nps.navy.mil (4.1/cs.nps-1.0)
+	id AA11632; Mon, 1 Jul 91 15:34:02 PDT
+Date: Mon, 1 Jul 91 15:34:02 PDT
+From: erickson@taurus.cs.nps.navy.mil (David Erickson)
+Message-Id: <9107012234.AA11632@taurus.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: PAP
+
+Some of you may remember my complaint about being sent used, RUSTY
+valve springs when I ordered valve springs from PAP (I didn't specify
+NEW - and Harold "forgot" to mention that he was sending used parts).
+
+Well, the story continues - Harold said I could return the springs (at
+my shipping cost, of course), and I would be credited.  Well, I did
+return the springs, and after two months the credit should have appeared
+on my VISA bill.  I checked - no credit.  I just phoned, and asked
+Harold what had happened.  He said he was not authorized to give a
+credit - only the boss could do that.  He went on to say that the
+company never issues credit for returns of used parts.  Well, why didn't 
+he call me and let me know some time during the last two months???
+
+Anyway, I'm supposed to call again tomorrow and ask for Jackie.
+
+Just in case you think this is an isolated incident, I've placed about
+five orders with PAP, and three of them were screwed up by Harold, all
+to my disadvantage.  I was shorted a $5.00 valve cover gasket, and
+Harold promised to include it on the next order twice (it never has
+arrived); I ordered a new pressure plate, for which I was quoted a very
+low price.  It did not arrive, and after two months of promises I cancelled
+the order; I ordered a fuel pump kit, and what I got was OLD 
+stock, that was opened, although it appeared to be all there.  In general,
+I feel like Harold could not care less - screw the customer. 
+
+I've taken most of my business to Imparts, and have been quite pleased
+at the difference in attitude and service.
+
+-Dave
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  2 09:30:31 1991
+Received: by karazm.math.uh.edu id <AA29631@karazm.math.uh.edu>; Tue, 2 Jul 91 09:30:32 CDT
+Received: from relay.hp.com by karazm.math.uh.edu id <AA29605@karazm.math.uh.edu>; Tue, 2 Jul 91 09:22:56 CDT
+Received: from hpdmd48.boi.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA07511; Tue, 2 Jul 91 07:20:36 -0700
+Received: from hpbsrl.boi.hp.com by hpdmd48.boi.hp.com with SMTP
+	(15.11/15.5+IOS 3.21+OM) id AA09634; Tue, 2 Jul 91 08:22:15 mdt
+Received: by hpbsrl.boi.hp.com
+	(15.11/15.5+IOS 3.12) id AA19564; Tue, 2 Jul 91 08:22:06 mdt
+Date: Tue, 2 Jul 91 08:22:06 mdt
+From: Bob Pentecost <bpenteco@hpbsrl.boi.hp.com>
+Message-Id: <9107021422.AA19564@hpbsrl.boi.hp.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Sticking lug nuts
+
+
+The following was given to me as a tech article for our
+newsletter.  I thought I would post it here for everyone's
+information.  Feel free to comment.
+
+Bob Pentecost
+bpenteco@hpbsrl.boi.hp.com
+
+----------------------------------------------------------------
+                                
+                        Wheels of Porsche
+                         by Bob Linville
+                     Silver Sage Region, PCA
+
+I am the owner of a 1982 Porsche 928 Weissach that has a locking
+device on one of the five lug nuts on each wheel. In ten years of
+reading the PANORAMA and our local club magazine, The Sage Tick,
+I have never read of an owner having a problem with these locking
+nuts; so here is the story of my experience --- perhaps it is a
+first.
+
+The experience started with the purchase of new set of Goodyear
+VR-50's when all of the lug nut locks could be removed with a key
+--- except one! After a frantic hour or more, made extremely
+hectic in a very busy tire shop, I finally succeeded in diddling
+the stubborn lock loose. The last of the four new tires was then
+installed without further incident; however, I resolved to
+replace all of the locking nuts with plain lug nuts just in case
+I suffered the misfortune of having a flat tire out on the road,
+finding another jammed lock, and being obliged to have my Porsche
+hauled to town on a trailer because I couldn't remove the wheel.
+
+Some months later I purchased four new lug nuts and proceeded to
+replace the locking ones. To my dismay I found the same
+troublesome nut bound up again! I applied Lock-Ease, WD-40, and
+hours and hours of patient persuasion, all to no avail --- that
+lock was stuck this time forever.
+
+I checked with my friendly Porsche dealer mechanic, and he said
+the only solution was to remove the lock with a chisel. I used a
+3/16" cape chisel and delicately slit the side of the lock
+cylinder and removed it without damaging the alloy wheel. All
+went well! Every Porsche owner that drives a car with locking lug
+nuts should carry a 3/16" cape chisel and a hammer!
+
+The adventure continues --- some 12,000 miles later, I decided to
+have the tires rotated and re-balanced at the friendly Goodyear
+shop. Of course, they remembered the episode with the stuck lug
+nut, but I assured them "no problem" this time since I had
+replaced all the locks with standard lug nuts. The tire mechanic,
+using a conventional air impact tool, removed all the nuts ---
+except one! The impact tool would not break one of the new lug
+nuts loose. I had torqued the nut on to the prescribed 94 ft.lbs.
+at the time I installed the new standard lug nuts. The mechanic
+put a long-handled torque wrench on it and broke it loose with a
+loud "POP"! To the amazement of both of us, the nut had sheared
+off right at the base of the hexagonal portion, leaving the
+rounded seat portion of the nut still tightly in place.
+
+With my previous frustrating experience at this shop a vivid
+memory, I felt awful! The mechanic threw up his hands and walked
+away. I stared and stared at the bright metal ring embedded
+around the lug bolt deep in the wheel recess. It had to be
+removed, somehow, before the wheel could be removed. The previous
+cape chisel method would not work because the nut seat in the
+wheel would inevitably be damaged.
+
+None of us could come up with a solution; so I suggested that
+they put the other three wheels back on and I would again take
+the cat to my friendly Porsche dealer mechanic. The tire mechanic
+thought this was a great idea --- plus secretly hoping to never
+see me again!
+
+Yes, the Porsche mechanic had wrestled with this problem before,
+but it certainly wasn't his favorite thing to do. Some two hours,
+and $75 later, by using a hole saw to fit over the lug bolt and a
+drill, the broken portion of the nut was removed. Yes, there was
+some resulting damage to the seat in the wheel; however,
+hopefully, the wheel won't fly off on a turn at 100 mph!
+
+If I were to be confronted with this problem again, I would try
+using a Dremel tool, or similar high-speed die cutting tool, with
+a small metal-cutting burr to cut through the bottom web of the
+nut on two sides of the lug bolt. I think that this could be
+carefully accomplished with little or no damage to the seat.
+
+The Porsche mechanic was kind enough to inform me of the true
+cause of my problem with the "frozen" lug nut. It seems that when
+aluminum alloy lug nuts are used with aluminum/magnesium alloy
+wheels, a product called "Anti-Seize" MUST be used to coat the
+threads as well as the seat of the nut before application.
+
+I hope that this little story will be of help to anyone else who
+might suffer the misfortune of a similar experience. In summary,
+"Zu schnell alt and Zu spat weise."
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  2 11:10:58 1991
+Received: by karazm.math.uh.edu id <AA00613@karazm.math.uh.edu>; Tue, 2 Jul 91 11:10:58 CDT
+Received: from Sun.COM by karazm.math.uh.edu id <AA00593@karazm.math.uh.edu>; Tue, 2 Jul 91 11:06:13 CDT
+Received: from West.Sun.COM (west.West.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA23511; Tue, 2 Jul 91 09:04:18 PDT
+Received: from maui.West.Sun.COM by West.Sun.COM (4.1/SMI-4.1)
+	id AA29628; Tue, 2 Jul 91 09:04:15 PDT
+Received: from bonehead1.West.Sun.COM by maui.West.Sun.COM (4.0/SMI-4.1-900117)
+	id AA17739; Tue, 2 Jul 91 09:04:09 PDT
+Date: Tue, 2 Jul 91 09:04:09 PDT
+From: kenny@maui.West.Sun.COM (Kenny Lopez - Silicon Valley EDA District Sales Rep)
+Message-Id: <9107021604.AA17739@maui.West.Sun.COM>
+Received: by bonehead1.West.Sun.COM (4.1/SMI-4.1)
+	id AA00407; Tue, 2 Jul 91 09:06:14 PDT
+To: porschephiles@karazm.math.uh.edu
+Subject: '69 or '70 Porsche 911S
+
+I'm considering upgrading my current part-time ride
+('80 280ZX) to a '69 or '70 Porsche 911S. If you were or
+are an owner of such a beast...pros and cons would
+be appreciated?
+
+What is the difference between a S and a T model?
+
+Kenny
+
+
+
+---
+
+Kenny Lopez                             AT&T: (408) 562-6058
+Silicon Valley EDA Sales District       ARPA: kenny.lopez@West.Sun.COM
+Sun Microsystems, Inc.                  UUCP: ...!sun!west!maui!kennyl
+
+---
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  2 13:32:18 1991
+Received: by karazm.math.uh.edu id <AA00711@karazm.math.uh.edu>; Tue, 2 Jul 91 13:32:18 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA00690@karazm.math.uh.edu>; Tue, 2 Jul 91 13:28:47 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA17945; Tue, 2 Jul 91 14:24:57 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA00156; Tue, 2 Jul 91 14:24:47 EDT
+Date: Tue, 2 Jul 91 14:24:47 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107021824.AA00156@porsche.cs.rpi.edu>
+To: kenny@maui.west.sun.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Kenny Lopez - Silicon Valley EDA District Sales Rep's message of Tue, 2 Jul 91 09:04:09 PDT <9107021604.AA17739@maui.West.Sun.COM>
+Subject: '69 or '70 Porsche 911S
+
+
+
+   I'm considering upgrading my current part-time ride
+   ('80 280ZX) to a '69 or '70 Porsche 911S. If you were or
+   are an owner of such a beast...pros and cons would
+   be appreciated?
+
+No cons.  Get AT LEAST one of the many books on buying an old 911 so
+you don't get ripped off.
+
+   What is the difference between a S and a T model?
+
+There is a fairly big difference, both in price and performance.  The
+S was about 60 more horsepower, in 69 I think the T was 120HP, the E
+was 150HP and the S was 180HP.  The S has a front oil cooling loop
+(which makes a BIG difference and was an option (rarely found) on the
+E and T), forged pistons, different alloy cylinders, much higher
+compression, hotter cams, and a really mean mechanical fuel injection.
+THe MFI was not available on the T, and on the E that year was not
+tuned for high performance the way the S was.  The S has big aluminum
+alloy front calipers ("S" front struts), the T has small cast iron
+calipers ("M" struts), which makes a big difference in braking.  The S
+came with sway bars std, the E and T had them as an option.  The E
+and S came with a different gauge setup that is a fairly common option
+on the T.  There were a few other differences that I'm fogetting...
+
+The problem with all this is that in 20 years many of these things
+will not be there.  The engine may have been rebuilt and the owner too
+cheap to replace the S pistons, or the front oil loop may be gone,
+etc, etc.  Also, since the S was an incredible sportscar, even by
+todays standards, it is usually driven pretty hard, and Ts tend to
+weather the years better.  However, the avg price on an S is about 8K
+more than a T.  My advice would be if you can find one you can afford,
+get it.  The S will appreciate in value faster than a T, so you don't
+run the risk of losing money if you realize you can't afford to keep it.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  2 22:11:23 1991
+Received: by karazm.math.uh.edu id <AA03660@karazm.math.uh.edu>; Tue, 2 Jul 91 22:11:23 CDT
+Received: from  visual3.cs.tamu.edu  (visual3.cs.tamu.edu) by karazm.math.uh.edu id <AA03638@karazm.math.uh.edu>; Tue, 2 Jul 91 22:02:36 CDT
+Received: by  visual3.cs.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA14875; Tue, 2 Jul 91 21:09:00 PDT
+Date: Tue, 2 Jul 91 21:09:00 PDT
+From: james@visual3.cs.tamu.edu (James Bennett Saxon)
+Message-Id: <9107030409.AA14875@ visual3.cs.tamu.edu >
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.cs.tamu.edu
+Subject: Bye folks...
+
+
+Well, it's been fun...
+
+I'm outta here!!! and I'm not going to be reading e-mail very often  
+for a while so I need to turn off the porschephiles spout.  I wanted  
+to say thanks for an interesting pile of information and discussions.   
+This source of information is the hottest around.  Keep up the cool  
+driving.
+
+If you want to reach me, I'll still have the e-mail address for a  
+while so you can direct mail me at jsaxon@cs.tamu.edu.
+
+Stan, this means, cut me for a while.  I'll probably resubscribe from  
+wherever I end up whenever that is....
+
+Later,
+
+James Bennett Saxon, '84 944...  '91 MS
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  2 22:31:23 1991
+Received: by karazm.math.uh.edu id <AA03684@karazm.math.uh.edu>; Tue, 2 Jul 91 22:31:23 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA03679@karazm.math.uh.edu>; Tue, 2 Jul 91 22:27:25 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ai03555;
+          2 Jul 91 23:05 EDT
+Date: Wed, 3 Jul 91 03:08 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Bob Pentecost <bpenteco@hpbsrl.boi.hp.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Sticking lug nuts
+Message-Id: <85910703030858/0004056890NB1EM@mcimail.com>
+
+Bob -
+
+There was an article in one of the Zone 1 newsletters in the last year or so
+about cutting out frozen lug nuts.  There is a specific bit for this purpose;
+its dimension or name does not come immediately to mind, but it is not a special
+Porsche tool.  If you or the author is interested, I can dig the article out.
+
+Yes, anti-seize by all means!  It is a bit suprising that the mechanic who first
+wrestled with the locking nut didn't goop things up correctly.  Perhaps the real
+problem was more in the line of a bent or otherwise deformed lug bolt.
+
+Kevin
+
+From stan  Tue Jul  2 23:01:23 1991
+Received: by karazm.math.uh.edu id <AA03804@karazm.math.uh.edu>; Tue, 2 Jul 91 23:01:24 CDT
+Received: by karazm.math.uh.edu id <AA03744@karazm.math.uh.edu>; Tue, 2 Jul 91 22:56:07 CDT
+Date: Tue, 2 Jul 91 22:56:07 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: kenny@maui.West.Sun.COM
+Subject: Re:  '69 or '70 Porsche 911S
+Cc: porschephiles@karazm.math.uh.edu
+
+S is the only way to go, and you want a '71 if you're looking at
+69's or 70's. 
+
+First thing you do, is go get a copy of "The Porsche 911 and 912: A 
+Restorer's Guide to Authenticity" by Dr. B. Johnson, from The Practice Ring 
+Books in Indianapolis IN. The ISBN is 0-929758-00-5, and you can get it lots 
+of places. Don't let the "Dr. B. Johnson" intimidate you -- Brett is a D.V.M.,
+not a rocket scientist, and a serious Porschephile of only slightly 
+less than maniacal proportions (proPorsche-ions?).  All around good guy,
+etc. The book is really good for the pre-74 cars. It stops there, and
+I've been waiting for the post-74 book for oh, quite a while now...
+
+Also get Bruce Anderson's book, "The 911 Performance Handbook". It has
+everything you never wanted to know about 911s and their kin, from
+a seriously technical perspective. You have to read between the lines
+to get the real benefit of the book (like why 24mm brake rotors may be
+better than 20mm) but it has all the details, so you can "comparison
+shop" without having to leave your chair.
+
+I'm in the middle of helping a 944S Turbo owner in the local PCA region
+"upgrade" to a '69-to-'71 911S for auto-x, so have seen a lot of the older 
+cars recently. Holler if you have specific questions after you have R'd the
+FM's.
+
+Stan
+
+From stan  Tue Jul  2 23:11:23 1991
+Received: by karazm.math.uh.edu id <AA03865@karazm.math.uh.edu>; Tue, 2 Jul 91 23:11:24 CDT
+Received: by karazm.math.uh.edu id <AA03807@karazm.math.uh.edu>; Tue, 2 Jul 91 23:03:49 CDT
+Date: Tue, 2 Jul 91 23:03:49 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: kpc!kpc.com!rcore@uunet.UU.NET, porschephiles@karazm.math.uh.edu
+Subject: Re: PAP and bad service
+
+That's really interesting, every time I've been in Automotion, I've 
+gotten really good service. Ditto on mail order (well, phone order).
+They listen to what I have to say, they either have or get answers, and
+they seem to have a file with my cars salient characteristics in it.
+I called up to order brake pads, and one of the first things they asked
+was "Is that for your 911 or 914?" -- before I could tell them I had
+either. Guess it's tied to my customer number....
+
+Stan
+
+P.S. I've never had anything that could even remotely be called service
+from PAP though, I've gotta admit... I finally tossed their catalog  years
+ago...
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  2 23:51:23 1991
+Received: by karazm.math.uh.edu id <AA04021@karazm.math.uh.edu>; Tue, 2 Jul 91 23:51:24 CDT
+Received: from cgl.ucsf.EDU by karazm.math.uh.edu id <AA04016@karazm.math.uh.edu>; Tue, 2 Jul 91 23:50:03 CDT
+Received: from pom.mmwb.ucsf.EDU by cgl.ucsf.EDU (5.65/GSC4.20)
+	id AA00432 for porschephiles@karazm.math.uh.edu; Tue, 2 Jul 91 21:48:04 -0700
+Received: by pom.mmwb.ucsf.EDU (5.64-bind 1.5+ida UNSUPPORTED PROTOTYPE/GSC4.16)
+	id AA05932; Tue, 2 Jul 91 21:48:00 -0700
+Date: Tue, 2 Jul 91 21:48:00 -0700
+Message-Id: <9107030448.AA05932@pom.mmwb.ucsf.EDU>
+From: srp@cgl.ucsf.EDU (Scott R. Presnell)
+Sender: srp@pom.mmwb.ucsf.EDU
+To: kenny@maui.west.sun.com
+Subject: Early 911's
+Cc: porschephiles@karazm.math.uh.edu
+Reply-To: srp@cgl.ucsf.EDU
+
+
+>That's really interesting, every time I've been in Automotion, I've 
+>gotten really good service. Ditto on mail order (well, phone order).
+>was "Is that for your 911 or 914?" -- before I could tell them I had
+>either. Guess it's tied to my customer number....
+
+I too have had excellent service with Automotion.  I've only had to return
+one part so far, and there were "no questions asked."
+
+I can't remember why I thought to ask this, but they even have at their
+fingertips how much money you have spent with them.  Boy, was I sorry I
+asked...
+
+===
+
+Since we're talking pre '74 911's again...
+
+Stan says: "S is the only way to go"
+
+If money were absolutely no object I'd agree, but rarely is that the case.
+Let me play devils advocate here for a sec...  What are you going to use it
+for?  Are you looking for a fun street car, or something to race?  How
+about taking the money you are going to put into a S and getting a well
+maintained T or E... or throwing the extra bucks into a Targa.
+
+I have a '72 T Targa with mechanical fuel injection and I'm quite happy
+with it's performance (now that its working correctly).  I don't autocross
+- maybe some day I'll change that, and I'll want an S, but for now, about
+the only time I could use some more power is when I try to pass up-hill at
+60mph.  I live in SF, the only time I can really stomp on it is out on 280
+or Skyline on a Sunday morning.  I've taken the T as fast as I care to go,
+with more power/speed I might wrap myself around a telephone poll.  For a
+street car, I wouldn't change my Targa for an S coupe.  Comments?
+
+	- Scott
+
+P.S. If you try to hold me to any of this I'll just claim it was my evil
+twin. :-).
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul  5 16:36:53 1991
+Received: by karazm.math.uh.edu id <AA03305@karazm.math.uh.edu>; Fri, 5 Jul 91 16:36:53 CDT
+Received: from relay1.UU.NET by karazm.math.uh.edu id <AA03291@karazm.math.uh.edu>; Fri, 5 Jul 91 16:36:12 CDT
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA03722; Fri, 5 Jul 91 17:34:13 -0400
+Received: from mntgfx.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 173348.28558; Fri, 5 Jul 1991 17:33:48 EDT
+Received: by pdx.MENTOR.COM ( 5.52 (84)/DontTreadOnMe)
+	id AA06066; Fri, 5 Jul 91 13:00:57 PDT
+Received: by ws.MENTORG.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA15620; Fri, 5 Jul 91 12:56:43 PDT
+Message-Id: <9107051956.AA15620@ws.MENTORG.COM>
+From: kwatson@ws.MENTORG.COM (Keith Watson)
+Date: Fri,  5 Jul 91 12:56:42 PDT
+To: porschephiles@karazm.math.uh.edu
+Subject: 911SC wheels
+
+I have a some wheel questions for you folks.  I have an '81 911 SC that I want
+to get track wheels and tires for.  The track has eaten the year old rear
+street tires.  The car is stock, and will stay that way, except for the recent
+addition of a shock tower brace. The car currently has 6x16 and 7x16 wheels
+(Fuchs) with 205 55/16 and 225 50/16 street tires.
+
+Will 7x16 and 8x16 wheels fit without having to modify anything?  What size
+tires do these wheels take?  I am planning on using either Yoko 008 RS's or
+RTU's.
+
+The rear wheel flares look like they can hold well over another inch of width.
+
+Also, what are people's opinions about moving to 15 inch wheels?  One guy has
+a newer Carerra and uses 15 inch wheels when he is not running slicks.  He
+says that the 15 inch wheels give better turn exit accelaration.  Do they come
+in 7 and 8 inch widths?
+
+The main thing I am looking for is much better corner speed.  Tires appear to
+be my limiting factor right now.  For more top end speed (over 110 mph) I'll 
+just start using 5th gear.
+
+Thanks in advance.
+
+Keith Watson                  
+Mentor Graphics Corporation (Wilsonville, OR)
+keith_watson@mentorg.com
+..!uunet!mntgfx!keith_watson
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul  5 20:36:54 1991
+Received: by karazm.math.uh.edu id <AA04271@karazm.math.uh.edu>; Fri, 5 Jul 91 20:36:55 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA04236@karazm.math.uh.edu>; Fri, 5 Jul 91 20:28:47 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab20951;
+          5 Jul 91 21:20 EDT
+Date: Sat, 6 Jul 91 01:13 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Keith Watson <kwatson@ws.mentorg.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911SC wheels
+Message-Id: <75910706011357/0004056890NA3EM@mcimail.com>
+
+Keith -
+
+I doubt what that guy said about 15" rims giving "better turn acceleration" than
+16" rims.  Larger diameter => less sidewall to flex => better handling.  Not a
+huge difference, mind you, particularly with the very strong sidewalls built
+into BFG Comp T/A R1's and Yoko A008RS'.  But it certainly makes no obvious
+sense to me to go backwards.
+
+Dunno about the wider rims.  Best bet is to find someone who's already done it,
+rims plus tires.  Not all tires are the same, and this is most noticable when
+you're at the edge of what will fit and what will not.  Other mod's to the
+suspension will also affect fit: lowering, heavy camber, etc.
+
+Your biggest win, next to improving the driver, will be improved tires.  If
+you're not already running one of the two type mentioned above, then go
+immediately for the tires.
+
+Happy hunting... Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Sun Jul  7 10:47:05 1991
+Received: by karazm.math.uh.edu id <AA11177@karazm.math.uh.edu>; Sun, 7 Jul 91 10:47:05 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA11172@karazm.math.uh.edu>; Sun, 7 Jul 91 10:42:25 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA15110 (5.65a/CWI-2.96); Sun, 7 Jul 91 17:40:23 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA10327; Sun, 7 Jul 1991 17:33:39 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.21)
+	id AA25237; Sun, 7 Jul 91 16:57:33 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA18453; Sun, 7 Jul 91 16:57:31 +0200
+Date: Sun, 7 Jul 91 16:57:31 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107071457.AA18453@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911_dashboard
+
+In most older Porsche 911's that i've seen in Switzerland (and most other makes) the dashboard has cracked due to the summer heat etc.
+
+Is it possible to buy a replacement and fit it without removing the windscreen?  It probably isn't worth it at the moment but is something I may do in the future.
+
+ALso, has anybody bought one of these moulded covers, sometimes in leather, that fits over the dashboard. I've seen them for sale in VW and Porsche in different colours etc. Any comments??
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From stan  Sun Jul  7 23:27:07 1991
+Received: by karazm.math.uh.edu id <AA13688@karazm.math.uh.edu>; Sun, 7 Jul 91 23:27:07 CDT
+Received: by karazm.math.uh.edu id <AA13606@karazm.math.uh.edu>; Sun, 7 Jul 91 23:17:02 CDT
+Date: Sun, 7 Jul 91 23:17:02 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: kenny@maui.west.sun.com, srp@cgl.ucsf.EDU
+Subject: Re:  Early 911's
+Cc: porschephiles@karazm.math.uh.edu
+
+I do tend to agree  with the notion of getting a Targa. I however am 
+a purist, and a  maniac. So, I opt for the S. If I had a non-S, I'd
+basicly hack it until it was an S, or a "super-S", like with Bremtek
+or Willwood brakes, Heim-jointed suspension components, tube frame, etc.
+not to mention massive engine upgrades. 
+
+BTW, I am a '72  fan, liking very much the external oil filler and
+forward location of the tank. However, I'm looking for a S Targa, and
+they're getting kinda hard to find and *really* pricey. Hope you
+enjoy your '72, even tho it is a T....
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul  8 09:17:08 1991
+Received: by karazm.math.uh.edu id <AA14922@karazm.math.uh.edu>; Mon, 8 Jul 91 09:17:09 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA14894@karazm.math.uh.edu>; Mon, 8 Jul 91 09:11:05 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA08789; Mon, 8 Jul 91 10:07:04 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA00909; Mon, 8 Jul 91 10:06:57 EDT
+Date: Mon, 8 Jul 91 10:06:57 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107081406.AA00909@porsche.cs.rpi.edu>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: "Kevin C. Gross"'s message of Sat, 6 Jul 91 01:13 GMT <75910706011357/0004056890NA3EM@mcimail.com>
+Subject: 911SC wheels
+
+
+
+   Keith -
+
+   I doubt what that guy said about 15" rims giving "better turn
+   acceleration" than 16" rims.  Larger diameter => less sidewall to
+   flex => better handling.  Not a huge difference, mind you,
+   particularly with the very strong sidewalls built into BFG Comp T/A
+   R1's and Yoko A008RS'.  But it certainly makes no obvious sense to
+   me to go backwards.
+
+   Dunno about the wider rims.  Best bet is to find someone who's already done it,
+   rims plus tires.  Not all tires are the same, and this is most noticable when
+   you're at the edge of what will fit and what will not.  Other mod's to the
+   suspension will also affect fit: lowering, heavy camber, etc.
+
+   Your biggest win, next to improving the driver, will be improved
+   tires.  If you're not already running one of the two type mentioned
+   above, then go immediately for the tires.
+
+   Happy hunting... Kevin Gross
+
+
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul  8 09:37:08 1991
+Received: by karazm.math.uh.edu id <AA14987@karazm.math.uh.edu>; Mon, 8 Jul 91 09:37:09 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA14982@karazm.math.uh.edu>; Mon, 8 Jul 91 09:32:20 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA09295; Mon, 8 Jul 91 10:28:19 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA00917; Mon, 8 Jul 91 10:28:18 EDT
+Date: Mon, 8 Jul 91 10:28:18 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107081428.AA00917@porsche.cs.rpi.edu>
+To: kevinh@hasler.ascom.ch
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Kevinh's message of Sun, 7 Jul 91 16:57:31 +0200 <9107071457.AA18453@libra.hasler.ascom.ch>
+Subject: 911_dashboard
+
+
+
+   In most older Porsche 911's that i've seen in Switzerland (and most
+   other makes) the dashboard has cracked due to the summer heat etc.
+
+   Is it possible to buy a replacement and fit it without removing the
+   windscreen?  It probably isn't worth it at the moment but is
+   something I may do in the future.
+
+Replacing the whole dash requires removing the windscreen.  Most older
+911 have leaky windsheild seals anyway, so its a good idea to update
+to the new seal (which has an extra layer of sealing rubber) and
+replace the dash.  Not a cheap adventure, though.
+
+   ALso, has anybody bought one of these moulded covers, sometimes in
+   leather, that fits over the dashboard. I've seen them for sale in
+   VW and Porsche in different colours etc. Any comments??
+
+Yes, they look quite nice, actually.  You won't win any concours
+points with it, but it's a good interim solution to ugly cracks.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul  8 09:37:16 1991
+Received: by karazm.math.uh.edu id <AA14991@karazm.math.uh.edu>; Mon, 8 Jul 91 09:37:17 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA14978@karazm.math.uh.edu>; Mon, 8 Jul 91 09:28:05 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA09171; Mon, 8 Jul 91 10:23:59 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA00914; Mon, 8 Jul 91 10:23:53 EDT
+Date: Mon, 8 Jul 91 10:23:53 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107081423.AA00914@porsche.cs.rpi.edu>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: "Kevin C. Gross"'s message of Sat, 6 Jul 91 01:13 GMT <75910706011357/0004056890NA3EM@mcimail.com>
+Subject: 911SC wheels
+
+
+   I doubt what that guy said about 15" rims giving "better turn
+   acceleration" than 16" rims.  Larger diameter => less sidewall to
+   flex => better handling.  Not a huge difference, mind you,
+   particularly with the very strong sidewalls built into BFG Comp T/A
+   R1's and Yoko A008RS'.  But it certainly makes no obvious sense to
+   me to go backwards.
+
+The phrase was better turn EXIT acceleration, which is certainly true
+with smaller tires.  Some handling would be sacrificed, but not enough
+to make a big difference in our cars.  The RSR I believe ran with 14
+or 15 inch wheels on short tracks.  Smaller diameter wheels act like a
+short gear set or changing the ring gear.  
+
+Most people upgrade their SCs to 7" rims in the front and 8" rims in
+the back.  It's so common  in fact that 6" rims are a dime a dozen.
+You can fit 8s and 9s under the SC flares, but you have to run extra
+low profile tires, and Comp T/As wont fit, Yokos and Pirellis will,
+don't know about RE71s.   The 15" and 14" wheels that are this wide
+are VERY expensive, however, so if you do want to go wider you'll
+probably have to stick with 16".
+
+   Your biggest win, next to improving the driver, will be improved
+   tires.  If you're not already running one of the two type mentioned
+   above, then go immediately for the tires.
+
+Now, now, Bridgestone and Pirelli also make good track tires.  
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul  8 21:27:08 1991
+Received: by karazm.math.uh.edu id <AA18059@karazm.math.uh.edu>; Mon, 8 Jul 91 21:27:09 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA18049@karazm.math.uh.edu>; Mon, 8 Jul 91 21:22:53 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id bf06983;
+          8 Jul 91 22:14 EDT
+Date: Tue, 9 Jul 91 02:16 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: weltyc <weltyc@cs.rpi.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911SC wheels
+Message-Id: <35910709021653/0004056890NA1EM@mcimail.com>
+
+Chris -
+
+I guess we understood different things.  Yes, you certainly can put smaller
+tires (ie, smaller circumference) on smaller rims and effectively change the
+gearing and therefore performance.  A big help at autocrossing, but questionable
+at the track.
+
+As far as Pirelli and Bridgestone go, I just don't know anyone who drive's those
+brands, which makes me loath to suggest them in the same breath as Yok's and
+BFG's, both of which I've driven and am happy to recommend.  I am dying to drive
+a set of P Zero C's, as Jack Dimaio (sp?) presented at Tech Tactics.  Latest
+word from him is that Pirelli USA is fighting with the mother firm over pricing
+and they ain't to be had for love or money.
+
+Entirely changing the subject, today's Autoweek carries news that Porsche and
+Footwork have put their relationship on hold.  You won't see the Porsche engine
+at an F1 race for a while (er, not that you saw much of it to date anyways).
+
+Cheers... Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  9 23:13:03 1991
+Received: by karazm.math.uh.edu id <AA00147@karazm.math.uh.edu>; Tue, 9 Jul 91 23:13:10 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA04236@karazm.math.uh.edu>; Fri, 5 Jul 91 20:28:47 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab20951;
+          5 Jul 91 21:20 EDT
+Date: Sat, 6 Jul 91 01:13 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Keith Watson <kwatson@ws.mentorg.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911SC wheels
+Message-Id: <75910706011357/0004056890NA3EM@mcimail.com>
+
+Keith -
+
+I doubt what that guy said about 15" rims giving "better turn acceleration" than
+16" rims.  Larger diameter => less sidewall to flex => better handling.  Not a
+huge difference, mind you, particularly with the very strong sidewalls built
+into BFG Comp T/A R1's and Yoko A008RS'.  But it certainly makes no obvious
+sense to me to go backwards.
+
+Dunno about the wider rims.  Best bet is to find someone who's already done it,
+rims plus tires.  Not all tires are the same, and this is most noticable when
+you're at the edge of what will fit and what will not.  Other mod's to the
+suspension will also affect fit: lowering, heavy camber, etc.
+
+Your biggest win, next to improving the driver, will be improved tires.  If
+you're not already running one of the two type mentioned above, then go
+immediately for the tires.
+
+Happy hunting... Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul  9 23:15:11 1991
+Received: by karazm.math.uh.edu id <AA00139@karazm.math.uh.edu>; Tue, 9 Jul 91 22:53:30 CDT
+Date: Tue, 9 Jul 91 22:53:30 CDT
+From: <porschephiles-request@karazm.math.uh.edu>
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 10 05:03:02 1991
+Received: by karazm.math.uh.edu id <AA01866@karazm.math.uh.edu>; Wed, 10 Jul 91 05:03:02 CDT
+Received: from ACVAX.INRE.ASU.EDU by karazm.math.uh.edu id <AA01824@karazm.math.uh.edu>; Wed, 10 Jul 91 04:57:53 CDT
+Date:    Wed, 10 Jul 1991 2:57:21 MDT
+From: AGJEM@ACVAX.INRE.ASU.EDU (Jeff Moersch, Dept. of Geology, ASU)
+Message-Id: <910710025721.31709@ACVAX.INRE.ASU.EDU>
+Subject: Hot starter won't run
+To: porschephiles@karazm.math.uh.edu
+X-Vmsmail-To: @PORSCHE
+
+     I don't often post much to this mailing list, but today I had a 
+recurrence of a strange problem with my 914 so I thought I'd see if anyone had 
+any ideas what is going on.  The problem is simple - sometimes when I have 
+been driving on very long trips, especially when it is hot out it seems, if I 
+stop the engine for a few minutes to get gas or something, when I go to start 
+it again, the starter doesn't turn over the engine.  I have no problem roll 
+starting it, but that can get to be quite a pain.  Tonight I drove from LA to 
+Phoenix, and when I got gas in Phoenix, I had the problem.  I tried to listen 
+to see if at least the solenoid was engaging, but I have one of those Facet 
+fuel pumps that is really noisy at idle, so I couldn't hear whether the 
+solenoid was working.  I guess if it wasn't, the starter could be spinning 
+just fine (I also wouldn't hear that, I'm sure), and I wouldn't get her 
+cranking.
+     Has anyone else had this problem?  I've had it for a long time now - in 
+fact, I can't remember when the first time it happened was.  But I make these 
+long trips in hot weather infrequently enough that I have never bothered to 
+worry about it much before.  If I were to try to work on it after resting up 
+from the trip, it would be hard to diagnose because as soon as it cools down 
+(I guess I'm assuming temp is the relevant parameter), it works fine again.  
+The reason I am bothering to worry about it now is that I will be driving this 
+beast across the country in a month (can you say "stupid"?), and it would be 
+nice to be able to stop without having to worry about parking on a hill!  
+Maybe there is some connection that is particularly prone to increased 
+resistivity with high T?  I don't know - I'm a planetary scientist, not an EE!
+     Thanks in advance for any help anyone can offer.
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 10 08:33:01 1991
+Received: by karazm.math.uh.edu id <AA02105@karazm.math.uh.edu>; Wed, 10 Jul 91 08:33:01 CDT
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.uh.edu id <AA02100@karazm.math.uh.edu>; Wed, 10 Jul 91 08:32:35 CDT
+Received: by aixservr.egr.duke.edu (1.0L/4.03)
+          id AA1110597; Wed, 10 Jul 91 09:28:54 EDT
+Date: Wed, 10 Jul 91 09:28:54 EDT
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9107101328.AA1110597@aixservr.egr.duke.edu>
+To: AGJEM@ACVAX.INRE.ASU.EDU, porschephiles@karazm.math.uh.edu
+Subject: Re:  Hot starter won't run
+
+What you are describing is the solenoid going bad...it has happened in every
+914 I know of as well as my 911 (same starter).  Here's what you do to fix it:
+
+Go to your local American (inferior?) parts store and ask for a Ford starter
+relay - it is a little smaller than the size of your fist, has a couple of
+small studs (terminals) coming out of the middle, and two very large studs on
+either side.  This will run you about $6, plus some extra for wires and
+connectors.  Get some BIG (12 gauge or so) wire, three large ring connectors
+for the side studs and the starter, a female spade connector for the solenoid
+(to take the place of the yellow wire), a small ring
+connector and a male spade connector.  I'm not good at drawing text pictures,
+so I'll describe the connections:  first of all, locate the relay as close to 
+the starter as possible while still being accessible and not being in danger
+of shorting with something.  Run a large wire from the hot cable on the
+starter (coming from the battery) to a large stud on the side of the relay.
+Run another large wire from the other large stud to the solenoid (where the
+yellow wire normally is connected).  Make an adapter to connect the yellow
+wire to one of the small studs on the relay (usually there are two - sometimes
+just one) - you'll have to figure out which one works, since I don't remember.
+
+The relay should make a loud click when engaged.  This fix should work most
+of the time - however, the solenoid on my 911 got so bad this wouldn't even
+engage it...so I just swapped out solenoids with another starter, which fixed
+the problem.
+
+The last time I did this fix was on my old roommate's 914 - we were in the rain
+under my car cover with a cordless drill installing the thing...must have
+looked pretty silly.
+
+Good luck,
+
+Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 10 09:33:01 1991
+Received: by karazm.math.uh.edu id <AA02300@karazm.math.uh.edu>; Wed, 10 Jul 91 09:33:02 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA02284@karazm.math.uh.edu>; Wed, 10 Jul 91 09:23:15 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA23859; Wed, 10 Jul 91 10:19:05 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA01384; Wed, 10 Jul 91 10:18:59 EDT
+Date: Wed, 10 Jul 91 10:18:59 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107101418.AA01384@porsche.cs.rpi.edu>
+To: AGJEM@acvax.inre.asu.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Jeff Moersch, Dept. of Geology, ASU's message of Wed, 10 Jul 1991 2:57:21 MDT <910710025721.31709@ACVAX.INRE.ASU.EDU>
+Subject: Hot starter won't run
+
+
+I've seen that problem in 911s, and the cause was usually one of the
+following:
+
+1) The solenoid.  Just replace it with a new one.  Apparently when it
+   is old and it gets hot it stops working.
+
+2) An alarm system.  Many cheaper alarms will restrict the current
+   flow to the starter, and you need more current when it's hot to
+   overcome the extra resistance.
+   
+If you don't have an alarm, then the chances are good the solenoid
+needs to be replaced.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 10 15:23:03 1991
+Received: by karazm.math.uh.edu id <AA03814@karazm.math.uh.edu>; Wed, 10 Jul 91 15:23:03 CDT
+Received: from venera.isi.edu by karazm.math.uh.edu id <AA03784@karazm.math.uh.edu>; Wed, 10 Jul 91 15:17:01 CDT
+Received: from ata.isi.edu by venera.isi.edu (5.61/5.61+local-2)
+	id <AA29946>; Wed, 10 Jul 91 13:14:58 -0700
+Message-Id: <9107102014.AA29946@venera.isi.edu>
+To: AGJEM@ACVAX.INRE.ASU.EDU (Jeff Moersch, Dept. of Geology, ASU)
+Cc: porschephiles@karazm.math.uh.edu
+Reply-To: paulp@ISI.EDU
+Subject: Re: Hot starter won't run 
+In-Reply-To: Your message of Wed, 10 Jul 91 02:57:21 -0600.
+             <910710025721.31709@ACVAX.INRE.ASU.EDU> 
+Date: Wed, 10 Jul 91 13:16:16 PDT
+From: Paul Postel <paulp@ISI.EDU>
+
+
+
+
+>     Has anyone else had this problem?  I've had it for a long time now - in 
+
+
+Yes!  I had a 914 for about 4 years and my symptoms were exactly the
+same as yours,  drive the car for a long period of time, turn it off for a
+short period, and the starter wouldn't turn over.  At least 5 different
+mechanics worked on this problem without success.  I had the solenoid replaced,
+the wiring replaced, new starter installed, "start kit" installed, etc.
+Each time the problem would go away for a period of time, only to return
+when I had begun to trust the car again.  Luckily I rarely drove the car
+over long enough distances to create the problem.
+
+I have heard of rabbit owners with similar problems building homebrew "heat
+shields" for their starters.  I don't know if that's feasible on the 914.
+Another person suggested carrying freon to spray on the starter in an attempt
+to cool it down more rapidly.
+
+Unfortunately I totalled the car before I could try any of these
+suggestions :-(.
+
+
+
+Paul Postel
+USC/ISI
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 11 03:23:04 1991
+Received: by karazm.math.uh.edu id <AA06432@karazm.math.uh.edu>; Thu, 11 Jul 91 03:23:04 CDT
+Received: from ACVAX.INRE.ASU.EDU by karazm.math.uh.edu id <AA06427@karazm.math.uh.edu>; Thu, 11 Jul 91 03:21:29 CDT
+Date:    Thu, 11 Jul 1991 1:20:58 MDT
+From: AGJEM@ACVAX.INRE.ASU.EDU (Jeff Moersch, Dept. of Geology, ASU)
+Message-Id: <910711012058.3441e@ACVAX.INRE.ASU.EDU>
+Subject: Re: Hot starter won't run
+To: porschephiles@karazm.math.uh.edu
+X-Vmsmail-To: @PORSCHE
+
+     Thanks to everyone who replied to my posting.  I think I am going to try 
+Jeff Shorey's tip about the Ford starter relay first, since it looks like the 
+cheapest alternative.
+     Someone posted something about Rabbit owners using "heat shields".  That 
+brought to mind something I ought to pass along to anyone with vapor lock 
+problems (most likely with FI 914's - that's what mine *used* to be).  I was 
+making the cross country trek once a few years ago, and I was having the same 
+fuel vapor lock problems every 914 owner seems to get.  The problem got 
+particularly bad in Texas (this was in June) - I couldn't get more than 100 
+miles down the road in the morning before vapor lock would kick in, and then 
+I'd have to wait an hour for things to cool down before I could go another 50, 
+then 25, and so on.  Well, one of my main research areas is in the thermal 
+infrared remote sensing of other planets, and anyone who works in the IR 
+knows that conductors are perfect reflectors of IR radiation.  So I decided I 
+would get smart and wrap the fuel lines and pump in aluminum foil to keep the 
+IR out.  Well, it worked *great* - I went for six hours without any vapor lock 
+under the same conditions that had left me stranded the day before.  The bad 
+news was that vapor lock had been saving my engine - it was running very lean 
+(although I didn't know it at the time), and the lack of vapor lock allowed 
+the engine to continue warming up.  When I pulled into a drive-through to get 
+some dinner, all of a sudden the meager air-cooling I did have was gone, and 
+everything fried.  I had to find some hick VW mechanic in East Texas who 
+didn't know his a** from a hole in the ground to rebuild the engine - it ended 
+up taking 10 months and three trips to Texas before I finally got the car 
+back.
+     So the moral of the story is: a) don't use heat shields unless you 
+are sure there isn't a reason things are overheating, b) if you don't have a 
+temp gauge, put one in, c) avoid breakdowns in east Texas at all costs!
+
+Thanks again for all the help.
+Jeff
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 11 04:03:03 1991
+Received: by karazm.math.uh.edu id <AA06487@karazm.math.uh.edu>; Thu, 11 Jul 91 04:03:04 CDT
+Received: from CUNYVM.CUNY.EDU by karazm.math.uh.edu id <AA06482@karazm.math.uh.edu>; Thu, 11 Jul 91 04:00:42 CDT
+Received: from ESOC.BITNET by CUNYVM.CUNY.EDU (IBM VM SMTP R1.2.2MX) with BSMTP id 8020; Thu, 11 Jul 91 04:58:23 EDT
+Date: Thu, 11 Jul 91 10:58:36 CET
+To: porschephiles@karazm.math.uh.edu
+From: SWELTON%ESOC.BITNET@CUNYVM.CUNY.EDU
+Comment: CROSSNET mail via SMTP@INTERBIT
+Subject: re. Hot running/vapour problems
+
+Date: 11 July 1991, 10:54:04 CET
+From: SWELTON  at ESOC
+To:   porschephiles at karazm.math.uh.edu
+
+I also used to get vapour lock due to excessive heat from the engine, this was
+mainly due to the fuel line running to close to the engine where it went into
+the carb. I never actually managed to cure it but to restart my car when it
+ground to halt was quite easy. I had a set of aftermarket air-horns, you know
+the type that have a compressor on them. I would then disconnect the fuel line,
+attach the compressor to the fuel line and reverse the electric current so the
+pump used to suck, not blow. Always worked.
+
+Seb
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 11 17:03:06 1991
+Received: by karazm.math.uh.edu id <AA08756@karazm.math.uh.edu>; Thu, 11 Jul 91 17:03:06 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA08684@karazm.math.uh.edu>; Thu, 11 Jul 91 16:56:40 CDT
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.3ee) id AA05529; Thu, 11 Jul 91 17:54:31 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA05226; Thu, 11 Jul 91 17:54:26 EDT
+Date: Thu, 11 Jul 91 17:54:26 EDT
+Message-Id: <9107112154.AA05226@socrates.ee.rochester.edu>
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: Team dot Net <autox@autox.team.net>
+Subject: Lightweight batteries
+Cc: Porsche People <porschephiles@karazm.math.uh.edu>
+
+I'm wondering how big a battery I need for my Porsche 914 2.0 autocrosser.
+In particular, how many amp-hours?  Are there any other issues I need to
+consider?
+
+Should I get a racing battery, a motorcycle battery, a tractor battery, or
+what?  I'm looking for the lightest weight battery that will serve the
+purpose, obviously.  Cost is a factor.
+
+Thanks for any help you can provide.
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 11 18:03:06 1991
+Received: by karazm.math.uh.edu id <AA09065@karazm.math.uh.edu>; Thu, 11 Jul 91 18:03:06 CDT
+Received: from cs.utexas.edu by karazm.math.uh.edu id <AA09060@karazm.math.uh.edu>; Thu, 11 Jul 91 18:00:37 CDT
+Received: from uudell by cs.utexas.edu (5.64/1.104) with UUCP
+	id AA04684; Thu, 11 Jul 91 17:33:33 -0500
+Received: from hotwheel.dell.com 
+	by uudell.dell.com (5.61/smail2.5b/06-30-87)
+	id AA08167; Thu, 11 Jul 91 17:26:44 -0500
+Received: by hotwheel.dell.com (5.61/smail2.5/02-22-90)
+	id AA28042; Thu, 11 Jul 91 22:32:43 GMT
+From: stecz@hotwheel.dell.com (John Steczkowski)
+Message-Id: <9107112232.AA28042@hotwheel.dell.com>
+Subject: Re: Lightweight batteries
+To: msirota@ee.rochester.edu (Mark Sirota)
+Date: Thu, 11 Jul 91 17:32:43 CDT
+Cc: autox@autox.team.net, porschephiles@karazm.math.uh.edu
+In-Reply-To: <9107112154.AA05226@socrates.ee.rochester.edu>; from "Mark Sirota" at Jul 11, 91 5:54 pm
+X-Mailer: ELM [version 2.3 PL2]
+
+> 
+> I'm wondering how big a battery I need for my Porsche 914 2.0 autocrosser.
+> In particular, how many amp-hours?  Are there any other issues I need to
+
+I have been running a Sear's Diehard motorcycle battery in my '83 RX-7 for
+about 2 years.  The only time I have had trouble is during the dead of
+winter, and one of the cells was low on water.  Other than it has worked
+fine.  In fact, mine is mounted in back so the cable runs are even kind of
+long.  On your 914, I think a motorcycle battery would work fine, you don't
+have very high power requirements.  To ad another data point, A guy that
+use to autocross around here (SSC Miata now), has an ASP RX-7 turbo that he
+put a motorcycle battery in for awhile, and he had a problem with the
+batteries going bad, the cases would actually start to expand.  I wouldn't
+recomend a motorcycle battery for a new car for this reason.
+
+
+
+-- 
+  John Steczkowski      stecz@hotwheel.dell.com || uunet!dell!hotwheel!stecz
+     Dell Computer Corp., 9505 Arboretum Blvd., Austin, Texas, 78759
+-          "It is better to go into a corner slow and come out fast,           -
+-      than to go into a corner fast and come out dead."  Stirling Moss        -
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 11 20:43:06 1991
+Received: by karazm.math.uh.edu id <AA09598@karazm.math.uh.edu>; Thu, 11 Jul 91 20:43:07 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA09589@karazm.math.uh.edu>; Thu, 11 Jul 91 20:39:16 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ai27159;
+          11 Jul 91 21:31 EDT
+Date: Fri, 12 Jul 91 01:26 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: SWELTON <SWELTON@esoc.bitnet>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: re. Hot running/vapour problems
+Message-Id: <92910712012629/0004056890NA3EM@mcimail.com>
+
+Al Caldwell has a suggestion about this in this month's Pano which, from the
+luxury and comfort of my home office, sounds good.  Check it out.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 12 06:43:07 1991
+Received: by karazm.math.uh.edu id <AA10854@karazm.math.uh.edu>; Fri, 12 Jul 91 06:43:07 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA10844@karazm.math.uh.edu>; Fri, 12 Jul 91 06:33:06 CDT
+Received: from kestrel.ukc.ac.uk by mcsun.EU.net with SMTP;
+	id AA16487 (5.65a/CWI-2.98); Fri, 12 Jul 91 13:30:57 +0200
+Message-Id: <9107121130.AA16487@mcsun.EU.net>
+Received: from axion.bt.co.uk by kestrel.Ukc.AC.UK   via PSS (UKC CAMEL FTP)
+           id aa19303; 12 Jul 91 12:22 BST
+Received: from bt-web.bt.co.uk by zaphod.axion.bt.co.uk 
+          via DECnet inbound channel id <22221-0@zaphod.axion.bt.co.uk>;
+          Fri, 12 Jul 1991 10:54:33 +0100
+X-Vms-To: R11F::KARAZM.MATH.UH.EDU::PORSCHEPHILES
+To: porschephiles@karazm.math.uh.edu
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Electrical problems on 944.
+Date: Fri, 12 Jul 1991 10:54:33 +0100
+
+From:	NAME: Philip Katz           [DFF54 ]
+	FUNC: DFF54                           
+	TEL: 0473-645672                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	Since I got my '85 (oval dash) 944, I have had a number of niggling
+intermittent (and hard) electrical faults.
+
+1. The windscreen washers only work intermittently and never in the
+"washers only" switch position.
+
+2. The sunroof will only open occasionally (although it will always
+close OK - so far!).
+
+3. The MPG dial stopped working on the way in to work this morning.
+(How does this work? ... the Haynes manual doesn't mention it).
+
+4. The throttle switch is dead.
+
+5. One of the horns (the low one) is dead.
+
+6. One of the connectors to the rear screen heater was broken (now
+fixed).
+
+	Are 944s bad this way, or am I just unlucky? Is there any
+particular earth point which works loose or something and causes
+intermittent problems (... is life ever that simple?)? 
+
+Philip "driving in its most aggravating form" Katz
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 12 13:33:08 1991
+Received: by karazm.math.uh.edu id <AA12260@karazm.math.uh.edu>; Fri, 12 Jul 91 13:33:09 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA12255@karazm.math.uh.edu>; Fri, 12 Jul 91 13:31:01 CDT
+From: fwk@homxc.att.com
+Date: Fri, 12 Jul 91 12:40 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: karazm.math.uh.edu!porschephiles@att.UUCP
+Subject: Re: Electrical problems on 944.
+
+>	Since I got my '85 (oval dash) 944, I have had a number of niggling
+>intermittent (and hard) electrical faults.
+>
+>1. The windscreen washers only work intermittently and never in the
+>"washers only" switch position.
+>
+>2. The sunroof will only open occasionally (although it will always
+>close OK - so far!).
+>
+>3. The MPG dial stopped working on the way in to work this morning.
+>(How does this work? ... the Haynes manual doesn't mention it).
+>
+>4. The throttle switch is dead.
+>
+>5. One of the horns (the low one) is dead.
+>
+>6. One of the connectors to the rear screen heater was broken (now
+>fixed).
+>
+>	Are 944s bad this way, or am I just unlucky? Is there any
+>particular earth point which works loose or something and causes
+>intermittent problems (... is life ever that simple?)? 
+>
+Broadly, I believe that the electrical design of recent vintage Porsche
+designs, including the 944, is reasonably good. I have had no electrical
+problems per-se with my '87 944S, but in addition the contact quality,
+environmental protection, etc. of the electrical connections seems quite
+good. I had a 914 before the 944S, which relied heavily on electrical
+connections for the fuel injection, and poor connections were a significant
+issue in reliability. If you took care of them you were generally OK,
+but if you didn't they could cause problems. The 944 series designs
+appear to be more robust.
+
+The sunroof seems to be a common problem, but most of the cases I have
+seen or heard of were mechanical problems, typically the mounting or
+positioning of the limit switches in the actuator mechanism in the LR
+fender well. Your intermittent problem in one direction only could
+well be the limit switch position adjustment.
+
+I have not heard of other examples of the other problems you listed.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 12 14:23:08 1991
+Received: by karazm.math.uh.edu id <AA12358@karazm.math.uh.edu>; Fri, 12 Jul 91 14:23:09 CDT
+Received: from nyquist.bellcore.com by karazm.math.uh.edu id <AA12353@karazm.math.uh.edu>; Fri, 12 Jul 91 14:19:46 CDT
+Return-Path: <alfred@nyquist.bellcore.com>
+Received: by nyquist.bellcore.com (5.57/Ultrix3.1B)
+	id AA11238; Fri, 12 Jul 91 15:17:13 EDT
+Date: Fri, 12 Jul 91 15:17:13 EDT
+From: alfred@nyquist.bellcore.com (Alfred Kwan 21342)
+Message-Id: <9107121917.AA11238@nyquist.bellcore.com>
+To: autox@autox.team.net, msirota@ee.rochester.edu
+Subject: Re:  Lightweight batteries
+Cc: <porschephiles@karazm.math.uh.edu>, People@ee.rochester.edu,
+        Porsche@ee.rochester.edu
+
+Battery acid can cost a lot of demage in a 914.
+I just repaired the rust demage in the engine compartment
+created by the battery acid in my 914/6. I had  to replace
+the battery box, battery box support, and right side
+engine bay sheet metal ($125 for that little piece!), 
+plus a lot of rust repair.
+My suggestion is to use a sealed gel type battery. Don't
+forget, after the battery box goes, the acid is going to drip 
+on to the right side control arm.
+I just ordered a Gates battery from "Auto Mechanika"800-582-2886.
+for $114(45lb). They claim that this battery can be mounted in any position
+and it won't leak, it fits the 914 battery box.  
+This is the first time I order anything from them.  They advertise 
+in Panorama.
+
+Good Luck
+Alfred
+
+PS-I have seem 914s will battery box relocated to the front. 
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 12 17:03:09 1991
+Received: by karazm.math.uh.edu id <AA12823@karazm.math.uh.edu>; Fri, 12 Jul 91 17:03:10 CDT
+Received: from Sun.COM by karazm.math.uh.edu id <AA12781@karazm.math.uh.edu>; Fri, 12 Jul 91 16:55:35 CDT
+Received: from Corp.Sun.COM (jethro.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA12267; Fri, 12 Jul 91 14:53:29 PDT
+Received: from formula1.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA02740; Fri, 12 Jul 91 14:53:26 PDT
+Received: by formula1.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA03506; Fri, 12 Jul 91 14:54:19 PDT
+Date: Fri, 12 Jul 91 14:54:19 PDT
+From: Stefan.Fielding-Isaacs@Corp.Sun.COM (S. Fielding-Isaacs [sai@formula1.Corp])
+Message-Id: <9107122154.AA03506@formula1.Corp.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  Lightweight batteries
+
+> Battery acid can cost a lot of demage in a 914.
+> 
+> PS-I have seem 914s will battery box relocated to the front. 
+
+ 
+ I've just relocated my battery to the right front. It was
+ a bit of a job and not un-costly. Looks great though and 
+ works very well..
+
+ Stefan
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 12 19:43:10 1991
+Received: by karazm.math.uh.edu id <AA13134@karazm.math.uh.edu>; Fri, 12 Jul 91 19:43:10 CDT
+Received: from luga.latrobe.edu.au by karazm.math.uh.edu id <AA13120@karazm.math.uh.edu>; Fri, 12 Jul 91 19:37:31 CDT
+Received: from lure.latrobe.edu.au by luga.latrobe.edu.au with SMTP id AA14354
+  (5.65+/IDA-1.3.5/LTU-1.0 for porschephiles@karazm.math.uh.edu); Sat, 13 Jul 91 10:37:18 +1000
+Date: Sat, 13 Jul 91 10:34 GMT-10
+From: "Mark Kosten - Computer Centre, La Trobe Uni." <Mark.Kosten@latrobe.edu.au>
+Subject: Re: Electrical problems on 944
+To: porschephiles@karazm.math.uh.edu
+Message-Id: <477A5861D11F60594B@lure.latrobe.edu.au>
+X-Envelope-To: porschephiles@karazm.math.uh.edu
+X-Vms-To: IN%"porschephiles@karazm.math.uh.edu"
+
+From: katz_p_m@bt-web.bt.co.uk (Philip Katz):
+>	Since I got my '85 (oval dash) 944, I have had a number of niggling
+>intermittent (and hard) electrical faults.
+>...
+>	Are 944s bad this way, or am I just unlucky? Is there any
+>particular earth point which works loose or something and causes
+>intermittent problems (... is life ever that simple?)? 
+
+My 944 is an oder '83 model which I've owned for over 5 years.  It
+has also developed a couple of trivial but annoying faults in this area.
+The back windscreen wiper died, then the left door electric window
+lift, and the left door electric mirror adjustment (unrelated to the
+window).  In all cases it was because of dirty or corroded contacts.
+The local Porsche distributor loves to change things over at the first
+sign of trouble, so the back wiper I cleaned up (simple job) and I
+had to insist on them fixing the left door electrics (two occasions) rather
+than paying $1,500 for replacing them (!).  The electric motor for the window
+had to be stripped and cleaned, but is now good as new.
+
+So, perhaps this points to poor sealing of some contacts and motors.
+Repair in these cases seems quite simple, and cheap!
+
+Mark Kosten
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 12 21:23:09 1991
+Received: by karazm.math.uh.edu id <AA13261@karazm.math.uh.edu>; Fri, 12 Jul 91 21:23:09 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA13251@karazm.math.uh.edu>; Fri, 12 Jul 91 21:15:35 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa28322;
+          12 Jul 91 22:07 EDT
+Date: Sat, 13 Jul 91 02:02 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: katz p m <katz_p_m@bt-web.bt.co.uk>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Electrical problems on 944.
+Message-Id: <74910713020247/0004056890NA2EM@mcimail.com>
+
+Like Frank, I have generally not heard many complaints about electrical problems
+in 944's, or any 80's-forward Porsche for that matter.  There have been minor
+nits, like the shorting alarm in the new Carreras.  I have heard it said that
+the MPG indicator tends to be short-lived, but not often enough to form a
+meaningful sample.  I'd like to know more about you car's age, miles, and
+storage before I jump to any rash conclusions.
+
+On the electrical end, I would just get busy with a volt-ohm meter, a wire
+brush, and a bottle of lubricating contact cleaner.  You may find a broken wire,
+or you may find that salt and neutrinos have corrided a contact.  Go through the
+wiring, opening electrical connectors and inspecting.
+
+One thing I have seen in a couple of cars is a connector prong or socket
+(prongee?) which has been pulled back in its shell, and is either making
+marginal or no contact with its mate.  This happened in one of my 944S' mirror's
+connectors, probably when bodywork was done.  A few of the non-critical
+connector assemblies, like this one, are kind of chintzy, imho.
+
+As far as the horn goes, the wiring there is pretty much exposed to the
+underside of your car's existence.  I could see a piece of road debris trashing
+a wire, and would start looking there: close to the horns.  I have seen a couple
+of cases of loose wires to the horn and side marker lamps.  They are supposed to
+be secured by a clip which pushes over the end of a piece of body metal.  These
+clips seem to come loose or take a powder.  Cable ties are called for.
+
+My moon roof stopped working once, too.  The mechanism is a very simple worm
+gear-driven cable deal, in my car (and I think in yours), driven by a motor
+located in the rear hatch on the driver side.  Mine jammed during an "incident,"
+and disassembling the motor mechanism and putting it back together cured it.  I
+believe the jam was between the nylon worm gear and its large mating nylon gear.
+Disassemble, clean, lubricate, reassemble.  Make sure the drive cabe does not
+bind and is not broken.  As Frank suggests, I would also check out the
+microswitches, cleaning and lubricating them as necessary.  The workshop manual
+is fairly helpful in explaining the workings, if not in diagnosing.
+
+By the way, you can buy a wiring manual for your car from Porsche at a
+reasonable price, that is to say, for a lot less than the full workshop manual
+set.  Or you might impose on a friend to lend you his/hers.  They're very well
+done and readable by automotive standards.
+
+Happy hunting, and let us know what you find!
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Sat Jul 13 14:13:13 1991
+Received: by karazm.math.uh.edu id <AA14914@karazm.math.uh.edu>; Sat, 13 Jul 91 14:13:14 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA14891@karazm.math.uh.edu>; Sat, 13 Jul 91 14:06:11 CDT
+Received: by NRI.NRI.Reston.VA.US id aa09770; 13 Jul 91 15:01 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa09729;
+          13 Jul 91 14:58 EDT
+Date: Sat, 13 Jul 91 18:49 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Eezi Bleed power bleeder
+Message-Id: <35910713184953/0004056890NA4EM@mcimail.com>
+
+I posted this item to a couple of other lists recently.  It occurred to me today
+that there had been some discussion of bleeding hydraulic clutches in
+'porschephiles' - so here it is again.  Sorry for the clutter to those of you on
+the other lists.
+
+By the way, the difference between the Eezi Bleed and the arrangement that Frank
+Kerfoot uses is that the former has a supply of fluid in a bottle with two hoses
+coming out of it.  One hose goes to the air supply and pressurizes, the other
+hose takes fluid from the bottom of the bottle and feeds the reservoir.
+
+_______________________________________________________________________
+
+Someone on one of these lists recommended this tool a while ago. 
+Well, mine showed up yesterday and got put to good use today.  I can report that
+it does a fine job of bleeding both brakes and - yow! - the hydraulic clutch. 
+The latter has been a real thorn because the slave cylinder is at an angle which
+makes getting trapped air out almost impossible (Porsche 944S), but getting air
+trapped in it a breeze.
+
+Someone else mentioned the limited expected lifetime for the product.  Probably
+also quite true.  The parts are almost all plastic and/or low to medium quality.
+The plastic locking air-chuck looks like it would be the first to go - kind of
+cheap.  However, all the parts can be pretty easily replaced.
+
+In fact, I home-brewed a pretty similar device a few months ago.  (The trouble
+was that I could not get the reservoir extension to stay put.  I now know that
+that was because it was a 46 mm. (1.75") Girling "cap", going onto an Ate 44 or
+45 mm. thread.  Dumb!  I thought problem was that the thread was too short.) 
+When that air-chuck dies, I have a nice brass one waiting to take its place.
+
+The Eezi Bleed comes with a large assortment of reservoir caps.  If one doesn't
+match your car, you simply buy a spare OEM cap a drill a hole in it.  Easy.
+
+Well worth the $36.00 smackers.  Get yours from Moss Motors, Ltd.
+
+  voice: 800 235 6954
+    fax: 800 968 6910
+
+(They sell British car stuff, otherwise.  Nice catalogue, but man, I thought
+Porsche parts were expensive!)
+
+Kevin
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul 15 20:23:24 1991
+Received: by karazm.math.uh.edu id <AA25082@karazm.math.uh.edu>; Mon, 15 Jul 91 20:23:24 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA25054@karazm.math.uh.edu>; Mon, 15 Jul 91 20:18:47 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA20475); Mon, 15 Jul 91 20:16:37 CDT
+Received: from odin.ucsd.edu by ucsd.edu; id AA19212
+	sendmail 5.64/UCSD-2.1-sun via SMTP
+	Mon, 15 Jul 91 18:16:29 -0700 for porschephiles@bcm.tmc.edu
+Received: by odin.UCSD.EDU (5.65/UCSDPSEUDO.4)
+	id AA07296 for porschephiles@bcm.tmc.edu; Mon, 15 Jul 91 18:16:28 -0700
+Date: Mon, 15 Jul 91 18:16:28 -0700
+From: brandt@cs.ucsd.edu (Andrew V. Brandt)
+Message-Id: <9107160116.AA07296@odin.UCSD.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: Honda motorcycle email list
+
+
+Greetings.  Does anyone out there know of a email list dedicated to 
+motorcycles (namely Honda dirt/enduro bikes)?
+
+Any help would be appreciated.
+
+-Andrew Brandt
+ Dept of Electrical & Computer Engineering
+ Univ of California, San Diego
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 16 12:13:25 1991
+Received: by karazm.math.uh.edu id <AA27281@karazm.math.uh.edu>; Tue, 16 Jul 91 12:13:25 CDT
+Received: from p.Lanl.GOV by karazm.math.uh.edu id <AA27171@karazm.math.uh.edu>; Tue, 16 Jul 91 12:11:02 CDT
+Received: from foxbat.lanl.gov by p.Lanl.GOV (5.61/1.14)
+	id AA09862; Tue, 16 Jul 91 11:08:50 -0600
+Received: by  foxbat.LANL.GOV.Lanl.GOV  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA03060; Tue, 16 Jul 91 11:08:42 MDT
+Date: Tue, 16 Jul 91 11:08:42 MDT
+From: pjb@foxbat.Lanl.GOV (Paul Brown)
+Message-Id: <9107161708.AA03060@ foxbat.LANL.GOV.Lanl.GOV >
+Received: by NeXT Mailer (1.63)
+To: Mark Sirota <msirota@ee.rochester.edu>
+Subject: Re: Lightweight batteries
+Cc: Team dot Net <autox@autox.team.net>,
+        Porsche People <porschephiles@karazm.math.uh.edu>
+
+
+There are a couple of different brands of specialty racing batteries  
+on the market (Pulsar is one, but there are others).  These have some  
+advantages - the posts are standard, so you don't have to mess with  
+figuring out a good way to hook it up.  They are intended to be used  
+as car batteries, so they have adequate power (though I've heard that  
+they still don't tend to last very long, like more than a year).   
+Disadvantages are that they are odd sizes and they tend to be  
+expensive (on the order of $100!).  I shopped around, and eventually  
+got a lawn tractor battery.  It cost about $30, shape is fairly  
+standard, though the size is small - it was easy to construct a  
+wooden spacer so the stock hold-down works, has adequate power (it's  
+weakening lately, but it started the car in zero-degree weather over  
+the winter!), and it weighs half what the stocker did (15 vs. 30).   
+Also, the posts were such that I didn't have to mess with the battery  
+cables.  One went over a post, but on the other I had to use the bolt  
+on the cable, and went through the mounting hole in the post.  It was  
+pretty obvious, even if it doesn't sound like it here...  The Baileys  
+used to use the smallest 12V motorcycle battery they could find in  
+their Golf - some 7 pounds!  They replaced it a couple of times a  
+year, though, and didn't use it for anything but autocrossing.  That  
+was part of their pre-event setup and teardown.
+
+				-Paul
+ 
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 16 12:53:25 1991
+Received: by karazm.math.uh.edu id <AA27767@karazm.math.uh.edu>; Tue, 16 Jul 91 12:53:25 CDT
+Received: from ocelot.llnl.gov by karazm.math.uh.edu id <AA27762@karazm.math.uh.edu>; Tue, 16 Jul 91 12:51:12 CDT
+Received: by ocelot.llnl.gov (4.1/LLNL-1.18)
+	id AA09107; Tue, 16 Jul 91 10:47:38 PDT
+Date: Tue, 16 Jul 91 10:47:38 PDT
+From: brown@ocelot.llnl.gov (Dave Brown)
+Message-Id: <9107161747.AA09107@ocelot.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: what do you think about the 914
+
+
+I am thinking of getting a 914 and wanted to get a feeling what I was
+getting into.  What is the maintenance, upkeep expenses like, what
+goes wrong with them, are they worth it, how do they compare
+performance wise to other cars, esp. the 911 etc?
+
+I think my dream 914 would be a 
+	'73 with 2.0L Targa roof
+	opt. A/C 
+	Guards Red
+	No rust, very-good mechanically
+	shot upholstery O.K. but dash should be in good shape
+	
+I own a '78 VW Vert, so I now some things about Bosch Fuel injection,
+and VW engines, but I understand many things are not really VW like, or
+use VW parts.
+
+How is the suspension/steering?  I read somewhere it was the same as
+the 911 in the front, but different in the back.  What sort of repair
+manuals should I use, what is the cost?  What should I watch out for
+when looking for a 914?  Any other helpful suggestions?
+
+I am a new subscriber, so if any of this is in a FAQ posting, sorry, I
+haven't got it yet.
+
+-----------------------------------------------------------------------------
+  David S. Brown                 |  Computer Incident Advisory Capability    
+  brown@ocelot.llnl.gov          |  Lawrence Livermore National Laboratories 
+  .__  / .__                     |  P.O. Box 808, 7000 East Av  L-303
+  |  \ \ |__)                    |  Livermore CA 94550       ME(415) 423-9878
+  |__/ / |__)                    |  ciac@cheetah.llnl.gov     FAX(415) 294-5054
+-----------------------------------------------------------------------------
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 16 22:13:27 1991
+Received: by karazm.math.uh.edu id <AA29657@karazm.math.uh.edu>; Tue, 16 Jul 91 22:13:28 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA29652@karazm.math.uh.edu>; Tue, 16 Jul 91 22:12:57 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae26971;
+          16 Jul 91 23:01 EDT
+Date: Wed, 17 Jul 91 02:52 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: For Philip Katz, re: electrical problems
+Message-Id: <63910717025236/0004056890NA4EM@mcimail.com>
+
+Sorry to broadcast this, but Philip's return address bounced when I originally
+sent the following.
+______________________________________________________________________________
+
+Philip -
+
+I suffer in that I have an '87 944S with rather different electronics.  I have a
+picture in my workshop manual of a device which may be the one your are
+describing.  From the picture, I cannot tell exactly where it is under the hood.
+The thing is mounted on a flange of metal, the latter secured by two bolts to
+the bay.  When the lid is popped off it, you see what I think are four pin
+sockets and one LED.
+
+Does this sound like what you're wondering about?  It is used to adjust the idle
+speed.  You have to bridge pins B and C, which stops "operation of the idle
+speed filling control."  I dunno what they mean by that.
+
+Drawn very crudely:
+
+               _______  
+      A -->   / o   o \ <-- B
+       + --> | o_____o | <-- LED
+              \___o___/
+                  ^
+                  C
+
+Pin C is in a block of plastic (which is what the dashes are meant to
+communicate); the other pins and LED are in little islands.  Having bridged B
+and C, you adjust the idle to 840 +/- 20 RPM.  If this isn't the connector you
+have in mind, send me a longer description and I'll go hunting.  I ran out to
+the garage, but could not find any such thing on my car.  What year is your car?
+
+I really don't know the MPG indicator.  If you are idling without moving, I
+might expect the indicator to show really poor mileage!  You're burning gas but
+going nowhere.  One in a friend's '84 seems to bounce all over the place.  I
+would, as a first check, look at my gas mileage and have the exhaust gases
+checked.  (In most US states, the exhaust gas is check annually to make sure the
+car isn't polluting, and therefore, is reasonably well tuned.)  If both are
+reasonable, and clouds of smoke don't billow out the tailpipe, I wouldn't worry.
+
+I have a Haynes manual too.  The pictures are great, the tips and procedures are
+very helpful and practical, but it lacks much real detail.  The new edition I
+have is supposed to cover the 944S and 951, but it ain't so, not even lip
+service.
+
+Keep me posted.  Perhaps you can find a Bosch-certified shop nearby for a
+check-up.
+
+Kevin
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 18 10:59:02 1991
+Received: by karazm.math.uh.edu id <AA01344@karazm.math.uh.edu>; Thu, 18 Jul 91 10:59:02 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA01291@karazm.math.uh.edu>; Thu, 18 Jul 91 10:45:08 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA26195 (5.65a/CWI-2.99); Thu, 18 Jul 91 17:42:46 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA19406; Thu, 18 Jul 1991 17:13:47 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA12050; Thu, 18 Jul 91 16:56:34 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA05360; Thu, 18 Jul 91 16:56:32 +0200
+Date: Thu, 18 Jul 91 16:56:32 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107181456.AA05360@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Modifying Porsche 911 for leadfree petrol
+
+	
+In England there are a number of companies selling reconditioned engines for MGB`s,Triumphs, Mini's etc that have been modified to be able to run on leadfree petrol 100% of the time. Has anybody seen such offerings for 911's.	
+
+Also, does anybody have experience of fitting catalysors to cars not originally fitted with them, what problems would be involved etc, is it possible with a 911??
+
+The reason I ask about this is that there are proposals in Switzerland to ban the sale of leaded petrol in a few years time and presumably this type of ban will eventually become more common in other countries (Sweden,Germany,Holland etc). 
+
+Is leaded petrol widely available in the USA, how long is it since the legal requirement for cars to have catalysors(and therefore to run on unleaded petrol) has been in force?, is there a plan to ban the sale of leaded petrol??, what other plans are proposed ( Eg electric vehicles in California).
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From stan  Thu Jul 18 22:39:05 1991
+Received: by karazm.math.uh.edu id <AA03604@karazm.math.uh.edu>; Thu, 18 Jul 91 22:39:05 CDT
+Received: by karazm.math.uh.edu id <AA03595@karazm.math.uh.edu>; Thu, 18 Jul 91 22:38:22 CDT
+Date: Thu, 18 Jul 91 22:38:22 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: kevinh@hasler.ascom.ch, porschephiles@karazm.math.uh.edu
+Subject: Re:  Modifying Porsche 911 for leadfree petrol
+
+Well, I have an '81 European 911 that has been "federalized", which meant
+adding the catalytic converter and modifying the filler spout to only
+accept unleaded gas. Bah. Humbug.
+
+I'm usually a pretty green kind of guy, and tend to largely be law abiding.
+But this "stuff a catalytic converter on a Euro car" stuff is pure nonsense.
+For starters, the engine in this guy (930/10) has 9.8:1 compression, compared 
+to the 9.3:1 for the U.S. engine (930/16) and the 8.6:1 for the '80 U.S. 
+engine (930/07). On a hot day, or when pressed *real* hard (and when *DON'T* 
+you press one of these guys hard?) it pings like a son-of-a-gun. Usually right 
+about 4,000 RPM. Not great.
+
+So, I went out and re-modified the filler spout, and got myself a catalytic
+bypass. For auto-x and the like, I swap back to the "leaded" configuration
+and go get a half tank of 100  octane leaded racing gas, with half a tank of
+super unleaded. After that's all out, I run another tank of super-unleaded
+throught it, then re-install the cat.  According to my mechanic, this 
+should be OK on the cat, and only a mild inconvenience for me.  Bullshit on
+the minor inconvenience part.
+
+If I  were going to do it all over again, rather than federalize a Euro
+engine, I would just buy a U.S. spec engine and setup, and swap the whole
+damned thing. That way I'd at least have a Euro spec engine to swap back
+in for the performance events. Or, I'd build a U.S. spec performance engine
+that could deal with super unleaded  octane levels. But this is getting
+*REALLY* old... (not to mention hurting my performance in the PCA autox
+events...)
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 19 05:49:04 1991
+Received: by karazm.math.uh.edu id <AA04774@karazm.math.uh.edu>; Fri, 19 Jul 91 05:49:04 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA04765@karazm.math.uh.edu>; Fri, 19 Jul 91 05:43:13 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA11969 (5.65a/CWI-2.100); Fri, 19 Jul 91 12:40:59 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA27224; Fri, 19 Jul 1991 12:33:47 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA22634; Fri, 19 Jul 91 12:12:14 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA06166; Fri, 19 Jul 91 12:12:12 +0200
+Date: Fri, 19 Jul 91 12:12:12 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107191012.AA06166@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Hi-Fi in 911's
+
+Any ideas for a decent hi-fi installation in a 911 without hacking the car around too much??
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 19 12:29:05 1991
+Received: by karazm.math.uh.edu id <AA05874@karazm.math.uh.edu>; Fri, 19 Jul 91 12:29:05 CDT
+Received: from drs4330b.erim.org by karazm.math.uh.edu id <AA05850@karazm.math.uh.edu>; Fri, 19 Jul 91 12:22:12 CDT
+Received: by drs4330b.erim.org (4.1/SMI-4.1)
+	id AA25672; Fri, 19 Jul 91 13:18:02 EDT
+Date: Fri, 19 Jul 91 13:18:02 EDT
+From: vayda@erim.org (Alan Vayda)
+Message-Id: <9107191718.AA25672@drs4330b.erim.org>
+To: porschephiles@karazm.math.uh.edu
+Subject: 944 radiator
+
+My 1983 944 needs a new radiator.  This is the third time in 4 years
+and 40000 miles since I bought the car. (103000 total miles on the car)
+
+This is the second failure related to the fan temperature switch which
+screws into the radiator. Should I buy a Porsche radiator from the
+dealer for $430, an OEM radiator from a major mailorder place for
+$300-360, or $250 from a unknown (by me) Panorama advertiser, or
+should I buy a high-performance radiator (brass instead of plastic)
+manufactured by Autotechnic and sold by Performance Products for $440? 
+(or should I avoid the radiator/water pump problems by buying a 911?)
+
+Any advice or experience is welcome. (and the sooner the better)
+
+Alan Vayda
+vayda@erim.org
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 19 20:19:08 1991
+Received: by karazm.math.uh.edu id <AA08840@karazm.math.uh.edu>; Fri, 19 Jul 91 20:19:09 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA08835@karazm.math.uh.edu>; Fri, 19 Jul 91 20:15:47 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac25305;
+          19 Jul 91 21:08 EDT
+Date: Sat, 20 Jul 91 01:03 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Alan Vayda <vayda@erim.org>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 radiator
+Message-Id: <72910720010327/0004056890NA2EM@mcimail.com>
+
+Huh?  Three radiators in four years?  Something is wrong.  Who has done the work
+in the past?  They apparently didn't fix whatever the problem is.
+
+If this work was not done by a Porsche dealer, hie thee elsewhere.  If it was,
+get them to stand behind their work.  Speak to the PCNA area rep. if need be;
+they can be very helpful.  Radiators and tempostats should not fail repeatedly
+after a year or so of use.  Despite a nominal one-year guarantee on parts, my
+experience has been that PCNA goes way beyond that in goodwill.
+
+Also make sure you are getting the latest upgrades applicable to your year car. 
+The 944 radiators have been upgraded a few times over the years.  I am unsure
+what sort of retrofitting is possible, but your dealer should.  There are a few
+tech bulletins applicable.
+
+Hope this helps... let me know how you make out.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Sat Jul 20 15:29:11 1991
+Received: by karazm.math.uh.edu id <AA10859@karazm.math.uh.edu>; Sat, 20 Jul 91 15:29:11 CDT
+Received: from apple.com by karazm.math.uh.edu id <AA10841@karazm.math.uh.edu>; Sat, 20 Jul 91 15:21:10 CDT
+Received: by apple.com (5.61/25-eef)
+	id AA20182; Sat, 20 Jul 91 13:18:45 -0700
+	for porschephiles@karazm.math.uh.edu
+Date: Sat, 20 Jul 91 13:18:45 -0700
+From: Patty Winter <winter@apple.com>
+Message-Id: <9107202018.AA20182@apple.com>
+To: porschephiles@karazm.math.uh.edu, school@sol.crd.ge.com
+Subject: Need info on shops, schools in San Diego area
+Cc: winter@apple.com
+
+
+I'm going to be moving to San Diego and would like to get 
+opinions on Porsche mechanics and drivers' schools in that area.
+
+For mechanics, I'd appreciate hearing warnings about bad
+ones as well as recommendations for good ones. I'm willing
+to consider Porsche dealers as well as independents. First
+choice would be in the northern SD area, around University
+City or Mira Mesa.
+
+For schools, I've found someone who belongs to PCA, but I'd
+like to find out about schools sponsored by other groups that
+allow marques other than their own. (As, for example, I'm told
+the BMW club here in the Bay Area does.)
+
+
+Thanks!
+Patty
+
+===============================================================================
+Patty Winter N6BIS			What do they got? A lot of sand!
+INTERNET: winter@apple.com		We got a hot crustacean band!
+UUCP: {decwrl,nsc,sun}!apple!winter	We got no troubles, life is de bubbles
+AMPR.ORG: [44.4.0.44]			Under the sea.
+===============================================================================
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jul 22 18:19:16 1991
+Received: by karazm.math.uh.edu id <AA18722@karazm.math.uh.edu>; Mon, 22 Jul 91 18:19:16 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA18704@karazm.math.uh.edu>; Mon, 22 Jul 91 18:10:06 CDT
+From: fwk@homxc.att.com
+Date: Mon, 22 Jul 91 17:58 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: porschephiles@karazm.math.uh.edu
+Subject: Bob Forsythe/944S Chip
+
+
+About a year ago, Bob Forsythe advertised an AutoAuthority chip for
+a 944S on the net. I have (very belatedly) decided I might be interested.
+Unfortunately, his old login on "nucleus" appears to be no longer
+active. Since he owns a 944TS as well as the 944S (which was apparently
+stolen), I thought he might be lurking here in Porschephiles,
+or that someone might know of his whereabouts. Any luck? 
+
+On a similar subject, does anyone have specific knowledge of the
+degree of improvement to be had from a chip in an 87-88 944S (16 valve)?
+My car seems to be on the lean side overall, including starting,
+and I have excluded all of the obvious things such as fuel pressure,
+air leaks, inputs from the temperature sensors, etc. as discussed in the manual.
+I don't think it is exhaust valve deposits, since it happens even while
+cranking and continues somewhat even when warmed up. It just appears
+that the fuel injection is uniformly on the lean side. I would like to
+try a chip and see if it fixes it, since I suspect that they do some
+overall richening as part of their magic. More power wouldn't hurt either :-)
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 23 04:49:17 1991
+Received: by karazm.math.uh.edu id <AA20191@karazm.math.uh.edu>; Tue, 23 Jul 91 04:49:18 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA20186@karazm.math.uh.edu>; Tue, 23 Jul 91 04:43:42 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA12442 (5.65a/CWI-2.100); Tue, 23 Jul 91 11:41:21 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA05347; Tue, 23 Jul 1991 11:33:56 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA26020; Tue, 23 Jul 91 11:28:00 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA09425; Tue, 23 Jul 91 11:27:58 +0200
+Date: Tue, 23 Jul 91 11:27:58 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107230927.AA09425@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 timing Chain
+
+Has anybody converted an older 911 to use the newer oil fed type timing chain tensioners. Is it a big job,expensive?
+
+Any comments on whether it's necessary,  or sufficient to change the normal(older) type regularly?
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 23 08:49:17 1991
+Received: by karazm.math.uh.edu id <AA20515@karazm.math.uh.edu>; Tue, 23 Jul 91 08:49:17 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA20499@karazm.math.uh.edu>; Tue, 23 Jul 91 08:43:15 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA14573; Tue, 23 Jul 91 09:38:26 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA01977; Tue, 23 Jul 91 09:38:25 EDT
+Date: Tue, 23 Jul 91 09:38:25 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107231338.AA01977@porsche.cs.rpi.edu>
+To: kevinh@hasler.ascom.ch
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Kevinh's message of Tue, 23 Jul 91 11:27:58 +0200 <9107230927.AA09425@libra.hasler.ascom.ch>
+Subject: 911 timing Chain
+
+
+
+   Has anybody converted an older 911 to use the newer oil fed type
+   timing chain tensioners. Is it a big job,expensive?
+
+   Any comments on whether it's necessary, or sufficient to change the
+   normal(older) type regularly?
+
+If you change/rebuild the old style tensioners every 20K miles (every
+valve check) they won't fail, unless you are going to track your car.
+Additionally, you can install a sleeve on the old style tensioners
+that will prevent it from collapsing all the way.
+
+DO NOT USE THE SOLID MECHANICAL TENSIONERS, which are tensioned
+statically with a nut.  These will cause the chain to stretch in a few
+thousand miles,and also preload the intermediate and cam shafts.
+
+The Carrera tensioner update is definitely recommended.  Taking apart
+the old and new style tenioners you can see why they are so much more
+reliable.  The old style has a tiny O-ring which seals in the fluid.
+The new style has two very large seals which are hard enough to get
+through, AND are continuously fed with oil so that even with a leak
+there will be tensioning pressure.  Be sure to also update your idler
+arms, as the old style have been known to bind up.  Be sure also to
+get the update to the tensioner update, which includes some harnesses
+for the new oil lines that prevent them from vibrating against the
+timing cover.
+
+It's not that hard to install, doesn't require removal of the engine.
+Just remove the rear engine sheet metal, the timing covers, take out
+the old tensioners, and put in the new ones.  I think the kit is
+around $350.
+
+The old style tensioners will fail.  If you track your 911, it is
+foolish to run without updating the tenioners (take it from a fool).
+There aren't many sounds worse that those untensioned chains scraping
+against the inside of the timing housing.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 23 10:39:17 1991
+Received: by karazm.math.uh.edu id <AA20849@karazm.math.uh.edu>; Tue, 23 Jul 91 10:39:18 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA20844@karazm.math.uh.edu>; Tue, 23 Jul 91 10:38:16 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA10713 (5.65a/CWI-2.100); Tue, 23 Jul 91 17:35:46 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA06537; Tue, 23 Jul 1991 16:53:44 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA28991; Tue, 23 Jul 91 16:37:41 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA00358; Tue, 23 Jul 91 16:37:39 +0200
+Date: Tue, 23 Jul 91 16:37:39 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107231437.AA00358@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  911 timing Chain
+
+
+
+
+	   Has anybody converted an older 911 to use the newer oil fed type
+	   timing chain tensioners. Is it a big job,expensive?
+
+	   Any comments on whether it's necessary, or sufficient to change the
+	   normal(older) type regularly?
+
+	If you change/rebuild the old style tensioners every 20K miles (every
+	valve check) they won't fail, unless you are going to track your car.
+	Additionally, you can install a sleeve on the old style tensioners
+	that will prevent it from collapsing all the way.
+
+	DO NOT USE THE SOLID MECHANICAL TENSIONERS, which are tensioned
+	statically with a nut.  These will cause the chain to stretch in a few
+	thousand miles,and also preload the intermediate and cam shafts.
+
+	The Carrera tensioner update is definitely recommended.  Taking apart
+	the old and new style tenioners you can see why they are so much more
+	reliable.  The old style has a tiny O-ring which seals in the fluid.
+	The new style has two very large seals which are hard enough to get
+	through, AND are continuously fed with oil so that even with a leak
+	there will be tensioning pressure.  Be sure to also update your idler
+	arms, as the old style have been known to bind up.  Be sure also to
+	get the update to the tensioner update, which includes some harnesses
+	for the new oil lines that prevent them from vibrating against the
+	timing cover.
+
+	It's not that hard to install, doesn't require removal of the engine.
+	Just remove the rear engine sheet metal, the timing covers, take out
+	the old tensioners, and put in the new ones.  I think the kit is
+	around $350.
+
+	The old style tensioners will fail.  If you track your 911, it is
+	foolish to run without updating the tenioners (take it from a fool).
+	There aren't many sounds worse that those untensioned chains scraping
+	against the inside of the timing housing.
+
+
+Thanks for the info, I take it that your tensioners failed then and presumably buggered the valvegear in the process. 
+
+I really pissed off with the local BMW dealer here who didn't change the timing belt on my 3 series at the correct time resulting in a 2800.- Sfr bill (~ $2100). 
+
+So i`m really concerned about the Porsche (911T ,`73 carburetor model) which I cannot use on the roads until a small amount of accident damage is repaired (I bought it that way) and consequently it's difficult to assess what state the timing chain(and tensioners are in). 
+
+I wouln't say that there is a lot of clatter/noise from this area but without knowing the history of the car or having driven it much I haven't a lot of confidence in it??
+
+Any suggestions for assessing what state the tensioner is in??
+
+Thanks
+
+kevinh@hslrswi.hasler.ascom.ch  
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jul 23 20:09:19 1991
+Received: by karazm.math.uh.edu id <AA23071@karazm.math.uh.edu>; Tue, 23 Jul 91 20:09:19 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA23066@karazm.math.uh.edu>; Tue, 23 Jul 91 20:07:28 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae20330;
+          23 Jul 91 20:59 EDT
+Date: Wed, 24 Jul 91 00:53 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Kevinh <kevinh@hasler.ascom.ch>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re:  911 timing Chain
+Message-Id: <73910724005337/0004056890NA2EM@mcimail.com>
+
+Kevin -
+
+At the risk of speaking for Chris, I would say that the correct assessment might
+be "replace it, regardless!"  Cheap insurance.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 24 08:39:21 1991
+Received: by karazm.math.uh.edu id <AA26054@karazm.math.uh.edu>; Wed, 24 Jul 91 08:39:22 CDT
+Received: from hydra.gatech.edu by karazm.math.uh.edu id <AA26047@karazm.math.uh.edu>; Wed, 24 Jul 91 08:31:49 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA18271; Wed, 24 Jul 91 09:24:25 -0400
+Date: Wed, 24 Jul 91 09:24:25 -0400
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9107241324.AA18271@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu, school@sol.crd.ge.com
+Subject: Brakes
+
+It's time to replace the brake pads on my '87 951.  I'm currently using
+the stock Porsche pads, but since I'm attending track events fairly
+regularly now (Rd. Atlanta twice a year, Talledega 3 or 4, probably Rd.
+America over Labor Day - and 3 or 4 autocrosses), I'm concerned that I
+ought to replace the stock pads with Repcos or somesuch.
+
+What exactly should I be looking for? If I call and ask for Repco pads,
+will that specify what I need? Or is Repco just a brand name (eg. is
+there a particular product I should specify)?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+"Language is a virus from outer space" - William S. Burroughs
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 24 09:49:21 1991
+Received: by karazm.math.uh.edu id <AA26211@karazm.math.uh.edu>; Wed, 24 Jul 91 09:49:21 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA26198@karazm.math.uh.edu>; Wed, 24 Jul 91 09:43:14 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA15141 (5.65a/CWI-2.100); Wed, 24 Jul 91 16:40:49 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA16782; Wed, 24 Jul 1991 16:13:40 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA11679; Wed, 24 Jul 91 15:54:35 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA01256; Wed, 24 Jul 91 15:54:33 +0200
+Date: Wed, 24 Jul 91 15:54:33 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107241354.AA01256@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 front wings
+
+
+Hi Folks,
+
+I have to replace the wing on my '73 911 and have a secondhand wing to put on when it's cleaned up and sprayed, but I have just noticed in a price list in Porsche Post( PCGB) that a front wing was advertised as for a 69-73 model.  
+
+What I want to know is how did it change for '69 and how to distinguish between a `68 and a '69.
+
+Thanks
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 24 09:59:21 1991
+Received: by karazm.math.uh.edu id <AA26232@karazm.math.uh.edu>; Wed, 24 Jul 91 09:59:21 CDT
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.uh.edu id <AA26226@karazm.math.uh.edu>; Wed, 24 Jul 91 09:59:10 CDT
+Received: by aixservr.egr.duke.edu (1.0L/4.03)
+          id AA1107677; Wed, 24 Jul 91 10:54:34 EDT
+Date: Wed, 24 Jul 91 10:54:34 EDT
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9107241454.AA1107677@aixservr.egr.duke.edu>
+To: kevinh@hasler.ascom.ch, porschephiles@karazm.math.uh.edu
+Subject: Re:  911 front wings
+
+  The difference between a pre-69 front 911 wing and a 69-73 is that a slight
+flare was added in the later version.  Also, the horn grill was made smaller on
+the later model, although you might be able to get around that.  In 74, they
+eliminated the cage for the turn signal in the fender - it was moved to the
+bumper, which sat higher up on the car.  This also required shortening the
+hood...
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 24 10:29:21 1991
+Received: by karazm.math.uh.edu id <AA26325@karazm.math.uh.edu>; Wed, 24 Jul 91 10:29:22 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA26313@karazm.math.uh.edu>; Wed, 24 Jul 91 10:24:54 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA10659; Wed, 24 Jul 91 11:20:15 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA02203; Wed, 24 Jul 91 11:20:15 EDT
+Date: Wed, 24 Jul 91 11:20:15 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107241520.AA02203@porsche.cs.rpi.edu>
+To: js@aixservr.egr.duke.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Jeff Shorey's message of Tue, 23 Jul 91 12:35:02 EDT <9107231635.AA1104265@aixservr.egr.duke.edu>
+Subject: Chain tensioners...
+
+
+
+   If you replace the tensioners (I have the '83 SC tensioners on mine
+   - so this is of interest to me), wouldn't it be a good idea to
+   reset the cam timing?  If so, you need the micrometer/fixture
+   setup, as well as the cam tools.
+
+This is a good question, so I'm reposting it.
+
+If you don't change the timing of the cams, then you don't have to
+retime them.  To do this, you must make sure that the chain doesn't
+slip on the cam or intermediate shaft sprockets when you take out the
+chain tensioner.  This of course is what the chain tensioner is
+supposed to do, so with it out you will have to tension the chain by
+hand.  If it does slip, you will have to retime them - but you only
+need to do the "gross" timing, since the exact timing should already
+have been set (unless you are changing the chains, too).
+
+Here's the steps for changing just the tensioners:
+
+1) remove the sheet metal
+2) remove the timing covers
+3) loosen the spark plugs
+4) turn the crank to cylinder 1 TDC.  Remember the Z1 mark on the
+   crank pully indiciates EITHER cylinder 4 TDC or cylinder 1 TDC.  To
+   tell which, look at the distributor, or, with the timing covers off,
+   the dots on the cams should be at the top.
+5) remove one tensioner, keeping tension on the chain after removing
+   it.
+6) Inspect the 3 (on each side) plastic chain rails.  If any of them
+   are damaged, they should be replaced.  One of them is a different
+   color, and is very hard to get to, but be sure it OK.
+7) If chain skipped a tooth on the cam sprocket while the tensioner
+   was out, then turn the cam so that the dot is back at the top, and
+   with the chain fully tensioned, put it back on.  Since the cam
+   timing should already have been set, and since the crank is at
+   1TDC, this will put the cam timing back exactly to where it was when
+   you started.  This is why having the crank at TDC before you start is
+   important. 
+8) Put in the new tensioner and idler arms.  
+9) pull out the pin on the new tensioner, and the arm will shoot up
+   and tension the chain.
+10) Repeat 5-9 for the other side.
+11) put back the covers, be sure the o-rings on each tensioner are in
+    place, and that a new gasket is used for the covers.
+12) remove the old cam oil lines, replace with the new ones.  
+13) install the new oil lines that feed the tensioners, and the
+    brackets that keep them from vibrating (you should be sure when
+    ordering a tensioner update kit that you are getting the 86 (i think)
+    update to the kit that includes these brackets)..
+14) before reinstalling the sheet metal, cut a notch in the right side
+    since the new oil line there goes to the underside. Make the notch
+    as small as possible, but not so small that the new line comes in
+    contact with it.  Remember, the purpose of that sheet metal is to
+    prevent the fan from drawing cooling air from the hot underside.
+15) replace the sheet metal.
+
+Of course this is from memory so I might be forgetting something, but
+it's the basics.	
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 24 11:09:22 1991
+Received: by karazm.math.uh.edu id <AA26442@karazm.math.uh.edu>; Wed, 24 Jul 91 11:09:22 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA26435@karazm.math.uh.edu>; Wed, 24 Jul 91 11:00:44 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA11367; Wed, 24 Jul 91 11:56:03 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA02250; Wed, 24 Jul 91 11:55:58 EDT
+Date: Wed, 24 Jul 91 11:55:58 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9107241555.AA02250@porsche.cs.rpi.edu>
+To: kevinh@hasler.ascom.ch
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Kevinh's message of Tue, 23 Jul 91 16:37:39 +0200 <9107231437.AA00358@libra.hasler.ascom.ch>
+Subject:  911 timing Chain
+
+
+   Thanks for the info, I take it that your tensioners failed then and
+   presumably buggered the valvegear in the process.
+
+Yes.  I kept telling myself I would update the tensioners soon, and
+that I would take it easy at the track.  But after two events going
+around slow with the yellow group, I got tired of it and went out in
+white.  I was keeping up with the SCs when suddenly I heard a noise...
+Luckily, I have a spare engine with the tensioner update already
+installed so I'll beat on that one while I rebuild the other.  One
+failed tensioner can mean a complete rebuild.  It was due for one
+anyway (200K mi)...
+
+   I really pissed off with the local BMW dealer here who didn't
+   change the timing belt on my 3 series at the correct time resulting
+   in a 2800.- Sfr bill (~ $2100).
+
+It would be more if it happend to your 911...
+
+   So i`m really concerned about the Porsche (911T ,`73 carburetor
+   model) which I cannot use on the roads until a small amount of
+   accident damage is repaired (I bought it that way) and consequently
+   it's difficult to assess what state the timing chain(and tensioners
+   are in).
+
+   I wouln't say that there is a lot of clatter/noise from this area
+   but without knowing the history of the car or having driven it much
+   I haven't a lot of confidence in it??
+
+If there's noise then they have collapsed already.  It doesn't matter
+what the state is, replace them (or if you decide you want to rebuild
+them every 20K miles, do that).  This way you know the state.
+
+BTW, just so you know, the 73T was not originally available with
+carbs, only with fuel injection.  SO if you have carbs they were put
+on later.
+
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 25 03:19:24 1991
+Received: by karazm.math.uh.edu id <AA01921@karazm.math.uh.edu>; Thu, 25 Jul 91 03:19:25 CDT
+Received: from relay2.UU.NET by karazm.math.uh.edu id <AA01914@karazm.math.uh.edu>; Thu, 25 Jul 91 03:14:32 CDT
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA28276; Thu, 25 Jul 91 04:12:12 -0400
+Received: from photon.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 041116.26843; Thu, 25 Jul 1991 04:11:16 EDT
+Received: by  photon. (5.51/celerity1.1)
+	id AA13703; Wed, 24 Jul 91 16:39:51 PDT
+Received: by sulu (5.52/890607.SGI)
+	(for @photon.uucp:porschephiles@karazm.math.uh.edu@uunet) id AA13136; Wed, 24 Jul 91 16:39:36 PDT
+From: photon!sulu!bvs@uunet.UU.NET (Bruce Shetler)
+Message-Id: <9107242339.AA13136@sulu>
+Subject: Re: 911 timing Chain
+To: porschephiles@karazm.math.uh.edu%uunet
+Date: Wed, 24 Jul 91 16:39:35 PDT
+In-Reply-To: <9107230927.AA09425@libra.hasler.ascom.ch>; from "Kevinh" at Jul 23, 91 11:27 am
+X-Mailer: ELM [version 2.3 PL10]
+
+> 
+> Has anybody converted an older 911 to use the newer oil fed type timing chain tensioners. Is it a big job,expensive?
+> 
+> Any comments on whether it's necessary,  or sufficient to change the normal(older) type regularly?
+> 
+> kevinh@hslrswi.hasler.ascom.ch
+> 
+> 
+
+I'll add a little to what has already been posted, agreeing with everything
+said so far...
+
+This is not a difficult job but I'd caution against going after it with a 
+Crescent (variable spanner for you Euro types) wrench and some found 
+by the side of the road screwdrivers :-)
+
+If your engine repair experience is limited to washing the car and changing
+oil, I'd recommend against it. However it's not a big deal for a 
+fairly decent shade tree mechanic.  One must be careful to not allow the
+chains to slip a cog (I wired mine, special tensioners are available).  
+I found the hardest part to be installing the new chain ramps which should
+be replaced as part of this job, some are in kind of tight places (and I 
+have skinny fingers!).  Otherwise quite straightforward, I didn't need to
+upgrade idler wheels it turned out, but I had mine off in checking.
+
+I also remember something about pulling the rear motor mounts and having
+my engine partially supported on a floor jack.  This may be necessary
+or just make things easier.
+
+When I bought my kit, Alan Johnson Racing here in San Diego had the best
+price I found (around $300.00 I think - $50.00 less than the going rate).
+Their kit was absolutely complete.
+
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates              San Diego...
+  San Diego, CA   92121                   It's Not As Bad As L.A. 
+  uucp:photon!bvs@{ucsd.edu,uunet}        
+========================================================================
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 25 10:39:24 1991
+Received: by karazm.math.uh.edu id <AA02636@karazm.math.uh.edu>; Thu, 25 Jul 91 10:39:24 CDT
+Received: from CORNELLC.cit.cornell.edu by karazm.math.uh.edu id <AA02616@karazm.math.uh.edu>; Thu, 25 Jul 91 10:31:19 CDT
+Received: from squid.Graphics.Cornell.edu by CORNELLC.cit.cornell.edu (IBM VM SMTP R1.2.2MX) with TCP; Thu, 25 Jul 91 11:27:17 EDT
+Received: from mars.graphics.cornell.edu (mars.graphics.cornell.edu.ARPA) by squid.Graphics.Cornell.edu (1.2/1.1nn-Program-of-Computer-Graphics)
+	id AA08502; Thu, 25 Jul 91 11:29:07 edt
+Message-Id: <9107251529.AA08502@squid.Graphics.Cornell.edu>
+Received: by mars.graphics.cornell.edu
+	(15.11/16.2) id AA00411; Thu, 25 Jul 91 11:28:38 edt
+Date: Thu, 25 Jul 91 11:28:38 edt
+From: Hurf Sheldon <hurf@mars.graphics.cornell.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: '79 928 (Euro) For Sale
+
+
+	1979 928 Metallic Green (the color they painted Dr. Porsche's
+		 75th Birthday Present 959)
+
+		 Black Leather Interior
+
+		 Single Cam 5speed
+
+		 Body very good, interior fair - (front seats need lower
+		 inserts)
+
+		 Momo Wheel,
+
+		 Blaupunkt Lexington Stero ( I hand fitted new speakers
+		 to keep the door panels original )
+
+		 2nd Gear synchro is iffy when cold.
+
+		 Needs some little things - not a rat but definitely
+		 a tinkerer's car.
+
+		 Recent work (in last 5k miles) :
+		 Clutch, motor mounts, alternator
+
+		 History as I know it...
+		 Car was brought from Europe some time in '80s, has
+		 US-style front fenders. Was bought in California
+		 in 88 by the fellow I bought it from - he drove it for
+		 a while then got a job working for Yugo in Europe
+		 so the car was in storage for two years. He returned,
+		 the car to Ithaca, had the clutch, motor mounts and
+		 and starter fixed. I bought it two years ago and use
+		 it as summer driver.
+		
+		 ~$11,000.00 to a good home. I would consider a partial, 
+		 interesting trade.  
+
+		 Reason for selling:
+		 1 - No time to tinker 
+		 2 - Resource management  (Two kids in college )
+		 3 - I need a tractor for my farm (Trades considered)
+		 4 - My 'other car' is a Stinson 108
+
+		 Reasons for ambivalence:
+		 1 - I will have the time someday
+		 2 - I will never be able to replace it for $11,000
+		 3 - I really like the way it drives (especially over 70 )
+	         4 - My kids could work their way thru like I did.
+		 5 - I have a nice dry place to keep it.
+
+If you take an adverserial, antagonistic approach to car buying, please
+discard this message. I really like the car and would like the person who
+buys it to be happy with the car (and the process) as well.
+
+     Hurf Sheldon			 Network: hurf@graphics.cornell.edu
+     Program of Computer Graphics	 Phone:   607 255 6713 Work
+						      533 4981 Home
+     580 Eng. Theory Center, Cornell University, Ithaca, N.Y. 14853  
+     
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jul 25 12:19:24 1991
+Received: by karazm.math.uh.edu id <AA02949@karazm.math.uh.edu>; Thu, 25 Jul 91 12:19:25 CDT
+Received: from caip.rutgers.edu by karazm.math.uh.edu id <AA02939@karazm.math.uh.edu>; Thu, 25 Jul 91 12:12:16 CDT
+Received: from escher.rutgers.edu by caip.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+	id AA28210; Thu, 25 Jul 91 13:09:53 EDT
+Received: by escher.rutgers.edu.rutgers.edu (5.61/6.24)
+	id AA01401; Thu, 25 Jul 91 13:09:44 -0400
+Date: Thu, 25 Jul 91 13:09:44 -0400
+From: boubez <boubez@escher.rutgers.edu>
+Message-Id: <9107251709.AA01401@escher.rutgers.edu.rutgers.edu>
+To: merithew@jessica.stanford.edu
+Cc: porschephiles@karazm.math.uh.edu
+Subject: 914 collision
+
+
+Hi Robert. I was browsing through rec.autos.sport and started reading the
+article containing the responses about the miata. I noticed your response:
+
+>I don't know how safe a Miata is in a collision.  I doubt that my 914
+>would do too well in a collision.
+
+I thought I'd let you know. I had an significant accident with my previous
+914 in 1986 (the car was totalled in a collision, some pinhead ran his red
+light during my green left-turn arrow and hit the car almost head-on,
+off-center towards the passenger-side headlight). Both my passenger and I 
+walked out of the wreck without even a daze (well, ok, we were a bit
+disoriented at first (-:). The only reminder was a red mark across my chest
+for a couple of days caused by the shoulder belt. The front of the car
+crinkled perfectly to absorb the shock, text-book case. This doesn't mean
+that I condone reckless driving, but this way you can feel safer driving your
+914 knowing that in the event of an accident, it's a safe car, unlike a lot
+of "older" cars. Take care, and I hope you never have to find out.
+
+toufic
+
+            R 2 4      Toufic Boubez
+            |_|_|      boubez@caip.rutgers.edu
+            | | |      Computational Engineering Systems Lab
+            1 3 5      CAIP Center, Rutgers University
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jul 26 10:39:28 1991
+Received: by karazm.math.uh.edu id <AA06555@karazm.math.uh.edu>; Fri, 26 Jul 91 10:39:28 CDT
+Received: from hpcsos.col.hp.com by karazm.math.uh.edu id <AA06537@karazm.math.uh.edu>; Fri, 26 Jul 91 10:30:49 CDT
+Received: from hpwala.wal.hp.com by hpcsos.col.hp.com with SMTP
+	(16.6/15.5+IOS 3.14) id AA05937; Fri, 26 Jul 91 09:28:25 -0600
+Received: from hpwadac.wal.hp.com by hpwala.wal.hp.com with SMTP
+	(15.11/15.5+IOS 3.22) id AA13278; Fri, 26 Jul 91 11:28:42 edt
+Received: by hpwarq.HP.COM; Fri, 26 Jul 91 11:26:47 edt
+Message-Id: <9107261526.AA03673@hpwarq.HP.COM>
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Date: Fri, 26 Jul 91 11:26:00 EDT
+X-Server: hpwadac
+X-Citing: Celtics!
+X-Cargo: steamed snails
+X-Mailer: Mail User's Shell (6.5.6 6/30/89)
+To: boubez <boubez@escher.RUTGERS.EDU>, merithew@jessica.stanford.edu
+Subject: Re: 914 collision
+Cc: porschephiles@karazm.math.uh.edu
+
+> I thought I'd let you know. I had an significant accident with my previous
+> 914 in 1986 (the car was totalled in a collision, some pinhead ran his red
+> light during my green left-turn arrow and hit the car almost head-on,
+> off-center towards the passenger-side headlight). 
+
+There must be something about red lights and 914s: mine was hit from behind
+when I stopped for a red light on Soldiers Field Road at 2:30am. The driver
+of the Mustang behind me "just assumed" that I would run the light, so he
+hammered it, stopping just short of my engine. So much for that one, but I
+have to agree that the car crumpled up just like it should and that I suffered
+only emotional trauma.
+
+
+-- 
+---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 31 11:49:43 1991
+Received: by karazm.math.uh.edu id <AA26069@karazm.math.uh.edu>; Wed, 31 Jul 91 11:49:43 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA26055@karazm.math.uh.edu>; Wed, 31 Jul 91 11:40:15 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA27716 (5.65a/CWI-2.100); Wed, 31 Jul 91 18:37:42 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA02478; Wed, 31 Jul 1991 15:34:39 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA29402; Wed, 31 Jul 91 15:33:11 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA02084; Wed, 31 Jul 91 15:33:09 +0200
+Date: Wed, 31 Jul 91 15:33:09 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9107311333.AA02084@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Green_911's
+
+
+A few times i've asked about running 911's on unleaded petrol etc, and have received some useful information, with the basic reply that older 911's shouldn't really use it :-( :-(
+
+
+However,
+
+In the latest edition of Porsche Post ( PCGB's magazine ) a firm called Oselli were advertising their "Green Heart" conversion. I've sent for their info and i'm quite impressed with what they do in this conversion and while their price guide for the conversion shows that it's not cheap ( 100 pounds per cylinder as a guide, excluding low volume exotic V8's and V12's), it's probably not much more, and maybe less ( I havn't asked), than Porsche themselves would charge for a simple top end overhaul.
+
+I'm waiting to hear from them for a specific price quote for the costs of the conversion on my engine ( they will perform this conversion on ANY car, Mini or Ferrari) and i'll post this info when I get it but if anybody wants any more info in the meantime mail me.
+
+I realise that it's of little interest to people outside of the UK but at least it shows that reputable companies can provide a service that will enable "our" cars to run when the leaded stuff is not available any more!!
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jul 31 17:29:43 1991
+Received: by karazm.math.uh.edu id <AA27002@karazm.math.uh.edu>; Wed, 31 Jul 91 17:29:44 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA26976@karazm.math.uh.edu>; Wed, 31 Jul 91 17:22:02 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA28891; Wed, 31 Jul 91 15:19:33 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9107312219.AA28891@jessica.stanford.edu>
+Subject: '74 914 2.0 annoying 'clunk' sound
+To: porschephiles@karazm.math.uh.edu
+Date: Wed, 31 Jul 91 15:19:32 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+My '74 914 2.0 has an annoying clunk which is most audible when the
+engine is either idling roughly or lugged (not enough throttle on
+upshift).  The car need not be moving to clunk.  It sounds as if it's
+something loose in the engine compartment on the right side, but all
+my attempts to locate the source have failed.
+
+I know it's impossible to diagnose this over email, but my luck here
+has been so good in the past...
+
+I'm looking for responses like 'The <suchandsuch> always comes loose
+on these cars' or 'try sticking your head in the <whatever> (watch
+it!)  while someone floors it to see what you can hear'...
+
+It's not the roof (stowed in the back).
+It's not the FI control box.
+Nothing else in the top of the engine compartment seems loose...
+
+thanks,
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  L&IR, Stanford University             merithew at suwatson (bitnet)
+
+"Pay no attention to the man behind the curtain."
+
+

@@ -1,0 +1,4091 @@
+From timmins@sun.udel.edu  Wed Aug  1 09:15:29 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03342); Wed, 1 Aug 90 09:15:29 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA04798); Wed, 1 Aug 90 09:18:26 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA15507; Wed, 1 Aug 90 10:19:01 -0400
+Message-Id: <9008011419.AA15507@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Wed, 1 Aug 90 10:19:00 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Automotion 20% off sale
+
+
+Automotion si having a 20% off sale on the 11th.  All gods in catalog
+20% off.  Must order by phone on the 11th.  Email me for details.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From timmins@sun.udel.edu  Wed Aug  1 14:44:07 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09581); Wed, 1 Aug 90 14:44:07 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA08863); Wed, 1 Aug 90 14:47:04 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA00895; Wed, 1 Aug 90 15:47:39 -0400
+Message-Id: <9008011947.AA00895@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Wed, 1 Aug 90 15:47:38 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Automotion
+
+1-800-777-8881
+
+FYI.
+
+Steve:wq
+/
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From kodali@portia.stanford.edu  Thu Aug  2 23:28:44 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA08737); Thu, 2 Aug 90 23:28:44 CDT
+Received: from Portia.Stanford.EDU by bcm.tmc.edu (AA23843); Thu, 2 Aug 90 23:31:41 CDT
+Received:  by portia.stanford.edu (5.59/25-eef) id AA05340; Thu, 2 Aug 90 21:32:00 PDT
+Date: Thu, 2 Aug 90 21:32:00 PDT
+From: VAS KODALI <kodali@portia.stanford.edu>
+Message-Id: <9008030432.AA05340@portia.stanford.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Re: Automation
+
+
+By the way, they open at 8:30 (PST).
+
+-Vas
+
+From ficc!ny1!birwin@texbell.UUCP  Fri Aug  3 12:42:28 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA10243); Fri, 3 Aug 90 12:42:28 CDT
+Received: from PORTAL.BCM.TMC.EDU by bcm.tmc.edu (AA28660); Fri, 3 Aug 90 12:45:22 CDT
+Received: from texbell by bcm.uucp id aa22105; 3 Aug 90 13:20 EDT
+Received: by texbell.sbc.com (Smail3.1.18)
+	id <m0hy2rf-0001AxC@texbell.sbc.com>; Fri, 3 Aug 90 09:19 CDT
+Received: by ficc.ferranti.com (smail2.5)
+	id AA13893; 2 Aug 90 13:46:06 CDT (Thu)
+Received: by ny1.ferranti.com (smail2.5)
+	id AA19875; 2 Aug 90 13:47:30 CDT (Thu)
+Subject: 73 911S injection
+To: texbell!porschephiles@bcm.tmc.edu
+Date: Thu, 2 Aug 90 13:47:28 CDT
+From: bob irwin <birwin@ficc.ferranti.com>
+Cc: frank letts <letts@ficc.ferranti.com>
+X-Mailer: ELM [version 2.2 PL16]
+Message-Id: <9008021347.AA19875@ny1.ferranti.com>
+
+I've lost Scott Presnell's address, so here's my reply.  It might
+be of interest to other's also.  I must state up front that I'm
+no mechanic- I learned the following mostly by trial and error.
+Follow my advice at your own risk. I request that the experts on 
+the list correct any glaring errors.
+
+Scott wrote:
+
+> I don't really have an answer for your questions but I also have a Mechanical
+> Injection (on a '72T) and I'd like to learn more about how to work on it.
+> You mention having a shop manual - for the injection pump itself? Where did
+> you find that?
+
+No, I used the two binder Factory Service Manual published by
+Porsche (covers from '65 til '71 or '72 and describes how to
+adjust the Bosch mechanical injection and linkages and everything
+else).  I strongly recommend buying this.  Performance Products
+sells them for around $250, I think.  You might post a request to
+this list also.  Also see if u can join a local Porsche club.
+You might could do some xeroxing then.  I've heard of a separate
+book for the pump, but I don't think it's in publication, now.
+
+> How did you adjust the linkages?  Side to side, or the individual links?
+> In general, how do you suspect that might be necessary? 
+
+the pump delivers identical volume to each intake.  If ALL the
+linkages are not correct, varying amounts of air enters which
+varies the mixtures.
+
+> 
+> Two?  I know about the one in the front that you have to go though the
+> blower to reach, where's the other?  I don't have all the enrichment
+
+My engine was an S not a T, so i don't know if the pump is the
+same.  the second screw is behind an allen bolt cover on the
+front of the pump- The screw is readily accessible with a
+straight screwdriver after you remove the allen bolt.
+
+never examine your plugs after idling a long while.  Do a hard
+run, shut it off and let it cool.  Look at all your plugs.  If
+they're a uniform color, your linkages are probably OK- look
+elsewhere.  I recommend slightly rich, you'll run cooler.
+
+> hardware you have - it's probably in there (?)  When you tweak this a click,
+> how much of a change do you notice in the running of the car?  When making
+> the adjustment, is it clear when you've gone one "click"?
+
+Yes, on the 'blower-accessible' screw. realize its spring-loaded
+and you have to push it in firmly to turn it.  try it one click
+at a time and drive it hard.  never go more than 2 clicks in
+either condition.
+
+on the other screw, try a quarter turn at a time and drive it
+hard.  do not change both screws at the same time! Both
+adjustments are made with the engine off.
+
+> I had the injection pump rebuilt, but after six months, it's again missing
+> at higher RPM's - especially when warm (but it's not nearly as bad as it
+> had been before the rebuild).  I suspect it's running too lean right now.
+
+Overheating is an indication of a lean mixture.  Is it running
+hotter than in the past?
+
+> I've been unsure about adjusting the pump itself, so I've stayed mainly to
+> making adjustments on the throttle housing air screws.  But that doesn't
+> seem to make much difference - except, of course, at idle.  The fuel
+> pressure is fine, and the ignition checks out OK.  Any comments?
+
+Use an air flow gauge like Unisyn to check for uniform air flow
+at idle and at 3800 RPM.  Clean the inside of your tailpipe and
+check for deposits occasionally.
+
+Also don't forget the choke assembley. It's held onto the front
+of the pump by two screws and has a hose going down for manifold
+heat. hold it firmly when loosening it- there's a spring inside.
+Clean the elements in solvent then lube it with WD-40.  You may
+also have an enrichment line running from the fuel pump to the
+throttle bodies. It should stop enriching after the engine warms
+up.  Pinch it off with a clothespin to see if its delivering gas
+when it shouldn't.
+
+> In my case, replacing the original vacuum lines made a difference in the
+> idle smoothness, but I would guess that wouldn't be your problem.
+
+My problem problem turned out to be that the engine hadn't been
+cranked in two months and it mainly needed to be driven hard.  I
+also recommend adding STP injection cleaner when your tank is 1/4
+full.  This makes it much more concentrated.  Then add it with
+every third full tank of 91 octane gas.
+
+By the Way, I sold my Targa (along with the Service Manuals) to
+Frank Letts (letts@ficc.ferranti.com) last week, he gave it to
+his wife, and she won't let him drive it :-)
+
+>	Sorry for having more questions than suggestions.  I've worked on
+> cars before, but I've only worked on carb's - I'm beginning to think again
+> about putting Webers on. 
+
+NO.  Put your bucks into service manuals and maybe a CO2
+analyzer.  Why do you think Porsche put Bosch mechanical
+injection into the 2.7RS?  Because it was their BEST.  You've got
+one of Porshce's best.  Pre-emission controls, before CIS
+injection.  [ Watch the flames from carb users!]
+
+Good luck, keep your revs up,
+
+ - Bob Irwin
+
+-- 
+Aggie Joke Hotline:  1-800-AGGIE-IQ.  - ??
+<birwin@ficc.ferranti.com>   Sugar Land, Texas   (713) 274-5456
+
+From photon!bvs@ucsd.edu  Fri Aug  3 14:07:52 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA10490); Fri, 3 Aug 90 14:07:52 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA29803); Fri, 3 Aug 90 14:10:48 CDT
+Received: from photon.UUCP by ucsd.edu; id AA27823
+	sendmail 5.64/UCSD-2.1-sun via UUCP
+	Fri, 3 Aug 90 12:11:03 -0700 for porschephiles@bcm.tmc.edu
+Message-Id: <9008031911.AA27823@ucsd.edu>
+Received: by  photon. (5.51/celerity1.1)
+	id AA21487; Fri, 3 Aug 90 11:57:53 PDT
+From: photon!bvs@ucsd.edu (Bruce Shetler)
+Subject: 73 911S injection (fwd)
+To: porschephiles%bcm.tmc.edu@ucsd.edu (porschephiles)
+Date: Fri, 3 Aug 90 11:57:49 PDT
+X-Mailer: ELM [version 2.2 PL12]
+
+
+
+> NO.  Put your bucks into service manuals and maybe a CO2 
+> analyzer.  Why do you think Porsche put Bosch mechanical
+
+This brings up something I've been thinking about for a while.  Does
+anyone know a source for a reasonably priced CO2 analyzer?  My MAC tool
+supplier seems to have only super high priced set-ups for full smog
+checking.  K-Jetronic specs alot of things relative to CO2, and I'd
+like to be set up to handle that but there is no way even I (an
+incurable tool addict - such a sad case) can afford multi-thousand
+dollar test sets that check other gases as well and are really only
+practical for a commercial garage.
+
+Thanks
+
+P.S.
+
+I switched to swepco a few weekends back and I really like it.
+Shifting seems smoother with less effort required.  2nd gear
+synchro seems to work better as well although now that I've gotten into
+the habit of double clutching on 2nd gear upshifts as well as
+downshifts maybe that's my imagination.  Cost me about $35.00 for a
+gallon for reference (ouch, but nothings too good for der Porsche eh?)
+
+--
+
+========================================================================
+  Bruce Shetler                      
+  Photon Research Associates        
+  San Diego, CA   92121
+  uucp:photon!bvs@ucsd.edu
+========================================================================
+
+From bert@csd.scarolina.edu  Sat Aug  4 11:09:23 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13475); Sat, 4 Aug 90 11:09:23 CDT
+Received: from usceast.cs.scarolina.edu by bcm.tmc.edu (AA05525); Sat, 4 Aug 90 11:12:18 CDT
+Received: from snuffleupagus.csd.scarolina.edu by usceast.cs.scarolina.edu (5.61/smail2.5/rlw1)
+	id AA11674; Sat, 4 Aug 90 12:10:49 -0400
+Received: by snuffleupagus.csd.scarolina.edu (4.0/1.0-chs)
+	id AA08153; Sat, 4 Aug 90 12:17:10 EDT
+Date: Sat, 4 Aug 90 12:17:10 EDT
+From: Bert Still <bert@csd.scarolina.edu>
+Message-Id: <9008041617.AA08153@snuffleupagus.csd.scarolina.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: F1 engine...
+
+
+Greetings fellow Porschephiles!  With the F1 season already heating up,
+things could turn interesting if Porsche managed to get the F1 engine
+into the Arrows cars sometime toward the end of the season.  Who would've
+believed a Leyton House would score a second at Paul-Ricard?
+
+>From the rumor mill, the Porsche V12 has been tested on a dyno for
+quite some time (rumors of almost 900 bhp @14000 rpm SAE net abound) and
+apparently, an engine was fitted to one of Michelle Alboreto's backup
+cars for testing at Porsche's backyard track in Stuttgart.  Anybody out
+there heard any rumors, good, bad, or ugly?
+
+Thinking about Porsche's last F1 effort (the TAG engine) really has me
+eagerly anticipating the end of the season, particularly in the face of
+the tremendous bad luck in Indycars this year.
+
+Comments?
+
+
+                      __                   bert@bigbird.csd.scarolina.edu
+ \----\            __/  |                  bert@vision1.ece.scarolina.edu
+ | 4  | __    /---/ Fabi|-------__  __                Bert Still
+ \----//  \ _/-----------------___^/  \         Univ of South Carolina
+      | () |:|#4|P O R S C H E | _| () |\__     Parallel Supercomputer
+       \__/ ---------------------/ \__/ \-->          Initiative
+*************************************************************************
+             Porsche: Schonheit ist ihre eigene Belohnung.
+*************************************************************************
+
+From 0004056890@mcimail.com  Sat Aug  4 21:57:52 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13818); Sat, 4 Aug 90 21:57:52 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA06853); Sat, 4 Aug 90 22:00:49 CDT
+Received: by NRI.NRI.Reston.VA.US id aa07211; 4 Aug 90 22:57 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa07186;
+          4 Aug 90 22:52 EDT
+Date: Sat, 4 Aug 90 21:45 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Arno Bohn interviewed
+Message-Id: <80900805024508/0004056890NB4EM@mcimail.com>
+
+Arno Bohn is interviewed in the September '90 issue of 'Automobile Magazine.' 
+Unanswered question: where does one get 20W50 rape seed oil?
+
+Kevin Gross
+
+From stanh@wilkins.bcm.tmc.edu  Wed Aug  8 10:47:30 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA22131); Wed, 8 Aug 90 10:47:30 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA26888); Wed, 8 Aug 90 10:50:28 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA00258); Wed, 8 Aug 90 10:47:24 CDT
+Date: Wed, 8 Aug 90 10:47:24 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008081547.AA00258@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: CV Joint Fun
+
+Well, it finally happened: I exploded the outer left CV joint on my 911,
+under acceleration, in a corner. Pretty spectacular, indeed.
+
+In doing the post-mortem, my mechanic noted that it looked as though the
+CV joints had never been serviced. He mentioned that you should have the CVs
+packed and inspected every 50,000 miles or so. Having the service done is
+about $180 or so, including grease and gaskets. CV joints are $110 each, and
+you have four of them, if you understand what I'm trying to say here....
+
+Just thought I'd pass this little tidbit of info along.
+
+Regards,
+
+Stanley P. Hanks      Director, Information Technology Planning and Development
+Baylor College of Medicine, One Baylor Plaza, Houston TX 77030, Mail Stop: IR-3
+e-mail: stanh@bcm.tmc.edu       voice: (713) 798-4649       fax: (713) 798-3729
+
+From stic@East.Sun.COM  Mon Aug 13 09:48:16 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA02491); Mon, 13 Aug 90 09:48:16 CDT
+Received: from Sun.COM by bcm.tmc.edu (AA26798); Mon, 13 Aug 90 09:51:13 CDT
+Received: from snail.Sun.COM (snail.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA04704; Mon, 13 Aug 90 07:51:49 PDT
+Received: from East.Sun.COM by snail.Sun.COM (4.1/SMI-4.1)
+	id AA09952; Mon, 13 Aug 90 07:51:37 PDT
+Received: from suneast.East.Sun.COM by East.Sun.COM (4.1/SMI-4.1)
+	id AA12540; Mon, 13 Aug 90 10:51:27 EDT
+Received: from redsand.East.Sun.COM by suneast.East.Sun.COM (4.1/SMI-4.1)
+	id AA17332; Mon, 13 Aug 90 10:49:20 EDT
+Received: by redsand.East.Sun.COM (4.1/SMI-4.1)
+	id AA28800; Mon, 13 Aug 90 10:51:28 EDT
+Date: Mon, 13 Aug 90 10:51:28 EDT
+From: stic@East.Sun.COM (Steve Tice - Sun BOS Software)
+Message-Id: <9008131451.AA28800@redsand.East.Sun.COM>
+To: porschephiles@bcm.tmc.edu
+Subject: restoration of a 1966 911
+
+Hello to all.  I am new to this group.  I hope I can some day make
+a contribution to it, but for now am seeking advice.
+
+I am considering the restoration of a 1966 (or possibly '65) 911.  I
+have gone over the car, and have located two areas in desperate need
+of attention.  The first is the exhaust/heating system.  Both heat
+exchangers are badly rusted, and the muffler is not far behind.  The
+heat ducting looks OK for now.  The other problem area is the brake
+system hydraulics.  I intend to replace every rubber part between the
+brake pedal and the pads.  All the rotors look OK.
+
+My first question is this: can you recommend your favorite supplier
+of parts?  I need heat exchangers, a muffler, and brake rebuild parts.
+Once those problems are solved, I'm sure others will surface
+immediately, so am looking to establish a long-term relationship with
+a single supplier.
+
+Since I am a 911 neophyte, I don't know the specific weaknesses of this
+model.  I hope you can help me here, too.  On the early 911s, which
+components or systems require the most attention and/or money to repair
+or maintain?
+
+Thanks in advance for sharing your experience.
+
+
+Steve Tice
+Sun Microsystems, Inc.
+Billerica, MA
+
+From HQDev.3Mail.3Com.COM!Michael_Throm@gw.3com.com  Mon Aug 13 13:26:31 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA04086); Mon, 13 Aug 90 13:26:31 CDT
+Received: from bridge2.ESD.3Com.COM by bcm.tmc.edu (AA29549); Mon, 13 Aug 90 13:29:27 CDT
+Received: from gw.3Com.COM by bridge2.ESD.3Com.COM with SMTP id AA17153
+  (5.64+/IDA-1.3.4-900803 for porschephiles@bcm.tmc.edu); Mon, 13 Aug 90 11:30:01 -0700
+Received: by gw.3Com.COM (5.61++/1.2)
+	id AA14622; Mon, 13 Aug 90 11:29:53 PDT
+Date: Sun, 12 Aug 90 23:32 PDT
+From: Michael_Throm@HQDev.3Mail.3Com.COM
+Subject: 914 vs 912 vs 911
+To: porschephiles@bcm.tmc.edu
+Cc: Michael_Throm@HQDev.3Mail.3Com.COM
+Message-Id: <900813.112645@3Mail.3Com.COM>
+
+
+
+
+    My wife has been bugging me about getting another car since she doesn't 
+like that I gave up my Fox to her and I got the VW type III.  Hey, I can 
+live with that.  I thought I'd look at getting a 914 or posssbily a 911/12.  
+How much does it cost to maintain a 911/12 per year?  What are the 
+differences in a 911 and a 912.  I know the 912 has a 4 cylinder engine, 
+but is that the only difference?  Also, what years were the 912's made?  
+I'm assuming the the cost to maintain a 914 is about the same as my type 
+III or a little more.  Last, but not least, what are the differences in the 
+following designations. 
+
+        911E
+        911S
+        911T (I'm prety sure this one means Targa)
+        911SC
+
+            Thanks in advance.
+                                Mike
+
+
+From stanh@wilkins.bcm.tmc.edu  Mon Aug 13 15:25:39 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05079); Mon, 13 Aug 90 15:25:39 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA01164); Mon, 13 Aug 90 15:28:34 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA00337); Mon, 13 Aug 90 15:25:29 CDT
+Date: Mon, 13 Aug 90 15:25:29 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008132025.AA00337@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: Michael_Throm@HQDev.3Mail.3Com.COM, porschephiles@bcm.tmc.edu
+Subject: Re:  914 vs 912 vs 911
+
+Mike,
+
+>I thought I'd look at getting a 914 or posssbily a 911/12.
+
+All are good  choices. Actually, any Porsche is better than no Porsche....
+
+>How much does it cost to maintain a 911/12 per year?  
+
+It varies, and depends on how much work you do yourself. Tuneups run about $500 
+each or so, and there are people who claim that you really need one a year, 
+perferably two. Oil changes are about $90 for 911's and about $50 for 912/914.
+You need of those every 3000 miles or so. If you do it yourself, tuneups are
+about $200, and oil changes are $30 or $12. Maintenence varies -- I'm
+into my 914 for about $2600 over 3 years, and have another $4000 or so to
+go if I'm gonna do the tranny and engine soon; my 911 has cost me a tuneup
+and a $700 repair over the last year. Who knows?
+
+>What are the differences in a 911 and a 912.  I know the 912 has a 4 cylinder 
+>engine, but is that the only difference?  Also, what years were the 912's made?
+
+The 912 is a 911 with a 356 engine; the 912E is a 911 with a 914 engine.
+912's were made from '65 through '70 (I think), and 912E's were only in
+'76. Makeing them somewhat rare, and hence a pretty good investment.
+
+>I'm assuming the the cost to maintain a 914 is about the same as my type
+>III or a little more.  
+
+That's a good assumption, but unfortunately invalid. Type IV engine parts
+apply, and are more expensive than Type III by 50 to 200%. And the body
+and mechnicals exclusive of the engine are all Porsche.
+
+>Last, but not least, what are the differences in the following designations.
+
+>        911E
+>        911S
+>        911T (I'm prety sure this one means Targa)
+>        911SC
+
+And don't forget the 911L!! Basicly, it's like this:
+
+	911   - basic car
+	911S  - sport model with better engine, brakes, etc.
+	911T  - touring model. Cheap model. Does not mean Targa.
+	911L  - luxury model. Smaller wheels, taller tires, softer
+		suspension. 928 before its time, kinda.
+	911E  - E is for the long German word meaning "fuel injected"
+		It's the L with some of the S stuff, basicly.
+	911SC - the 911 from '78 - '83. One model only. No more of
+		the previous models.
+	Carrera - '83 - '89 model 911.
+	Carrera 2/4 - '90 and up model.
+
+For more details, see "The 911 Performance Handbook" by Bruce Anderson,
+or "The Porsche 911 and 912: A Restorer's Guide to Authenticity" by Brett
+Johnson.  The Johnson book only covers up to '73, but is invaluable for the 
+early models.
+
+Stan
+
+From bowers@elxsi.dfrf.nasa.gov  Tue Aug 14 15:01:16 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09318); Tue, 14 Aug 90 15:01:16 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA11134); Tue, 14 Aug 90 15:04:11 CDT
+Received: from elxsi.dfrf.nasa.gov by ames.arc.nasa.gov (5.64/1.2); Tue, 14 Aug 90 13:04:50 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA00933; Tue, 14 Aug 90 12:57:35 PDT
+Date: Tue, 14 Aug 90 12:57:35 PDT
+Message-Id: <9008141957.AA00933@elxsi.dfrf.nasa.gov>
+From: bowers@elxswi.dfrf.nasa.gov
+Subject: Re: 914 vs 912 vs 911...
+To: porschephiles@bcm.tmc.edu
+
+Thought I'd add to the confusion here.
+ 
+>>Last, but not least, what are the differences in the following designations.
+ 
+>>        911E
+>>        911S
+>>        911T (I'm prety sure this one means Targa)
+>>        911SC
+ 
+>And don't forget the 911L!! Basicly, it's like this:
+ 
+>	911   - basic car
+>	911S  - sport model with better engine, brakes, etc.
+>	911T  - touring model. Cheap model. Does not mean Targa.
+>	911L  - luxury model. Smaller wheels, taller tires, softer
+>		suspension. 928 before its time, kinda.
+>	911E  - E is for the long German word meaning "fuel injected"
+>		It's the L with some of the S stuff, basicly.
+>	911SC - the 911 from '78 - '83. One model only. No more of
+>		the previous models.
+>	Carrera - '83 - '89 model 911.
+>	Carrera 2/4 - '90 and up model.
+ 
+Let's try this (by model year, not calendar year):
+ 
+1965                                   911
+1966     912                           911
+1967     912                           911       911S      911R
+1968     912                 911T      911L      911S
+1969     912                 911T      911E      911S
+1970                         911T      911       911S
+1971                         911T      911       911S
+1972                         911T      911       911S
+1973                         911T      911       911S      Carrera RS(R)
+ 
+After '73 the US market diverges from the Euro market and the engine
+designations and the trim levels get muddied up pretty badly, i.e. US S model
+the same as Euro plain model.  '74 Carrera RS gets same engine as Euro 911S
+but in trim US and Euro Carrera models are the same.  The 911SC finally gets
+things back together again.  Also of note is the US Turbo Carrera is the 911
+Turbo (930) in Europe.  Blame the marketing guys and the DOT, NHTSA and EPA.
+ 
+The early models start out with Solex carbs, but by '67 have switched to
+Webers for the S model.  The L model and the E model are the same except the L
+has carbs and the E uses injection (Bosch mechanical).  The engines on the 911
+line get bored out to 2.2 liter in 1970 and stroked to 2.4 liter (with a drop
+in compression ratio for emissions) in '72.  The '73 Carrera uses a 2.7 liter
+for the street (RS) and 2.8 liter for the track (RSR) though this is of _very_
+academic interest to most of us (prices in the $US 100k and up catagory).  In
+the US market R&T found the quickest of the early 911s to be the '70 911S
+model.  The 1/4 mile published of that car was about 14.8 sec at 92(?) mph.
+Of note also is that the '74 models got the 5 mph bumpers which caused a
+weight gain of about 500 pounds, coupled with the decrease in compression
+ratio resulted in great cars for driving around town, but not able to rev
+worth anything, IMHO.  Final commentary, I owned a 912 and it was the best car
+I ever drove.  120 mph top speeds and 32 mpg economy.  What more needs be
+said.
+ 
+Al Bowers
+ 
+
+From zursch%large.wpd@sgi.com  Tue Aug 14 16:09:14 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09827); Tue, 14 Aug 90 16:09:14 CDT
+Received: from RUTGERS.EDU by bcm.tmc.edu (AA12085); Tue, 14 Aug 90 16:12:09 CDT
+Received: from SGI.COM by rutgers.edu (5.59/SMI4.0/RU1.3/3.07) 
+	id AA09175; Tue, 14 Aug 90 17:12:36 EDT
+Received: from oni.sgi.com by sgi.sgi.com (5.52/900721.SGI)
+	for rutgers.edu!bcm!watson!bcm.tmc.edu!porschephiles id AA26240; Tue, 14 Aug 90 14:12:44 PDT
+Received: from whizzer.sgi.com by relay.sgi.com (5.52/900423.SGI)
+	for sgi.sgi.com!bcm.tmc.edu!porschephiles id AA25825; Tue, 14 Aug 90 14:12:42 PDT
+Received: from large.wpd.sgi.com by whizzer.wpd.sgi.com via SMTP (5.64-bind 1.5+ida/900410.SGI)
+	for @relay.sgi.com:bowers@elxswi.dfrf.nasa.gov id AA06147; Tue, 14 Aug 90 14:12:38 -0700
+Received: by large.wpd.sgi.com (5.52/900423.SGI)
+	for @whizzer.wpd.sgi.com:porschephiles@bcm.tmc.edu id AA12831; Tue, 14 Aug 90 14:11:05 PDT
+Date: Tue, 14 Aug 90 14:11:05 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+Message-Id: <9008142111.AA12831@large.wpd.sgi.com>
+To: bowers@elxswi.dfrf.nasa.gov, porschephiles@bcm.tmc.edu
+Subject: Re: 914 vs 912 vs 911...
+
+	From bowers@elxsi
+	Let's try this (by model year, not calendar year):
+	 
+	1965                                   911
+	1966     912                           911
+	1967     912                           911       911S      911R
+
+++++++
+
+
+Didn't they bring out the 912 in '65? I know they were still making C 
+and SC 356 models in '65, but I thought you could get a 912 then, too...
+
+But my main question in this mail is what is a 911R? I assume
+it's a racing model, but what were the specifics? 
+
+JZ
+
+
+"There's a way to live that's right for us.
+Like Mayans in Manhattan in Los Angeles."
+			      - Warren Zevon, 1989
+
+
+
+
+
+From stanh@wilkins.bcm.tmc.edu  Tue Aug 14 16:46:02 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA10498); Tue, 14 Aug 90 16:46:02 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA12796); Tue, 14 Aug 90 16:48:39 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA01016); Tue, 14 Aug 90 16:45:30 CDT
+Date: Tue, 14 Aug 90 16:45:30 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008142145.AA01016@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: bowers@elxswi.dfrf.nasa.gov, porschephiles@bcm.tmc.edu,
+        zursch%large.wpd@sgi.com
+Subject: Re: 914 vs 912 vs 911...
+
+>But my main question in this mail is what is a 911R? I assume
+>it's a racing model, but what were the specifics?
+
+The '67 R is where the idea to move the oil tank ahead of the rear
+axle (as on the '72 models) came from. Reduced polar moment of inertia,
+etc.  I don't recall anything else about it.
+
+Stan
+
+From bowers@elxsi.dfrf.nasa.gov  Tue Aug 14 17:33:07 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA11067); Tue, 14 Aug 90 17:33:07 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA13608); Tue, 14 Aug 90 17:36:02 CDT
+Received: from elxsi.dfrf.nasa.gov by ames.arc.nasa.gov (5.64/1.2); Tue, 14 Aug 90 15:36:10 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA00166; Tue, 14 Aug 90 15:25:04 PDT
+Date: Tue, 14 Aug 90 15:25:04 PDT
+Message-Id: <9008142225.AA00166@elxsi.dfrf.nasa.gov>
+From: bowers@elxswi.dfrf.nasa.gov
+Subject: 911R (was: Re: 914 vs 912 vs 911...)
+To: porschephiles@bcm.tmc.edu
+
+I guess I stirred up a tempest in a tea cup over the 911R designation.
+ 
+>	From bowers@elxsi
+>	Let's try this (by model year, not calendar year):
+	
+>	1965                                   911
+>	1966     912                           911
+>	1967     912                           911       911S      911R
+ 
+>Didn't they bring out the 912 in '65? I know they were still making C
+>and SC 356 models in '65, but I thought you could get a 912 then, too...
+ 
+Yeah, 356SC models were available for the '65 _model_ year.  The 912 came out
+in August '65 for the '66 model year.  So it is true that both were available
+in '65, but as far as model year designations go they were in different years.
+This is from memory, but I am pretty sure of it.  I will however check up on
+it tonight (If I don't trust me, should you?).
+ 
+>But my main question in this mail is what is a 911R? I assume
+>it's a racing model, but what were the specifics?
+ 
+...and...
+ 
+>The '67 R is where the idea to move the oil tank ahead of the rear
+>axle (as on the '72 models) came from. Reduced polar moment of inertia,
+>etc.  I don't recall anything else about it.
+ 
+There were 18 R models made (and 21 serial numbers assigned).  3 were retained
+by the factory for racing and the rest were customer cars.  All used plexi for
+all glazing except the windshield (which was a custom thin glass).  There was
+extensive use of aluminum and fiberglass in the body work.  The motor used 906
+cams and put out 210 bhp (can't remember if that was SAE, DIN, or something
+else again).  The cars weighed on the order of 1900 lbs.  The FIA took a dim
+view of them and said they would have to race as prototypes, not production
+cars (Porsche was up to its eyeballs working on the 917 prototypes, so nobody
+was available to put 911Rs together).  theye were the _HOTTEST_ 911 prior to
+the Carrera RS in '73.
+ 
+But as I said before, from memory.  I will try to remember to check for
+tommorrow.
+ 
+Al Bowers
+
+From HQDev.3Mail.3Com.COM!Michael_Throm@gw.3com.com  Tue Aug 14 17:40:22 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA11136); Tue, 14 Aug 90 17:40:22 CDT
+Received: from bridge2.ESD.3Com.COM by bcm.tmc.edu (AA13700); Tue, 14 Aug 90 17:43:16 CDT
+Received: from gw.3Com.COM by bridge2.ESD.3Com.COM with SMTP id AA03004
+  (5.64+/IDA-1.3.4-900803 for porschephiles@bcm.tmc.edu); Tue, 14 Aug 90 15:43:43 -0700
+Received: by gw.3Com.COM (5.61++/1.2)
+	id AA22331; Tue, 14 Aug 90 15:43:28 PDT
+Date: Tue, 14 Aug 90 03:42 PDT
+From: Michael_Throm@HQDev.3Mail.3Com.COM
+Subject: Re: 914 vs 912 vs 911...
+To: bowers@elxswi.dfrf.nasa.gov
+Cc: Michael_Throm@HQDev.3Mail.3Com.COM, porschephiles@bcm.tmc.edu
+Message-Id: <900814.153857@3Mail.3Com.COM>
+In-Reply-To: Message from {bowers@elxswi.dfrf.nasa.gov}... of 8-14-90
+
+
+  From all the information I've been getting from the net and from co-workers, 
+it looks like the '76 912 is best for what I'm looking for in terms of lower 
+cost to repair and still fun to drive.  I have seen one in the paper for $8000 
+with a sunroof.  What is a reasonable price range for a '76 in fairly good 
+shape?  Thanks for all those who sent information.
+
+                                    Mike 
+
+
+From auspex!auspex.com!brogers@uunet.UU.NET  Tue Aug 14 19:14:17 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA11912); Tue, 14 Aug 90 19:14:17 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA14476); Tue, 14 Aug 90 19:17:14 CDT
+Received: from auspex.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA21760; Tue, 14 Aug 90 20:17:54 -0400
+Date: Tue, 14 Aug 90 16:47:34 PDT
+From: brogers@auspex.com (Bob Rogers)
+Message-Id: <9008142347.AA01559@auspex.com>
+To: porschephiles@bcm.tmc.edu
+Subject: CV Joints
+
+
+In Stan's earlier message he mentions CV joints. My 1979 930 was
+is in the shop for some repairs so I called and asked them to
+check the CV joints. Today they called to tell me that 3 of them
+were bad and had to be replaced. They have 57,000 miles on them.
+
+So I second Stan's call to check them if you are at 50,000 miles
+plus.
+
+From stanh@wilkins.bcm.tmc.edu  Wed Aug 15 11:12:56 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13334); Wed, 15 Aug 90 11:12:56 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA01219); Wed, 15 Aug 90 11:16:38 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA01267); Wed, 15 Aug 90 11:12:48 CDT
+Date: Wed, 15 Aug 90 11:12:48 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008151612.AA01267@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: brogers@auspex.com, porschephiles@bcm.tmc.edu
+Subject: Re:  CV Joints
+
+My mechanic (now) suggests that I have them checked at 30,000 miles.
+After looking at the wreckage of the surviving CV's, I'm inclined to 
+agree. Most of the ball bearings were black. Several were pitted. All
+races were scored, some looked like they'd been carved on with a 
+sharp implement. Ugly. Real Ugly.
+
+Stan
+
+From metaware!metaware.com!rickh@uunet.UU.NET  Wed Aug 15 12:33:16 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13445); Wed, 15 Aug 90 12:33:16 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA02351); Wed, 15 Aug 90 12:36:56 CDT
+Received: from metaware.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA21930; Wed, 15 Aug 90 13:36:49 -0400
+Received: by metaware.com (4.0/SMI-4.0)
+	id AA01246; Wed, 15 Aug 90 10:14:02 PDT
+Date: Wed, 15 Aug 90 10:14:02 PDT
+From: rickh@metaware.com (Rick Herrick)
+Message-Id: <9008151714.AA01246@metaware.com>
+To: porschephiles@bcm.tmc.edu
+Subject: 914 transmission rebuid
+
+I'm the proud new father of a '75 914 2.0.  Overall, it's in good shape,
+except for the tranny.  I'd like to rebuild it myself, but I've never
+done something like this, and I have a couple of questions:
+
+	1) How long should this process take?  Keep in mind that I
+	   basically don't know what I'm doing, but I do have pretty
+	   good mechanical aptitude.
+
+	2) Where can I find a good manual on this procedure.  I currently
+	   have a Haynes' manual, which is pretty good, but it's not as
+	   explicit as I'd like it to be in the transmission section.
+
+	3) What types of tools do I need?  I know the basic stuff (ratchets,
+	   wrenches, &c.), but what about measuring devices, any chemicals?
+
+	4) Where is a good, cheap parts supplier?  I'd prefer to find a
+	   place in Santa Cruz, but the Bay Area is close enough.  Barring
+	   that, mail order would suffice.  I need a place that either
+	   stocks 914 tranny parts, or can get them fairly quickly.
+
+Thanx in advance.
+
+						-Rick
+
+From stanh@wilkins.bcm.tmc.edu  Wed Aug 15 13:21:19 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13586); Wed, 15 Aug 90 13:21:19 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA02954); Wed, 15 Aug 90 13:24:53 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA01375); Wed, 15 Aug 90 13:21:04 CDT
+Date: Wed, 15 Aug 90 13:21:04 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008151821.AA01375@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu, rickh@metaware.com
+Subject: Re:  914 transmission rebuid
+
+One comment: don't do it.
+
+You need a total of about $1200 in tools that are only good for this
+activity, and another $300 or so in general purpose machine-shop
+stuff that you can use for other related projects.
+
+You can order a precision rebuilt tranny for about $1395. You can get
+a less precisely rebuilt for $900. There is no percentage in doing it
+yourself.
+
+Stan
+
+From 0004056890@mcimail.com  Wed Aug 15 16:37:34 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA16463); Wed, 15 Aug 90 16:37:34 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA05761); Wed, 15 Aug 90 16:41:15 CDT
+Received: by NRI.NRI.Reston.VA.US id aa10453; 15 Aug 90 17:31 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab10367;
+          15 Aug 90 17:23 EDT
+Date: Wed, 15 Aug 90 16:11 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: re: 914 transmission
+Message-Id: <80900815211108/0004056890NB2EM@mcimail.com>
+
+I agree with Stan's recommendation: that you get someone else to doit.  The exception is, of course, when you are looking for an expensiveand busying hobby.  That's why they call it "disposable income," right?Kevin Gross
+
+From HQDev.3Mail.3Com.COM!Michael_Throm@gw.3com.com  Thu Aug 16 11:21:06 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18938); Thu, 16 Aug 90 11:21:06 CDT
+Received: from bridge2.ESD.3Com.COM by bcm.tmc.edu (AA11683); Thu, 16 Aug 90 11:24:45 CDT
+Received: from gw.3Com.COM by bridge2.ESD.3Com.COM with SMTP id AA19165
+  (5.64+/IDA-1.3.4-900803 for porschephiles@bcm.tmc.edu); Thu, 16 Aug 90 09:24:39 -0700
+Received: by gw.3Com.COM (5.61++/1.2)
+	id AA17693; Thu, 16 Aug 90 09:24:33 PDT
+Date: Wed, 15 Aug 90 21:23 PDT
+From: Michael_Throm@HQDev.3Mail.3Com.COM
+Subject: test
+To: porschephiles@bcm.tmc.edu
+Message-Id: <900816.092250@3Mail.3Com.COM>
+
+
+
+    Testing if my message echos back to me.  We have had changes in our 
+    local net.   No response required.   /Mike
+
+From VitaM6!marciano@uunet.UU.NET  Thu Aug 16 12:20:58 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA19425); Thu, 16 Aug 90 12:20:58 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA12305); Thu, 16 Aug 90 12:24:39 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA04297; Thu, 16 Aug 90 13:24:35 -0400
+Message-Id: <9008161724.AA04297@uunet.uu.net>
+Date: Thu, 16 Aug 90 10:13:10 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: gruppe C
+
+friends,
+just read in autoweek that Porsche will not have factory support for Group
+C anymore.  (starting now or next year?)  autoweek speculated that some
+European teams might come to run imsa since turbos will still be legal
+here.
+
+BTW, mercedes is toying with the idea of bringing the silver arrows
+here next year.  that would be boss.
+
+anyone going to the group c race in canada in sept?
+
+also, a great article on the can-am series of days gone by.  real nostalgic
+stuff.  i remember going to laguna seca back in the very early 80's to see
+them run.  now that was racing... for race fans.  none of this high society
+thing where it's chic to be seen at a race.  (esp. cart,  the _month_ of indy,
+come on.  i can handle a week, maybe 2, but a month?)
+
+i really wish people wouldn't show up all dressed up, i.e., women in fur coats
+in high heels with their "drowned rats" called dogs.  come on!!!! how can you
+get to the great viewing placing in heels!!!
+
+just blowing steam.
+/marciano
+
+From svedberg@cs.umn.edu  Thu Aug 16 12:30:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA19483); Thu, 16 Aug 90 12:30:33 CDT
+Received: from cs.umn.edu by bcm.tmc.edu (AA12399); Thu, 16 Aug 90 12:34:13 CDT
+Received: by cs.umn.edu (5.59/1.14)
+	id AA17577; Thu, 16 Aug 90 12:34:32 CDT
+From: "Eric J. Svedberg" <svedberg@cs.umn.edu>
+Message-Id: <9008161734.AA17577@cs.umn.edu>
+Subject: Buying a Porsche
+To: porschephiles@bcm.tmc.edu
+Date: Thu, 16 Aug 90 12:34:30 CDT
+X-Mailer: ELM [version 2.3 PL4]
+
+   I've been considering buying a Porsche this fall.  I like 914's a lot and
+I buy cars in the 2000-3000 dollar range.  I usually look for a car in a state
+that doesn't salt the highways (I live in Minnesota.)  But, from reading about
+all these repairs and such, I think that I'll have to wait until I can afford
+a $10,000 car and up-keep for the repairs.  I'm not into racing, but I like
+Fast little cars.  I've heard that the 914 has a very responsive steering
+linkage, which results in high amounts of wear.  Can you guys suggest anything
+for a would-be Porsche owner who can't afford much?
+
+eric
+-- 
+Eric J. Svedberg - University of Minnesota Computer Science System Staff
+svedberg@cs.umn.edu - !rutgers!umn-cs!svedberg
+
+From muenchen@ihlpm.att.com  Thu Aug 16 13:24:48 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA19771); Thu, 16 Aug 90 13:24:48 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA13177); Thu, 16 Aug 90 13:28:29 CDT
+Message-Id: <9008161828.AA13177@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Thu, 16 Aug 90 13:15 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 713 7181)
+To: porschephiles@bcm.tmc.edu
+Subject: First, no Gruppe C, then CART?
+
+>>  Marciano Pitargue commented:
+>>  just read in autoweek that Porsche will not have factory support for Group
+>>  C anymore.  (starting now or next year?)  autoweek speculated that some
+>>  European teams might come to run imsa since turbos will still be legal
+>>  here.
+
+	And the latest rumors that I had heard (a couple of weeks ago) 
+was that Porsche was pulling out of CART, too.  Anyone have newer info?
+
+		Robert
+
+		Robert Duncan
+		AT&T Bell Labs, Naperville, IL
+		(708) 713-7181	    robert_l_duncan@ihlpm.att.com
+
+From 0004056890@mcimail.com  Thu Aug 16 15:25:12 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA20574); Thu, 16 Aug 90 15:25:12 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA14660); Thu, 16 Aug 90 15:28:54 CDT
+Received: by NRI.NRI.Reston.VA.US id aa09380; 16 Aug 90 16:21 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae09332;
+          16 Aug 90 16:17 EDT
+Date: Thu, 16 Aug 90 15:18 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: RE: Buying a Porsche
+Message-Id: <72900816201827/0004056890NB3EM@mcimail.com>
+
+Eric -There are a couple of books on buying used Porsches, and I wouldrecomme
+nd them to you.  They can be had from any of the better distributers who specialize in car books.  There are also books which go into a heck ofa lot of obscure detail, and they're terrific for concours restoration but probably inappropriate to your current needs.Salt is far from the only thing you have to fear.  Corrosion is a nastything and can appear in all sorts of unexpected places.  F'rinstance,many older 914's need their C pillars replaced, because (if memory serves)they trap water from within and rust out.  (The C pillar is the trapeziodal member rising from above engine and supporting the roof.)I have an article in front of my nose by Bruce Anderson: "Buying a Used911." It appeared in Excellence some time ago, but the footer omits the year. I can mail it to you if you give me an address.  The article also goesinto 914 and 914/6 concerns.The 914's are a lot of fun to own, autocross, and race.  How m
+
+uch youspend depends on how well you evaluate the car at purchase.  An ounce ofprevention  is worth a bound of Bondo.  Buy a Spot-Rot and use it.  Get a competentPorsche mechaninc to evaluate your potential purchase.  Buy fromsomebody within an easy travel distance to you; don't buy long distance.  Then get out and join the PCA or SCCA and have a blast! Kevin Gross 
+
+From james@visual2.tamu.edu  Thu Aug 16 17:04:41 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA21435); Thu, 16 Aug 90 17:04:41 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA16251); Thu, 16 Aug 90 17:08:19 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA28326); Thu, 16 Aug 90 17:08:55 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA14202; Thu, 16 Aug 90 17:10:04 GMT-0600
+Date: Thu, 16 Aug 90 17:10:04 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008162310.AA14202@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: 944s don't like racoons...
+
+
+Well, somebody else can make a pretty story about a poor little
+racoon and a poor little 944 driver.  I don't have the time but
+I just wanted everybody to emphathise with the situation...
+
+Late night driving from San Antonio to College Station.  Stay
+in a hotel or just go home...  Oh what the heck, let's keep going.
+Shadows of critters in the road.  Jam on the breaks.  But to
+no avail...  We're ok, the racoon's not.  But what's that 
+
+horrible vibration coming from under the hood?  And why does
+the shaking begin before the engine is running?  Could it be
+another fan???  But how?  How could the huge animal jump up
+into my engine and eat my fan if there's a nice protective
+shield under the car?  Oh, it made a big hole in that too?
+And in the heat of the Texas summer, I'm left with a one
+bladed cooling fan and a cracked fan housing...  I thought
+racoons were smart.  Poor little thing.  Darn it, it wasn't
+my fault.  These things happen all the time.  I was the
+only car on the road at 4 in the morning and there's only
+two lights on the car.  Who says there's a solid object
+between them?
+
+Anybody know how to get the racoon out of my engine?  Actually
+there's no signs of one there.  But does anybody know
+how to take out the fan housing and replace the fan and
+the cost of the housing?  The fan is $195...  
+
+We're talking about an 84 944.
+
+James with a red *hot* car.
+
+
+From VitaM6!marciano@uunet.UU.NET  Thu Aug 16 17:33:36 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA21615); Thu, 16 Aug 90 17:33:36 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA16566); Thu, 16 Aug 90 17:37:18 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA22563; Thu, 16 Aug 90 18:37:14 -0400
+Message-Id: <9008162237.AA22563@uunet.uu.net>
+Date: Thu, 16 Aug 90 15:21:09 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Porsche and CART
+
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 713 7181) writes:
+
+>	And the latest rumors that I had heard (a couple of weeks ago) 
+>was that Porsche was pulling out of CART, too.  Anyone have newer info?
+
+gee, it wouldn't surprise me.  get back into endurance racing damn it!!!
+that's where Porsche belongs.  what's with this f1 and cart thing.
+the company's too small to have their hands in everything.
+
+just my opinion.  now back to regular scehduled programming. ;-)
+
+/marciano
+
+From 0004056890@mcimail.com  Thu Aug 16 21:58:11 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA22466); Thu, 16 Aug 90 21:58:11 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA17685); Thu, 16 Aug 90 22:01:52 CDT
+Received: by NRI.NRI.Reston.VA.US id aa13625; 16 Aug 90 22:54 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab13580;
+          16 Aug 90 22:45 EDT
+Date: Thu, 16 Aug 90 21:40 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: re: Removing racoons from 944's
+Message-Id: <02900817024020/0004056890NB4EM@mcimail.com>
+
+James Saxon -
+
+You'll need Porsche special tool 9209 to remove racoons from all
+normally-aspirated engines.  There's a different tool for the turbo's because of
+the risk of fur contamination of the turbo's centre bearing...
+
+Actually, the removal of the fan doesn't look terribly hard.  The workshop
+manual says to remove three bolts top and bottom.  And the Haynes manual lists
+about seven steps - which is about the average decompression ratio between the
+factory manual and reality.
+
+I'll quote you from the updated Haynes manual, having yet to do a fan myself.  
+Despite claims to the contrary, the manual is almost 100% focused on the early
+944's, with zip on the S and S2, and asymptotically zip on the Turbo and Turbo
+S.  All to your advantage.
+
+1. Disconnect the negative cable from the battery.
+
+2. Remove the bracket between the air cleaner housing and the upper raditor
+support.  [Illustration shows two bolts on the cleaner, two nuts on the
+radiator.]
+
+3. In the engine compartment, cut the wiring harness straps [tie-wraps] attached
+to the fan shroud [the piece of metal with a sticker on it right behind the
+header panel].
+
+4. Remove the three bolts retaining the fan shroud assembly to the top of the
+upper radiator support.  [Illustration: just beneath the headlight side-to-side
+linkage.]
+
+5. From under the engine compartment, unplug the fan motor connector adn
+disconnect the harness from the shroud, cutting any plastic retaining straps
+[more tie-wraps].  [Illustration shows hand yanking plug from fan motor in
+centre of the fan assembly, popping wire clips.]
+
+6. Remove the three bolts [these on the bottom, again from underneath] and lower
+the fan assembly from the vehicle.  [Suggestion: have a friend hold it from
+above during this last step.  Dental work is so expensive.]
+
+Hope this helps.  I don't know whether Porsche sells single fans for this
+assembly.  If not, you might try PAR or Kempton Bros. for the needed single fan.
+ They might have a corresponding half from a junker.
+
+Kevin Gross
+
+From tom@mims-iris.waterloo.edu  Fri Aug 17 07:52:43 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA22966); Fri, 17 Aug 90 07:52:43 CDT
+Received: from mims-iris.waterloo.edu by bcm.tmc.edu (AA18619); Fri, 17 Aug 90 07:56:05 CDT
+Received: by mims-iris.waterloo.edu
+	id <AA10163>; Fri, 17 Aug 90 11:44:32 GMT
+Date: Fri, 17 Aug 90 11:44:32 GMT
+From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+Message-Id: <9008171144.AA10163@mims-iris.waterloo.edu>
+X-Mailer: Mail User's Shell (6.4 2/14/89)
+To: porschephiles@bcm.tmc.edu (Porschephiles mailing list)
+Subject: Re: Porsche and CART
+
+Marciano Pitargue wrote:
+>> And the latest rumors that I had heard (a couple of weeks ago) 
+>> was that Porsche was pulling out of CART, too.  Anyone have newer info?
+
+> gee, it wouldn't surprise me.  get back into endurance racing damn it!!!
+> that's where Porsche belongs.  what's with this f1 and cart thing.
+> the company's too small to have their hands in everything.
+
+Well, Porsche is only entering F1 as an engine supplier.  And guess what --
+by having someone *buy* their 3.5L atmo F1 engine, they can finance part
+of the development cost of their WSC endurance car, which uses, let's see,
+oh, it's a 3.5L atmo engine.  :)  No, F1 won't be a strain on Porsche's
+resources.
+
+As to CART -- well, the year has been disastrous, but the team has yet to
+accomplish its stated goals of winning the Indy 500 and the PPG cup.  The
+morale on the team is low, byt at least the people on the team seem to think
+that they're still running a March-Porsche next year.
+
+[ \tom haapanen --- university of waterloo --- tom@mims-iris.waterloo.edu ]
+[ "i don't even know what street canada is on"               -- al capone ]
+
+From fwk@homxc.att.com  Fri Aug 17 12:24:22 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24533); Fri, 17 Aug 90 12:24:22 CDT
+Received: from WILKINS.BCM.TMC.EDU by bcm.tmc.edu (AA22082); Fri, 17 Aug 90 12:27:57 CDT
+Received: from att-in.att.com by wilkins.bcm.tmc.edu (AA24528); Fri, 17 Aug 90 12:24:02 CDT
+Message-Id: <9008171724.AA24528@wilkins.bcm.tmc.edu>
+From: fwk@homxc.att.com
+Date: Fri, 17 Aug 90 13:05 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 201 949 6348)
+To: wilkins.bcm.tmc.edu!bcm.tmc.edu!porschephiles@att.UUCP,
+        wilkins.bcm.tmc.edu!metaware.com!rickh@att.UUCP,
+        Stan Hanks <wilkins.bcm.tmc.edu!stanh@att.UUCP>
+Subject: Re:  914 transmission rebuid
+
+	One comment: don't do it.
+	
+	You need a total of about $1200 in tools that are only good for this
+	activity, and another $300 or so in general purpose machine-shop
+	stuff that you can use for other related projects.
+	
+	
+I habe rebuilt several 901 gearboxes with regular workshop tools,
+and with reasonable results. If the gearbox has the classic intermediate
+plate bearing noises, or perhaps some mediocre synchros, it is quite
+possible to rebuild it with a reasonable general purpose tool set
+and some ingenuity. You will need to do the operations calling for a press
+with a brass drift and a hammer, (unless you have a press or are looking
+for an excuse to buy one), and you will need to be careful not to do
+any hammer and drift work "through" a bearing you want to reuse.
+Mark the position of the shift forks on the shift rods for re-assembly
+without the Porsche special tool, assuming they are aligned correctly
+to begin with. You can replace the synchros themselves, but not the portion
+pressed onto the gear set without the special tool, so the degree of
+wear (or non-functionality) may be an issue. I'm not sure I remember
+all of the tricks (the last one I did was perhaps 10 years ago),
+but most of them are intuitive.
+
+If the condition of the gearbox is worse than that described above,
+many of the above assumptions will not be true, and a suitable shop
+is probably the better part of valor. Certianly that is true if any
+ring and pinion work is required other than perhaps the ring gear
+carrier bearings.
+
+Another alternative if you really want to try it yourself (or you are
+really cheap, like me), is to find others in your area (through the
+Porsche club for example) who have some or all of the special tools. I think
+I could lay my hands on most of the factory tools or homemade equivalents
+for a 901 gearbox (now that I sold my cars which had 901s) in the
+central NJ area. By this point there is a lot of knowledge on the 901
+gearbox (and the cars in general) in the Porsche club, so if you try it
+and get stuck, you should be able to get advice and perhaps help.
+Good luck, whichever way you go.
+
+Frank Kerfoot
+...!att!homxc!fwk
+
+
+From weltyc@turing.cs.rpi.edu  Fri Aug 17 13:33:01 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24712); Fri, 17 Aug 90 13:33:01 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA22906); Fri, 17 Aug 90 13:36:41 CDT
+Date: Fri, 17 Aug 90 14:33:53 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA03428; Fri, 17 Aug 90 14:33:53 EDT
+Message-Id: <9008171833.AA03428@turing.cs.rpi.edu>
+To: porschephiles@bcm.tmc.edu
+In-Reply-To: fwk@homxc.att.com's message of Fri, 17 Aug 90 13:05 EDT
+
+<9008171724.AA24528@wilkins.bcm.tmc.edu>
+Subject: transmission rebuid
+
+
+
+I would agree with Frank, and disagree with Stan.  If you're a
+reasonable mechanic, you can rebuild a transmission.  Here are some
+tips, which I actually got from Karl Hens (who is also on this list
+but currently in California), as we rebuilt his transmission. Most of
+this he learned while working as a factory mechanic for Mercedes in
+Stutgart. Some of the information is a little scanty, but I don't have
+time to even write this... 
+
+There are some very expensive special tools for adjusting the shift
+forks. The fact is, however, that (at least for 901 and 915
+transmissions - both of which I have rebuilt) you will not need them
+if you do it right.  Both the factory
+manual and the Haynes manual tell you during the disassembly
+to loosen and remove the shift fork bolts and washers.
+If you do that you will need the expensive special tool for later
+adjustment. You can keep all shift fork bolts tight and
+remove the shaft assemblies (together with the shift forks and rods)
+from the housing without ever separating the shift forks from the
+shift rods.  Once out of the housing, your shift forks with rods will
+fall off and spearate, and you can disassemble the transmission
+shafts.  When you reassemble your transmission, you will have to
+simultaneously insert the two assembled transmission shafts and the
+two shift forks and rods into the housing. You can do this by getting
+help from someone (it takes four hands).
+Therefore, don't loosen any shift fork bolts
+during the disassembly (they are the bolts that clamp the shift fork
+in position on the shift rods!).  
+
+Synchros are easy to butcher though.  It's sometimes better to just buy
+a whole new gear set with the synchro ring already installed.
+
+The main tool you can't do without is a press.  If you don't have
+access to a press you can't do it.  
+
+Also when tightening the nut on the main shaft, rather than getting
+the special tool that holds the shaft, you can manually engage one of
+the forward gears and reverse at the same time, which locks the
+shafts, allowing you to put a good amount of torque on that nut. 
+
+Also, don't expect to do it quickly if it's your first time.  Use the
+first weekend to take the tranny apart.  Clean and inspect it.
+Determine what needs to be replaced (Only replace what needs to be
+replaced - be safe, but don't go nuts replacing everything). Order the
+new parts on Monday.  Then use the next couple weekends to finish.
+The point is not to order anything until you've pulled it apart, you
+save yourself some shipping costs since there will *always* be
+something you notice once it's apart.  The other point is don't be in
+a rush.  Take your time or you'll just be sorry.  It also helps to
+have someone around who has done it before who's willing to give you
+advice.  Most PCA regions have a technical committee that love to help
+people out.  
+
+Have fun...
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+
+From welty@lewis.crd.ge.com  Fri Aug 17 13:36:34 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24744); Fri, 17 Aug 90 13:36:34 CDT
+Received: from CRDGW1.GE.COM by bcm.tmc.edu (AA22967); Fri, 17 Aug 90 13:40:11 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA26793; Fri, 17 Aug 90 12:39:38 EDT
+Date: Fri, 17 Aug 90 12:50 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Re: Porsche and CART
+To: Tom Haapanen <tom@mims-iris.waterloo.edu>
+Cc: Porschephiles mailing list <porschephiles@bcm.tmc.edu>
+In-Reply-To: <9008171144.AA10163@mims-iris.waterloo.edu>
+Message-Id: <19900817165015.4.WELTY@lewis.crd.ge.com>
+
+    From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+
+    As to CART -- well, the year has been disastrous, but the team has yet to
+    accomplish its stated goals of winning the Indy 500 and the PPG cup.  The
+    morale on the team is low, byt at least the people on the team seem to think
+    that they're still running a March-Porsche next year.
+
+if Alfa's experience with the March is any indication, Porsche might be
+well off to consider following Alfa's lead, and purchase a Lola or
+two.
+
+apparently the 1990 chassis that March built for Alfa truly sucked.
+
+richard
+
+From min@Kodak.COM  Fri Aug 17 14:12:06 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24798); Fri, 17 Aug 90 14:12:06 CDT
+Received: from kodak.com by bcm.tmc.edu (AA23361); Fri, 17 Aug 90 14:15:47 CDT
+Received: from acadia.kodak.com by Kodak.COM (5.61+/2.1-Eastman Kodak)
+	id AA07881; Fri, 17 Aug 90 15:17:12 -0400
+Reply-To: min@Kodak.COM
+Received: from earth.Kodak.COM by acadia.Kodak.COM (4.0/SMI-4.0)
+	id AA19045; Fri, 17 Aug 90 15:16:43 EDT
+Date: Fri, 17 Aug 90 15:16:43 EDT
+From: min@Kodak.COM (mark niedzielski)
+Message-Id: <9008171916.AA19045@acadia.Kodak.COM>
+To: welty@lewis.crd.ge.com
+Subject: Re: Porsche and CART
+Cc: porschephiles@bcm.tmc.edu
+
+)From welty@lewis.crd.ge.com Fri Aug 17 14:50:04 1990
+)    From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+)    As to CART -- well, the year has been disastrous, but the team has yet to
+)    accomplish its stated goals of winning the Indy 500 and the PPG cup.  The
+)    morale on the team is low, byt at least the people on the team seem to think
+)    that they're still running a March-Porsche next year.
+)
+)if Alfa's experience with the March is any indication, Porsche might be
+)well off to consider following Alfa's lead, and purchase a Lola or
+)two.
+)
+)apparently the 1990 chassis that March built for Alfa truly sucked.
+
+according to the aug. 13th issue of autoweek, March and Alfa no longer
+have any association related to CART.
+
+i understand that Porsche's March was built to Porsche's specs and
+mostly designed by Porsche.  the result is supposed to be quite different
+from the March used by Alfa (and others).  Porsche's singlemost source of
+problems this year (esp. the early part of the season) were related to
+heat from the forward mounted turbos (a feature unique to Porsche).
+
+may the rest of the season (and next?) be more successful.
+
+mark
+
+
+From james@visual2.tamu.edu  Fri Aug 17 15:59:55 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24997); Fri, 17 Aug 90 15:59:55 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA24611); Fri, 17 Aug 90 16:03:36 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA17445); Fri, 17 Aug 90 16:04:11 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA15065; Fri, 17 Aug 90 16:05:17 GMT-0600
+Date: Fri, 17 Aug 90 16:05:17 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008172205.AA15065@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Racoons and insurance adjusters...
+
+
+Hey everybody, it appears that as long as the animal was alive before
+you hit it, it's covered by comprehensive insurance!  But how
+do I explain that the racoon, or some part of it managed to fly up 
+
+through the bottom shield, ripping a hole, eat my fan blade, fortunately
+only one, and then vanish completely.  Maybe I'll find some evidence
+on sitting on the shield.  Secondly, how does one get an estimate for
+car insurance from a car mechanic???  They always underestimate.  The
+body shops always overestimate...  hmm..
+
+I think it's better to just avoid little animals in the road.  Though
+I'm glad that when I jammed on the breaks the car slowed in a perfectly
+straight line.  Just the way it should.  
+
+
+James
+
+
+From fwk@homxc.att.com  Fri Aug 17 17:06:18 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25141); Fri, 17 Aug 90 17:06:18 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA25453); Fri, 17 Aug 90 17:09:58 CDT
+Received: from att-in.att.com by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA11203; Fri, 17 Aug 90 18:07:09 EDT
+Message-Id: <9008172207.AA11203@turing.cs.rpi.edu>
+From: fwk@homxc.att.com
+Date: Fri, 17 Aug 90 17:49 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 201 949 6348)
+To: turing.cs.rpi.edu!bcm.tmc.edu!porschephiles@att.UUCP,
+        Chris Welty <turing.cs.rpi.edu!weltyc@att.UUCP>
+Subject: 901 Gearbox Rebuilds
+
+	There are some very expensive special tools for adjusting the shift
+	forks. The fact is, however, that (at least for 901 and 915
+	transmissions - both of which I have rebuilt) you will not need them
+	if you do it right.  Both the factory
+	manual and the Haynes manual tell you during the disassembly
+	to loosen and remove the shift fork bolts and washers.
+	If you do that you will need the expensive special tool for later
+	adjustment. You can keep all shift fork bolts tight and
+	remove the shaft assemblies (together with the shift forks and rods)
+	from the housing without ever separating the shift forks from the
+	shift rods.  Once out of the housing, your shift forks with rods will
+
+You can also carefully scribe the location of the forks on the shafts,
+both longitudinally and axially, and then loosen the bolts, using the
+scribe marks on reassembly. Actually, if you plan to do this more than
+once, you can buy an old 914 gearbox case (frequently very cheap at
+a swap meet) and cut the sides away with a band saw to make a fork
+alignment tool which is in my opinion nicer than the factory tool.
+We did this locally in JSR, but not until after I did several 901s
+by the "scribe" method.
+	
+	The main tool you can't do without is a press.  If you don't have
+	access to a press you can't do it.  
+	
+I have done them with only a brass drift and a hammer. You have to pound the
+bearings off of the two shafts via the outer races, thus necessitating
+their replacement, but this is frequently planned as part of the job
+anyway. Reassembly can be done with only pounding on the inner race
+where it presses onto the shaft, thus not damaging the bearing.
+The transmissions done this way were fine for many thousands of miles
+(I haven't kept track of them recently). It is certainly much easier and
+more elegant with a press, though.
+
+Frank Kerfoot
+...!att!homxc!fwk
+
+
+From tynor@prism.gatech.edu  Sun Aug 19 10:38:09 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA27992); Sun, 19 Aug 90 10:38:09 CDT
+Received: from hydra.gatech.edu by bcm.tmc.edu (AA04301); Sun, 19 Aug 90 10:41:50 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA09570; Sun, 19 Aug 90 11:41:46 -0400
+Date: Sun, 19 Aug 90 11:41:46 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9008191541.AA09570@prism.gatech.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: 951 advice?
+
+Well I did it. I'm finally a Porsche owner (not just a Porschephile). About 6
+months ago, I decided that I 'needed' a Porsche. At that time, I really wasn't
+sure what kind of Porsche that would be (and indeed, waffled back and forth
+between air and water cooled several times). As it turns out, I made the
+'mistake' of driving a 944T and fell in lust. Despite the ridiculously high
+insurance rates, I made the plunge and bought an '87 - 45k miles. It has been
+very well maintained (and has had some recent (<5k miles) high $$ repairs just
+before going out of factory warrenty: new brake pads, shocks, exhaust system).
+
+So, are there any words of wisdom? (I've already mailed my application for the
+PCA - one of my main reasons for buying a Porsche was the PCA-sponsored driving
+schools and (maybe) autocrosses). 
+
+What kind of oil do you recommend? The previous owner used Castrol - are
+synthetic oils preferred?  How about turbo cool-down? I know the 951 continues
+to pump coolant through the turbo to help prevent thermal shock after engine
+shutdown, and the owner's manual does not recommend any special driving habits
+- how important is it to 'take it easy' for the last few minutes before
+shutdown?
+
+Also, the 951 suffers from the same lack of low-end torque as the normally
+aspirated 944s. Is it considered 'bad form' to rev the engine and slip the
+clutch to achieve better off-the-line performance (without that, I get a
+sinking feeling every time I pull out into traffic - that is until the turbo
+kicks in at about 20 mph)? For now, I'm hesitant to make a habit of this -
+don't want to cause premature death of my clutch... Are the Autothorithy /
+Hypertech chips a solution (and how much of a solution)?  Where can I find a
+review that tests and compares these chips (a back issue of Excellence or
+Panorama perhaps)? I talked to the service manager of one of the local dealers.
+His advice (unofficially, of course) was to install said chips as soon as the
+car goes out of warrenty. Anyone out there have any personal experiences?
+
+Now I guess I need a second car to drive when the Porsche is in the shop. Maybe
+a late 70's 911SC... (wish I could afford one!) Maybe a nice 2L 914...
+
+Steve
+
+BTW, there's a severe drawback to owning a 951. One gets very little sensation
+of speed on the highway. If I dont' pay careful attention to the speedometer, I
+find myself cruising quite comfortably at 90-100 mph. Thank god for the cruise
+control :-). Atlanta traffic cops are known for being somewhat leniant when it
+comes to speeds on the interstate (mean speed is about 72 in posted 55), but I
+have a feeling my guards red 951 is a ticket attractor... My insurance rates
+are high enough!
+
+From james@visual2.tamu.edu  Sun Aug 19 11:22:23 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28008); Sun, 19 Aug 90 11:22:23 CDT
+Received: from [128.194.15.2] by bcm.tmc.edu (AA04444); Sun, 19 Aug 90 11:26:06 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA03722); Sun, 19 Aug 90 11:26:41 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA21908; Sun, 19 Aug 90 11:27:44 GMT-0600
+Date: Sun, 19 Aug 90 11:27:44 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008191727.AA21908@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Tickets and Porsches
+
+
+Congratulations Steve on your new car.  Porsches are fun, expensive, and teach
+people the real meaning of "an ounce of prevention".  Your last note about
+tickets made me reflect upon the common myth that red sports cars get tickets
+more often than other cars...
+
+Maybe I'm a special case, but in the three years that I've had the car, I've
+never (knock on wood) gotten a ticket based upon my car or its color.  How do
+I know this?  Because my three tickets were for speeding in the early morning hours
+on long interstates by radar when it was dark.  That's why.
+I've been pulled over other times too but I've noticed a different attitude from
+the officers since I've been sitting in a sharp 944 rather than an old green Toyota.
+They're more polite.  Now, I've got long hair, I wear messy clothes occasionally,
+and can act quite strangely sometimes, yet, when a policeman is giving a ticket
+to a person who's driving a nicer car than he's ever been in, the tables seem to
+turn a little bit.  It's always, "Um, sir, did you know that you were speeding
+back there?" rather than (with my toyota) "YOU WERE SPEEDING!  S P E E D I N G,
+SPEEDING!"  I mean, I've never had an officer yell at me since getting my Porsche.
+It's like the officer is thinking, "well, I wonder which judge's kid this is."
+
+Now don't get me wrong, I'm not a reckless driver with a reckless attitude, or
+an spoiled bastard, I did buy the car myself.  But getting tickets and keeping
+insurance low is not just a matter of luck.  There's an art to it that goes beyond
+hiding behind trucks.  There's concern for others on the road, radar detectors,
+a healthy attitude about responsability, lawyers, politness, stealth driving,
+and also a little bit of luck.  
+
+
+Now that you have a 'respectable' car Steve, observe the difference in 
+
+your street presence, it's really weird.
+
+Oh, and that lawyer bit...  Let me just note that they can be extremely cost
+effective under the right circumstances.  Although I've had two rather
+hearty speeding tickets, with the help of lawyers, or the court directly,
+and a little plea bargaining or whatever, my insurance record is clean.
+Sure it cost me a little bit extra but nothing compared to the $900 my
+insurance would have gone up over the three years of having a single ticket.
+
+James Saxon
+
+From winter@apple.com  Sun Aug 19 14:22:01 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28045); Sun, 19 Aug 90 14:22:01 CDT
+Received: from apple.com by bcm.tmc.edu (AA04862); Sun, 19 Aug 90 14:25:37 CDT
+Received: by apple.com (5.61/25-eef)
+	id AA22094; Sun, 19 Aug 90 12:25:11 -0700
+	for porschephiles@bcm.tmc.edu
+Date: Sun, 19 Aug 90 12:25:11 -0700
+From: Patty Winter <winter@apple.com>
+Message-Id: <9008191925.AA22094@apple.com>
+To: tynor@prism.gatech.edu
+Subject: Re:  951 advice?
+Cc: porschephiles@bcm.tmc.edu
+
+
+
+
+Steve--
+
+When I bought my '86 951 about ten months ago, the salesman at the
+Porsche dealership (he used to be the service manager) told me to
+let the car idle for 2-3 minutes before turning it off. Sometimes
+I cheat on that if I've been driving really slowly before I arrive
+at my destination (such as along city streets), but otherwise I
+try to do it. Hey, it gives me time to hear the end of whatever
+Pink Floyd song I'm playing on the cassette, and reduces the feeling
+that I'm always rushing from car to meetings or whatever.
+
+As for lack of pickup power until the turbo kicks in--well, I guess
+that's a matter of personal preference. The first few weeks I had the
+car, I found myself attempting trickier maneuvers (such as pulling into
+traffic when another car was starting to get close) simply because I
+knew I could get out of close situations more easily than with my
+previous cars. Luckily, that attitude wore off pretty quickly. Now I
+try to judge situations the way I would with a less powerful car, so I
+don't cut things so close. It's great knowing, though, that the
+additional oommph is there if things get hairy inadvertantly.
+
+
+Patty
+
+***************************************************************************** 
+Patty Winter N6BIS                        INTERNET: winter@apple.com
+AMPR.ORG: [44.4.0.44]                     UUCP: {decwrl,nsc,sun}!apple!winter
+***************************************************************************** 
+
+From N025BQ@tamvm1.tamu.edu  Sun Aug 19 20:35:43 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28216); Sun, 19 Aug 90 20:35:43 CDT
+Received: from TAMVM1.TAMU.EDU by bcm.tmc.edu (AA10488); Sun, 19 Aug 90 20:39:24 CDT
+Message-Id: <9008200139.AA10488@bcm.tmc.edu>
+Received: from TAMVM1.TAMU.EDU by tamvm1.tamu.edu (IBM VM SMTP R1.2) with BSMTP id 9096; Sun, 19 Aug 90 20:39:35 CDT
+Received: from TAMVM1 (N025BQ) by TAMVM1.TAMU.EDU (Mailer R2.03B) with BSMTP id
+ 2615; Sun, 19 Aug 90 20:39:32 CDT
+Date:         Sun, 19 Aug 90 20:29:13 CDT
+From: "David K. Boyd" <N025BQ@tamvm1.tamu.edu>
+Subject:      Tickets turbos and clutches
+To: PORSCHEPHILES@bcm.tmc.edu
+
+Tickets first:
+
+Part of the change in attitude may be your age, James (for the rest of
+you, James and I know each other personally.)  I've noticed in the last
+few years that Johnny Law treats me a bit differently than he did when
+I was younger, and I was driving the same car for nearly 9 years so
+it wasn't a change in wheels, and the car is a sporty type.  It just
+seems that they have a bit more laid-back attitude toward us as we
+approach 25 or so than when we're closer to the teens.  I had never
+gotten a warning before this year, it had always been tickets if I
+were stopped, and I've gotten warnings for the same speeds that I'd
+previously been ticketed.
+
+Turbos:
+
+The car I'd had for nearly 9 years is turbocharged...1980 Mercury
+Capri (unfortunately I'm only a Porschephile...haven't made the big
+financial leap yet.)  I always ran more gently before shutdown, and
+let it idle for a while before switching it off unless I happened to
+be in a desperate hurry.  It paid off, there are VERY few cars left
+with that 2.3 turbo engine, mine has always given good service in
+return for good care.
+
+The coolant circulation after shutdown is a VERY good thing for the
+turbo, but it doesn't address one of the major issues.  If you're
+driving hard, the turbocharger is spinning at VERY VERY high rates,
+and when you switch off the engine the oil pressure drops to zero
+quickly.  Add these two conditions and you can just FEEL the money
+being sucked from your account for a new turbo bearing, and even if
+you're capable of doing the work yourself the parts bill will choke
+several horses.
+
+Clutches:
+
+Slipping the clutch for higher RPM is bad form, unless you have the
+bucks for the clutch replacement.  Stick to getting your jollies
+after you get off the line, it's a road racer not a drag racer.
+
+Enjoy your car, and rest assured that I (along with many others who
+have more taste and enthusiasm than cash) am terribly envious!
+
+David Boyd
+
+From 0004056890@mcimail.com  Mon Aug 20 01:40:25 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28544); Mon, 20 Aug 90 01:40:25 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA12836); Mon, 20 Aug 90 01:44:05 CDT
+Received: by NRI.NRI.Reston.VA.US id aa18774; 20 Aug 90 2:43 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa18738;
+          20 Aug 90 2:37 EDT
+Date: Mon, 20 Aug 90 01:34 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: Steve Tynor <tynor@prism.gatech.edu>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: 951 advice?
+Message-Id: <95900820063459/0004056890NB4EM@mcimail.com>
+
+Steve -
+
+Congrats on the purchase of the 951!  You even know its correct model number,
+which clearly places you among the cognoscenti.  I'll try to ante up my two bits
+worth on the several questions you asked.
+
+Regarding cool-down, this is always a good thing with any car, and an especially
+good thing with any turbo-charged car.  Take it easy on the off-ramp and into
+the parking lot, listen to the end of the song, and let it idle a bit.
+
+Regarding oil, I will give you such wisdom as I have received from several years
+attendance at PCA Zone 1 Tech Tactics, and from my readings.  As far as brands
+go, oil is oil.  Stick with a name-brand, like Castrol, Pennzoil, Quaker State,
+etc.  Stay away from K-Mart brand, and for that matter, any brand whose name
+sounds like that of a medieval Carpathian war lord.  Years ago, oil was indeed a
+subject which deserved and received a lot of consideration.  The current
+generation of multi-weight oils obviate all that.  By the way, do use a
+multi-weight oil.  Depending on where you live, either a 10W40 (my winter
+choice) or a 20W50.  I happen to use Castrol because the local Anne & Hope has
+sales on it often enough.
+
+There is no absolute need to use a synthetic oil in non-CIS turbo Porsches.  The
+CIS cars are the 924 turbo (931) and the 911 turbo (930), and they apparently do
+benefit from the extra overhead a synthetic gives.  (For that matter, it occurs
+to me that synthetics might help a 911 which tends to run hot.)  There are a lot
+of weird claims made about synthetics, like shear strength and so forth.  I'm
+not someone who can evaluate them, though.  I have a friend who owns an '86 951
+and has started using Mobil 1.  He sleeps better, but I don't think anything
+else has changed.
+
+Regarding low-end performance, you can do one of several things.  You can get a
+944S (like me).  Or you can buy a 911 Carrera, dang torquey things.  Or you
+might try the Autothority chips, which improve low-end performance as well as hp
+and torque.  The current version for the 951, version 2.5, seems to work very
+well.  Earlier versions, notably version 2.2, caused a number of head gasket
+failures.  (Or, as Autothority would have it, merely exacerbated problems with
+Porsche's head gasket technology.  To which end Autothority says they're working
+on an improved head gasket for our cars!)  Avoid any kit or design which
+includes drilling your car's recycling valve or shimming its waste gate.  These
+techniques, as well as some chip designs, ran roughshod over your DME's built-in
+safety features, like overboost protection.
+
+Don't waste you money on anyone's throttle cam.  Doesn't do a damn thing you
+can't do with your foot, and you already have feet.
+
+Finally, onto the subject of red cars.  In these days of instant-on radar, the
+best thing a "professional speeder" can do is avoid being obvious about it. 
+This involves several road-tested techniques of your truly's.  A red car jerking
+in and out the left lane, flashing his/her headlamps, driving 10-30 MPH faster
+than everyone else, and blaring Heino tapes is pure bear food.  You stick out
+like a sore thumb and you will be rewarded for it.  What can you do?  My
+suggestion is to be smooth, be polite, and use as much cover in the right lanes
+as possible.  Not looking like Charles Manson might help once you're stopped;
+but if the officer has you dead to rights at over a buck, then any nepotistic
+consideration due is the DA's problem, not his.
+
+Anecdote:  I drove from the Boston area to Watkins Glen last summer on my annual
+pilgrimage to that fine track.  I drive an ocean blue met car, didn't spend much
+time under 80 and did spend a bit of it above 100 through NY.  No prob.  Two
+friends who travelled the same route at about the same time, one red 951 and one
+red 911 Carrera, never saw much above 80 but saw plenty of constabulary action. 
+I made the mistake of travelling with them back from the Glen through NY, down
+to Lime Rock for an additional two days of pure heaven.  Boy, did they find
+cops!  Your mileage may vary, but I'll never buy a red car.
+
+Kevin Gross
+
+From timmins@sun.udel.edu  Mon Aug 20 07:23:35 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28635); Mon, 20 Aug 90 07:23:35 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA14906); Mon, 20 Aug 90 07:27:19 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA07662; Mon, 20 Aug 90 08:27:12 -0400
+Message-Id: <9008201227.AA07662@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Mon, 20 Aug 90 08:27:11 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: AutoThority Chips
+
+I saw some discussion of these in a previous note on 951s.  A few
+comments:
+
+They make the 951 run quite rich.
+
+They have phenomenal low end kick.
+
+They make a early 951 pretty much equal to the 951S top end, and a bit
+better low end, WITHOUT the boost mod (ask bart), which, having lunched
+a motor at the track, I feel isa the way to go.
+
+My recommendation would be to run them with boost on the street, w/o if
+you go to the track.  The boost mod is a 30 sec. operation (one bolt),
+but I would pump down the boost to .9 bar peak by drilling out the boost
+bolt to 7/32" (or better yet. it's metric equivalent).
+
+Anyone on the net interested in their products would be wise to let me
+know, I am a distributor and give a discount to PCA members. (sssshhhh,
+not officially)
+
+They have a 30 day "money back" guarantee, but expect to have your $
+tied up for a few MONTHS and many phone calls.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From VitaM6!marciano@uunet.UU.NET  Mon Aug 20 11:15:16 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA29304); Mon, 20 Aug 90 11:15:16 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA19142); Mon, 20 Aug 90 11:19:00 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA01279; Mon, 20 Aug 90 12:18:55 -0400
+Message-Id: <9008201618.AA01279@uunet.uu.net>
+Date: Mon, 20 Aug 90 09:07:16 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: congrats on 951!!!
+
+David K. Boyd <uunet!tamvm1.tamu.edu!N025BQ@vitam6> writes:
+
+>Enjoy your car, and rest assured that I (along with many others who
+>have more taste and enthusiasm than cash) am terribly envious!
+
+hallelujah!!!
+
+one of the envious,
+/marciano pitargue
+
+From rsy@iwtil.att.com  Tue Aug 21 08:41:42 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA02722); Tue, 21 Aug 90 08:41:42 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA29340); Tue, 21 Aug 90 08:45:25 CDT
+Message-Id: <9008211345.AA29340@bcm.tmc.edu>
+From: rsy@iwtil.att.com
+Date: Tue, 21 Aug 90 08:36 CDT
+Original-From: iwtil!rsy (R S Yen +1 708 979 7461)
+To: porschephiles@bcm.tmc.edu
+Subject: Re: AutoThority Chips
+
+Steve Timmins mentioned a previous discussion of AutoThority chips for 951s.
+Did anyone happen to save any of those notes?  Is "951" another designation
+for a 944T (excuse my ignorance!)?  I wasn't on the porschephile mailing list
+when that discussion first made the rounds and I'd be very interested in any
+information on this subject.  I have an '88 944T and I've been considering
+getting their chip (and possibly the boost mod), but am wondering if there
+are any side-effects/disadvantages to using their products.
+
+On an unrelated note, I was wondering if anyone could help me with a problem
+I occasionally see with my 944T.  It occurs when I first start the car after
+it's been sitting for awhile (it seems to be worse when it's hot & humid out).
+Immediately after I've started the car, it idles pretty roughly and sometimes
+the engine even dies.  After the engine has been running for a bit, things
+seem to be fine.  However, the manual says to not idle the engine, but to
+instead drive off slowly.  Well, when the car's in this condition, the engine
+will cut in and out if I drive off right away.  Anyone have any idea what this
+problem is?  Should I let the car idle for a bit despite what the manual says?
+This problem doesn't happen very often, but I'd like to figure out what it is.
+I use Mobil premium unleaded gas, if that matters any.  I'd appreciate any
+ideas or suggestions.  Thanks in advance,
+
+-- 
+Robert Yen
+att!iwtil!rsy
+AT&T Bell Labs
+Naperville, IL
+
+From N025BQ@tamvm1.tamu.edu  Tue Aug 21 09:15:08 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA02783); Tue, 21 Aug 90 09:15:08 CDT
+Received: from TAMVM1.TAMU.EDU by bcm.tmc.edu (AA29611); Tue, 21 Aug 90 09:18:53 CDT
+Message-Id: <9008211418.AA29611@bcm.tmc.edu>
+Received: from TAMVM1.TAMU.EDU by tamvm1.tamu.edu (IBM VM SMTP R1.2) with BSMTP id 9210; Tue, 21 Aug 90 09:19:06 CDT
+Received: from TAMVM1 (N025BQ) by TAMVM1.TAMU.EDU (Mailer R2.03B) with BSMTP id
+ 6871; Tue, 21 Aug 90 09:19:05 CDT
+Date:         Tue, 21 Aug 90 09:18:38 CDT
+From: "David K. Boyd" <N025BQ@tamvm1.tamu.edu>
+Subject:      Rough idle
+To: PORSCHEPHILES@bcm.tmc.edu
+
+It's not at all uncommon for fuel-injected engines to have a rough idle
+on hot-starts in warm weather.  For fuel-injected aircraft engines there
+is even a different starting procedure for hot-starts.
+
+Among the reasons is that the fuel runners heat up when the hot engine
+is just sitting, and this causes some of the fuel to vaporize.  Bubbles
+in the fuel don't behave like the liquid fuel, and the engine doesn't
+get the steady smooth flow of fuel it needs.  My Golf GT exhibits a mild
+form of this problem, but not enough to hamper driveability.  Is it
+possible that there is some system intended to counter the problem that
+isn't working on Robert's 944T?
+
+David Boyd
+
+From timmins@sun.udel.edu  Tue Aug 21 10:22:45 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA02825); Tue, 21 Aug 90 10:22:45 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA00619); Tue, 21 Aug 90 10:26:29 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA11159; Tue, 21 Aug 90 11:26:07 -0400
+Message-Id: <9008211526.AA11159@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Tue, 21 Aug 90 11:26:06 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Idle
+
+My car is now having this problem.  I am pretty sure it is the idle
+valve, tht octopus of a valve below number two intake runner, which the
+large hoses from the manifold go to.  It's function is to let in
+additional air, other than what goes by the bleeder screw and throttle
+plate to maintain idle at 850 RPM, more or less independant of load (ie
+with the A/C on.)
+
+There is one way to check it....uncrew and tighten the air valve one
+turn in either direction with the car idling (to make sure you know
+where you started).  The idle should peal (unscrew) or slow (screw) and
+then return to it's original level.  If it does not....it is something i
+n the idle circut.
+
+The air screw is the brass screw which goes down into the throttle
+plate, at the inlet to the intake manifold.
+
+Good Luck...ps, it could be in the wiring, but is more likely the valve.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From rsy@iwtil.att.com  Tue Aug 21 11:33:31 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03031); Tue, 21 Aug 90 11:33:31 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA01367); Tue, 21 Aug 90 11:37:15 CDT
+Message-Id: <9008211637.AA01367@bcm.tmc.edu>
+From: rsy@iwtil.att.com
+Date: Tue, 21 Aug 90 11:07 CDT
+Original-From: iwtil!rsy (R S Yen +1 708 979 7461)
+To: porschephiles@bcm.tmc.edu
+Subject: Re: Rough idle
+
+Just to clarify, my rough idle only occurs on cold-starts (e.g. when the
+car's been sitting for >8 hours).  Although rare, it's happened in the
+morning after the car's been in the garage overnight.  It's most common
+when I drive it home after it's been sitting in the afternoon sun in our
+parking lot at work.  Once the engine's hot, it starts/runs fine (like if
+I stop at a store for a few minutes and restart it).  Thanks again!
+
+--
+Robert Yen
+att!iwtil!rsy
+AT&T Bell Labs
+Naperville, IL
+
+From violet@mips.com  Tue Aug 21 11:41:58 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03040); Tue, 21 Aug 90 11:41:58 CDT
+Received: from MIPS.COM by bcm.tmc.edu (AA01529); Tue, 21 Aug 90 11:45:41 CDT
+Received: from gumby.mips.com by mips.com (5.61.15/2.7) id AA05919; 
+	Tue, 21 Aug 90 09:45:24 -0700 
+Received: by gumby.mips.com (5.52/4.7)
+	id AA05351; Tue, 21 Aug 90 09:43:00 PDT
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9008211643.AA05351@gumby.mips.com>
+Subject: Re: Rough idle
+To: rsy@iwtil.att.com
+Date: Tue, 21 Aug 90 9:42:59 PDT
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: <9008211637.AA01367@bcm.tmc.edu>; from "rsy@iwtil.att.com" at Aug 21, 90 11:07 am
+X-Mailer: ELM [version 2.2 PL16]
+
+My '89 951 has the same problem since 10,000K.  The first cold start generally
+stalls within 2 seconds, and the second try will not die, but is very
+rough.  I don't have any problem with warm starts.  The car is driven on
+weekends only, and it sits in the garage thru the week.  Is there this a
+common problem with 951's?
+
+> Just to clarify, my rough idle only occurs on cold-starts (e.g. when the
+> car's been sitting for >8 hours).  Although rare, it's happened in the
+> morning after the car's been in the garage overnight.  It's most common
+> when I drive it home after it's been sitting in the afternoon sun in our
+> parking lot at work.  Once the engine's hot, it starts/runs fine (like if
+> I stop at a store for a few minutes and restart it).  Thanks again!
+> 
+> --
+> Robert Yen
+> att!iwtil!rsy
+> AT&T Bell Labs
+> Naperville, IL
+> 
+
+
+From violet@mips.com  Tue Aug 21 15:13:07 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03202); Tue, 21 Aug 90 15:13:07 CDT
+Received: from MIPS.COM by bcm.tmc.edu (AA04091); Tue, 21 Aug 90 15:16:52 CDT
+Received: from gumby.mips.com by mips.com (5.61.15/2.7) id AA15198; 
+	Tue, 21 Aug 90 13:16:40 -0700 
+Received: by gumby.mips.com (5.52/4.7)
+	id AA01068; Tue, 21 Aug 90 13:14:13 PDT
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9008212014.AA01068@gumby.mips.com>
+Subject: Re: Rough idle
+To: violet@mips.com  (Violet K. Jen)
+Date: Tue, 21 Aug 90 13:14:11 PDT
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: <9008211643.AA05351@gumby.mips.com>; from "Violet K. Jen" at Aug 21, 90 9:42 am
+X-Mailer: ELM [version 2.2 PL16]
+
+> 
+> My '89 951 has the same problem since 10,000K.  The first cold start generally
+	 				      ^
+					      I don't mean that; can't do
+					      that much driving on weekends.
+Nevertheless, the cold start problem is there.  Someone mentioned fixing
+leaking air hose for this problem.  Is this something that we can check 
+by ourself?
+
+From kwatson@epad.mentor.com  Tue Aug 21 15:57:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03245); Tue, 21 Aug 90 15:57:33 CDT
+Received: from PORTAL.BCM.TMC.EDU by bcm.tmc.edu (AA04659); Tue, 21 Aug 90 16:01:17 CDT
+Received: from rutgers by bcm.uucp id aa21585; 21 Aug 90 16:33 EDT
+Received: from ogicse.UUCP by rutgers.edu (5.59/SMI4.0/RU1.3/3.07) with UUCP 
+	id AA25432; Tue, 21 Aug 90 15:21:35 EDT
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA24347; Tue, 21 Aug 90 12:11:41 -0700
+Received: by pdx.MENTOR.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA23820; Tue, 21 Aug 90 10:56:50 PDT
+Received: by epad.MENTOR.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA04072; Tue, 21 Aug 90 10:54:21 PDT
+Message-Id: <9008211754.AA04072@epad.MENTOR.COM>
+From: Keith Watson <kwatson@epad.mentor.com>
+Date: Tue, 21 Aug 90 10:54:18 PDT
+To: porschephiles@bcm.tmc.edu
+Subject: Robert Yen's rough starts
+
+Robert writes that his 944T runs rough right after he starts it.  I am sending
+this to the mailing list instead of just Robert because some one out there
+might know about this.
+
+I had the same problem with my 81 911 SC.  It's a fun car but that is a
+different story.  It started acting up by having a very rough idle right
+after it was started when the engine was cold.  After warming up for about
+30 seconds it would then run smooth again.  I took it to my mechanic and
+he found that (this is where my recollection of the details gets sketchy and I
+need someone elses help) a sensor (the cold start sensor?) needed to be reset
+or adjusted.  Once the sensor was adjusted the engine didn't idle rough any
+more.  I hope this helps.
+
+Keith Watson
+
+Mentor Graphics Corporation (Beaverton, OR)
+kwatson@pdx.MENTOR.COM
+...!ucbvax!tektronix!sequent!mntgfx!kwatson
+
+From stanh@wilkins.bcm.tmc.edu  Tue Aug 21 16:11:09 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03285); Tue, 21 Aug 90 16:11:09 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA04831); Tue, 21 Aug 90 16:14:54 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA05006); Tue, 21 Aug 90 16:10:57 CDT
+Date: Tue, 21 Aug 90 16:10:57 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008212110.AA05006@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: kwatson@epad.mentor.com, porschephiles@bcm.tmc.edu
+Subject: Re:  Robert Yen's rough starts
+
+>I had the same problem with my 81 911 SC.
+
+I also have an '81 SC, and had similar problems. I had the auxilliary 
+air valve replace last tune-up, and the problem went away.  It's also 
+worth noting that the CIS systems are very sensitive to air leaks. I had
+to have the whole thing pulled and wound up replacing most of the rubber
+parts to cure the air leak problem.
+
+FYI, the "runs like shit cold, gets better when warm" is usually indicative
+of the aux air valve or another source of an air leak if it's not a fuel 
+pump pressure problem or a cold start valve or a....
+
+Stan
+
+From james@visual2.tamu.edu  Tue Aug 21 16:26:11 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03315); Tue, 21 Aug 90 16:26:11 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA05080); Tue, 21 Aug 90 16:29:46 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA13191); Tue, 21 Aug 90 16:30:05 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA06530; Tue, 21 Aug 90 16:32:11 GMT-0600
+Date: Tue, 21 Aug 90 16:32:11 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008212232.AA06530@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Two Cents on Idling...
+
+
+forgive me three for being a little innocent of the relationship between
+the 944 and the 951 and the 944T.  But since I'm in the ballpark, I
+might as well take a *swing*...
+
+My '84 944 idles roughly under the same conditions...  hot weather, cold starts.
+I don't know about you but I'd rather not watch my 944 die idling and I too
+know that you should drive right away at under 3k rpm until the temperature
+gauge is out of the cold zone (the first block on the gauge).  So, I just
+give it a little gas to keep the rpms up and I'm off.  For a while the
+car shakes drastically especially with the air conditioner on but then 
+
+eventually it smoothes down a lot.
+
+Of course, the older 944s had a stupid problem with their motor mounts
+so my shaking is probably worse than the 951s even though I've already
+replaced the mounts once...  
+
+
+Keith Watson just mentioned the possiblilty of a sensor needing adjustment.
+This could be the Oxygen sensor on the exhaust pipe.  Now that he mentions
+it, I do remember having it replaced for the 60,000 mile tune...  My idle
+got worse at that point...  Hmmm.  Of course, my mechanic assured me that
+the Ford Oxygen sensor would work just as well as the Porsche one at
+a cheaper price...  Silly thing is that the price in Performance Products
+was better than both...  Perhaps with the newer models, the O2 sensor
+can be adjusted.  As for my idle...  We'll see what they say after they
+extract the racoon ;-).
+
+James Saxon
+Scientific Visualization Laboratory
+Texas A&N University (Whoa y'all, that's right I'm speaking to y'all)
+
+From frank@camplab.cmp.rpi.edu  Tue Aug 21 18:29:43 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03596); Tue, 21 Aug 90 18:29:43 CDT
+Received: from fs3.cs.rpi.edu by bcm.tmc.edu (AA06345); Tue, 21 Aug 90 18:33:26 CDT
+Received: by fs3.cs.rpi.edu (5.54/1.2-RPI-CS-Dept)
+	id AA15694; Tue, 21 Aug 90 19:30:33 EDT
+Date: Tue, 21 Aug 90 19:30:55 EDT
+From: frank@camplab.cmp.rpi.edu (Karl Frank Hens)
+Received: by camplab.cmp.rpi.edu (4.0/1.2-RPI-CAMP-LAB)
+	id AA02607; Tue, 21 Aug 90 19:30:55 EDT
+Message-Id: <9008212330.AA02607@camplab.cmp.rpi.edu>
+To: 0004056890@mcimail.com
+Subject: Re: 951 advice?
+Cc: <porschephiles@bcm.tmc.edu>, porschephiles@camplab.cmp.rpi.edu
+
+I must strongly disaggree with the statement oil is oil!
+I have ruined a 911 engine by using Castrol GTX oil.
+That engine was a 78 SC engine. I had adjusted the valves and found
+the camshafts to be in perfect condition when I bought the car.
+15,000 miles later, after having used Castrol GTX for all the oil changes 
+in-between (3 or 4 oil changes in-between), I readjusted the valves
+and found very severe cam wear - mostly pitting wear on the "tips"
+of the lobes. I blew air through the cam spray tube and found that none
+of the squirting holes was plugged. I therefore concluded it was the oil.
+At the last tech tactic I spoke to Bruce Anderson about it, who
+said others have seen the same cam wear problem, and funnily, they
+were using Castrol GTX as well - quite possibly the oil!!!!!
+I then changed to Quaker State. What a disaster!!!! How can Porsche
+work with a company like that???? That stuff is awfull, awfull, awfull!!!
+It foams like hell!! You open your filler cap with a running engine
+on colder days, and you can see the foam just coming out!!! After only 
+five hundred miles on the oil it foams like hell. When I then took my
+valve covers off, I found all kinds of gum and deposits from the Quaker
+State! (I used 10-40 in Winter and 20-50 in summer).
+Others I talked to again had found the same for Quaker state.
+I then asked Martin Steger from the German Auto Haus in Burnt Hills,
+(reputable service place for Porsche and Ferrari - Martin is ex factory
+mechanic) what he recommends. He said Valvoline Turbo would solve all
+these problems, costs a bit more (about $1.80/quart), but it has
+good lubricating and cleaning agents and he has taken engines apart
+after many miles that had been driven with valvoline turbo, and there
+was minimal wear and no gumup or deposits at all.
+I have been using it since in my 911 (for the past 30,000 miles) and
+am happy with it. The engine stays clean, the oil doesn't foam,
+and I haven't seen any wear symptoms like I did with the Castrol.
+I use 15W40 in winter, 20W50 in summer. And it must be Valvoline Turbo
+oil, NOT Valvoline Racing Formula, which is far inferior to the turbo oil.
+
+From zursch%large.wpd@sgi.com  Tue Aug 21 18:48:09 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03613); Tue, 21 Aug 90 18:48:09 CDT
+Received: from RUTGERS.EDU by bcm.tmc.edu (AA06576); Tue, 21 Aug 90 18:51:52 CDT
+Received: from SGI.COM by rutgers.edu (5.59/SMI4.0/RU1.3/3.07) 
+	id AA16176; Tue, 21 Aug 90 19:51:44 EDT
+Received: from whizzer.wpd.sgi.com by sgi.sgi.com (5.52/900721.SGI)
+	for rutgers.edu!bcm!watson!bcm.tmc.edu!porschephiles id AA19778; Tue, 21 Aug 90 16:53:16 PDT
+Received: from large.wpd.sgi.com by whizzer.wpd.sgi.com via SMTP (5.64-bind 1.5+ida/900721.SGI)
+	for sgi.sgi.com!bcm.tmc.edu!porschephiles id AA24421; Tue, 21 Aug 90 16:53:06 -0700
+Received: by large.wpd.sgi.com (5.52/900423.SGI)
+	for @whizzer.wpd.sgi.com:porschephiles@bcm.tmc.edu id AA00245; Tue, 21 Aug 90 16:41:34 PDT
+Date: Tue, 21 Aug 90 16:41:34 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+Message-Id: <9008212341.AA00245@large.wpd.sgi.com>
+To: porschephiles@bcm.tmc.edu
+Subject: Oil Brands (was: 951 advice)
+
+
+I was surprised when Frank Hens said that Castrol GTX ate his cam lobes
+in something like 10,000 miles......I've always used it with no trouble
+at all, and it's recommended by most good mechanics. 
+
+Quaker state, as I understand it, is wierd stuff.....
+
+But for the record, I use Kendall 20/50 in my 356. That's apparently 
+the trick-hot setup these days. 
+
+I understand from some of my racing cronies that synthetic oil is 
+almost universally better than natural oils. 
+
+I think the whole discussion has as much religion as science in it, 
+though.....Not to doubt Frank's sincerity or his automotive knowledge,
+but I'd seriously wonder if just the oil could cause pitting of a 
+cam lobe, and I didn't even know you could detect pitting by checking
+valve motion! 
+
+Oh wait, 911's are probably overhead cam, right? (I'm used to 
+god-fearing upstanding fine old pushrod motors, you see....) 
+Can you explain the whole process in more detail? (the process
+by which you determined that the cam was pitted and how the 
+oil caused it...)
+
+Curiously,
+
+JZ
+"New knowledge is expanding at near the speed of light" - NEO TECH COSMIC POWER
+
+
+
+
+From violet@mips.com  Tue Aug 21 19:34:00 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03665); Tue, 21 Aug 90 19:34:00 CDT
+Received: from MIPS.COM by bcm.tmc.edu (AA06788); Tue, 21 Aug 90 19:37:39 CDT
+Received: from gumby.mips.com by mips.com (5.61.15/2.7) id AA27496; 
+	Tue, 21 Aug 90 17:37:13 -0700 
+Received: by gumby.mips.com (5.52/4.7)
+	id AA02095; Tue, 21 Aug 90 17:34:48 PDT
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9008220034.AA02095@gumby.mips.com>
+Subject: Re: 951 advice?
+To: frank@camplab.cmp.rpi.edu  (Karl Frank Hens)
+Date: Tue, 21 Aug 90 17:34:46 PDT
+Cc: 0004056890@mcimail.com, porschephiles@bcm.tmc.edu,
+        porschephiles@camplab.cmp.rpi.edu
+In-Reply-To: <9008212330.AA02607@camplab.cmp.rpi.edu>; from "Karl Frank Hens" at Aug 21, 90 7:30 pm
+X-Mailer: ELM [version 2.2 PL16]
+
+> I use 15W40 in winter, 20W50 in summer. And it must be Valvoline Turbo
+> oil, NOT Valvoline Racing Formula, which is far inferior to the turbo oil.
+
+My '89 951 (12K miles) used to drink oil like water, even though we always
+added Valvoline 20W50 (no other specs).  The red light came up like < 1000 miles
+after the oil change/or addition.  Both mechanics at two major Porsche dealer
+assured us this is common to all Porsches, and all we need to do is add oil
+every 600 miles.  However, ever since we switched to Valvoline Turbo in the 
+last oil change(its fourth oil change), it's been > 1500 miles, and at least
+the light hasn't come up yet. 
+
+Umm!  Come to think of it, I'd better check it again, the oil level sensor
+may be broken.
+
+
+From VitaM6!marciano@uunet.UU.NET  Tue Aug 21 19:59:07 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03725); Tue, 21 Aug 90 19:59:07 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA06924); Tue, 21 Aug 90 20:02:52 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA29348; Tue, 21 Aug 90 21:02:47 -0400
+Message-Id: <9008220102.AA29348@uunet.uu.net>
+Date: Tue, 21 Aug 90 17:51:06 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: oil
+
+about talk about oil,  yeah, i've heard from porsche mechanics that valvoline
+is best.  i guess the slogan, for those who know, use valvoline, really is
+true.
+
+/marciano
+
+From auspex!auspex.com!brogers@uunet.UU.NET  Tue Aug 21 20:17:31 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03735); Tue, 21 Aug 90 20:17:31 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA06969); Tue, 21 Aug 90 20:21:15 CDT
+Received: from auspex.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA06969; Tue, 21 Aug 90 21:21:10 -0400
+Date: Tue, 21 Aug 90 18:14:01 PDT
+From: brogers@auspex.com (Bob Rogers)
+Message-Id: <9008220114.AA08381@auspex.com>
+To: uunet!camplab.cmp.rpi.edu!frank@uunet.UU.NET
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: Karl Frank Hens's message of Tue, 21 Aug 90 19:30:55 EDT <9008212330.AA02607@camplab.cmp.rpi.edu>
+Subject: 951 advice?
+
+
+My mechanic, Tom Amon of T and D Porsche, recommends the
+Valvoline Turbo Oil as well. I just had this conversation with
+Tom. He had a 930 motor burn-up using Mobil One which is supposed
+to be a top quality synthetic oil. He has had terrific results
+with the Valvoline. (If Al Jr wasn't their driver it would be
+great but that's another story.)
+
+What is interesting is that I had a conversation with the
+owner of Hilton Hyperlube recently in which he mentioned that most
+of the oil formulations for the various oil companies is done by
+a company in Los Angeles. In general most of the oils are same.
+However you hear horror stories about various oils like Castrol,
+and Penzoil. The mechanic that works on my Mercedes mentioned
+that when he pulls a head off a car he can instantly tell if they
+have been using Penzoil by the sludge build-up. Now he recommends
+using Castrol which he has had great luck with also. I will have
+to tell him about the problems Frank mentions.
+
+
+From james@visual2.tamu.edu  Tue Aug 21 20:43:12 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03767); Tue, 21 Aug 90 20:43:12 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA07340); Tue, 21 Aug 90 20:46:57 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA16108); Tue, 21 Aug 90 20:47:30 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA07748; Tue, 21 Aug 90 20:49:36 GMT-0600
+Date: Tue, 21 Aug 90 20:49:36 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008220249.AA07748@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Mobile 1
+
+
+So what's the scoop on Mobil 1
+
+
+From muenchen@ihlpm.att.com  Wed Aug 22 00:24:14 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA04005); Wed, 22 Aug 90 00:24:14 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA08199); Wed, 22 Aug 90 00:27:59 CDT
+Message-Id: <9008220527.AA08199@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Wed, 22 Aug 90 00:14 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 713 7181)
+To: porschephiles@bcm.tmc.edu
+Subject: Info for Buying a Porsche; Euro Purchase
+
+>>  Eric J. Svedberg <att!cs.umn.edu!svedberg> asked:
+>>     I've been considering buying a Porsche this fall.  
+>>  Can you guys suggest anything for a would-be Porsche owner 
+>>  who can't afford much?
+
+	For general guidance (you can come here for *lots* of
+specific Q&A) I'd suggest that you consult Dean Batchelor's
+"Illustrated Porsche Buyer's Guide" (ISBN 0-87938-159-0).
+It provides descriptions, specs, performance, etc. of all 
+of the models in a handy package, as well as specific 
+buying tips for each model.  I bought a copy to assist 
+my Porsche hunt in Germany, when I worked in Munich for 
+a couple of years.  
+
+	As an aside, I didn't return with a gray market car 
+- too much hassle and risk - but recommend that one consider 
+the purchase of a 5-year old model, if you'd be happy with an 
+older model, and have the chance to shop there (with the dollar
+strong).  If you purchase a 5-year or older model, you don't 
+have to convert the car to EPA specs (this is a one car 
+per-person per-lifetime exemption).
+
+
+	Robert Duncan ('87 944S)
+	AT&T Bell Labs, Naperville, IL
+
+
+From weltyc@turing.cs.rpi.edu  Wed Aug 22 09:11:55 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA04889); Wed, 22 Aug 90 09:11:55 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA10157); Wed, 22 Aug 90 09:15:39 CDT
+Date: Wed, 22 Aug 90 10:15:28 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA20649; Wed, 22 Aug 90 10:15:28 EDT
+Message-Id: <9008221415.AA20649@turing.cs.rpi.edu>
+To: zursch%large.wpd@sgi.com
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: Kid Redshift's message of Tue, 21 Aug 90 16:41:34 PDT <9008212341.AA00245@large.wpd.sgi.com>
+Subject: Oil Brands (was: 951 advice)
+
+
+> I was surprised when Frank Hens said that Castrol GTX ate his cam lobes
+> in something like 10,000 miles......I've always used it with no trouble
+> at all, and it's recommended by most good mechanics. 
+
+Let me second Franks Castrol/QUaker State/Valvoline observations.
+Here's something I noticed about Castrol GTX vs Valvoline Turbo: VT
+"clings" to polished surfaces far better than Castrol.  You can test
+this simply yourself, the difference is noticeable to both sight and
+touch.  The VT with the same visc rating seems to leave a thicker
+film.  This translates almost directly to better wear protection,
+since a lot that gets oil is not immersed in it.  Of course, GTX is
+almost half the price of VT, so Castrol may in fact make a better oil,
+I've just never seen it.  The cheaper valvoline oils are about as good
+as GTX. 
+
+> Quaker state, as I understand it, is wierd stuff.....
+
+It surely is.
+
+> But for the record, I use Kendall 20/50 in my 356. That's apparently
+> the trick-hot setup these days.
+
+Never tried it.
+
+> I understand from some of my racing cronies that synthetic oil is
+> almost universally better than natural oils.
+
+I've heard both good and bad.  The major thing I've heard, and Bruce
+Anderson was one of those I heard it from, is this:  Change your oil
+every 3000 miles and MOBIL 1 wont make a difference.
+
+> I think the whole discussion has as much religion as science in it,
+> though.....Not to doubt Frank's sincerity or his automotive knowledge,
+> but I'd seriously wonder if just the oil could cause pitting of a cam
+> lobe, and I didn't even know you could detect pitting by checking
+> valve motion!
+>
+> Oh wait, 911's are probably overhead cam, right? (I'm used to
+> god-fearing upstanding fine old pushrod motors, you see....)  Can you
+> explain the whole process in more detail? (the process by which you
+> determined that the cam was pitted and how the oil caused it...)
+
+No religion here, these are just our observations.  I thumbs down QS
+and GTX, and thumbs up VT.  ANything else no comment, because I
+haven't tried it, why risk it when I found something that works?  In a
+911, when you remove the valve covers the cam shafts are staring you
+right in the face, so you visually inspect it for pitting or other
+damage.  Plus you usually feel it with your fingers to insure it's
+in the correct position when you're adjusting the valves (at least
+those of us who like to caress our camshafts...).
+
+The damage to Frank's camshafts was that, among other things, two of
+the lobes had been worn down significantly.  The relation to oil, in
+fact to the adhesive power of the oil, should be obvious.  If the oil
+isn't coating the cam, the metal wears from contact with the rocker
+arm.  The most obvious cause of a problem like this would be if the
+hole from which the oil squirts onto the cam lobe was clogged, which
+is why Frank said he checked that and they weren't.  Therefore it must
+have been the oil.  The fact that the wear stopped after switching oil
+would be another sign.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From timmins@sun.udel.edu  Wed Aug 22 09:13:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA04891); Wed, 22 Aug 90 09:13:13 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA10161); Wed, 22 Aug 90 09:16:59 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA06910; Wed, 22 Aug 90 10:16:55 -0400
+Message-Id: <9008221416.AA06910@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Wed, 22 Aug 90 10:16:54 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Oil Light
+
+Since when does a 951 have an oil level indicator?  I have only seen the
+"Replace engine now" oil pressure light...
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From welty@lewis.crd.ge.com  Wed Aug 22 09:20:28 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA04912); Wed, 22 Aug 90 09:20:28 CDT
+Received: from CRDGW1.GE.COM by bcm.tmc.edu (AA10289); Wed, 22 Aug 90 09:24:04 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA27333; Wed, 22 Aug 90 10:23:32 EDT
+Date: Wed, 22 Aug 90 10:35 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Mobile 1
+To: porschephiles@bcm.tmc.edu
+In-Reply-To: <9008220249.AA07748@visual2.tamu.edu>
+Supersedes: <19900822142956.5.WELTY@lewis.crd.ge.com>
+Comments: Retransmission of failed mail.
+Message-Id: <19900822143557.6.WELTY@lewis.crd.ge.com>
+
+    From: james@visual2.tamu.edu (James Saxon)
+
+    So what's the scoop on Mobil 1
+
+Mobil synthetic products have come in for a lot of critism;
+apparently, while they're heavily promoted, they're not
+actually very representative of good synthetic products.
+in particular, a race mechanic or two have told me that
+the Mobil 1 synthetic gear lube is clearly inferior to
+the synthetic gear lubes from AGIP, Amsoil, and Redline.
+evidently the same may be true of the motor oil product.
+
+i, like one other reader of this list, am running Valvoline
+Turbo in my Alfa (sorry, don't have a Porsche yet), again
+at the advice of Martin Steger, and have been very satisfied.
+but then, i've been running Castrol GTX in my Saabs, and
+have noticed no problems with the cams in the OHC engine.
+
+richard
+
+From tom@mims-iris.waterloo.edu  Wed Aug 22 09:32:03 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA04931); Wed, 22 Aug 90 09:32:03 CDT
+Received: from mims-iris.waterloo.edu by bcm.tmc.edu (AA10378); Wed, 22 Aug 90 09:35:37 CDT
+Received: by mims-iris.waterloo.edu
+	id <AA19252>; Wed, 22 Aug 90 14:36:46 GMT
+Date: Wed, 22 Aug 90 14:36:46 GMT
+From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+Message-Id: <9008221436.AA19252@mims-iris.waterloo.edu>
+X-Mailer: Mail User's Shell (6.4 2/14/89)
+To: porschephiles@bcm.tmc.edu (Porschephiles mailing list)
+Subject: Re: Mobile 1
+
+richard welty wrote:
+> Mobil synthetic products have come in for a lot of critism;
+> apparently, while they're heavily promoted, they're not
+> actually very representative of good synthetic products.
+> in particular, a race mechanic or two have told me that
+> the Mobil 1 synthetic gear lube is clearly inferior to
+> the synthetic gear lubes from AGIP, Amsoil, and Redline.
+> evidently the same may be true of the motor oil product.
+
+...but on the other hand, the Quaker State Porsche CART team was using
+Mobil 1 motor oil (not gear lube) initially, until QS could produce
+an oil that'd stand up to the punishment of CART racing.
+
+I use Mobil 1; I don't know whether it makes my engine run better than 
+a GOOD conventional oil (surely it will be no worse), but the extra cost
+is not large and I sleep better at nights.  :)  Previously I used CAM-2
+(not available in the US?) with no ill effects.
+
+This, of course, is in a VW; Porsches have to wait until my salary/mortgage
+ratio increases a little bit.  :)
+
+[ \tom haapanen --- university of waterloo --- tom@mims-iris.waterloo.edu ]
+[ "i don't even know what street canada is on"               -- al capone ]
+
+From sco!banta@ucscc.UCSC.EDU  Wed Aug 22 10:13:48 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05185); Wed, 22 Aug 90 10:13:48 CDT
+Received: from ucscc.UCSC.EDU by bcm.tmc.edu (AA11125); Wed, 22 Aug 90 10:17:32 CDT
+Received: by ucscc.UCSC.EDU (5.64/1.35)
+	id AA23774; Wed, 22 Aug 90 08:17:21 -0700
+Received: from moscow.sco.COM by huey.sco.COM
+	id aa07749; Wed, 22 Aug 90 6:56:21 PDT
+From: banta@sco.COM (no user servicable parts inside)
+X-Mailer: SCO System V Mail (version 3.2)
+To: brogers@auspex.com, frank@camplab.cmp.rpi.edu
+Subject: Re: 951 advice?
+Cc: porschephiles@bcm.tmc.edu
+Date: Wed, 22 Aug 90 6:49:13 PDT
+Message-Id:  <9008220649.aa04234@moscow.sco.COM>
+
+
+> He had a 930 motor burn-up using Mobil One which is supposed
+> to be a top quality synthetic oil. 
+
+Cough, choke, ahem.  Mobil 1 is a synthetic oil that tries to be
+competitively priced with natural (is this the right term?) oils.
+
+Redline is a good quality synthetic.  Not a top quality, but a good
+quality.  I've had good results with it.  It doesn't tend to get as
+gritty (for lack of a better term) as normal oils, and tends to look
+about as thick coming out as it did coming in.
+
+andy
+banta@sco.com
+
+
+From HQDev.3Mail.3Com.COM!Michael_Throm@gw.3com.com  Wed Aug 22 11:06:40 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05391); Wed, 22 Aug 90 11:06:40 CDT
+Received: from bridge2.ESD.3Com.COM by bcm.tmc.edu (AA11812); Wed, 22 Aug 90 11:10:21 CDT
+Received: from gw.3Com.COM by bridge2.ESD.3Com.COM with SMTP id AA05118
+  (5.64+/IDA-1.3.4-900803 for porschephiles@bcm.tmc.edu); Wed, 22 Aug 90 09:10:10 -0700
+Received: by gw.3Com.COM (5.61++/1.2)
+	id AA16727; Wed, 22 Aug 90 09:10:04 PDT
+Date: Tue, 21 Aug 90 21:12 PDT
+From: Michael_Throm@HQDev.3Mail.3Com.COM
+Subject: Mobile 1
+To: porschephiles@bcm.tmc.edu
+Message-Id: <900822.090629@3Mail.3Com.COM>
+In-Reply-To: Message from {welty@lewis.crd.ge.com}:ugat... of 8-22-90
+
+
+  I seem to recall that one disadvantage of using synthetics with air 
+cooled engines it that they don't allow the heat to be disapated as well as 
+the non-synthetics.  So in other words you get the wear protection, but the 
+engine runs hotter.  I don't use synthetics, can anyone who is air-cooled 
+ and using synthetics confirm this?
+                                        /Mike
+
+---------------------- Replied Message Body ----------------------
+Date: 8-22-90  7:41am  
+From: {welty@lewis.crd.ge.com}:ugate:3Com
+  To: Michael Throm:esd:3Com
+Subj: Mobile 1
+
+-----------------------------------------------------------------
+    From: james@visual2.tamu.edu (James Saxon)
+
+    So what's the scoop on Mobil 1
+
+Mobil synthetic products have come in for a lot of critism;
+apparently, while they're heavily promoted, they're not
+actually very representative of good synthetic products.
+in particular, a race mechanic or two have told me that
+the Mobil 1 synthetic gear lube is clearly inferior to
+the synthetic gear lubes from AGIP, Amsoil, and Redline.
+evidently the same may be true of the motor oil product.
+
+i, like one other reader of this list, am running Valvoline
+Turbo in my Alfa (sorry, don't have a Porsche yet), again
+at the advice of Martin Steger, and have been very satisfied.
+but then, i've been running Castrol GTX in my Saabs, and
+have noticed no problems with the cams in the OHC engine.
+
+richard
+
+From timmins@sun.udel.edu  Wed Aug 22 11:07:30 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05395); Wed, 22 Aug 90 11:07:30 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA11830); Wed, 22 Aug 90 11:11:15 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA11598; Wed, 22 Aug 90 12:11:11 -0400
+Message-Id: <9008221611.AA11598@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Wed, 22 Aug 90 12:11:10 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Oils
+
+Hmmn.  Well if mobil is not the way to go, and redline or Valvoline
+Turbo are, how are these priced.  I change my oil every 3000 miles, and
+put on 25-30,000 miles a year, so I would really aprreciate some change
+of oils.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From muenchen@ihlpm.att.com  Wed Aug 22 11:47:21 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05429); Wed, 22 Aug 90 11:47:21 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA12527); Wed, 22 Aug 90 11:51:05 CDT
+Message-Id: <9008221651.AA12527@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Wed, 22 Aug 90 11:46 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 510 6353)
+To: porschephiles@bcm.tmc.edu
+Subject: DOT conversion always req'd (Re: Euro Purchase)
+
+In response to my article re grat market purchase:
+>If you purchase a 5-year or older model, you don't have to convert the car 
+>to EPA specs (this is a one car per-person per-lifetime exemption).
+>
+>       Robert Duncan ('87 944S)
+>       AT&T Bell Labs, Naperville, IL
+>
+Paul Taira asked:
+>>  
+>>      But does one need to modify the car to meet the DOT specs?  ie. door
+>>      reinforcements?  bumpers?  
+
+	YES.  You *always* have to have the car converted to DOT.
+Lessee, that included:
+
+	* reinforced doors
+	* US-position bumpers (minimally, Germany has bumpers at a 
+	  different height, and they may not meet our then-applicable
+	  safety standards for crash-resistance)
+	* different fuel tank (no-spill in rollover?)
+	* Safety Glass
+	* DOT-spec tires (if not already)
+	* restraints (DOT-approved belts OR passive" belts XOR air bag)
+
+Hmmmm .. I think that's it.  Depending on the existing equipment,
+it could be not too costly (just door reinforcement, and bumpers >= $500) 
+or very expensive (PLUS new glass, tires = $$$).
+
+	Robert
+		Robert
+
+From timmins@sun.udel.edu  Wed Aug 22 12:05:03 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05451); Wed, 22 Aug 90 12:05:03 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA12664); Wed, 22 Aug 90 12:08:45 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA13320; Wed, 22 Aug 90 13:08:30 -0400
+Message-Id: <9008221708.AA13320@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Wed, 22 Aug 90 13:08:30 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: Patty Winter <winter@apple.com>
+Subject: Re:  Oil Light
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of Aug 22, Patty Winter:]
+> Steve--
+> 
+> My '86 944T has an oil pressure gauge. It runs on a scale of 1 to 5.
+> I have no idea when this changed, if, as you say, some years don't
+> have one.
+> 
+> 
+> Patty
+  [end of included note]
+
+
+My point, though poorly stated, was that all porsches have oil pressure
+gages, only 911s have oil LEVEL gages, ie volume, not pressure.  WHen
+the oil light comes on (The exclamation point and the red "low oil"
+indicator below 1 bar, itmmeans you have already damaged your engine,
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From violet@mips.com  Wed Aug 22 12:12:57 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05458); Wed, 22 Aug 90 12:12:57 CDT
+Received: from MIPS.COM by bcm.tmc.edu (AA12908); Wed, 22 Aug 90 12:16:41 CDT
+Received: from gumby.mips.com by mips.com (5.61.15/2.7) id AA16672; 
+	Wed, 22 Aug 90 10:16:26 -0700 
+Received: by gumby.mips.com (5.52/4.7)
+	id AA09046; Wed, 22 Aug 90 10:12:41 PDT
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9008221712.AA09046@gumby.mips.com>
+Subject: Re: Oil Light
+To: timmins@sun.udel.edu  (Steve Timmins)
+Date: Wed, 22 Aug 90 10:12:39 PDT
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: <9008221416.AA06910@sun.udel.edu>; from "Steve Timmins" at Aug 22, 90 10:16 am
+X-Mailer: ELM [version 2.2 PL16]
+
+My oil light comes up whenever the oil level is just below the ideal range.
+Even with that light on the oil pressure is usually normal according to the
+pressure meter.  Do you think I have a defective oil light?
+
+> 
+> Since when does a 951 have an oil level indicator?  I have only seen the
+> "Replace engine now" oil pressure light...
+> 
+> Steve
+> 
+> -- 
+> Steve Timmins                                      timmins@sun.udel.edu
+> University of Delaware - 
+> Academic Computing and Instructional Technology
+> Newark, Delaware 19716
+> 
+
+
+From 0004056890@mcimail.com  Wed Aug 22 13:41:19 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05760); Wed, 22 Aug 90 13:41:19 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA13785); Wed, 22 Aug 90 13:45:04 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa08756;
+          22 Aug 90 14:34 EDT
+Date: Wed, 22 Aug 90 13:34 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: Steve Timmins <timmins@sun.udel.edu>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Oil Light
+Message-Id: <00900822183400/0004056890NB3EM@mcimail.com>
+
+Porsche added an oil level sensor to the 944's starting with model year '87.  I 
+believe it was added during the course of the year.  It has confused mechanics,
+because it causes the light to come on when oil is down about half way on the
+dip stick.  The mechanics didn't know about the change and assumed that, because
+the oil is pretty much there, the pressure sender must be bad.
+
+Regarding Patty's question, the oil pressure should read about 4 when the engine
+is rev'ed, but may drop as low as 2 when idling and warmed up.  When the car is
+cold, the oil pressure will read as much as five even when idling, and will drop
+as things warm up.  I believe the oil pressure may be permitted to drop to as
+low as 1 (bar) without endangering the engine, but I'm unsure of this figure.
+
+Kevin Gross
+
+
+From 0004056890@mcimail.com  Wed Aug 22 13:41:29 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05766); Wed, 22 Aug 90 13:41:29 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA13789); Wed, 22 Aug 90 13:45:13 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab08756;
+          22 Aug 90 14:34 EDT
+Date: Wed, 22 Aug 90 13:35 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: The great oil debate
+Message-Id: <52900822183525/0004056890NB4EM@mcimail.com>
+
+And I thought heated arguments about oil were a thing of the past...
+
+There is a wealth of contradictory opinions to be mined.  One opinion expressed
+was that Pennzoil sludged, and Castrol doesn't.  Well, I have a mechanic here
+(Lenny Cummings at Autosport) who claims just the opposite!  If some brand of
+oil caused pitting, I'd like to know why.  Pitting and corrosion will occur if
+oil is left in a driven car longer than three months.  The reason?  As oil
+breaks down, it becomes mildly acidic.  Leave that acid in your engine, and
+things happen.  Put fresh oil in, and pitting will stop.  Pitting and foaming
+will also occur in oil which has been contaminated, particularly by water
+(condensation or coolant).
+
+Pitting does not sound symptomatic of inadequate lubrication; correct me if I'm
+wrong.
+
+You cannot divine subtle differences in a lubrication product via tests
+performed under grossly different conditions.  Forming an opinion about the
+qualities of an oil by eyeballing its adhesive properties on metal doesn't make
+sense.  Unless you've got your head inside an engine case that's up to
+temperature and is spinning at a couple thousand RPM.  Otherwise, it's about as
+silly as the Mobil 1 add burning oil in a frypan.
+
+I think race teams chose motor oil the same way 4 out of 5 leading hospitals
+chose analgesics: price and sponsorship.  Anyway, who cares what they chose?  A
+race engine gets torn down and rebuilt every 30 to 60 hours, if it lasts that
+long.  I can't do that, and I therefore maintain my car by a different set of
+rules.
+
+Kevin Gross
+
+From james@visual2.tamu.edu  Wed Aug 22 13:49:26 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05816); Wed, 22 Aug 90 13:49:26 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA13923); Wed, 22 Aug 90 13:53:10 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA28731); Wed, 22 Aug 90 13:53:41 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA12128; Wed, 22 Aug 90 13:55:46 GMT-0600
+Date: Wed, 22 Aug 90 13:55:46 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008221955.AA12128@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Switching from a synthetic...
+
+
+Ok so, suppose I want to switch motor oils...  I was told that once I use
+Mobile 1, regular oil would be bad to "mix" with it.  What about an oil
+change?  Can I switch then?  I mean, is it ok to just go from synthetic to
+regular?  I don't drive much so I don't change my oil that much...
+
+James
+
+From muenchen@ihlpm.att.com  Wed Aug 22 13:52:55 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA05823); Wed, 22 Aug 90 13:52:55 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA14012); Wed, 22 Aug 90 13:56:32 CDT
+Message-Id: <9008221856.AA14012@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Wed, 22 Aug 90 13:33 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 510 6353)
+To: porschephiles@bcm.tmc.edu
+Subject: <Oil Low> or <Engine Damage> Light
+
+In reply to Steve Timmins' (att!sun.udel.edu!timmins) remark:
+>>  My point, though poorly stated, was that all porsches have oil pressure
+>>  gages, only 911s have oil LEVEL gages, ie volume, not pressure.  When
+>>  the oil light comes on (The exclamation point and the red "low oil"
+>>  indicator below 1 bar, it means you have already damaged your engine,
+
+	Let's not go overboard: I don't think that the exclamation mark
+means engine damage in *all* cars, Steve, as my '87 944S lights it up
+whenever it is just slightly low.  And others (see below - Violet Ken 
+and her '86 944T?) have seen the same behaviour.
+
+>>  From att!mips.com!violet Wed Aug 22 10:12:39 PDT 1990
+>>  From: violet@mips.com (Violet K. Jen)
+>>  
+>>  My oil light comes up whenever the oil level is just below the ideal range.
+>>  Even with that light on the oil pressure is usually normal according to the
+>>  pressure meter.  Do you think I have a defective oil light?
+
+	I think that the indicator on our 944s is a *warning* of low oil,
+not a damage indicator.  I discussed this with the Service Manager at 
+my dealership, and he assured me that the indicator was a bit touchy, 
+but on the safe side.  Apparently they've had problems with people 
+waiting until the idiot light came on, and the oil was *really* low,
+and they'd done real damage.  As a result, they've changed the sensor
+to go off early - earlier than you 911 sensor, it seems.
+
+	And it seems like my <Low Oil> warning goes off frequently:
+my '87 944S drinks a quart every 500-750 miles.  And it goes off 
+when the oil is only about 1/2 quart low, which is when I top it off.
+So, I've begun the (poor) practice of using the indicator as a 
+reminder to add oil.
+
+	Do other 944s have such high oil consumption?
+I had a 2-valve 944 that was very frugal with oil,
+whereas my 4-valve 944S consumes a quart about every 600 miles.
+I've even noticed blue smoke on upshifts, when driving the car cold.
+
+		Robert
+
+		Robert Duncan
+		AT&T Bell Labs, Naperville, IL
+		(708) 713-7181	    robert_l_duncan@ihlpm.att.com
+
+From boubez@caip.rutgers.edu  Wed Aug 22 16:16:59 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06242); Wed, 22 Aug 90 16:16:59 CDT
+Received: from caip.rutgers.edu by bcm.tmc.edu (AA15519); Wed, 22 Aug 90 16:20:43 CDT
+Received: by caip.rutgers.edu (5.59/SMI4.0/RU1.1/3.04) 
+	id AA13168; Wed, 22 Aug 90 17:20:25 EDT
+Date: Wed, 22 Aug 90 17:20:25 EDT
+From: boubez@caip.rutgers.edu (Toufic Boubez)
+Message-Id: <9008222120.AA13168@caip.rutgers.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: "vacation" message"
+
+
+Hi y'all! I just realised that maybe many of you have been receiving a
+"vacation" message from me (ie, I'm away, won't read my mail regularly,
+etc...). When I set up the automatic mail-answering program, I forgot
+that it might send individual messages to everyone who posts an
+article. I'm sorry about the resulting confusion. 'til then,
+
+		Yr fthfl srvt
+toufic
+
+            R 2 4
+            |_|_|      Toufic Boubez
+            | | |      boubez@caip.rutgers.edu
+            1 3 5
+
+PS Watch this space for a probable possible definite answer to the
+Idle Blues, which has also been tearing up the VW newsletter. 
+
+From welty@lewis.crd.ge.com  Wed Aug 22 16:34:18 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06287); Wed, 22 Aug 90 16:34:18 CDT
+Received: from CRDGW1.GE.COM by bcm.tmc.edu (AA15740); Wed, 22 Aug 90 16:38:00 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA16083; Wed, 22 Aug 90 17:37:29 EDT
+Date: Wed, 22 Aug 90 17:50 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: new driving school mailing list
+To: rally@stratus.com, porschephiles@bcm.tmc.edu, saab@dartmouth.edu,
+        bmw@sol.crd.ge.com, italian-cars@sol.crd.ge.com
+Message-Id: <19900822215001.0.WELTY@lewis.crd.ge.com>
+
+To: rally@stratus.com,porschephiles@bcm.tmc.edu,saab@dartmouth.edu
+To: bmw@sol,italian-cars@sol
+
+a new automotive mailing list, devoted to high performance driving
+schools, has just been started.
+
+to join, send requests to
+
+   school-request@sol.crd.ge.com
+
+this list is intended for discussion of both commercial and marque
+schools, principally those using race tracks as instructional
+environments. discussion of time trials and SCCA Solo I activities
+are acceptable as well.  the list is not intended for discussion of
+wheel-to-wheel racing activities.  announcements of commerical
+schools are acceptable, but blatent promotion of such schools will
+be frowned upon.
+
+richard welty  (welty@lewis.crd.ge.com)
+
+From bowers@elxsi.dfrf.nasa.gov  Wed Aug 22 17:09:55 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06357); Wed, 22 Aug 90 17:09:55 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA16356); Wed, 22 Aug 90 17:13:37 CDT
+Received: from elxsi.dfrf.nasa.gov by ames.arc.nasa.gov (5.64/1.2); Wed, 22 Aug 90 15:13:31 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA00246; Wed, 22 Aug 90 15:03:35 PDT
+Date: Wed, 22 Aug 90 15:03:35 PDT
+Message-Id: <9008222203.AA00246@elxsi.dfrf.nasa.gov>
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: DOT conversion always req'd (Re: Euro Purchase)...
+To: porschephiles@bcm.tmc.edu
+
+>In response to my article re grat market purchase:
+ 
+>>If you purchase a 5-year or older model, you don't have to convert the car
+>>to EPA specs (this is a one car per-person per-lifetime exemption).
+ 
+Concerning gray market importation of motor vehicles, I believe that the DOT
+and the EPA disallowed this a couple of years ago.  It is no longer legal to
+import a car under any circumstances and not meet EPA and DOT regs within 30
+days of customs.  After that you get a notice that the vehicle must be
+exported or destroyed.  This holds for motorcycles as well.
+ 
+>Paul Taira asked:
+ 
+>>>      But does one need to modify the car to meet the DOT specs?  ie. door
+>>>      reinforcements?  bumpers?
+ 
+>	YES.  You *always* have to have the car converted to DOT.
+ 
+>Lessee, that included:
+ 
+>	* reinforced doors
+>	* US-position bumpers (minimally, Germany has bumpers at a
+>	  different height, and they may not meet our then-applicable
+>	  safety standards for crash-resistance)
+ 
+Porsche complied with this by simply modifying the ride height of their cars.
+this is easily modified on 911s by adjusting the torsion bars.  A lot of
+Porsche rags have covered this in the past.
+ 
+>	* different fuel tank (no-spill in rollover?)
+>	* Safety Glass
+>	* DOT-spec tires (if not already)
+>	* restraints (DOT-approved belts OR passive" belts XOR air bag)
+ 
+You forgot the flamability tests for interior trim.  Also turnsignal color and
+all light bulbs being DOT approved (headlights, signals, running lights, etc).
+not to mention the proof the DOT _requires_ that these mods were made.
+Usually the modification shop is required to have engineering data (usually a
+crash test and/or other destructive test to show the mods comply) on file
+certifying the modifications for that particular make and model.
+ 
+>Hmmmm .. I think that's it.  Depending on the existing equipment,
+>it could be not too costly (just door reinforcement, and bumpers >= $500)
+>or very expensive (PLUS new glass, tires = $$$).
+ 
+I once looked into getting a Yamaha motorcycle imported legally from Canada.
+The cost was on the order of $US 10,000 for the RZ 500.  To meet the EPA
+requirements it was necessary to convert to propane.  Keep in mind bikes are
+not subject to the same rigid standards of emissions that cars are.  Most of
+the cost went into the flamability testing required for the seat.  It wasn't
+good enough to swap the seat with another, it had to be _retested_.  that
+alone was about $US 3000 for the lab.  Needless to say I never went through
+with it.  But everytime I see one go by (probably not legally imported) I
+still think about it.
+ 
+BTW, the 5 year rule used to apply for bikes and EPA certification as well.
+Ducati 900SS motorcycles fit the age requirement, but again there were the DOT
+requirements.  Same story.
+ 
+A last note.  Most of the Europeans will deliver a US spec car to you in
+Europe, though usually at a cost.  I know Mercedes had a deal some years ago
+where you could save enough on the car to make the trip over and back plus
+shipping for the car from there back to the US.  I think Porsche had a similar
+program.
+ 
+Just another opinion...
+ 
+Al Bowers
+
+From martin@hpcc26.corp.hp.com  Wed Aug 22 18:16:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06515); Wed, 22 Aug 90 18:16:13 CDT
+Received: from hp-sde.sde.hp.com by bcm.tmc.edu (AA16931); Wed, 22 Aug 90 18:19:57 CDT
+Received: from martin.corp.hp.com by hp-sde.sde.hp.com with SMTP
+	(16.2A/15.5+IOS 3.13) id AA08472; Wed, 22 Aug 90 16:00:45 -0700
+Received: by hpcc26.corp.hp.com
+	(15.11/15.5+IOS 3.20) id AA01887; Wed, 22 Aug 90 16:19:01 pdt
+From: Sam Martin <martin@hpcc26.corp.hp.com>
+Message-Id: <9008222319.AA01887@hpcc26.corp.hp.com>
+Subject: Please remove me from the distribution list
+To: welty@lewis.crd.ge.com (richard welty)
+Date: Wed, 22 Aug 90 16:18:59 PDT
+Cc: rally@stratus.com, porschephiles@bcm.tmc.edu, saab@dartmouth.edu,
+        bmw@sol.crd.ge.com, italian-cars@sol.crd.ge.com
+In-Reply-To: <19900822215001.0.WELTY@lewis.crd.ge.com>; from "richard welty" at Aug 22, 90 5:50 pm
+Mailer: Elm [revision: 64.9]
+
+Boy, what a lot of mail.  I'll wait for the movie.
+
+Thanks,
+
+Sam
+--
+----------------------------------------------------------------------
+Sam Martin III                          Hewlett-Packard Co.  Palo Alto
+UMail: martin@hpcc26.corp.hp.com        Corporate Computing & Services
+HP Desk: Martin (hpcc26) hp0000/UX      Bldg 20 -  Level C - Post C12H
+Telnet: 1-???-????  | (415) ???-????    Mailstop: 20CE
+
+From gt4911b@prism.gatech.edu  Wed Aug 22 21:00:51 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06763); Wed, 22 Aug 90 21:00:51 CDT
+Received: from hydra.gatech.edu by bcm.tmc.edu (AA17887); Wed, 22 Aug 90 21:04:37 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA28791; Wed, 22 Aug 90 22:04:37 -0400
+Date: Wed, 22 Aug 90 22:04:37 -0400
+From: gt4911b@prism.gatech.edu (The Mars)
+Message-Id: <9008230204.AA28791@prism.gatech.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Gotta run...
+
+
+Sorry dudes but I can't keep up with the volume of the list and it is
+completely clogging my mailbox so if you would, please take me off the 
+list as soon as possible.  I hope it keeps going as strong as it is and if
+my schedule frees up a bit, maybe I'll join again.
+
+Thanks.
+
+MARS, WILLIAM SCOTT
+Georgia Institute of Technology, Atlanta Georgia, 30332
+uucp:	  ...!{decvax,hplabs,ncar,purdue,rutgers}!gatech!prism!gt4911b
+Internet: gt4911b@prism.gatech.edu
+
+From 0004056890@mcimail.com  Wed Aug 22 21:36:58 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06841); Wed, 22 Aug 90 21:36:58 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA18165); Wed, 22 Aug 90 21:40:43 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad14716;
+          22 Aug 90 22:20 EDT
+Date: Wed, 22 Aug 90 21:18 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: muenchen <muenchen@ihlpm.att.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: <Oil Low> or <Engine Damage> Light
+Message-Id: <35900823021853/0004056890NB3EM@mcimail.com>
+
+The spec on 944 oil consumption is 1.5 litres / 1000 km., which is a lot in my
+opinion.  I too have a 944S, and it is very frugal with its oil.  I have very
+rarely had to add oil between 3000 mi changes, generally only to top it off a
+wee bit before heading for the track.  (Pre-production 944S' had problems with
+oil starvation of the #2 connecting rod bearing, due to overly aggressive
+lubrication of the upper parts of the engine.  Some paranoias die hard...)
+
+You see blue smoke when pushing your cold car hard.  Well, consider letting it
+warm up first; all cars need to warm up.  There are different metals in the
+engine with different coefficients of thermal expansion.  For example 911's have
+a copper (I think) gasket at the base of each cylinder where it mates with the
+block.  I was recently shown the result of one car's owner's routine pushing of
+the car when cold: one or more of the gaskets had failed, and his engine was in
+pieces.  Your blue smoke may be oil which has seeped around the cold piston
+rings, being burnt with fuel.
+
+Hope this helps.  Let me know whether taking it easy when the car is cold
+improves your oil consumption.
+
+Kevin Gross
+
+From 0004056890@mcimail.com  Wed Aug 22 21:36:54 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06839); Wed, 22 Aug 90 21:36:54 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA18162); Wed, 22 Aug 90 21:40:38 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac14716;
+          22 Aug 90 22:20 EDT
+Date: Wed, 22 Aug 90 21:18 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: re: Rough Idle
+Message-Id: <43900823021834/0004056890NB3EM@mcimail.com>
+
+There are, unfortunately, an annoyingly large number of things which can lead to
+rough idle in a cold engine.  Some are easy to identify, some are a real pain. 
+Herewith a list of as many as come quickly to mind.
+
+1. Leaks in the air intake, vacuum leaks.  I saw a 944S recently in which the
+rubber sleeve between the back of the air filter and the throttle body had
+fallen off (or been left off when the filter was changed).  Check the length of
+the air intake pipe for damage or whatnot; check the clamps.  Check the breather
+hose as well.  Check the air filter - has it been replaced recently?
+
+2. An air flow sensor which is clogged or not wired up soundly.  It is a bitch
+to get to on my 944S; perhaps not so bad on other 944's.  Or a failed/miswired
+engine temperature sensor.
+
+3. Fuel system woes, most often inadequate fuel reaching the engine.  This can
+be due to a marginal fuel pump, clogged fuel filter, or clogged injectors. 
+Electrical problems can also strike here.  Leaking injector seals are often
+overlooked.
+
+4. Spark plugs and wires, and the distributor: worn, incorrectly gapped, or
+marginal wiring.  There was a tech bulletin last year on the 944S, describing
+misfire which can be caused by arcing from the wires to the hood.  There's a
+sheet of insulation available to fix this, although I would probably opt for
+some flower-patterned contact paper from the K-Mart myself.
+
+Finally, a rough idle can, as someone else has mentioned, be due to a failed
+motor mount.  There are two, but the exhaust side has the one which fails.  The
+mounts are hydraulic, ie, filled with a fluid.  When they fail, the fluid seeps
+out and the mount collapses.  Porsche has gone through six versions of the
+exhaust-side mount.  The latest version (.05) has no paint markings and deletes
+a couple of 4 mm shim washers.  (Earlier versions were marked with different
+colours of paint: grey, green, and most recently, orange.)
+
+The mount is easy to get to, but a bit hard to meaure accurately.  There was a
+tech bulletin last year which gave a template for a simple measuring tool which
+can be constructed by bending and grinding a small length of flat stock.
+
+Happy hunting!
+
+Kevin Gross
+
+From 0004056890@mcimail.com  Thu Aug 23 02:17:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA07101); Thu, 23 Aug 90 02:17:33 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA19007); Thu, 23 Aug 90 02:21:18 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab00699;
+          23 Aug 90 3:11 EDT
+Date: Thu, 23 Aug 90 01:59 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: James Saxon <james@visual2.tamu.edu>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Switching from a synthetic...
+Message-Id: <64900823065946/0004056890NB3EM@mcimail.com>
+
+Yes, you can simply change to (or from) a synthetic with a regular oil change. 
+I would not mix synthetic and mineral oils, ie, topping off with the other kind.
+And, if you can still find them, mixing a non-detergent with a detergent oil is
+definitely taboo (for reasons I forget).  (Non-detergent is the old, obsolete
+technology.)
+
+Kevin Gross
+
+From timmins@sun.udel.edu  Thu Aug 23 08:16:21 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA07187); Thu, 23 Aug 90 08:16:21 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA19980); Thu, 23 Aug 90 08:20:07 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA02523; Thu, 23 Aug 90 09:20:02 -0400
+Message-Id: <9008231320.AA02523@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Thu, 23 Aug 90 09:20:01 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Oil Level.
+
+
+Ok, so I was wrong.  Shoot me. (Please?)
+
+;^}
+
+Steve, a.k.a. Mr Knowitall
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From timmins@sun.udel.edu  Thu Aug 23 08:31:51 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA07269); Thu, 23 Aug 90 08:31:51 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA20269); Thu, 23 Aug 90 08:35:38 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA03727; Thu, 23 Aug 90 09:35:34 -0400
+Message-Id: <9008231335.AA03727@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Thu, 23 Aug 90 09:35:32 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: rough idle
+
+In changing my battery yeaterday I noticed the cause of my rough idle:
+
+Forward vaccum Y above cyl #1
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From sco!banta@ucscc.UCSC.EDU  Thu Aug 23 09:13:25 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA07318); Thu, 23 Aug 90 09:13:25 CDT
+Received: from ucscc.UCSC.EDU by bcm.tmc.edu (AA20716); Thu, 23 Aug 90 09:17:10 CDT
+Received: by ucscc.UCSC.EDU (5.64/1.35)
+	id AA14563; Thu, 23 Aug 90 07:17:05 -0700
+Received: from moscow.sco.COM by huey.sco.COM
+	id aa09158; Thu, 23 Aug 90 6:36:59 PDT
+From: banta@sco.COM (no user servicable parts inside)
+X-Mailer: SCO System V Mail (version 3.2)
+To: porschephiles@bcm.tmc.edu, alliant!british-cars@uunet.UUCP,
+        hoosier.utah.edu!racers@uunet.UUCP
+Subject: So long to SCO
+Cc: kneff@osf.org
+Date: Thu, 23 Aug 90 6:28:32 PDT
+Message-Id:  <9008230628.aa15909@moscow.sco.COM>
+
+
+Working at SCO has been somewhat interesting and mildly rewarding.
+Sad to say, though, not really enough of either.
+
+As of August 30th, any mail intended for me should stop going to
+banta@sco.com and start going to banta@eng.sun.com.  I won't be
+starting at Sun until September 10th, so figure that any mail sent
+to me between the 30th and the 10th won't get replied to
+immediately.
+
+If this is sufficient notice for the list administrators to add
+my new address, please let me know.  If I don't hear from you by
+the middle of next week, I'll send in a formal request.
+
+Enjoy
+
+andy
+banta@sco.com (for another week)
+
+
+From 0004056890@mcimail.com  Thu Aug 23 21:28:37 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA08311); Thu, 23 Aug 90 21:28:37 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA27319); Thu, 23 Aug 90 21:32:20 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa17129;
+          23 Aug 90 22:17 EDT
+Date: Thu, 23 Aug 90 21:11 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: Steve Timmins <timmins@sun.udel.edu>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Oil Light
+Message-Id: <61900824021116/0004056890NB1EM@mcimail.com>
+
+First off, the real poop on the presence of the oil level warning system is
+contained in tech bulletin group 1, number 8706, dated 18 March 87.  Really
+weird, they added it in stages.  To wit:
+
+"During the 1987 model year production, components for the oil level warning
+system were installed in stages.  Therefore, it is possible, depending on the
+date of production, that a given 924S, 944, 944S, or 944 Turbo may have an oil
+level sender and related wiring but not have the combination instrument with
+warning lamp installed.
+
+"Introduction stages were as follows:
+
+1. Related wiring installed.
+2. Oil level sender added to oil sump.
+3. Combination instrument with warning lamp added.
+
+"Oil level warning system completely installed as of VIN:
+
+924S      - 92 HN 454504
+944       - 94 HN 473616
+944 Auto  - 94 HN 474396
+944S      - 94 HN 452679
+944 Turbo - 95 HN 151471
+
+"Do not attempt repairs on the oil level warning system on cars produced before
+the above VINs.  On cars partially equipped with the oil level warning system,
+installation of components needed to complete the system is considered _not_ a
+warranty matter."
+
+However, my 944S has a lower-numbered VIN yet has the whole shootin' match.  In
+fact, the 944S' had a whole bunch of stuff slipped into production during the
+year, like the DME which accepts a diagnostic read-out tool (no. 9268).  The
+tech bulletins list all these things, and it was entertaining to go through them
+to see what I did and did not get!
+
+I have to confess that I did not know where the sender was.  Apparently it's off
+the sump, and the wiring diagram indicates a single white/yellow wire running
+from it to the DME plug (pg. 97-111, map ref. E-44).  I believe that mine has in
+fact a yellow wire.  I cannot find any diagram showing the part itself; the
+particular workshop manual pages haven't been updated since '83.
+
+I have no idea how it works.  Hope this helps.  If not, I can poke around under
+my car this weekend.
+
+Kevin Gross
+
+
+From auspex!auspex.com!brogers@uunet.UU.NET  Fri Aug 24 00:31:47 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA08669); Fri, 24 Aug 90 00:31:47 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA28025); Fri, 24 Aug 90 00:35:31 CDT
+Received: from auspex.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA17352; Fri, 24 Aug 90 01:35:24 -0400
+Date: Thu, 23 Aug 90 18:29:10 PDT
+From: brogers@auspex.com (Bob Rogers)
+Message-Id: <9008240129.AA07170@auspex.com>
+To: uunet!sco.COM!banta@uunet.UU.NET
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: no user servicable parts inside's message of Wed, 22 Aug 90 6:49:13 PDT <9008220649.aa04234@moscow.sco.COM>
+Subject: 951 advice?
+
+
+   From: uunet!sco.COM!banta (no user servicable parts inside)
+   X-Mailer: SCO System V Mail (version 3.2)
+   Date: Wed, 22 Aug 90 6:49:13 PD
+
+   > He had a 930 motor burn-up using Mobil One which is supposed
+   > to be a top quality synthetic oil.
+
+   Cough, choke, ahem.  Mobil 1 is a synthetic oil that tries to
+   be competitively priced with natural (is this the right term?)
+   oils.
+
+   andy banta@sco.com
+
+>From my original posting Andy's comments seem to indicate that he
+doesn't see Mobil 1 as selling the product as better than regular
+oil or as a top quality product. In my conversation with Howard
+Leendertson of Hilton Hyperlube he mentioned that when they did
+their testing of the various oils with the Hyperlube oil additive
+added they did not exceed the specifications of Mobil 1. The major
+brands of oils without the additive were much less in the
+"desirable qualities". I didn't ask him what the properties were
+that were missing. Howard mentioned the name of the laboratory
+that did the oil formulations and testing but I don't remember
+the name. I do remember that he said this lab did the
+formulations for the major brands sold. I will try to contact him
+and get the information if anyone is interested. But it did seem
+to me that he commented that specifications of the Mobil 1 exceeded
+the major brands. But we all know about specifications....
+
+Someone else commented about racing teams usage of oil. I called
+a driver for one of the CART teams that also runs IMSA and asked
+about thier oil changes. They use the oil until the rebuild. This
+isn't much time in the engine. For 24 hours events they will
+change the oil before the race. 
+
+
+From tom@mims-iris.waterloo.edu  Fri Aug 24 09:35:18 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09133); Fri, 24 Aug 90 09:35:18 CDT
+Received: from mims-iris.waterloo.edu by bcm.tmc.edu (AA00450); Fri, 24 Aug 90 09:39:00 CDT
+Received: by mims-iris.waterloo.edu
+	id <AA24791>; Fri, 24 Aug 90 14:40:16 GMT
+Date: Fri, 24 Aug 90 14:40:16 GMT
+From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+Message-Id: <9008241440.AA24791@mims-iris.waterloo.edu>
+X-Mailer: Mail User's Shell (6.4 2/14/89)
+To: porschephiles@bcm.tmc.edu (Porschephiles mailing list)
+Subject: Sigh...
+
+Sorry, there is too much traffic on this list, and not enough time for me.
+If I had the money to buy a Porsche it might be different, but...  Please
+remove me from the mailing list, for now at least.
+
+Incidentally, I have saved all the messages on this list since its inception.
+If anyone is interested in this archive, please let me know before I have to
+clean up my disk space again.  :)
+
+[ \tom haapanen --- university of waterloo --- tom@mims-iris.waterloo.edu ]
+[ "i don't even know what street canada is on"               -- al capone ]
+
+From wargo%cs@ucsd.edu  Fri Aug 24 09:46:15 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09288); Fri, 24 Aug 90 09:46:15 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA00605); Fri, 24 Aug 90 09:50:00 CDT
+Received: from odin.ucsd.edu by ucsd.edu; id AA16620
+	sendmail 5.64/UCSD-2.1-sun via SMTP
+	Fri, 24 Aug 90 07:49:55 -0700 for porschephiles@bcm.tmc.edu
+Received: by odin.UCSD.EDU (5.59/UCSDPSEUDO.3)
+	id AA19380 for porschephiles@bcm.tmc.edu; Fri, 24 Aug 90 07:49:54 PDT
+From: wargo%cs@ucsd.edu (Dave Wargo)
+Message-Id: <9008241449.AA19380@odin.UCSD.EDU>
+Date: 24 August 1990 0749-PDT (Friday)
+To: porschephiles@bcm.tmc.edu
+Subject: 
+
+Sorry to have to say this, but I am going to have to unsubscribe to
+this mailing list.
+
+I just don't have the time to have fun any more. This job is becoming
+too much like work........
+
+Thanks
+
+Dave Wargo
+
+From metaware!metaware.com!rickh@uunet.UU.NET  Fri Aug 24 12:31:44 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09701); Fri, 24 Aug 90 12:31:44 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA02400); Fri, 24 Aug 90 12:35:30 CDT
+Received: from metaware.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA05299; Fri, 24 Aug 90 13:35:25 -0400
+Received: by metaware.com (4.0/SMI-4.0)
+	id AA26397; Fri, 24 Aug 90 09:57:52 PDT
+Date: Fri, 24 Aug 90 09:57:52 PDT
+From: rickh@metaware.com (Rick Herrick)
+Message-Id: <9008241657.AA26397@metaware.com>
+To: porschephiles@bcm.tmc.edu
+Subject: 914 tranny problems
+
+I mailed a question a week or two ago about doing a rebuild on my
+transmission on a '75 914 2.0.  Most of the mail was kind of dis-
+couraging about doing a full rebuild.  So now I have a couple of
+other questions:
+
+	1) Many people refered to a 901 transmission.  Is this the
+	technical designation for the transmission I have?
+
+	2) I think I have narrowed the problem down to a bad first
+	gear synchro.  The problems I have include popping out of
+	first if I accelerate too quickly, and I can't put it in first
+	without grinding no matter how slow I'm going.  It'll only
+	go into first at a complete stop.  So does my diagnosis sound
+	correct?  And how difficult is it to replace just the synchro?
+	And where can I get these parts in Santa Cruz or the greater
+	Bay Area?
+
+Finally, does anyone have the address/phone # of the PCA branch in the
+Santa Cruz/Monterey Bay area?  I've seen some stuff about events, but
+I haven't been able to get in touch.
+
+					Thanx,
+
+                                          -Echo
+                                           The Potato-Salad-Eatin' Fool.
+INTERNET: rickh@metaware.com               AT&T: (408) 427-9814 home
+UUCP:     uunet!metaware!rickh             (408) 429-6382 x3086 work
+
+From stanh@wilkins.bcm.tmc.edu  Fri Aug 24 12:41:56 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09709); Fri, 24 Aug 90 12:41:56 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA02581); Fri, 24 Aug 90 12:45:37 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA00527); Fri, 24 Aug 90 12:41:44 CDT
+Date: Fri, 24 Aug 90 12:41:44 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008241741.AA00527@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: rickh@metaware.com
+Subject: Re:  914 tranny problems
+Cc: porschephiles@bcm.tmc.edu
+
+>The problems I have include popping out of first if I accelerate too quickly
+
+That actually sounds like worn/broken motor mounts! Be sure to check
+them, and if you're taking the engine+tranny out anyway, replace them
+if worn.
+
+>I can't put it in first without grinding no matter how slow I'm going
+
+That does sound like a synchro, but on 914's can also be a mis-adjusted
+clutch. My 914 has this annoying problem of the clutch adjustment "slipping"
+and needing to be re-done every two weeks or so if I'm driving it much.
+The first symptom: hard shifting into 2nd, and grinding on shifts into 1st.
+
+>where can I get these parts in Santa Cruz...
+
+I'd wander up to Santa Clara and drop in on Automotion. I usually do when
+I'm in the Bay Area anyway. 
+
+
+From bart@research.att.com  Fri Aug 24 12:50:34 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09737); Fri, 24 Aug 90 12:50:34 CDT
+Received: from research.att.com by bcm.tmc.edu (AA02659); Fri, 24 Aug 90 12:54:21 CDT
+Message-Id: <9008241754.AA02659@bcm.tmc.edu>
+From: bart@research.att.com
+Date: Fri, 24 Aug 90 13:53:26 EDT
+To: porschephiles@bcm.tmc.edu
+
+hey anyone out there in the great northwest?
+
+i'm curious to know what tracks there are besides portland, and
+how active the porsche club is there.
+
+From james@visual2.tamu.edu  Fri Aug 24 15:39:16 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA10657); Fri, 24 Aug 90 15:39:16 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA04737); Fri, 24 Aug 90 15:43:02 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA07298); Fri, 24 Aug 90 15:43:30 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA26050; Fri, 24 Aug 90 15:45:32 GMT-0600
+Date: Fri, 24 Aug 90 15:45:32 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008242145.AA26050@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Jese...
+
+
+Maybe people aren't interested in Porschetalk but clutter, on the other hand
+is *NOT* an excuse for unsubscribing...  
+
+
+My point is that by talking over the network like this we are saving trees.
+jWe are communicating in the hottest new medium of the decade.  It's so
+easy to delete e-mail and so hard to grow trees.  I'm sorry that people
+don't know when to hit the delete button but I'd rather do that then
+throw away unopened junk mail.
+
+James Saxon
+
+From kwatson@epad.mentor.com  Sat Aug 25 01:27:00 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13203); Sat, 25 Aug 90 01:27:00 CDT
+Received: from PORTAL.BCM.TMC.EDU by bcm.tmc.edu (AA07868); Sat, 25 Aug 90 01:30:38 CDT
+Received: from rutgers by bcm.uucp id aa27639; 25 Aug 90 2:10 EDT
+Received: from ogicse.UUCP by rutgers.edu (5.59/SMI4.0/RU1.3/3.07) with UUCP 
+	id AA01676; Fri, 24 Aug 90 23:20:02 EDT
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA11247; Fri, 24 Aug 90 20:12:25 -0700
+Received: by pdx.MENTOR.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA20596; Fri, 24 Aug 90 13:39:17 PDT
+Received: by epad.MENTOR.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA03310; Fri, 24 Aug 90 13:40:09 PDT
+Message-Id: <9008242040.AA03310@epad.MENTOR.COM>
+From: Keith Watson <kwatson@epad.mentor.com>
+Date: Fri, 24 Aug 90 13:40:04 PDT
+To: porschephiles@bcm.tmc.edu
+Subject: 911 shifting problems
+
+Stan Hanks mentioned:
+>That does sound like a synchro, but on 914's can also be a mis-adjusted
+>clutch. My 914 has this annoying problem of the clutch adjustment "slipping"
+>and needing to be re-done every two weeks or so if I'm driving it much.
+>The first symptom: hard shifting into 2nd, and grinding on shifts into 1st.
+
+My 911SC has shifting problems where: starting out in reverse can cause the
+car to shake until the clutch is all the way out, it is very difficult to
+consistently start out smoothly in 1st gear, shifting into 2nd gear is always
+stiff, and shifting into 3rd is very light and if done too fast will always
+grind.
+
+My mechanic said that the 2nd and 3rd gear problems are from a stiff 2nd gear
+synchro and a bad 3rd gear synchro.  I have not asked him about the car shaking
+in reverse and sometimes in 1st.  Could a lot of my problems be from the
+clutch?  (I dont know much about how cars work)
+
+From someone@jhunix.hcf.jhu.edu  Sat Aug 25 21:33:55 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13696); Sat, 25 Aug 90 21:33:55 CDT
+Received: from jhunix.hcf.jhu.edu by bcm.tmc.edu (AA10341); Sat, 25 Aug 90 21:37:41 CDT
+Message-Id: <9008260237.AA10341@bcm.tmc.edu>
+Received: from stdin (someone@jhunix.hcf.jhu.edu)
+          by jhunix.hcf.jhu.edu ; Sat, 25 Aug 90 22:29:42 EDT
+From: someone@jhunix.hcf.jhu.edu (Mike Benefield)
+Sender: someone@jhunix.hcf.jhu.edu
+Subject: unsubscribe me!!!
+To: porschephiles@bcm.tmc.edu
+Date: Sat, 25 Aug 90 22:29:41 EDT
+X-Mailer: ELM [version 2.3 PL3]
+
+As I asked three months ago, at least twice, UNSUBSRIBE ME.  After being
+away from my account for a few months a had a six meg mailbox.
+thank you.
+
+someone@jhunix.hcf.jhu.edu
+
+From stanh@wilkins.bcm.tmc.edu  Sun Aug 26 22:19:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA14327); Sun, 26 Aug 90 22:19:33 CDT
+Received: from WILKINS.BCM.TMC.EDU by bcm.tmc.edu (AA13894); Sun, 26 Aug 90 22:22:59 CDT
+Received: by wilkins.bcm.tmc.edu (AA14320); Sun, 26 Aug 90 22:19:07 CDT
+Date: Sun, 26 Aug 90 22:19:07 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008270319.AA14320@wilkins.bcm.tmc.edu>
+To: porschephiles@bcm.tmc.edu, someone@jhunix.hcf.jhu.edu
+Subject: Re:  unsubscribe me!!!
+
+If you'd asked, you'd have been un-subscribed already. I have
+on file *ONE* message from you, dated 24 April, asking to be
+added.
+
+Rest assured, this won't continue to be a problem.
+
+Stan
+
+From muenchen@ihlpm.att.com  Sun Aug 26 23:52:50 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA14442); Sun, 26 Aug 90 23:52:50 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA14584); Sun, 26 Aug 90 23:56:36 CDT
+Message-Id: <9008270456.AA14584@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Sun, 26 Aug 90 23:49 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 510 6353)
+To: autox@hoosier.utah.edu, porschephiles@bcm.tmc.edu
+Subject: How to extract mailer's EMail?
+
+	I wondered if anyone has a solution to the following problem:
+
+PROBLEM: I find it bothersome to have *lots* of EMail come in from
+a mailer, which gets mixed in with urgent, work-related Email 
+(in my mail box).  I need a way to quickly discriminate company mail 
+from mailer discussions.
+
+	As a technocrat, I first thought of a technical solution:
+create a filter to automatically sort thru my incoming EMail, so that 
+it redirects all incoming EMail from a mailer to an appropriate 
+folder/directory, for future perusal.  E.g., my machine would run 
+a process that extracts all incoming messages from the mailer, "autox" 
+(identified as originating from the known address, "autox@hoosier.utah.edu"),
+and places them into a separate file/folder for incoming autox mail.
+
+	This solution would provide me with separate EMail folders
+where I now have one (a slight disadvantage in overhead), but with
+the benefit of relieving me of the task of manually sorting thru 
+the mail (and organizing the mail into piles for each separate 
+subject area).
+
+	Any better ideas???  Let's share our "best practices."
+(There are probably also some useful procedural suggestions that 
+each of us employs, but I can't think of one at the moment).
+
+	I have toyed with the idea of creating such a program
+in "C" or UNIX shell script, since I receive my EMail via a 
+UNIX mainframe, with a UNIX- and MS-DOS-capable PC.  I am sure 
+that we use a variety of machines in our net (ain't it wonderful
+that they can *communicate*), but there should be some level
+of commonality to this solution that we could share.  At a minimum,
+if someone has developed such a tool, I could save some work by 
+reusing their design (e.g., sharing the pseudocode).
+
+	hmmm, this ought to be interesting!
+
+		Robert Duncan
+		AT&T Bell Labs, Naperville, IL
+		(708) 713-7181	    robert_l_duncan@ihlpm.att.com
+
+From carter@mustang.mst6.lanl.gov  Mon Aug 27 00:03:48 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA14456); Mon, 27 Aug 90 00:03:48 CDT
+Received: from mustang.mst6.lanl.gov by bcm.tmc.edu (AA14637); Mon, 27 Aug 90 00:07:35 CDT
+Received: by mustang.mst6.lanl.gov (5.57/Ultrix2.4-C)
+	id AA02646; Sun, 26 Aug 90 23:06:57 MDT
+Message-Id: <9008270506.AA02646@mustang.mst6.lanl.gov>
+From: carter@mustang.mst6.lanl.gov (Dave Carter)
+Date: Sun, 26 Aug 1990 23:06:54 MDT
+In-Reply-To: Robert L Duncan +1 708 510 6353's message of Sun, Aug 26
+Phone: (505) 665-2678
+X-Return-Receipt-To: carter@mst6.lanl.gov
+Reply-To: Dave Carter <carter@mst6.lanl.gov>
+X-Mailer: Mail User's Shell (7.1.1 5/02/90)
+To: ihlpm!muenchen@hoosier.utah.edu (Robert L Duncan +1 708 510 6353),
+        autox@hoosier.utah.edu, porschephiles@bcm.tmc.edu
+Subject: Re: How to extract mailer's EMail?
+
+Robert L Duncan +1 708 510 6353 writes on How to extract mailer's EMail?
+> 	I wondered if anyone has a solution to the following problem:
+> 
+> PROBLEM: I find it bothersome to have *lots* of EMail come in from
+> a mailer, which gets mixed in with urgent, work-related Email 
+> (in my mail box).  I need a way to quickly discriminate company mail 
+> from mailer discussions.
+
+try mush!
+
+					- dave
+
+From kent@wsl.dec.com  Mon Aug 27 12:09:23 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA19409); Mon, 27 Aug 90 12:09:23 CDT
+Received: from decpa.pa.dec.com by bcm.tmc.edu (AA19056); Mon, 27 Aug 90 12:13:08 CDT
+Received: by decpa.pa.dec.com; id AA10765; Mon, 27 Aug 90 10:12:40 -0700
+Received: by gilroy.pa.dec.com (5.57/4.7.34)
+	id AA11246; Mon, 27 Aug 90 10:12:19 PDT
+Received: by godzilla.pa.dec.com (5.57/4.7.34)
+	id AA01537; Mon, 27 Aug 90 10:12:33 -0700
+Message-Id: <9008271712.AA01537@godzilla.pa.dec.com>
+To: autox@hoosier.utah.edu, porschephiles@bcm.tmc.edu
+Subject: Re: How to extract mailer's EMail? 
+In-Reply-To: ihlpm!muenchen@hoosier.utah.edu's message of Sun, 26 Aug 90 22:53:02 -0600.
+             <9008270453.AA13905@cs.utah.edu> 
+Date: Mon, 27 Aug 90 10:12:31 PDT
+From: kent@wsl.dec.com
+
+I use a set of tools that are based around mh. Standard with mh is
+something called slocal; using this as a prefilter, you can direct mail
+into several inboxes based on header fields. I break all my car-related
+mail out this way, for example.
+
+That's a good start, but my mail reader (dxmail, but xmh has most of
+the same features) is also smart. I can tell it that certain folders
+have their own inboxes. It checks those files and tells me (visually)
+when I have mail there, and lets me easily incorporate the mail from
+the special inbox into the folder.
+
+I probably get 300 mail messages a day. I couldn't survive without
+tools like this (I don't just use it for car mail !-)
+
+chris
+
+From stanh@wilkins.bcm.tmc.edu  Wed Aug 29 16:53:05 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA13885); Wed, 29 Aug 90 16:53:05 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA13918); Wed, 29 Aug 90 16:56:54 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA03019); Wed, 29 Aug 90 16:52:54 CDT
+Date: Wed, 29 Aug 90 16:52:54 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9008292152.AA03019@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: Good news for those who lust after 944s
+
+According to AutoWeek, PCNA as announced a new program designed to
+move 1990 944S2's and 951s by offering attractive lease programs.
+I forget the bottom line on the 951, but you can now pick up 944S2
+leases for $499 a month.
+
+Plus the $1600/year insurance.... 8{)
+
+Stan
+
+From VitaM6!marciano@uunet.UU.NET  Wed Aug 29 18:29:39 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA15116); Wed, 29 Aug 90 18:29:39 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA14896); Wed, 29 Aug 90 18:33:22 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA07257; Wed, 29 Aug 90 19:33:16 -0400
+Message-Id: <9008292333.AA07257@uunet.uu.net>
+Date: Wed, 29 Aug 90 16:20:41 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Re: Good news for those who lust after 944s
+
+From: Stan Hanks <uunet!wilkins.bcm.tmc.edu!stanh@vitam6>
+
+>According to AutoWeek, PCNA as announced a new program designed to
+>move 1990 944S2's and 951s by offering attractive lease programs.
+>I forget the bottom line on the 951, but you can now pick up 944S2
+>leases for $499 a month.
+>
+>Plus the $1600/year insurance.... 8{)
+>
+>Stan
+
+$499 a month is affordable?  where do you work?  how can i get a job there? ;-)
+
+and, oh yeah, insurance always messes things up.
+
+/marciano
+
+From james@visual2.tamu.edu  Wed Aug 29 19:29:35 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA15429); Wed, 29 Aug 90 19:29:35 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA15169); Wed, 29 Aug 90 19:33:24 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA20866); Wed, 29 Aug 90 19:32:50 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA25196; Wed, 29 Aug 90 19:35:33 GMT-0600
+Date: Wed, 29 Aug 90 19:35:33 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9008300135.AA25196@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: I don't really want to know but...
+
+
+While we're on the subject of insurance... noting that Stan Hanks mentioned the $1600 price  
+tag for insurance on a new 944...
+
+I'm paying.....  $700/year for decent liability and good comp/coll $200/$500.  I'm 25.
+
+How does he do it you ask???  I live in College Station!!!
+
+Now then, what are some numbers from REAL CITIES as far as insurance goes...  I'll be moving  
+back to...  Los Angeles in a couple of months and I cringe at the depths to which I have been  
+spoiled in terms of rent and insurance but not food prices...
+
+James Saxon
+
+
+From muenchen@ihlpm.att.com  Thu Aug 30 00:34:27 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA15878); Thu, 30 Aug 90 00:34:27 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA16877); Thu, 30 Aug 90 00:38:15 CDT
+Message-Id: <9008300538.AA16877@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Thu, 30 Aug 90 00:32 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 713 7181)
+To: porschephiles@bcm.tmc.edu
+Subject: Re: 944 lust and insurance costs
+
+>>  According to AutoWeek, PCNA as announced a new program designed to
+>>  move 1990 944S2's and 951s by offering attractive lease programs.
+>>  I forget the bottom line on the 951, but you can now pick up 944S2
+>>  leases for $499 a month.
+>>  
+>>  Plus the $1600/year insurance.... 8{)
+
+	I have some good news to pass along on that front:
+State Farm has unusually LOW RATES FOR insuring PORSCHES.
+My rate is about $800/year, for a '87 944S in the Chicago area.
+If you're in the area, my agent (who passed on this good news 
+to Porsche owners some time ago) would be happy to give you
+a quote:  Manny Hoffman (Agency) at (708) 798-6479.
+
+	This has saved me hundreds of dollars (I haven't found 
+anything close), and the service there has been terrific 
+(e.g., they went out of their way to explain that they'd 
+reimburse me for a break-in under comprehensive coverage, 
+with no effect on my rates).
+
+	check it out!
+
+		Robert
+
+
+From 0003844665@mcimail.com  Thu Aug 30 10:21:03 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA22232); Thu, 30 Aug 90 10:21:03 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA19344); Thu, 30 Aug 90 10:24:52 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac05658;
+          30 Aug 90 11:16 EDT
+Date: Thu, 30 Aug 90 10:17 EST
+From: Jim Selders <0003844665@mcimail.com>
+To: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Cc: Kevin C Gross <0004056890@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Good news for those who lust after 944s
+Message-Id: <95900830151759/0003844665NB3EM@mcimail.com>
+
+951's aren't available in the U.S. any more.  I believe Autofreak said the <<S2
+Cabriolet>> was $599/month.  The coupe was $499.  Of course, there are an
+infinite variety of leases in the world, and you can't tell from the news blip
+what your equity and buy-out will be after 3-5 years.  If you're gonna pay big
+bucks, you should get something for it in the long run!
+
+Robert: thanks for the tip on State Farm rates.  Many people will be very glad
+for the information!  Here in MA, rates are set by law such that we pay very
+high rates and the insurance companies still have a net loss on auto policies. 
+Good system, huh?  We have the highest claim rate in the country (for comp &
+collision, I believe)!
+
+Anyone notice the Carrera 2/4 chase car in the Spa F1 race?  Looks like the 928
+is history.
+
+                JBS
+
+
+From muenchen@ihlpm.att.com  Thu Aug 30 12:04:11 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA23763); Thu, 30 Aug 90 12:04:11 CDT
+Received: from att-in.att.com by bcm.tmc.edu (AA20558); Thu, 30 Aug 90 12:07:59 CDT
+Message-Id: <9008301707.AA20558@bcm.tmc.edu>
+From: muenchen@ihlpm.att.com
+Date: Thu, 30 Aug 90 11:34 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 708 713 7181)
+To: porschephiles@bcm.tmc.edu
+Subject: Lease & Insurance rates, 911 chase car
+
+In response to Jim Selders:
+>  ... infinite variety of leases in the world, and you can't tell from 
+>  the news blip > what your equity and buy-out will be after 3-5 years.  
+>  If you're gonna pay big bucks, you should get something for it in 
+>  the long run!
+
+	Good point.  Sorta like ads with "only $199 a month!" and no mention
+of other important facts like, say, how *many* months.  ;-)
+
+
+>  Robert: thanks for the tip on State Farm rates.  Many people will be 
+>  very glad for the information!  Here in MA, rates are set by law such 
+>  that we pay very high rates and the insurance companies still have a 
+>  net loss on auto policies. 
+
+	This does not make sense: How could auto insurance agencies afford 
+to stay in business??  Why wouldn't they leave if they suffer a "net loss"?
+Reminds me that some agencies wanted to leave CA after their referendum to
+(quasi-legally) freeze rates, but I don't know what happened - was it a
+threat, or real.  Seems that the public can't legally mandate that a 
+company stay in business *and* not earn a profit.  (fiscal suicide).
+
+
+>>  Anyone notice the Carrera 2/4 chase car in the Spa F1 race?  
+
+	Yes!!  Brilliant red!  It'd make a great lead car for Indy,
+wouldn't it?  Now that car could set a quick pace lap.  Hell, why
+not pull out all of the stops and run a 959, so that the Indy cars
+don't have to worry about fouling their plugs by running so slow.  :-)
+
+	Robert
+
+
+From zursch%large.wpd.sgi.com@SGI.COM  Thu Aug 30 12:54:00 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24043); Thu, 30 Aug 90 12:54:00 CDT
+Received: from SGI.COM by bcm.tmc.edu (AA21192); Thu, 30 Aug 90 12:57:44 CDT
+Received: from whizzer.wpd.sgi.com by SGI.COM via SMTP (5.64-bind 1.5+ida/900410.SGI)
+	for porschephiles@bcm.tmc.edu id AA09259; Thu, 30 Aug 90 10:57:38 -0700
+Received: from large.wpd.sgi.com by whizzer.wpd.sgi.com via SMTP (5.64-bind 1.5+ida/900721.SGI)
+	for sgi.sgi.com!bcm.tmc.edu!porschephiles id AA25695; Thu, 30 Aug 90 10:57:27 -0700
+Received: by large.wpd.sgi.com (5.52/900423.SGI)
+	for @whizzer.wpd.sgi.com:porschephiles@bcm.tmc.edu id AA03831; Thu, 30 Aug 90 10:57:52 PDT
+Date: Thu, 30 Aug 90 10:57:52 PDT
+From: zursch%large.wpd.sgi.com@SGI.COM (Kid Redshift)
+Message-Id: <9008301757.AA03831@large.wpd.sgi.com>
+To: muenchen@ihlpm.att.com, porschephiles@bcm.tmc.edu
+Subject: Re:  Lease & Insurance rates, 911 chase car
+
+	From muenchen@ihlpm.att.com  Thu Aug 30 10:10:01 1990
+	
+	This does not make sense: How could auto insurance agencies afford 
+	to stay in business??  Why wouldn't they leave if they suffer a "net loss"?
+	Reminds me that some agencies wanted to leave CA after their referendum to
+	(quasi-legally) freeze rates, but I don't know what happened - was it a
+	threat, or real.  Seems that the public can't legally mandate that a 
+	company stay in business *and* not earn a profit.  (fiscal suicide).
+
+
+They do it because the vast majority of people who insure their cars also 
+insure their homes, and unless you had big losses in the earthquake, 
+homeowners insurance in California is a HUGE moneymaker. My dad recently
+shopped his auto insurance around, and no one was interested in his business
+unless he also switched his homeowners insurance......
+
+Plus I suspect that innovative accounting measures also contribute to the 
+Insurance companies' decisions to stay in business while claiming massive
+losses......
+
+JZ
+        ``Phlugenhaven! Einrachenbrassen das Fahrvergnugen en zie
+                 Vessenhollenpratenraugur Burgermeister!''
+
+
+
+
+From 0003844665@mcimail.com  Thu Aug 30 13:59:53 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24548); Thu, 30 Aug 90 13:59:53 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA22020); Thu, 30 Aug 90 14:03:41 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa09266;
+          30 Aug 90 15:01 EDT
+Date: Thu, 30 Aug 90 13:57 EST
+From: Jim Selders <0003844665@mcimail.com>
+To: muenchen <muenchen@ihlpm.att.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Lease & Insurance rates, 911 chase car
+Message-Id: <62900830185726/0003844665NB1EM@mcimail.com>
+
+
+Yes, the 951 is a 944 Turbo.  And 931 == 924 Turbo, and 930 == 911 Turbo, and
+965 would've == 964 twin turbo but it was cancelled.
+
+Insurance companies in MA offer auto policies at a loss because by law, if they
+want to sell *any* insurance in MA, they must offer all types.  So the auto
+losses are subsidized by people who buy other forms of insurance.  If an
+insurance company wants to terminate operations here, they end up paying a big
+fine/buy-out to the state coffers.
+
+Yah, a 959 would be a great Indy pace car.  Too bad they're so rare and Porsche
+is having such a tough time in Indy racing.  Hey, maybe they'd sell a few
+hundred 959's the next morning after the race?!
+
+                JBS
+
+
+
+From bowers@elxsi.dfrf.nasa.gov  Thu Aug 30 14:17:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24785); Thu, 30 Aug 90 14:17:33 CDT
+Received: from ames.arc.nasa.gov by bcm.tmc.edu (AA22222); Thu, 30 Aug 90 14:21:20 CDT
+Received: from elxsi.dfrf.nasa.gov by ames.arc.nasa.gov (5.64/1.2); Thu, 30 Aug 90 12:21:07 -0700
+Received: by elxsi.dfrf.nasa.gov (5.51/5.17)
+	id AA00476; Thu, 30 Aug 90 12:20:40 PDT
+Date: Thu, 30 Aug 90 12:20:40 PDT
+Message-Id: <9008301920.AA00476@elxsi.dfrf.nasa.gov>
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: Lease & Insurance rates...
+To: porschephiles@bcm.tmc.edu
+
+>>From muenchen@ihlpm.att.com  Thu Aug 30 10:10:01 1990
+ 
+>>This does not make sense: How could auto insurance agencies afford
+>>to stay in business??  Why wouldn't they leave if they suffer a "net loss"?
+>>Reminds me that some agencies wanted to leave CA after their referendum to
+>>(quasi-legally) freeze rates, but I don't know what happened - was it a
+>>threat, or real.  Seems that the public can't legally mandate that a
+>>company stay in business *and* not earn a profit.  (fiscal suicide).
+ 
+[deleted]
+ 
+>Plus I suspect that innovative accounting measures also contribute to the
+>Insurance companies' decisions to stay in business while claiming massive
+>losses......
+ 
+Innovative accounting doesn't even begin to cover it.  The companies are
+required by law to show quarterly fiscal reports.  What they do not report is
+income from the investments they make with the money that you and I give them.
+Now, I am not against them making a profit from me, I am not even against
+mandatory liability insurance, but I am against them stealing me blind and
+screaming that they are losing money on me!  In the past 12 years I have
+_never_ filed a claim against my policy.  Not one penny was paid out to anyone
+from my policy.  And yet in any 3 to 4 year period you could buy my cars with
+what I pay my insurance company (that is `cars', plural).  BTW, if I `finance'
+it with them I get a great 21.9% interest rate, and of course that cost is not
+reportable under insurance because it is the finance charge...
+ 
+Sorry, I know this doesn't have anything to do with Porsche's, but I just
+happened to have a soapbox handy...
+ 
+Just another opinion...
+ 
+Al Bowers
+
+From 0004056890@mcimail.com  Fri Aug 31 00:32:16 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28413); Fri, 31 Aug 90 00:32:16 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA27159); Fri, 31 Aug 90 00:36:04 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac04408;
+          31 Aug 90 1:28 EDT
+Date: Fri, 31 Aug 90 00:21 EST
+From: Kevin C Gross <0004056890@mcimail.com>
+To: muenchen <muenchen@ihlpm.att.com>
+Cc: Jim Selders <0003844665@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Lease & Insurance rates, 911 chase car
+Message-Id: <85900831052158/0004056890NB4EM@mcimail.com>
+
+The way the insurance companies survive in Mass. is by making obscene profits on
+other kinds of insurance.  Mass. won't let 'em sell any insurance without
+selling auto insurance.  In fact, through some finagling they've barred some
+companies from altogether leaving the state.  I don't remeber exactly what it
+was; perhaps someone else does.
+
+KG
+
+From white@inf.ethz.ch  Fri Aug 31 01:39:44 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28525); Fri, 31 Aug 90 01:39:44 CDT
+Received: from chx400.switch.ch by bcm.tmc.edu (AA27355); Fri, 31 Aug 90 01:43:31 CDT
+Received: by chx400.switch.ch (5.61/Ultrix2.4-C)
+	id AA19739; Fri, 31 Aug 90 08:44:57 +0200
+Date: 31 Aug 90  8:40 +0200
+From: RJ White <white@inf.ethz.ch>
+To: porschephiles@bcm.tmc.edu
+Message-Id: <9008310640.AA17683@orion.inf.ethz.ch>
+Subject: insurance and gas
+
+This doesn't really belong here, but...
+For any Canadians out there, insurance companies are now required by law
+to charge full coverage for car insurance *including* cars in storage.
+I have a couple cars stored in Canada, (including my Porsche 912)
+when I heard of this.  I used to have just fire and theft in the winter.
+(for around .... $40 for 6 months.  hahahaha.  and < $20 for my OPEL GT )
+
+Anyway, if you are with State Farm, they now have this deal to keep their
+customers from getting too pissed off, where if you sign a form stating
+you will *not* drive this car, then they still charge you full coverage,
+but for a reduced rate on all the individual charges.
+I don't know if this applies to other insurance companies, and I don't know
+how much of a reduction it is yet (I'm in Switzerland, they're in Canada
+and the money magically dissappears out of a Canadian account of mine)
+but if you have a car stored in Canada, you may want to check out State Farm.
+
+while I think of it...gas!  I think that leaded gas is now extinct in Canada.
+They were going to do this a year ago and didn't, but I think they have now.
+Can someone confirm this?  Sunoco was advertising that their great new
+super-duper unleaded can be used in any car requiring leaded high octanes.
+I don't really believe this.  Any comments or knowledge about this?
+Are there any Canadians on this list with old Porsches?  what do you do now?
+Use lead additives?  My 912 is a 1968 which I think wants leaded 96 octane.
+	-rj
+
+From N025BQ@tamvm1.tamu.edu  Fri Aug 31 08:37:56 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA29094); Fri, 31 Aug 90 08:37:56 CDT
+Received: from TAMVM1.TAMU.EDU by bcm.tmc.edu (AA28546); Fri, 31 Aug 90 08:41:42 CDT
+Message-Id: <9008311341.AA28546@bcm.tmc.edu>
+Received: from TAMVM1.TAMU.EDU by tamvm1.tamu.edu (IBM VM SMTP R1.2) with BSMTP id 0201; Fri, 31 Aug 90 08:41:52 CDT
+Received: from TAMVM1 (N025BQ) by TAMVM1.TAMU.EDU (Mailer R2.03B) with BSMTP id
+ 8229; Fri, 31 Aug 90 08:41:50 CDT
+Date:         Fri, 31 Aug 90 08:36:03 CDT
+From: "David K. Boyd" <N025BQ@tamvm1.tamu.edu>
+Subject:      Octane...
+To: porschephiles@bcm.tmc.edu
+
+Regarding the requirement for 96 octane:
+
+Unless things have changed, the octane requirement that manufacturers
+print in owners' manuals doesn't use the same rating system that is
+used to determine the number printed on the side of the pump.  If my
+understanding of the situation is correct, 96 should correspond roughly
+to 92 or 93 pump octane, so present super-unleaded should be okay.  The
+lead is another matter entirely, and it's one of those hot-debate things.
+
+My older car was designed for leaded gas, and the rebuild on the engine
+was done before the disappearence of lead was anticipated so we didn't
+go to hardened valve seats...20/20 hindsight is annoying sometimes.
+
+It's a '59 Mercedes sedan, though, so it doesn't get the same type of
+driving that a Porsche does.  What happens to an engine designed for
+lead that is run without it depends very much on the load placed on the
+engine.  A gently driven engine shows few signs of increased wear when
+run on unleaded, but one from which lots of power is demanded (one test
+I've seen was on tractor engines) will show significant recession of the
+valve seats.
+
+David Boyd
+
+From 0003844665@mcimail.com  Fri Aug 31 09:39:39 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA29631); Fri, 31 Aug 90 09:39:39 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA29433); Fri, 31 Aug 90 09:43:23 CDT
+Received: by NRI.NRI.Reston.VA.US id ab04767; 31 Aug 90 10:39 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab04665;
+          31 Aug 90 10:33 EDT
+Date: Fri, 31 Aug 90 09:30 EST
+From: Jim Selders <0003844665@mcimail.com>
+To: RJ White <white@inf.ethz.ch>
+Cc: Kevin C Gross <0004056890@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: insurance and gas
+Message-Id: <42900831143024/0003844665NB2EM@mcimail.com>
+
+My understanding of the gas/lead situation is identical to David Boyd's.  Your
+alternatives are to modify the head (valves & seats), find leaded racing gas, or
+use a lead additive ($$$).  You can probably get away with doing nothing for
+awhile - depends on if you track the car of drive hard & fast, i.e., hot and
+with high revs.
+
+Interesting how Canada requires you to pay for coverage you don't need when the
+car's in storage.  This is bogus!  Can you drop the auto coverage and get a
+personal property insurance plan?  Maybe it'll be cheaper.
+
+                JBS
+
+
+From kent@wsl.dec.com  Fri Aug 31 11:44:53 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA01664); Fri, 31 Aug 90 11:44:53 CDT
+Received: from decpa.pa.dec.com by bcm.tmc.edu (AA01675); Fri, 31 Aug 90 11:48:41 CDT
+Received: by decpa.pa.dec.com; id AA20225; Fri, 31 Aug 90 09:48:29 -0700
+Received: by gilroy.pa.dec.com (5.57/4.7.34)
+	id AA02888; Fri, 31 Aug 90 09:48:27 PDT
+Received: by godzilla.pa.dec.com (5.57/4.7.34)
+	id AA07472; Fri, 31 Aug 90 09:48:25 -0700
+Message-Id: <9008311648.AA07472@godzilla.pa.dec.com>
+To: "David K. Boyd" <N025BQ@tamvm1.tamu.edu>
+Cc: porschephiles@bcm.tmc.edu
+Subject: Re: Octane... 
+In-Reply-To: n025bq@tamvm1.tamu.edu's message of Fri, 31 Aug 90 08:36:03 -0500.
+             <9008311341.AA28546@bcm.tmc.edu> 
+Date: Fri, 31 Aug 90 09:48:23 PDT
+From: kent@wsl.dec.com
+
+Hmm. I just saw an ad for "TK7 lead substitute and power booster". They
+make outrageous claims, of course ("improves valve recession up to
+429%"). I've been using Red Line lead sub in my 1967 triumph (which
+wants lead and high octane and gets driven hard) just because I trust
+the folks at Red Line. I haven't had the head off to see how it's doing lately.
+
+Anyone know about TK7, or have hard facts about lead substitutes in
+general? Over on the britcars list, there was a report of an article in
+a British mag that says that none of them really do any good -- if you
+run your engine beyond 3500 rpm on a regular basis, your valve seats
+will recede. Anyone know anything to the contrary?
+
+(Bay Area readers, I have a list of local suppliers of leaded race gas
+and one supplier of leaded premium, if you're interested. Send me mail directly.)
+
+chris
+
+From 0003844665@mcimail.com  Fri Aug 31 15:57:55 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA03655); Fri, 31 Aug 90 15:57:55 CDT
+Received: from NRI.RESTON.VA.US by bcm.tmc.edu (AA05367); Fri, 31 Aug 90 16:01:44 CDT
+Received: by NRI.NRI.Reston.VA.US id ab11969; 31 Aug 90 16:57 EDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae11938;
+          31 Aug 90 16:52 EDT
+Date: Fri, 31 Aug 90 15:52 EST
+From: Jim Selders <0003844665@mcimail.com>
+To: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: 944 master cylinder rebuild
+Message-Id: <84900831205248/0003844665NB3EM@mcimail.com>
+
+
+Anybody out there ever done a rebuild on a 944 (turbo, but that shouldn't
+matter) master cylinder?  I'm about to do one and would like to hear tales of
+misfortune.  I've got the ATE (Teves) parts.
+
+                JBS
+
+

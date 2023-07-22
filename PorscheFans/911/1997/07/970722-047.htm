@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: What's up with this listserver ?  </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="patrick@namesecure.com">
+  <META NAME="MsgPropFrom" CONTENT="rpark@dev.hcsd.hac.ca (Ross Parker)">
+  <META NAME="MsgPropSubject" CONTENT="Re: What's up with this listserver ?">
+  <META NAME="MsgPropDate" CONTENT="Tue, 22 Jul 1997 12:46:37 -0700">
+  <META NAME="MsgPropCc" CONTENT="Chris Cope <chrisc@flatland.dimensional.com>, 911@porschefans.com">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<Pine.BSI.3.95.970722114621.22587A-100000@po1.namesecure.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">patrick@namesecure.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">rpark@dev.hcsd.hac.ca (Ross Parker)</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: What's up with this listserver ?</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 22 Jul 1997 12:46:37 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">Chris Cope &lt;chrisc@flatland.dimensional.com&gt;, 911@porschefans.com</td></tr>
+</table>
+<pre>
+Patrick,
+
+> > First, Internet email works on what's called a "store-and-forward" system.
+> 
+> 10 or 15 years ago this was much more prevelant(UUCP), however this is
+> definitely *not* the most common method of mail delivery today(SMTP.)
+
+Take a look at the message headers for ANY PFans message. You'll probably
+see at least 4 if not more different hosts that each message passes through
+from the originator's desk to yours. This is most definately a store and
+forward system.
+
+SMTP is the protocol between mail transfer agents (MTAs) - it neither
+precludes nor necessitates store and forward. In practice, though, 'most'
+email being delivered on the net is making long-distance hops using sendmail.
+Unless you have a *direct* network connection to the receiving host (highly
+unlikely) for each message you send, it's most definately stored and
+forwarded. It is in the case of EVERY message being sent to porschefans.com,
+as their upstream site is pacbell.net, which runs sendmail 8.8.5.
+
+> > In the event of a failure in the "forward" part of that, the forwarding
+> > system just hangs on to it and after some predetermined amount of time
+> > (usually 1/2 hour or 1 hour) it will go through stored messages again and
+> > try to reforward what it's got.
+> 
+> There shouldn't be any "re-forwarding." Once a message is delivered to
+> primary or secondary MX, it is deleted from the local queue(or at least it
+> *should* be.)
+
+'Should' is the key word. The software on the PFans site is screwed and is
+accepting the message from the upstream site AND cutting off the connection
+in such a way as to make that site believe the message was not successfully
+forwarded - and hence it is NOT deleted from the local queue.
+
+Again, look at email headers for confirmation of this - you'll see that the
+original message (take 'Frank and Louann's for example) was originated on
+Saturday at 10:03 am (-0600). It arrived (after being stored and forwarded
+on two intermediate sites) at mail-gw2.pacbell.net on Sunday at 8:19 (-0700).
+Since then, mail-gw2.pacbell.net has been sending the same message (SAME
+message-id, even the same Sendmail id) out at regular intervals.
+
+I.e., the message is not being removed from pacbell.net's spool directory,
+yet PFans IS receiving it and forwarding it. The only situation where this
+will happen is if pacbell.net is receiving an error while forwarding the
+message on.
+
+This exact situation happened about 4 months ago (it was MUCH worse then),
+and I had numerous conversations with the pacbell sys admins as well as
+the PFans admin people. What I've described is exactly what was happening
+then... I can't see why it would be different now.
+
+> The possiblity for looping does exist when the primary
+> thinks the secondary is the final destination, and the secondary thinks
+> the primary is. It gets real ugly real fast...
+
+Been there, done that... have the war wounds ;^)
+
+> > The KEY thing is that upon failure of any kind, the receiving system should
+> > NOT try to forward the message on to the next hop, but should instead just
+> > remove it from it's spool area (the system upstream will send it again).
+> 
+> This is incorrect. Unless there is a failure to deliver to both primary
+> and secondary MX, there won't be any mail for the system upstream to send
+> again. The upstream doesn't care if it got Primary or Secondary MX, as
+> long as it got one of them...
+
+Nope... I said the 'receiving' system - sorry for switching terms mid-stream.
+What I mean in this case is if the PFans site is in the middle of receiving
+a message, something screws up so that PFans cuts off the connection to
+the *sender* of the message (eg. pacbell.net in this case), PFans should NOT
+then go ahead and forward the message on because pacbell.net is certainly
+going to try sending again, having just had a broken connection in the
+middle of forwarding!
+
+
+> Sorry for the non-Porsche related post, but this mis-information really
+> bugged me...
+
+Likewise, and likewise.
+
+We should take this OFF porschefans should there be any further discussion!
+
+Cheers,
+
+Ross
+--
+Ross Parker            |      UNIX Sys Admin, PERL and C toolsmithing,
+Senior Consultant      |     Networking and security, CGI applications.
+Parkridge Systems Inc. |
+                       | Words to live by:
+rpark@dev.hcsd.hac.ca  |   You're never too old to have a happy childhood!
+
+
+
+.
+</pre>
+</BODY></HTML>

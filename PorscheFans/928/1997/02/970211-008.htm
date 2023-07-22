@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  The Duplicate Problem</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="PorscheFans-928@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="David Kelly <dkelly@HiWAAY.net>">
+  <META NAME="MsgPropSubject" CONTENT="The Duplicate Problem">
+  <META NAME="MsgPropDate" CONTENT="Tue, 11 Feb 1997 09:56:18 -0600 (CST)">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">PorscheFans-928@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">David Kelly &lt;dkelly@HiWAAY.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">The Duplicate Problem</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 11 Feb 1997 09:56:18 -0600 (CST)</td></tr>
+</table>
+<pre>
+Look at the following headers from the problem mail:
+
+> From daemon Tue Feb 11 06:27:22 1997
+> Received: from www.ioio.com by fly.HiWAAY.net; (8.8.4/1.1.8.2/21Sep95-1003PM)
+>	id GAA28147; Tue, 11 Feb 1997 06:27:21 -0600 (CST)
+
+Above is how I got the message
+
+> Received: from hupa.snfc21.pbi.net by www.porschefans.com (NTList 3.02.12) id fa423051; Tue, 11 Feb 1997 04:19:35 -0800
+
+Above is how www.porschefans.com got the message
+
+> Received: from ns (ns.norwich.net [206.28.130.2]) by hupa.snfc21.pbi.net (8.8.4/8.7.1) with SMTP id QAA17358; Sat, 8 Feb 1997 16:24:02 -0800 (PST)
+
+And above is part of the problem. Sendmail 8.8.4/8.7.1 keeps resending
+the message, possibly because NTList 3.02.12 is not properly acking
+receipt.
+
+> Received: from thevagli by ns via ESMTP (951211.SGI.8.6.12.PATCH1042/940406.SGI)
+> 	 id TAA29489; Sat, 8 Feb 1997 19:31:58 -0500
+> Message-Id: <199702090031.TAA29489@ns>
+
+I haven't been bothered with the multiple mailings in the past
+because I filter on the above line (which is idtentical in all
+the duplicates) and discard the dups locally.
+
+--
+David Kelly N4HHE, dkelly@tomcat1.tbe.com (wk), dkelly@hiwaay.net (hm)
+======================================================================
+The human mind ordinarily operates at only ten percent of its
+capacity -- the rest is overhead for the operating system.
+
+==================================
+PorscheFans 928 Message
+To post a message, send e-mail to 928@PorscheFans.com
+.
+</pre>
+</BODY></HTML>

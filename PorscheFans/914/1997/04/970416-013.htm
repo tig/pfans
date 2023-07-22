@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: 2.0L distributor (FI) (fwd)</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="914@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="'Andrew Warren' <fastfwd@ix.netcom.com>">
+  <META NAME="MsgPropSubject" CONTENT="Re: 2.0L distributor (FI) (fwd)">
+  <META NAME="MsgPropDate" CONTENT="Wed, 16 Apr 1997 14:08:46 -0800">
+  <META NAME="MsgPropOrganization" CONTENT="Fast Forward Engineering">
+  <META NAME="MsgPropIn-reply-to" CONTENT="<Pine.LNX.3.91.970416132237.1460D-100000@dsprinkle.engine.swri.edu>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">914@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Andrew Warren &lt;fastfwd@ix.netcom.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: 2.0L distributor (FI) (fwd)</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Wed, 16 Apr 1997 14:08:46 -0800</td></tr>
+</table>
+<pre>
+David Sprinkle <david@dsprinkle.engine.swri.edu> wrote:
+
+> That thing's a rev-limiter.  It flies out and shorts the spark at
+> about 6500 rpm or so (I think that's the right number; I'm sure
+> someone will correct me)
+
+Dave:
+
+The 4-cylinder 914 motors redline at (I think) 5600 RPM, so the 
+rev-limiter should be set right around there.
+
+You can buy the rev-limiting rotors preset to just about any
+limit... When Jerry buys a replacement, he should make sure it's
+calibrated for the correct speed.
+
+By the way, someone characterized the rev-limiting rotor's 
+response time (1-2 Hz) as "fast".  Actually, it's significantly 
+slower than most electronic limiters.
+
+This is a GOOD thing (assuming that the rev-limit isn't set right at
+to the point where the engine will explode)... Many electronic
+limiters are so sensitive that they will cut the spark to one
+cylinder, then allow it to fire on the next, and continue in this
+pattern for as long as the keep your foot on the throttle.
+
+If you run the engine for any amount of time on one of those
+electronic limiters, two bad things happen:  1) gasoline washes down 
+the sides of half your cylinders, cleaning them of oil and 
+incrementally increasing wear, and 2) those cylinders load up with 
+fuel and don't re-fire cleanly when you get off the limiter.
+
+A mechanical limiter (like the rotor) tends to cut the spark more 
+randomly, so no one cylinder (or set of cylinders) runs for very long 
+without a spark.
+
+Those of us who write rev-limiter software for a living and CARE
+about what happens to our end-users' engines generally try to either
+cut the spark pseudo-randomly or cut it in a fixed pattern that will
+tend to distribute the missed spark among all the cylinders equally.
+
+It's always a compromise, though... For instance, cutting the spark
+from every third cylinder works well on 2-, 4-, and 8-cylinder
+engines, but it's a problem on 6- and 12-cylinder motors. Cutting
+every seventh spark distributes well over all engines, but it doesn't
+limit engine speed very well.  Cutting every fifth spark works for 
+all engines except Audi 5-cylinders and the V-10s in some Chrysler 
+products, and usually slows the engine enough to keep it at the 
+rev-limit.  To protect against the case where cutting one spark out 
+of five ISN'T enough to keep the engine from over-revving, there's 
+usually a failsafe that kicks in and cuts more sparks if the engine 
+keeps accelerating.
+
+-Andy
+
+=== Andrew Warren - fastfwd@ix.netcom.com
+=== Fast Forward Engineering - Vista, California
+===
+=== For sale: 73 914-6 w/ 2.7 Euro Carrera RS motor.
+=== Info at http://www.geocities.com/SiliconValley/2499
+.
+</pre>
+</BODY></HTML>

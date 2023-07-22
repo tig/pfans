@@ -1,0 +1,4693 @@
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Tue, 1 May 90 12:42:18 EDT
+To: Patty Winter <winter@apple.com>
+Subject: Re: 944 air intake
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of Apr 30, Patty Winter:]
+> 
+> Alan--
+> 
+> Uh, exactly how low *is* the air intake on a 944? And does anyone
+> know whether it's the same on a Turbo (which has a different air
+> dam design)? (My particular car is an 1986, if that matters.)
+> 
+> 
+> Patty
+  [end of included note]
+
+
+
+Exactly the same hole in the inner fender on all 944s, I believe....
+
+S
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: bart@research.att.com
+Date: Tue, 1 May 90 13:24:33 EDT
+To: porschephiles@bcm.tmc.edu
+
+sign me up!
+
+i'm in nnjr/pca (nothern new jersey) and currently run an '89
+951.
+
+i instruct at pca (and sometimes other) driver education events
+in the northeast - northeast meaning from charlotte to mt tremblant -
+maybe 10 times a year.
+
+besides my obvious interest in the current hot setups for 951, tires,
+etc, i'm also bitterly interested in when the hell porsche will comes
+out with another mid-engined car.  when do we get a 904 for the 90's??
+
+bart locanthi
+(201) 582-5499
+bart@research.att.com
+
+-----------------------
+
+Date: Tue, 1 May 90 14:22:31 EDT
+From: edudley@rodan.acs.syr.edu (Eliot W Dudley)
+To: porschephiles@bcm.tmc.edu
+
+
+I can only assume that the spectre of 3100 lb $70,000 monster cars
+made bart locanthi ((201) 582-5499 bart@research.att.com) write:
+>besides my obvious interest in the current hot setups for 951, tires,
+>etc, i'm also bitterly interested in when the hell porsche will comes
+>out with another mid-engined car.  when do we get a 904 for the 90's??
+
+I've always been dissappointed that the 924 was so practical.  Surely
+by splitting the engine/clutch from the transaxel they gained a lot
+of usable space and a 100 pounds of glass to hold the back end down,
+but I still feel a water-cooled mid-engined design was within grasp,
+using all the same off-the-shelf stuff that made the 924 possible.
+With a longitudinal engine uncrowded by the front wheels there would
+have been room for sophisticated exhaust sytems, turbos, intercoolers,
+inboard brakes, the works.
+
+There must have been some serious consideration given to this tack,
+I should imagine, since such a vehicle would have been true to the
+Doctor's 1930's F1 designs.
+
+Eliot W. Dudley                       edudley@rodan.acs.syr.edu
+3388 NYS RT 370 E
+Cato, New York   13033                315 437 0215
+
+-----------------------
+
+From: bart@research.att.com
+Date: Tue, 1 May 90 14:34:01 EDT
+To: porschephiles@bcm.tmc.edu
+
+which 3100 lb $70K monster car are we talking about here?  the '91
+911 turbo?  does anyone know what the internal designation is for
+this car, or for that matter the carrera 2?  all i know about is
+the 964 carrera 4.
+
+>I can only assume that the spectre of 3100 lb $70,000 monster cars
+>made bart locanthi ((201) 582-5499 bart@research.att.com) write:
+
+listen, girly man :), believe me know when i tell you that porsche
+was fearful of the way 951's kept beating on 930's on the track.  gosh,
+a derivative of the lowly 924 ... we'll just have to cancel that model
+and meanwhile come up with a 930 replacement that will beat a 951..
+
+
+-----------------------
+
+From: bart@research.att.com
+Date: Tue, 1 May 90 14:40:17 EDT
+To: porschephiles@bcm.tmc.edu
+
+stan hanks <stanh@meyerhof.bcm.tmc.edu> is probably right:
+>My guess is that Porsche would tell you that the 904 for the
+>'90's is either a re-fit 914, or an MR2...  8-)/2....
+
+i still recall the original ad for the 914 in 1969:  "if there's
+one thing years of racing has taught us, it's where to put the
+engine."
+
+methinks a similar ad would read something like: "if there's one
+thing selling to gold chained mba's has taught us, it's where
+to LEAVE the engine.."
+
+-----------------------
+
+Date: Tue, 1 May 90 13:51:25 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: bart@research.att.com, porschephiles@bcm.tmc.edu
+Subject: mid-engine mania
+
+I still like the old T-shirt:
+
+	"Sure, Porsche made cars without mid-engines,
+
+
+        but who the hell cares????"
+
+
+Stan
+
+-----------------------
+
+From: bart@research.att.com
+Date: Tue, 1 May 90 14:54:22 EDT
+To: porschephiles@bcm.tmc.edu
+
+# BTW, I can't find anything but VR and ZV tires in my size (205-55 and 225-50
+# by 16). Not clear that I would buy them if I could, but there is some 
+# attractiveness to the tread life of HR tires...
+# 
+# Stanley P. Hanks      Director, Information Technology Planning and Development
+
+seems to me that goodyear euro gatorbacks have treadwear ratings of something
+like 220 for ZR tires.  i wouldn't complain - then again i won't run them on
+the track for fear of chunking..
+
+-----------------------
+
+Date: Tue, 1 May 90 14:27:08 -0700
+From: Patty Winter <winter@apple.com>
+To: porschephiles@bcm.tmc.edu
+Subject: Wind vibration in 944
+
+
+I had the sunroof completely off my 944 the other day (actually
+a 951, but for this question it doesn't matter) and noticed
+something interesting about the wind effects.
+
+
+The other day, I had removed the sunroof and was driving with the
+driver's window down, but I wanted to hear something on the radio so 
+I rolled up the window. Immediately, the car felt like it was being
+buffeted. Although it wasn't windy inside in terms of my hair being
+blown around, there was a lot of change in pressure that I could feel
+in my ears. And the windows seemed to be shaking.
+
+Naturally, I immediately lowered the window a little ways, and the
+pressure evened out.
+
+Has anyone else encountered this? It seems like something the
+Porsche engineers should have caught. Or is it an inevitable effect
+of driving any car with windows closed and sunroof off? (It doesn't
+happen when the snrf is just ajar; only when it's totally removed.)
+
+
+
+Patty
+
+***************************************************************************** 
+Patty Winter N6BIS                        INTERNET: winter@apple.com
+AMPR.ORG: [44.4.0.44]                     UUCP: {decwrl,nsc,sun}!apple!winter
+***************************************************************************** 
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Tue, 1 May 90 18:48:27 EDT
+To: bart@research.att.com
+Cc: porschephiles@bcm.tmc.edu
+
+> listen, girly man :), believe me know when i tell you that porsche
+> was fearful of the way 951's kept beating on 930's on the track.  gosh,
+> a derivative of the lowly 924 ... we'll just have to cancel that model
+> and meanwhile come up with a 930 replacement that will beat a 951..
+  [end of included note]
+
+BINGO!  Like they cancelled the 930 in the US so the Carrera could get a
+foothold, so they c ancelled the 951 so the S2 could slip in.
+
+Mommy!  My older brother's beating the  sh#t out of me again  ;-}
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Tue, 1 May 90 18:53:45 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: HR big tires
+
+> # BTW, I can't find anything but VR and ZV tires in my size (205-55 and 225-50
+> # by 16). Not clear that I would buy them if I could, but there is some 
+> # attractiveness to the tread life of HR tires...
+> # 
+> # Stanley P. Hanks      Director, Information Technology Planning and Development
+> 
+> seems to me that goodyear euro gatorbacks have treadwear ratings of something
+> like 220 for ZR tires.  i wouldn't complain - then again i won't run them on
+> the track for fear of chunking..
+
+BFG just came out with the Comp T/A VR4 - which they say are w/in 1/2 sec of
+their CompTA, tradwear is 320.
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Tue, 1 May 90 18:57:51 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: Buffeting
+
+> The other day, I had removed the sunroof and was driving with the
+> driver's window down, but I wanted to hear something on the radio so 
+> I rolled up the window. Immediately, the car felt like it was being
+> buffeted. Although it wasn't windy inside in terms of my hair being
+> blown around, there was a lot of change in pressure that I could feel
+> in my ears. And the windows seemed to be shaking.
+
+Try adjusting the angle of the deflector.  If it is too low, wind enters
+the car directly, ratherthan being deflected by the deflector.  I have
+noticed this in attempts to increase aerodynamic effic. at the track
+(too tall -w- helmet to run roof closed)
+
+Steve
+.
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: bart@research.att.com
+Date: Tue, 1 May 90 19:10:39 EDT
+To: porschephiles@bcm.tmc.edu
+
+>Try adjusting the angle of the deflector.  If it is too low, wind enters
+>the car directly, ratherthan being deflected by the deflector.  I have
+>noticed this in attempts to increase aerodynamic effic. at the track
+>(too tall -w- helmet to run roof closed)
+
+say, what??  doesn't the deflector get pushed flat regardless every
+time you go out on the track?
+
+-----------------------
+
+Date: Tue, 1 May 90 18:58:44 EDT
+From: seibert@xn.ll.mit.edu (Michael C. Seibert)
+To: winter@apple.com
+Cc: porschephiles@bcm.tmc.edu
+Subject: Wind vibration in 944
+
+>>   Date: Tue, 1 May 90 14:27:08 -0700
+>>   From: Patty Winter <winter@apple.com>
+>>
+>>   I had the sunroof completely off my 944 the other day (actually
+>>   ......
+>>   blown around, there was a lot of change in pressure that I could feel
+>>   in my ears. And the windows seemed to be shaking.
+
+Mine has an old factory sunroof (no electrics) with
+two settings:  in and out (removed).  There is a flap
+which I reach up and adjust when it's removed to control
+airflow over the top, to minimize the vibration.  I
+assume it's an effect similar to making a jug sound by
+blowing over the mouth, except in this case the cavity
+is much larger, resulting a low frequency (2-10 Hz)
+thumping.  _MS
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Tue, 1 May 90 21:47:42 EDT
+To: bart@research.att.com
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of May  1, bart@research.att.com:]
+> >Try adjusting the angle of the deflector.  If it is too low, wind enters
+> >the car directly, ratherthan being deflected by the deflector.  I have
+> >noticed this in attempts to increase aerodynamic effic. at the track
+> >(too tall -w- helmet to run roof closed)
+> 
+> say, what??  doesn't the deflector get pushed flat regardless every
+> time you go out on the track?
+  [end of included note]
+
+No.  It stays put.  Not the little spring loaded bullet shaped
+doohickies.
+
+S.
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Tue, 1 May 90 21:49:59 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: Who Track Junkies and Where?
+
+
+Please post a note if you are a track junkie, perhaps listing where you
+have/like/hate/aspire to run.  Send me Email if shy.
+
+'cause they call me Slide.....What tread?
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Wed, 2 May 90 10:15:46 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+To: timmins@sun.udel.edu
+Cc: porschephiles@bcm.tmc.edu
+Subject: Who Track Junkies and Where?
+
+
+I know Limerock pretty well, Bridgehampton less so, and the Glen I've
+been around once.  I would like to drive Mosport (sp?), I hear it's
+excellent.   BTW, who was the one who posted that his alternator
+couldn't handle the amps he was using?  What kind of stereo do you
+have that it exceeds the output of your alternator - and are you sure
+that you're measuring the output at 3K RPM (~ the avg RPM for normal
+driving).
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+-----------------------
+
+Date: Wed, 2 May 90 07:34:14 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: Wind vibration in 944
+To: porschephiles@bcm.tmc.edu
+
+>I had the sunroof completely off my 944 the other day (actually
+>a 951, but for this question it doesn't matter) and noticed
+>something interesting about the wind effects.
+>
+>The other day, I had removed the sunroof and was driving with the
+>driver's window down, but I wanted to hear something on the radio so
+>I rolled up the window. Immediately, the car felt like it was being
+>buffeted. Although it wasn't windy inside in terms of my hair being
+>blown around, there was a lot of change in pressure that I could feel
+>in my ears. And the windows seemed to be shaking.
+>
+>Naturally, I immediately lowered the window a little ways, and the
+>pressure evened out.
+>
+>Has anyone else encountered this? It seems like something the
+>Porsche engineers should have caught. Or is it an inevitable effect
+>of driving any car with windows closed and sunroof off? (It doesn't
+>happen when the snrf is just ajar; only when it's totally removed.)
+>
+ 
+Ah yes, the classic Helmholtz resonator.  This is common on most types of
+cars (Porsches not excluded ;-) from Yugos to Lambos and Rolls.  It has to do
+with a forcing function, the wind, a large cavity, car interior, and a
+restriction, the window or sunroof.  Some car mags call this booming and it
+can be really annoying.  As you found out the way to get rid of it is to
+change the size of the cavity, not practical, stop the forcing function, not
+desirable, or change the restriction, roll down another window or close the
+sunroof.
+ 
+Al Bowers
+Schizo (or so I am told) German and Italian car lover...
+
+-----------------------
+
+Date: Wed, 2 May 90 11:12:26 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: timmins@sun.udel.edu, weltyc@turing.cs.rpi.edu
+Subject: Re:  Who Track Junkies and Where?
+Cc: porschephiles@bcm.tmc.edu
+
+>BTW, who was the one who posted that his alternator couldn't handle the
+>amps he was using?  What kind of stereo do you have that it exceeds the 
+>output of your alternator - and are you sure that you're measuring the
+>output at 3K RPM (~ the avg RPM for normal driving).
+
+I'm the guy with the alternator question. The stereo wasn't my idea -- it
+was in the car when I got it. There's always a chance that down-grading it
+is the right thing to do but.... Well, anyway, it's got the Sony 7190
+removable, with a six-speaker plus subwolfer setup, cross-overs, bi-amped, 
+for a total of 5 amplifiers putting out a combined total of 1300 watts RMS. 
+
+The explaination I got about it was that since this was a European car mainly 
+driven in Germany, that with the Targa top off and the windows down, you 
+needed all this to hear the stereo at all on the Autobahn. My guess is that 
+since the pervious owner was about 20-23, he decided it would be cool to put 
+a stereo system in that was bigger than anything else anyone on the Army base 
+he was stationed at had ever seen.....
+
+And yes, I measured from 3000 to 5600 RPM, "normal" operating speed for me 
+being closer to 4200....
+
+Stanley P. Hanks      Director, Information Technology Planning and Development
+Baylor College of Medicine, One Baylor Plaza, Houston TX 77030, Mail Stop: IR-3
+e-mail: stanh@bcm.tmc.edu       voice: (713) 798-4649       fax: (713) 798-3729
+
+-----------------------
+
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Thu, 3 May 90 17:09:22 EDT
+To: richard welty <welty@lewis.crd.ge.com>
+Subject: Re: Sorta testing
+Cc: porschephiles@bcm.tmc.edu, bmw@sol.crd.ge.com
+
+On Apr 30,  1:36pm, richard welty writes:
+> speaking of upcoming events, there is a joint BMWCCA/PCA school
+> at LRP on the 10th of November; i know that this is a lot of lead
+> time, but some people's schedules get booked up awfully early,
+> so i thought some of you might appreciate the notice.
+
+I do, but my Genesee Valley Chapter BMWCCA newsletter lists this as on the
+16th of November.  Anyway, the contact is listed as Terry Rowley,
+(203) 723-5554, to find out for sure.
+
+-- 
+Mark Sirota - University of Rochester, Rochester NY
+ Internet: msir_ltd@uhura.cc.rochester.edu
+ UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+-----------------------
+
+Date: Thu, 3 May 90 17:25 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Re: Sorta testing
+To: porschephiles@bcm.tmc.edu, bmw@sol.crd.ge.com
+
+    From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+
+    On Apr 30,  1:36pm, richard welty writes:
+    > speaking of upcoming events, there is a joint BMWCCA/PCA school
+    > at LRP on the 10th of November; i know that this is a lot of lead
+    > time, but some people's schedules get booked up awfully early,
+    > so i thought some of you might appreciate the notice.
+
+    I do, but my Genesee Valley Chapter BMWCCA newsletter lists this as on the
+    16th of November.  Anyway, the contact is listed as Terry Rowley,
+    (203) 723-5554, to find out for sure.
+
+this would be a different chapter's event; the joint school with the
+Patroon Chapter BMWCCA/Hudson Valley Chapter PCA is definitely on the
+10th of November; contacts are Tom Daley or Verne Frasier.  i will get
+phone numbers as soon as i find the time.
+
+richard
+
+-----------------------
+
+Date: Thu, 3 May 90 17:07:58 GMT-0600
+From: james@visual2.tamu.edu.tamu.edu (James Saxon)
+To: porsche@visual2.tamu.edu.tamu.edu
+Subject: Is there an after-market for the 944?
+
+
+What's the scoop here?  Too late, I've replaced my clutch with the stock but
+what's out there to keep a street car a street car but make it faster if it's a 944?
+
+James Saxon
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Thu, 3 May 90 19:27:33 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: 944 clutches
+
+ > What's the scoop here?  Too late, I've replaced my clutch with the stock but
+ > what's out there to keep a street car a street car but make it faster if it's a 944?
+ > 
+ I know of at least one aftermarket 944 clutch assembly offered bu
+ autothority.  (I'm a dealer who passes half the discount on on Autoth
+ products).  I have heard, thru pano, of others.
+ 
+944 clutches are:
+
+1)  Heavy
+2) Have those $#@%ing rubber doughnuts which fail in shear (notice, if
+you ever handle one, the PERFECT 45 degree failure of maximum shear
+stress).
+ 
+The 951 units, which some of the aftermarket jobs are based on, since
+the shaft splines are the same, have the quad spring set up as most
+other clutches do.
+ 
+I'm surprised Porsche tried this route twice after the 911S fiascos of
+the mid-70s, which all failed in a similar manner.  It makes the
+tranny/torque tube and shaft quiet onacouna rubber damps noise, whereas
+springs tend to amplify it.
+ 
+I'll take the extra noise.  944 clutches are no fun to replce (I'm a vet
+of 2 such ops, one on a turbo)
+ 
+I am reminded of a quote from my ferind Glenn, who helped me with the 15
+hour job....
+ 
+ "How much did you say porsche wanted for this job....
+ Fifteen-Hunderd-Dollars?!?  No wonder.  Well, not to fear steve.  If you
+ even need help on one of these again, give me a call.  I'll be glad to
+ pitch in.  Pitch in goin' door to door to raise $1500 that is...."
+ 
+ 
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Mon, 7 May 90 10:22:12 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: Wilwood Brakes
+
+Anyone have any expeience wirrh wilwood brakes on Porsches?
+
+They seem to be relatively inexpensive (6 count 'em 6!) piston grand
+national calipers, $178 each, 6" long pads, woill fit 1.62" thick rotors
+
+Rotors - Wilwood Grand National 12.19" dia x 1.38" thick $66.00 each...
+
+Also need hats to adapt to  hubs...$55.00 each
+
+Killer brakes for the whole car for $1200 + pads and adapters seems
+cheap...or save $300 and go for the SuperLite II calipers, which have
+the tiny (5" long) pads.
+
+What's wrong with this picture, concidering the JFZ packkage in
+Excellence for $2590 !?!?!
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Mon, 7 May 90 16:57:01 CDT
+From: nigel@snorkel.sps.mot.com (Nigel Allison)
+To: porschephiles@bcm.tmc.edu
+Subject: 914 Wheel/Tire combinations
+
+Just to add two more variations, I run 195/60HR15 Falkens on my
+5.5 inch steel wheels with bags of clearance. I also run
+in Auto-x 205/50 x 15 Hoosier DOT's on 5.5 inch 'empi style'
+8 spoke alloys (<$70 from Barret Enterprises). Again there is
+bags of clearance in the front but the rear is a little tight.
+
+One problem with the alloys is their slightly greater offset than
+the steel wheels, placing the center of the wheel a little closer
+to the arches. I run with all camber plates removed, tilting the
+rear wheels in a bit too. I also have tried a variety of rear springs,
+old worn out originals gave me the worst clearance problem as they
+were too low and too soft. Fresh 110# springs, fresh 140# springs
+and cut down 140# springs(160# equiv) all give no trouble.
+
+I have seen several 205/60 tires used on mahle alloy wheels with no
+trouble either. I guess these have the proper offset.
+Regards,                                                                      ||        Nigel                                             
+Nigel (oakhill!sol!nigel@cs.utexas.edu)
+
+
+-----------------------
+
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Mon, 7 May 90 18:24:02 EDT
+To: The Porsche Interest Group <porschephiles@bcm.tmc.edu>
+Subject: 914 project research
+Cc: The Volkswagen Interest Group <info-vw@ames.arc.nasa.gov>,
+        Team Dot Net <autox@cs.utah.edu>
+
+For next season, I would like to put together a 914 2.0 or 914/6 for
+autocrossing, set up for SCCA Solo II Street Prepared category.
+
+The info-vw and autox mailing list saw a little of this last March; if you've
+already told me what you know then you can skip this.  Followups to this
+should probably not go to those two lists; please edit the headers
+appropriately.
+
+I can freely interchange parts between the 2.0 and the 6, any model year.
+The 1.7 and 1.8 are not in the same class, so I can't use parts from them.
+
+(1) Size.  Wheelbase, length, width, weight.  Any changes to this over the
+	model runs?
+(2) Specs.  How much power did they have stock, and what's a reasonable
+	amount to expect from either engine in Street Prepared form?  I
+	realize that many of you have no idea what the SP rules are, and
+	they're too complicated to explain here, but hopefully someone will
+	know the answer to this.  Which would be the preferable engine,
+	under two conditions - price-independent, and price-dependent.
+	Which model year would be the best engine to start with, and why?
+(3) Chassis.  Which model year would be the best frame to start with, and
+	why?
+(4) What other significant changes happened over the various model runs?
+(5) Price.  I know that only 3360 914/6's were built, and that they are very
+	expensive.  I would expect that this can be done for as little as
+	about $6K for the 2.0, and closer to 10K for the 6.  How about
+	finding parts from the 6 to put into a 2.0 body?  Are these easily
+	found, since many are the same as some 911's?
+
+Any other comments are appreciated.  When the traffic dies down, I'll
+summarize.  I hope to buy the car this fall, and build it over the winter
+for the next autocrossing season.  We're just in the research stage right
+now.
+
+Thanks muchly, in advance.
+
+-- 
+Mark Sirota - University of Rochester, Rochester NY
+ Internet: msir_ltd@uhura.cc.rochester.edu
+ UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Mon, 7 May 90 18:16:22 EDT
+To: Nigel Allison <nigel@snorkel.sps.mot.com>, porschephiles@bcm.tmc.edu
+Subject: Re: 914 Wheel/Tire combinations
+Cc: porschephiles@bcm.tmc.edu
+
+> rear wheels in a bit too. I also have tried a variety of rear springs,
+> old worn out originals gave me the worst clearance problem as they
+> were too low and too soft. Fresh 110# springs, fresh 140# springs
+> and cut down 140# springs(160# equiv) all give no trouble.
+> 
+If you really want a hot setup, get the ADJ pperch koni shocks with 150
+or 200# springs...for a cool $500 for the setup...
+
+Too much money, but it looks neat!
+
+Steve
+.
+
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Tue, 8 May 90 10:28:57 PDT
+From: dg@sybase.com (David Gould)
+To: porschephiles@bcm.tmc.edu
+Subject: Mailing list request...
+
+I just bought a 75 914 2.0, and would like to be on the Porsche mailing
+list.
+				thanks,
+				dg
+
+------  All opinions are mine and may or may not represent Sybase Inc.  ------
+David Gould       dg@sybase.com        {sun,lll-tis,pyramid,pacbell}!sybase!dg
+                  (415) 596-3414      6475 Christie Ave.  Emeryville, CA 94608
+
+-----------------------
+
+Date: Wed, 9 May 90 21:32:37 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Random notes on mechanics....
+
+Well, I just got my 911SC back from my new mechanic. I'm quite pleased
+with his work (so far...) relative to his immediate predecessor. And, as
+a result, I'm in a mood to bitch about mechanics instead of getting back to
+the random paperwork I came in to hammer out tonight.
+
+Some background: I have used a guy for the last several years who has been
+in business for nearly 40 years, and who has serviced Porsche and air-cooled
+VW (which can be viewed as Porsches if you really think about it) for 
+the entire time. This is a father-son operation, with the father as the 
+original founder. Four bays, one of which usually has a restoration ongoing
+in it (currently a '58 speedster with the original 4-cam engine -- drooool!)
+
+For the 356 I had, and the 914 I still have, they've been pretty good. 
+Actually, for the 356 they were outstanding. The father seems to have taken 
+about a month a year to go to the factory for training and updates every 
+year from 1956 through 1969, with ocassional trips since.  Their parts 
+collection and contacts made finding NLA parts a breeze.
+
+So, I had this great opportunity to buy the 911. I took it to them first and
+asked if working on it would be a problem. They said it would not, and that
+in fact, that if I didn't buy the car that they'd like to know about it. So,
+finding that to be a confirmation of what I already thought, I sucked it up.
+Well, some several months later it develops a pain in the electricals.  The
+rear window defroster would "come on" after the car had been stopped for a 
+while. Time to take it in, obviously. So, after a couple of days poking at
+it they tell me that there is no problem with the rear defroster, but that I 
+really need to have a new right heat exchanger installed, which they can do 
+for, well, too much money. I pass on the heat exchanger, and take the car. 
+And the problem, which still was with me.
+
+No problem, this is Houston, it's summer -- I'll just unplug the relay and
+worry about it later. Until the alternator gives up. At which point I take 
+it back for another estimate. Which they give me --- $1300. I ask why, after
+I recover. And they tell me: well, the alternator in my car has been 
+superseded and I need a *NEW* alternator for $683, but I also need a pile
+of other stuff to retrofit it, which incidentally involves removing the
+engine from the car....
+
+I passed on that, pulled the alternator myself, had it re-built by a guy
+who has done TONS of Bosch stuff for me in the past, replaced the voltage
+regulator, and figured I'd saved myself about $1100... Until it died again.
+
+This time I took it into a shop recommended by the president of the local PCA
+(of which I'm ashamed to admit I'm not a member -- but I'm gonna fix that
+tomorrow!). These guys have only been in business for 17 years, and they do
+mainly 911's and derivatives, and Ferraris (there was a BB512 in the stall
+next to my 911 when I went to get it today. Christ, I'd *KILL* for a BB512...)
+They have what looks to be about a class 100 clean room they use for engine 
+and tranny work. They have 8 bays and a parts warehouse the size of my garage 
+(which is pretty big, even for a two car garage).
+
+Well, they found the short in the rear defroster. And a short in the wiring
+harness that had the alternator slowly cooking itself. And another short
+that was causing some other random grief. And replaced the alternator I'd
+had rebuilt with one they rebuilt (with a 12-month warranty). And checked out
+the engine, recommending I have one of the rocker shafts looked at real soon.
+Didn't charge me for the relay and belt they replaced, even when I pointed
+it out. Didn't charge me for towing the car in. I got out for about $440.
+
+I'm impressed. And depressed. First question: did my previous mechanic lose
+his mind, or is he just a loss for 911s? Second question: if this guy hadn't
+been a big win, how do you tell from someone's recommendation if anyone is
+worth a hoot??? I mean, I usually recommended my previous mechanic to all
+and sundry from what experience I'd had with him, right? Third question: how 
+can I get enough free time to go back to turning my own bolts all of the 
+time (sigh), but still make enough money to keep my stable of Porsches???????
+
+Stan
+
+-----------------------
+
+Date: Fri, 11 May 90 15:16:38 EDT
+From: chin@andromeda.rutgers.edu (Michael Chin)
+To: porschephiles@bcm.tmc.edu
+Subject: porschephiles-request
+
+
+Please include me in the mailing list.
+
+Thanx.
+
+-----------------------
+
+From: bart@research.att.com
+Date: Sat, 12 May 90 20:05:02 EDT
+To: porschephiles@bcm.tmc.edu
+
+from motor trend (apologies - i don't normally read this... honest!)
+
+ENTRY-LEVEL PORSCHE AXED
+
+Porsche will discontinue production of its entry-level model, the
+normally aspirated 944.  When the German marque moves production
+of the 944 from the Audi Neckarsulm plant to its own facility at
+Zuffenhausen next spring, it will offer the car only with a turbo
+engine.
+
+To be badged the 944S3, the new Turbo will benefit from modifications
+to the 2990cc 4-cylinder 16-valve powerplant, which hoist output from
+208 to >>230<<hp.  And alterations to the nose and tail treatments,
+directed by Porsche's recently recruited chief stylist Harm Lagay,
+will give the car a rounder, bulbous look, more closely related
+to the bigger 928.
+
+----
+
+say, what??  you suppose they mean 330hp?
+
+-----------------------
+
+Date: Sat, 12 May 90 17:55:38 -0700
+From: Patty Winter <winter@apple.com>
+To: porschephiles@bcm.tmc.edu
+Subject: Re: new 944 
+
+
+Well, I'm lost. I thought they had just *dumped* the Turbo and
+the regular 944 in favor of only having a 944S. Now they're bringing
+back the Turbo (in S form) as the only model??
+
+  		And alterations to the nose and tail treatments,
+	directed by Porsche's recently recruited chief stylist Harm Lagay,
+	will give the car a rounder, bulbous look, more closely related
+	to the bigger 928.
+
+Oh, joy. :-)  Sure glad I got a 944 while it still looks like one...
+
+
+Patty
+
+***************************************************************************** 
+Patty Winter N6BIS                        INTERNET: winter@apple.com
+AMPR.ORG: [44.4.0.44]                     UUCP: {decwrl,nsc,sun}!apple!winter
+***************************************************************************** 
+
+-----------------------
+
+Date: Sat, 12 May 90 23:04:04 PDT
+From: VAS KODALI <kodali@portia.stanford.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: 944 chip
+
+When I bought my 944 (about 6 months back) the former owner warned me
+that sometimes the cooling fan will turn on and never stop.  He said 
+that the mechanic first diagnosed the problem as a bad cooling fan
+switch but it was actually due to the computer chip coming out of 
+the socket.  The problem was fixed by simply plugging the socket 
+back in.  The problem has arose again and I cannot seem to find
+this computer chip.  For the time being, I have taken the fuse out
+and it has stopped the fan but the other fan continues to run whenever
+the ignition is on.  Can someone please direct me on where this chip
+may be.  I did do some probing under the dash I found this metal
+box and it looked like the chip may be in there.  I was too scared
+to open it in fear I may screw something else up.  By the way, I have
+the 1984 model and I would deeply appreciate it if someone could
+direct me on this.  Thanks.
+-Vas Kodali
+
+-----------------------
+
+Date: Sun, 13 May 90 01:43:54 GMT-0600
+From: james@visual2.tamu.edu.tamu.edu (James Saxon)
+To: porsche@visual2.tamu.edu.tamu.edu
+Subject: Here's to the 944
+
+
+I think that the 944 is one of the 'meanest' looking cars.  I like my 944.  Just
+get down low right in front.  Then compare that with the others...  
+
+Mean...
+
+James Saxon
+
+
+-----------------------
+
+Date: Sun, 13 May 90 21:03:30 CDT
+From: sob@bcm.tmc.edu (Stan Barber)
+To: porschephiles@bcm.tmc.edu
+Subject: mailing-list problems
+
+Today, our central mail server was upgraded from SunOS 4.0.3 to SunOS 4.1.
+This went generally well, but two or three messages for this list were lost
+because sendmail chomped on them before it was reconfigured back to our
+standard configuration from Sun's default.
+
+It is all happy now. I am sorry for any problems this upgrade may have caused.
+
+
+Stan Barber (not Hanks:-)
+Director, Networking and Systems Support
+Baylor College of Medicine
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Sat, 12 May 90 14:47:40 EDT
+To: bart@inet.att.com
+Cc: porschephiles@bcm.tmc.edu
+
+On a totally different topic,  I bought a tranny from PAR thursday,
+drove up and picked it up, paid cash.  He said it was a little noisy in
+reverse, but that it should be OK, beacuse the car it came from (quite
+bent...) was driven in. (cash made it an out of state sale somehow and
+made me just a delivery boy...therefore no sakles tax, which we don't
+have in DE anyway)
+
+$1500 later I arraived home.  I decided to run it through the gears just
+to see how it felt.  1st:  smooth, smooth, smooth, LOCK. second, third,
+fourth.. the same.  All the sudden, it just l;ocked up.  "KlanK!"
+
+Reverse - Ka Klunka klunka Bang Klunka (this is out of the car,m turning
+it with my HAND!)..  In reveres the outputs didn't turn, just kinda
+banged back and forth.
+
+I called Harry and Rich, who had rebuilt mine, and asked for advise..
+
+Rich: "pull the gearbox off the diff and have a look..., if it has real
+problems, PART should offer to replace parts or refund." 
+
+I told him about the cash part, and he said Paul (the P in PAR) should
+make good on it...if I was liucky..
+
+So last night, I pulled my tranny, put it up in the pench and temoved
+the gearbox from the diff case (trans is 3 peices - diff case (looks
+like bellhousing and outputs, - gearbox, actually has all the gears and
+shafts in it, and end cover, a 6" long casting which the ends of the
+shafts, fifth, and reverse are housed).  Sure enough, the pinioon
+bearing race was removable with some forcefull pulling with the fingers.
+If the race is seated properly, you have to get the trans up to about
+250C and use a puller to get it out.  Needless to say, it wasn't
+although I still couldn't pushn it back in.
+
+Next I decided to take a look inside the PAR trans.  WHen I separated
+the gearbox, this stuff that looked like anti-seize oozed out (like
+dirty mercury, real shiny).  In it were various broken metal
+peices...like gear teeth.  
+
+Looking at the exposed gears, first, second and third all had teeth
+ripped out from BELOW th root.  Inside the diff housing, I could see
+that the gear that drives the trans cooler (about 5" in diameter, 3-4mm
+thick) had NO teeth whatsoever!
+
+The edges of the pinoin gear were so worn, the faces actually met in a
+knoife edge (there is usually a 2-3mm falt at the top).  Needless to
+say, the trans is JUNK.
+
+Sleep did not come easily, ebven though it was 2am by this point.
+
+I called PAR this morning at 9, and asked to speak with paul.  I told
+him my tale of woe, and he apologised, and said he would be glad to
+refund my money...if I wouldn't mind returning it (PAR is in the heart
+on Yonkers, about 7hr round trip for me).
+
+At least I'll get the money back...though two days in transit are
+wasted.
+
+No trip to the Bridge this weekend, unless I can locate a new pinion
+bearing and have it delivered by weds A.M.  That would still make things
+pretty tight, given finals are eminant...but we can always hope.  At
+least I'll have a fresh set of Synchros to abuse!
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Sun, 13 May 90 22:27:29 EDT
+To: VAS KODALI <kodali@portia.stanford.edu>, porschephiles@bcm.tmc.edu
+Subject: Re: 944 chip
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of May 12, VAS KODALI:]
+> When I bought my 944 (about 6 months back) the former owner warned me
+> that sometimes the cooling fan will turn on and never stop.  He said 
+> that the mechanic first diagnosed the problem as a bad cooling fan
+> switch but it was actually due to the computer chip coming out of 
+> the socket.  The problem was fixed by simply plugging the socket 
+> back in.  The problem has arose again and I cannot seem to find
+
+Well, I recently repaired this problem on my car.  Do this:  reach up
+and undo the 2 wires on the back of the thermostat (drivers far side of
+the radiator, enine side, half way up.  If the fan stops, it is your
+switch.
+
+There is a relay in your fuse box, the big rectangular job (I assume
+twin fans as on my turbo)  
+
+One of the fans is activated by the A/C unit,the other by a
+thernmostat...
+
+BTW...the two wires on the back of the fan thermostat can be pulgged in
+any order...a closed connection turns the fan off.  I just had this
+problem on my turbo and the thermostat ($25.00 or so) fixed it.
+Surprisingly, at least on all later models, it is a 951 part number.
+
+As far as I know (and I may be wrong) there is no computer in the system
+for temperature.  The only computers in use are the cruise brain and the
+DME (and for turbos the KLR).  I think the former owner was confused.
+Try the above as a check.  Also, try removing the relays, though if
+these are loose, it should result in an always-off fan.
+
+Steve
+.
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Sun, 13 May 90 22:34:06 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: Sorry for typos.
+
+
+I'm sorry for all my typos.  I'm not really as illiterate as I must
+sound..just used to my old buddy, Mr. Spell Checker, who's not available
+in vi, farsI know.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Mon, 14 May 90 09:42:01 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: New '44 ?!?!
+
+ > ENTRY-LEVEL PORSCHE AXED
+ > 
+ > Zuffenhausen next spring, it will offer the car only with a turbo
+ > engine.
+ > 
+ > To be badged the 944S3, the new Turbo will benefit from modifications
+ > to the 2990cc 4-cylinder 16-valve powerplant, which hoist output from
+ > 208 to >>230<<hp.  And alterations to the nose and tail treatments,
+ 
+ That would make our cars look like 924s.
+ 
+ Remember that LeMans car?  that was a 16V....425Hp....In 1982.
+ 
+ Time to invest in an S2...do the mads, and surprise a few freinds.
+ 
+ Frankly, Motor Trend is usually full of shit.  I have a hard time
+ beleiving Porsche would make an S3 cabrio...and I really can't beleive
+ them dropping the cab.
+ 
+ Secondly, Porsche has gone to grat lengths to make sure the air cooled
+ boys stay on top HP wise....the 930 has ALWAYS been the top dog.  D you
+ really think they would let the 930 be bested by 10 hp, and prob 100-150
+ less lbs?.....by a 4cyl?!?
+ 
+ No way.  230 is definately wrong (since you have 247 in a porsche 951
+ certified bulletproof config)....
+ 
+ On the other hand, remember the siamesing of the cyls in the S2....talk
+ about some hot spots under boost!
+ 
+ Horsesh#t I say.  Motor trend is just that...the bulbous body 944 has
+ been seen in spy phoitos for a while...also, Auto Week hasn't mentioned
+ it...we're talking at least 2 mos of aging on any Motor Trend story.
+ 
+ (At least I hope it's hosresh#t...in a way...then again,. it would be
+ great to be the all-dominating sports coupe again, like the '86951
+ should have been (and was in mod form)
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Mon, 14 May 90 10:23:12 GMT-0600
+From: james@visual2.tamu.edu.tamu.edu (James Saxon)
+To: porsche@visual2.tamu.edu.tamu.edu
+Subject: The 944
+
+
+
+I think that the 944 is one of the 'meanest' looking cars.  I like my 944.  Just
+get down low, right in front.  Look at it.  Then compare that look with the others... 
+
+Mean...
+
+James Saxon
+
+-----------------------
+
+Date: Mon, 14 May 90 10:24:20 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: james@visual2.tamu.edu, porschephiles@bcm.tmc.edu
+Subject: Re:  Here's to the 944
+
+>Just get down low right in front.  Then compare that with the others...
+>
+>Mean...
+
+Not compared to, say, a 935 or 911RS..... Now *THERE'S* a mean car. Fortunately,
+the local one runs in a different class at the PCA autocrosses....
+
+Stan Hanks
+
+-----------------------
+
+Date: Mon, 14 May 90 10:47:45 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Re: Here's to the 944
+
+(Sorry if you got two copies of this --- the mailer upgrade that
+Stan Barber [not's "Stan's barber..."] alluded to earlier had some 
+unforseen consequences. If you sent mail to the list, and it bounced,
+it shouldn't again....)
+
+James Saxon sez:
+>Just get down low right in front.  Then compare that with the others...
+>
+>Mean...
+
+Not compared to, say, a 935 or 911RS..... Now *THERE'S* a mean car. Fortunately,
+the local one runs in a different class at the PCA autocrosses....
+
+Stan Hanks
+
+-----------------------
+
+Date: Mon, 14 May 90 13:37:36 EDT
+From: saulsgiv@kodak.com (Jon Saulsgiver (lunv00))
+To: porschephiles@bcm.tmc.edu
+Subject: 930 front end....
+
+  I have a question for those of you who actually work on your cars:
+ Recently I've been involved with a friend's (1979 Euro) 930. Right now its
+ most pressing problem is the front suspension. After getting tangled up with
+ a red-light-running chevette his RF has about 3.5 degrees of negative camber.
+ We took the car to a local frame/axle shop and they diagnosed the problem as
+ a bent strut...any ideas for verifying this, short of buying a new ($650!!)
+ strut and then re-measuring the camber? Yes, it is at its adjustment limit.
+ They said the frame (unit body) was straight, and attempting a "hydraulic fix"
+ would mis-align the body panels...
+ We think the strut was replaced following the accident, but cannot locate the
+ shop paperwork to verify this. The car has OEM (Porsche) units on all four
+ corners, so going to an aftermarket strut would be to replace not one, but
+ both fronts....the accident happened about 4 years ago, and the car has been
+ chewing up tires when it's driven (had been off the road for the last 2 yrs)
+  Anyone got any ideas? He just put a fresh set of Comp T/As on the car and 
+ would like not to replace them too soon!
+						-Jon Saulsgiver 
+					saulsgiv@kodak.com
+					(716) 722 4059 days 8-5 EST
+
+-----------------------
+
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Mon, 14 May 90 14:12:32 EDT
+To: saulsgiv@kodak.com
+Subject: Re: 930 front end....
+Cc: porschephiles@bcm.tmc.edu
+
+On May 14,  1:37pm, Jon Saulsgiver (lunv00) writes:
+> After getting tangled up with a red-light-running chevette his RF has about
+> 3.5 degrees of negative camber.  We took the car to a local frame/axle shop
+> and they diagnosed the problem as a bent strut...any ideas for verifying
+> this...?
+
+Why not swap the left and right struts?  Can you do that on a 911?
+
+-- 
+Mark Sirota - University of Rochester, Rochester NY
+ Internet: msir_ltd@uhura.cc.rochester.edu
+ UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+-----------------------
+
+Date: Mon, 14 May 90 15:21:30 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+To: saulsgiv@kodak.com
+Cc: porschephiles@bcm.tmc.edu
+Subject: 930 front end....
+
+
+First of all, make sure you mean strut and not just the strut insert.
+Most people say strut and mean insert.  The insert is the shock
+absorber part of the strut.  The only thing that can bend
+on a strut that would affect the camber is the axle, but if the axle
+were bent the brake disk wouldn't spin through the caliper, so it's
+not that.  The insert is easy and cheap to replace, if that's what is
+bent.  You can't swap R and L *struts* (on ANY car), they are a mirror
+image of each other, but you can swap the inserts.
+
+The other likely candidates are the A arm, or the frame of the car
+itself.  The A arm can be inspected visually for dents or bends.  If
+not that then the frame got bent and it's expensive to fix, but it is
+possible. 
+
+Oh, and BTW, not to start a flame war or anything, but I think 944s
+are ugly.  nya nya.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+-----------------------
+
+
+Date: Mon, 14 May 90 15:32:45 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: saulsgiv@kodak.com, weltyc@turing.cs.rpi.edu
+Subject: Re:  930 front end....
+Cc: porschephiles@bcm.tmc.edu
+
+Chris Welty sez:
+>The only thing that can bend on a strut that would affect the camber is the
+>axle, but if the axle were bent the brake disk wouldn't spin through the ...
+
+Ummmm. I've bent the whole strut tube before, which is a major loss.
+You can tell if the tube is bent by trying to install a known good strut
+insert. If it binds, it's broke.
+
+And I usually get a used strut instead of buying a new one....
+
+Stan
+
+-----------------------
+
+Date: Mon, 14 May 90 17:17:39 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+To: saulsgiv@kodak.com, porschephiles@bcm.tmc.edu
+Subject:  930 front end....
+
+
+>From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+
+> Ummmm. I've bent the whole strut tube before, which is a major loss.
+> You can tell if the tube is bent by trying to install a known good
+> strut insert. If it binds, it's broke.
+
+OK, that's hard to do, but it is possible.  it is also very visible,
+since it will crimp if it bends (as tubes are prone to do).  And
+buying a used one is definitely the way to go. 
+
+>From: saulsgiv@Kodak.COM (Jon Saulsgiver (lunv00))
+
+> Hmmm....I was told that the Porsche struts are one-piece (ie, you can't just
+>replace the damper part of it...)
+
+Well, that's wrong.  You can replace the damper, in fact it should be
+done roughly every 50K.  Now that I think of it, the 930 strut tube
+has a wider ID (inner diam) than the normal 911, with the same OD.
+Meaning the walls of the tube are thinner (in order to accomodate a
+stiffer shock).  If the tube isn't visibly bent you might try Stan's
+idea to double check the tube is straight.
+
+>If the spindle bent right where it
+> connects to the strut, wouldn't the brake caliper follow (and still work)?
+
+No, take a look at the strut and you'll see why, the caliper mounts on
+the strut, and the disk mounts on the axle, two different places on
+the strut.  I've seen this happen, the force to bend the axle is not
+enough to bend the caliper mount (which is very strong), or if it does
+bend it's not as much, and the disk ends up not being able to turn
+through the caliper with the pads in, normally the clearance is very
+small so any slight aberration in the geometry there would be
+noticable.
+
+The tower to tower measure isn't going to tell you much.  If I were
+doing it, I would check the front torsion bars...
+
+Get under the front and measure the distance between the torsion
+bar tubes at each end - the front torsion bar tubes run longitudinal
+to the car, one for each tire, and they should be parallel, so the
+distance between them should be the same at all points.  If the
+distance is off then the frame is bent.  I've gotten a car dirveable
+once by re-drilling the mounts for the torsion bar tube and moving it
+to make it even but that was a real butcher job.  It's not something I
+would recommend for a 930 (only because it's a beatiful car and
+shouldn't be butchered).
+
+Hard to diagnose without seeing it...hope this helps...
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+-----------------------
+
+Date: Mon, 14 May 90 18:54:40 EDT
+From: "F W Kerfoot, Iii +1 201 949 6348" <homxc!fwk@rutgers.UUCP>
+To: porschephiles@bcm.tmc.edu
+Subject: 944S oil consumption
+
+I recently purchased an '87 944S with about 22K miles on it. I have
+taken the car to two Porsche club drivers education events at Lime Rock,
+and on each occasion the car has used about 1 quart of oil per day
+of high speed track driving (a little over an hour, about 80 miles).
+I am looking for ideas on how the oil is being burned. I assume the
+latter, since there is no evidence of a leak, and I would expect lots
+of evidence for a multi-quart leak. On the street, the car does not
+seem to burn any oil, although I only have relatively short observation
+intervals (several hundred miles each) due to oil changes, the above 
+mentioned track events, etc.
+
+At the first event, the car had dealer-installed oil, which I believe
+was Valvoline 10W-40. My impression was that the oil use was higher
+when the average RPMs were kept higher for a particular run session
+(15 Min.). At Lime Rock, this car seems to have a choice between 3rd
+gear for a significant part of the track (from the end of no-name to
+after the downhill), or 4th gear. In 3rd, the RPMs are in the 6000-6800
+range for this portion (about 1/3 of a lap), in 4th they are in the 
+4200-5000 range. When I ran a run group using 3rd in this area, the
+oil usage was higher than another run group where I used 4th. Other
+run groups used a mix of shift points, so I don't have very much
+confidence in the data.
+
+For the second event, I changed to Mobil 1 (15W-50). I also disconnected
+the line from the (otherwise sealed) crankcase to the intake system
+(which connects between the throttle and the airflow sensor, where there
+is a very small vacuum), plugged the input system line, and ran the
+crankcase vent to a catch tank. The car still used about 1 quart that day,
+and almost no oil appeared in the catch tank (perhaps a few tablespoons
+of water-oil emulsion). I didn't get additional data on the RPM influence.
+
+Does anyone out there have experience in the oil usage of 944 series cars
+in a track application? Any guesses as to mechanism, or possible
+diagnostic gimmicks? There seems to be little blow-by or loss of power,
+so I am inclined to think it is not rings. There is an oil pressure
+reduction valve in the oil line to the valve gear of the 944S. Does
+anyone know its purpose (I believe it is not on the 2 valve models)?
+
+Frank Kerfoot
+fwk@homxc.att.com
+...!att!homxc!fwk
+201-842-2310
+
+
+-----------------------
+
+Date: Tue, 15 May 90 12:38:35 EDT
+From: Teri Wilber <twilber@sun.udel.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Add me!
+
+
+Please add me to your mailing list.  I don't have a Porsche
+but my boyfriend, Steve, does.
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Wed, 16 May 90 21:31:56 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: 959s
+
+What is the current importation stsus of the 959.  Last I heard from
+Russo (Holbert's head man when they were the sole imported, before the
+EPA nixed the whole idea) was that it was illegal to OWN one in the US.
+
+Any news on this?  Can you buy one in Europe and bring it in?  I read in
+Excellence recently that the 8 at holbert were shipped back (oooh, I
+actually TOUCHED one there!)
+
+Any info would be appreciated.  I know thet there are no street legal
+examples, but can a european (say german) citizen bring his over and
+tool around in it while he/she is visiting?
+
+I'd really like a replica body on a Carrera4, with the new 930 motor,
+please!
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: bart@research.att.com
+Date: Wed, 16 May 90 21:55:10 EDT
+To: porschephiles@bcm.tmc.edu
+
+>From: Steve Timmins <timmins@sun.udel.edu>
+
+>What is the current importation stsus of the 959.  Last I heard from
+>Russo (Holbert's head man when they were the sole imported, before the
+>EPA nixed the whole idea) was that it was illegal to OWN one in the US.
+
+a few weeks ago someone wrote a column in autoweek about how he saw
+an honest to god 959 on the road near san francisco and tried to follow
+it, called the dealer whose plates were on the car (and got a brush-off,
+etc).
+
+a few weeks later autoweek reports that treasury (or customs - i forget
+which, but they're all from the same mold, right?) officials, *really*
+pissed and hungry officials, are hunting this car down too.  probably
+leaning on the dealer to no small extent.
+
+the poor owner ... i mean the *unfortunate* owner ... he must have had
+to arrange all kinds of goo and greased all sorts of palms - not to mention
+the gazillion bucks porsche charges for the car (if indeed he got it
+first-hand) - only to have some schmuck yell out his secret to the press..
+
+..and then to add insult to injury, timmins blows him off in his 454
+chevelle.  what sort of world is this anyway?
+
+-----------------------
+
+Date: Thu, 17 May 90 08:50:57 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re: 959s
+
+>Any news on this?  Can you buy one in Europe and bring it in?  I read in
+>Excellence recently that the 8 at holbert were shipped back (oooh, I
+>actually TOUCHED one there!)
+
+well, we will never see one on the road here.... legally.  There are new
+gray market laws where DOT can ask the maker if the car is similar to
+any here in the US.  if so, no legal way to convert it here.  In a round
+about way, the makers of cars have total control over the gray market
+in the US.  this is advantageous to them, since they lose $ from the
+gray market.
+
+besides, Porsche would of have to crashed 7 (or is it 2) for crash tests.
+Ferrari did it for the F40.  too few to do.  Porsche would of have to have
+sold the 959 for over $300,000 to recoup their R&D for the car.  that's
+before legalizing it for here.  Porsche justifies their loss by stating
+that the car is a rolling experiement, with emphasis that the technology
+will trickle down to other cars.
+
+i believe, each 959 owner is instructed/suggested to have their cars
+serviced by factory sanctioned shops only.  this is because they can
+study the car in its day to day life and can keep records for future
+development efforts.
+
+i think the only way for a person to have the 959 legally here is to have it
+as a work of art.  that means no road use.  that does not mean an owner
+can't rent a track and have fun there.  so, the article in Autoweek
+was correct to assume the excitement of it all.  and yes if the gov't
+boys ever caught the guy, they have the right to confiscate the car.
+WHERE'S THE AUTION !!!
+
+i also heard, there are 2 in storage in SF and the owner's (some silicon
+valley types) are trying to get them legalized.  the boys are keeping a close
+eye, cause any attempt to drive it, and guess what? it's the gov't's.
+
+i think the real sorry point about the car is that it has no racing class
+it belongs to.  since gruppe b in rallying has been illegalized (but
+have been overturned in a french court, but don't expect to see this class
+back).  In road racing, well, it can be beat easily by lighter cars since
+awd is not that much of advantage.
+
+case in point, 89's gto series, between
+the Audi's and the Cougars.  i saw them race at Laguna Seca (with the F40,
+with Jean Alesi driving.  BTW, he is a up and coming World Champion in F1.
+with sh*tty tires, he still managed to come in 4th.  and only because of
+pure driving skill.  and the reason, no handling due to pirelli's).
+The cougars are fast, just as fast as the Audi's.  even faster at some points
+of the track.  the real factor of awd is this.  with Hans Stuck (ex-factory
+racer for Porsche, guess he's waiting for better things from the factory
+for endurance racing where Porsche really belongs and should dominate
+if they would get their hands out of CART and now F1 again?) world's greatest
+rain driving for sports cars and awd, if it rains, the rest of the
+field can just go home.  otherwise, it's not that much of an advantage.
+plus the weight and reliability plays a part.
+
+sorry for rambling.  i could of just said no 959's legally here in the
+states.
+
+/marciano
+
+-----------------------
+
+Date: Thu, 17 May 90 08:53:17 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re: 959s
+
+> but can a european (say german) citizen bring his over and
+>tool around in it while he/she is visiting?
+
+no he can not.
+
+see, this one was short.
+/marciano
+
+-----------------------
+
+From: bart@research.att.com
+Date: Thu, 17 May 90 13:32:56 EDT
+To: porschephiles@bcm.tmc.edu
+
+this month's pano has competing 911 camber truss ads.  stable energies
+says "beware of non-triangulated trusses!", while weltmeister says "pooh
+the REAL problem is the shock tower mounts and the other guy's truss
+actually makes things worse!".
+
+i'm not a 911 guy but i thought it was amusing to see two straight faced
+yet completely conflicting ads so close together.  anyone out there have
+opinions/insight?
+
+-----------------------
+
+Date: Thu, 17 May 90 02:00:31 GMT+0800
+From: james@tamu.edu
+To: porsche@@bcm.tmc.edu
+Subject: ugly 944
+
+
+>Oh, and BTW, not to start a flame war or anything, but I think 944s
+>are ugly.  nya nya.
+
+I suppose that depends what you're comparing them to...  The likes of most
+Porsches are pretty, but...  ugly does not come to mind for the 944 even
+compared with the others!  I still think it's a mean looking machine.
+
+James Bennett Saxon
+
+-----------------------
+
+Date: Thu, 17 May 90 02:19:19 GMT+0800
+From: james@tamu.edu
+To: porsche@@bcm.tmc.edu
+Subject: (959) I spotted one on the street...
+
+
+I didn't even think about it at the time but all this talk is making me real
+nervous...  
+
+
+I saw one, in plain daylight, about a year ago in Laguna.  It was red.
+It was parked along the street, and it was certainly the body style.
+
+I drove by saying "well, there's one finally!"  As I continued down the
+road I figured I should go back and check this out...
+
+But I didn't!!!
+
+UGH!!!
+
+You guys can make of this what you want.  But until this discussion, I
+never even doubted what I saw.  I figured that if some place in the
+country would have it, it would have to be behind the orange curtain...
+
+James Saxon (jsaxon@cssun.tamu.edu)
+
+
+-----------------------
+
+From: bart@research.att.com
+Date: Thu, 17 May 90 15:28:44 EDT
+To: porschephiles@bcm.tmc.edu
+
+959 body kits are readily available.  just think, it might LOOK like
+a 959, but it might BE a 912 ... egad what a horrendous thought!
+
+then again who is to tell?  who among us has seen the real thing or
+enough pictures of same to know the difference when confronted with
+an imposter?
+
+-----------------------
+
+To: james@tamu.edu
+Cc: porschephiles@bcm.tmc.edu
+Subject: Re: ugly 944 
+Date: Thu, 17 May 90 12:31:25 PDT
+From: kent@wsl.dec.com
+
+Nah, you want a mean-looking car? A TR-4A, especially seen from down
+low in front. A car with shoulders, as it were.
+
+-----------------------
+
+From: bart@research.att.com
+Date: Thu, 17 May 90 15:30:46 EDT
+To: porschephiles@bcm.tmc.edu
+
+hey that's what mr real 959 ought to do.  get a scrapped 912, pull
+the chassis id, register the thing as a 912, and drive blithely around
+the usa.  even take it to inspection .. they don't pop the hood, right?
+
+-----------------------
+
+To: porschephiles@bcm.tmc.edu
+Subject: Re: ugly 944 
+Date: Thu, 17 May 90 12:34:24 PDT
+From: kent@wsl.dec.com
+
+Nah, you want a mean-looking car? A TR-4A, especially seen from down
+low in front. A car with shoulders, as it were.
+
+-----------------------
+
+Date: Thu, 17 May 90 14:14:49 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+To: bart@research.att.com, porschephiles@bcm.tmc.edu
+Subject: 912 a horrible thought?!?!?!?!?!
+
+
+	From bart@research.att.com  Thu May 17 12:35:25 1990
+	To: porschephiles@bcm.tmc.edu
+	
+	959 body kits are readily available.  just think, it might LOOK like
+	a 959, but it might BE a 912 ... egad what a horrendous thought!
+	
++++++
+
+
+A-hem! Not to start a flame war or anything here.....but what's so wrong
+with a 912? They have a very pure engine design, they have a 5 speed
+gearbox and they're 12 volts.......They're quick, easy to work on, and
+they don't cost more than the GNP of your favorite third world country. 
+
+Come on, all this conjecture and masturbation about cars none of us will
+ever drive is ok, but let's not get into badmouthing cars that you and
+I can afford. I dunno about you, but I'd personally be scared shitless
+to drive a $70,000 plus car on the road....if you don't like them,
+just give me any 912s laying around your yard...
+
+*** gratuitous insult alert - you're not allowed to flame me for this ***
+
+Besides, at least the 912 engine is cooled by the proper substance and
+is in the proper end of the car......beats the pants off a 924 from a 
+design standpoint....feh! ;^}
+
+*** End Gratuitous Insult *****
+
+
+J('61 356B)Z
+--
+"Every time I look under the hood of a new car, it makes me wanna puke"
+							       - Carroll Shelby
+
+
+-----------------------
+
+
+Date: Thu, 17 May 90 15:18:41 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Bastardizing classic 912's...
+To: porschephiles@bcm.tmc.edu
+
+>959 body kits are readily available.  just think, it might LOOK like
+>a 959, but it might BE a 912 ... egad what a horrendous thought!
+ 
+This exact fate fell on my beloved '67 912 when the subsequent owner turned it
+into a 930 wannabe.  It inherited a Kremer 935 look a like front end.  The
+result looked beautiful but it was very sad to think about all the great years
+and miles and smiles that car gave me.
+ 
+My '67 912 was the 26th 912 to have the larger disk brakes of the dual system
+cars, but without the dual brake system.  There were only about 100 or so of
+those made.  Mine was also assembled at the Porsche factory, not at one of the
+other plants.
+ 
+>then again who is to tell?  who among us has seen the real thing or
+>enough pictures of same to know the difference when confronted with
+>an imposter?
+ 
+If it's a pre-'69 911 or 912 it is very easy for those of us who have
+owned/loved/cared for those cars to tell right away.  The wheel base got
+stretched in 1969 and the body contours show it.
+ 
+Al Bowers
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Thu, 17 May 90 18:41:06 EDT
+To: bart@inet.att.com, porschephiles@bcm.tmc.edu
+
+  [included note of May 17, bart@research.att.com:]
+> 959 body kits are readily available.  just think, it might LOOK like
+> a 959, but it might BE a 912 ... egad what a horrendous thought!
+> 
+> then again who is to tell?  who among us has seen the real thing or
+> enough pictures of same to know the difference when confronted with
+> an imposter?
+  [end of included note]
+
+I actually touched one!  And for a nominal fee, I'll touch you, and you
+can be a god too!
+
+Actually, I did touch the genuine article outside Holbert racing.  There
+were a whole slew of them there before they shipped 'em back.
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Thu, 17 May 90 18:58:23 EDT
+To: Kid Redshift <zursch%large.wpd@sgi.com>, bart@inet.att.com,
+        porschephiles@bcm.tmc.edu
+Subject: Re: 912 a horrible thought?!?!?!?!?!
+
+  [included note of May 17, Kid Redshift:]
+> 
+> 	From bart@research.att.com  Thu May 17 12:35:25 1990
+> 	To: porschephiles@bcm.tmc.edu
+> 	
+> 	959 body kits are readily available.  just think, it might LOOK like
+> 	a 959, but it might BE a 912 ... egad what a horrendous thought!
+> 	
+> +++++
+> 
+> 
+> A-hem! Not to start a flame war or anything here.....but what's so wrong
+> with a 912? They have a very pure engine design, they have a 5 speed
+> gearbox and they're 12 volts.......They're quick, easy to work on, and
+> they don't cost more than the GNP of your favorite third world country. 
+> 
+> Come on, all this conjecture and masturbation about cars none of us will
+> ever drive is ok, but let's not get into badmouthing cars that you and
+> I can afford. I dunno about you, but I'd personally be scared shitless
+> to drive a $70,000 plus car on the road....if you don't like them,
+> just give me any 912s laying around your yard...
+> 
+> *** gratuitous insult alert - you're not allowed to flame me for this ***
+> 
+> Besides, at least the 912 engine is cooled by the proper substance and
+> is in the proper end of the car......beats the pants off a 924 from a 
+> design standpoint....feh! ;^}
+> 
+> *** End Gratuitous Insult *****
+> 
+> 
+> J('61 356B)Z
+> --
+> "Every time I look under the hood of a new car, it makes me wanna puke"
+> 							       - Carroll Shelby
+> 
+> 
+> 
+  [end of included note]
+
+
+
+OOOOH! Beats the pants off a 924!   Is that possible?
+
+I agree about driving$70K cars on the street.  I'drather drive them on
+the track where I can REALLY scare the hell out of the passenger!
+
+And I have every right to talk this way.  I'm practically destitute.
+All I have is my porsche, thew clothes on my back, and what I can fit in
+this here shopping cart.    Damn.  Computers low on batt...
+
+(zzzzzzzt)
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Thu, 17 May 90 19:49:21 GMT-0600
+From: james@visual2.tamu.edu.tamu.edu (James Saxon)
+To: porsche@visual2.tamu.edu.tamu.edu
+Subject: What's a 959 flame like?
+Cc: james@visual2.tamu.edu, lange@lanai.cs.ucla.edu
+
+>	From bart@research.att.com  Thu May 17 12:35:25 1990
+>	To: porschephiles@bcm.tmc.edu
+>	
+>	959 body kits are readily available.  just think, it might LOOK like
+>	a 959, but it might BE a 912 ... egad what a horrendous thought!
+>	
+>+++++
+>Come on, all this conjecture and masturbation about cars none of us will
+>ever drive is ok, but let's not get into badmouthing cars that you and
+>I can afford. I dunno about you, but I'd personally be scared shitless
+>to drive a $70,000 plus car on the road....if you don't like them,
+>just give me any 912s laying around your yard...
+
+
+I don't know but somebody better get their hands back on the steering wheel
+instead of their .....   And get their mind back too.  I don't know WHAT the
+relationship between $70k and a 959 is...  We obviously have more than two
+tiers here flamers...  we've got everything from Porschetrash 914's (which is still
+a profound class of automobile) to 959 CyberPorsche Dream machine...
+
+Maybe if you can't stand the "friction" you should get out of the executive
+bathroom!
+
+Maybe I'll never drive a 959.  Gee by the time I get stable enough to consider
+buying one, I'll probably be shopping for something better...
+
+James Saxon  (jsaxon@cssun.tamu.edu)
+
+-----------------------
+
+To: porschephiles@bcm.tmc.edu
+Subject: Re: 914's
+Date: Fri, 18 May 90 09:42:11 -0400
+From: Ken Neff <kneff@osf.org>
+
+
+
+james@visual2.tamu.edu.tamu.edu (James Saxon) writes:
+
+> ...  We obviously have more than two tiers here flamers...  we've got
+> everything from Porschetrash 914's (which is still a profound class of
+> automobile) to 959 CyberPorsche Dream machine...
+
+Do we really have to resort to 914 bashing here (and then trying to
+parenthetically cover our ass?)
+
+While we're (ever so conveniently) discussing 914's, I could use some info on
+suspension setups.  I have a stock 1974 914 2.0 without sway bars.  I've
+basically decided on tires.  I'm going to go with Yokohama AVS Intermediates in
+195/65VR15 (same rolling circumference as the original tires +/- 0.6%).  I just
+bought a (used) set of Riviera alloys and I assume these tires will fit and
+clear the wheel wells.  I also have the original 5.5x15 steel wheels.
+
+My initial inclination is to replace the rear springs with something on the
+order of 120lbs, and go with the Boge shocks.  My other options include
+Konis/Bilsteins at twice the price, and/or larger torsion bars. I don't want to
+go with too stiff rear springs, as I'll be using the car on the streets quite a
+lot.  It will see some time at Lime Rock, so I don't want it sagging/swaying all
+over the track either.  Ideas?  Opinions?
+
+							Thanks
+
+----                                                                       ----
+Ken Neff                                               Open Software Foundation
+1988 Hawk GT (grey)                                           kneff@osf.osf.org
+1974 Porsche 914 2.0                                            uunet!osf!kneff
+DoD #000022
+
+-----------------------
+
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Fri, 18 May 90 10:08:29 EDT
+To: Ken Neff <kneff@osf.org>, porschephiles@bcm.tmc.edu
+Subject: Re: 914's
+
+On May 18,  9:42am, Ken Neff writes:
+> While we're (ever so conveniently) discussing 914's, I could use some info
+> on suspension setups.  I have a stock 1974 914 2.0 without sway bars.
+> 
+> My initial inclination is to replace the rear springs with something on the
+> order of 120lbs, and go with the Boge shocks.  My other options include
+> Konis/Bilsteins at twice the price, and/or larger torsion bars. I don't
+> want to go with too stiff rear springs, as I'll be using the car on the
+> streets quite a lot.  It will see some time at Lime Rock, so I don't want
+> it sagging/swaying all over the track either.  Ideas?  Opinions?
+
+Do you have no sway bars by choice, or did it come that way?  I've heard
+that the fast setup for 914's is a big front bar and no rear bar (you want
+to keep that inside rear on the pavement).
+
+Here's an excerpt of rec.autos.sport/info-vw posting in response to my
+earlier 914 research...  Again, I'm planning on setting up a 914 for next
+year's autocrossing season, and would like any help.  I'll send another
+message about that.
+
+On Mar 27, 11:47am Tom Haapanen <tom@mims-iris.waterloo.edu> writes:
+> There was an excellent article in Excellence :) about autocrossing
+> a 914; here's the particulars:
+> 
+>     "Preparing for the Cone Zone", Excellence, June 1989, pp.72-76
+> 
+> The article give a lot of detail on what parts to modify or update in
+> order to be competitive in various Solo II classes.  I have excerpted
+> some non-technical stuff, which mostly describes the potential of a
+> 914 in autocrossing.
+> 
+> For ASP, the article suggests the following mods (they give detail, I
+> won't): 19 or 22 mm front sway bar, 21 or 22 mm front torsion bars,
+> 180 or 200 pound rear springs, no rear sway bar, 7" or 8" wheels with
+> 225/50VR15 fron and 245/50VR15 rear tires (A008R, RE71R or Hoosier
+> Autocrosser), teflon bushings for front A-arms and rear trailing arms,
+> racing exhaust, and adjustable rear spring perches.
+
+-- 
+Mark Sirota - University of Rochester, Rochester NY
+ Internet: msir_ltd@uhura.cc.rochester.edu
+ UUCP:     {decvax,harvard,ames,rutgers}!rochester!ur-cc!msir_ltd
+
+-----------------------
+
+From: msir_ltd@uhura.cc.rochester.edu (Mark Sirota)
+Date: Fri, 18 May 90 10:18:53 EDT
+To: The Porsche Interest Group <porschephiles@bcm.tmc.edu>
+Subject: 914 project research
+
+[This is a resending, since I got *NO* response to this a while back.
+ C'mon, porschephiles!  I got great help from the info-vw and autox mailing
+ lists...  Some of you must know *something* about this.]
+
+For next season, I would like to put together a 914 2.0 or 914/6 for
+autocrossing, set up for SCCA Solo II Street Prepared category.
+
+I can freely interchange parts between the 2.0 and the 6, any model year.
+The 1.7 and 1.8 are not in the same class, so I can't use parts from them.
+
+(1) Size.  Wheelbase, length, width, weight.  Any changes to this over the
+	model runs?
+(2) Specs.  How much power did they have stock?  Any idea What's a reasonable
+	amount to expect from either engine in Street Prepared form?
+	Which would be the preferable engine, under two conditions -
+	price-independent, and price-dependent.  Which model year would be
+	the best engine to start with, and why?
+(3) Chassis.  Which model year would be the best frame to start with, and
+	why?
+(4) What other significant changes happened over the various model runs?
+	I know the following:
+	- 914/6: 1970-1972
+	- 914 2.0: 1973-1976
+	- The 914/6 had the 2.0l 6 from the 911T, 5-bolt wheels on 911
+	  brakes, different instrumentation with the key on the left.
+	- I don't know anything about year-to-year changes.
+(5) Price.  I know that only 3360 914/6's were built, and that they are very
+	expensive.  I would expect that this can be done for as little as
+	about $6K for the 2.0, and closer to 10K for the 6.  How about
+	finding parts from the 6 to put into a 2.0 body?  Are these easily
+	found, since many are the same as some 911's?
+
+Any other comments are appreciated.  When the traffic dies down, I'll
+summarize.  I hope to buy the car this fall, and build it over the winter
+for the next autocrossing season.  We're just in the research stage right
+now.
+
+Thanks muchly, in advance.
+
+-----------------------
+
+Date: Fri, 18 May 90 11:51:28 EDT
+From: edudley@rodan.acs.syr.edu (Eliot W Dudley)
+	id AA25629; Fri, 18 May 90 11:51:28 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: 1980 924 Turbo For Sale
+
+
+For Sale:
+
+- 1980 924 Turbo
+
+- mileage unknown odo says 65,000, doesn't seem like 165,0000, but then again...
+- "four bolt" suspension
+- body is solid and rust free, parking lot dent RR corner
+- new front suspension bushings, tie rod ends, ball joints, koni adjustables
+- new waste gate
+- rebuilt transmission (if you can believe Kempton Bros, I don't)
+- last straw was (I'm presuming) that wrong head gasket was installed leading
+  to blown head gasket
+- ran strong
+- factory manuals
+- although solid, all I dare claim is fair condition
+
+I'm sick of this car, although it was the best braking, nicest handling
+RWD thing I've ever driven, with the possible exception of a mid 70s V8 fuel
+injected MB sedan a friend of mine had over in Europe.
+
+Maybe somebody with a high $ street car would like it for beating on
+for track events.
+
+It's had a hard life, I've tried to treat it well, but it's not working out.
+
+Location is W of Syracuse, E of Rochester, N of Ithaca, S of Lake Ontario.
+
+Eliot W. Dudley                       edudley@rodan.acs.syr.edu
+3388 NYS RT 370 E
+Cato, New York   13033                315 437 0215
+
+
+
+-----------------------
+
+From: boubez@bass.rutgers.edu
+Date: Fri, 18 May 90 11:08:41 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: Re: What's a 959 flame like?
+
+
+
+
+>  We obviously have more than two
+>tiers here flamers...  we've got everything from Porschetrash 914's (which is 
+still
+>a profound class of automobile) to 959 CyberPorsche Dream machine...
+
+And what do you mean, pray tell, by Porschetrash? Any defects in a 914
+that I missed?
+
+>James Saxon  (jsaxon@cssun.tamu.edu)
+
+toufic
+
+Toufic Boubez
+boubez@caip.rutgers.edu
+
+-- We didn't inherit the earth from our ancestors,
+   we borrowed it from our descendants.			-- H.D. Thoreau
+
+-----------------------
+
+Date: Fri, 18 May 90 07:48:23 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: 914's and 912's...
+To: porschephiles@bcm.tmc.edu
+
+Ken Neff writes:
+ 
+>James Saxon writes:
+ 
+>> ...  We obviously have more than two tiers here flamers...  we've got
+>> everything from Porschetrash 914's (which is still a profound class of
+>> automobile) to 959 CyberPorsche Dream machine...
+ 
+>Do we really have to resort to 914 bashing here (and then trying to
+>parenthetically cover our ass?)
+ 
+Okay, not to bash anyone's car, but there is a _distinct_ difference between
+these fine _air_ cooled 4 cylinder (real) Porsche's.  I do place the 912 in a
+different class, due to parentage.
+ 
+The 912 and 911 lines (don't know about any of the liquid cooled whiz kids)
+use .049 thick steel and are constructed with seam welding.  The 914 (even the
+914/6) use .035 thick steel and are spot welded.  Examination of data plates
+show the 914's to be VW-Porshe made and the 912's to be Porshe made.
+ 
+I always liked my 912 for the 32 mpg and 120 mph performance it gave me.  Many
+were the BMW 2002's that saw `912' dissappear in _front_ of them in the mid to
+late 70's.  Still brings a smile thinking about it.
+ 
+As to the question, does this make the 914 less of a Porshe?  Does the fact
+that a Dino 246 GT never say Ferrari anywhere on it make it less of a Ferrari?
+BTW, if anyone wants to discard any of these fine machines please throw them
+my way ;-).
+ 
+>Ken Neff
+>1988 Hawk GT (grey)
+>1974 Porsche 914 2.0
+ 
+Porsche's and bikes, how more elemental can you get?
+ 
+Al Bowers
+'85 RZ 350
+Ex-'67 912
+
+-----------------------
+
+To: porschephiles@bcm.tmc.edu
+From: John McNicol <dmcnicol%computer-science.strathclyde.ac.uk@nsfnet-relay.ac.uk>
+Subject: THE 959
+Date: Fri, 18 May 90 16:37:21 +0100
+
+
+	Greetings from Scotland !!!
+
+	Thought I would throw my bit in about the recent discussion of 
+THE 959. ( no imitations will be mentioned ).
+
+	Last year when the Scottish Motor Show was on ( you know the one where 
+all the new cars are launched :-) ) our local Porsche dealer was not present ( a
+pparently not their decision ). 
+	Anyway to make up for the dissappointment of all these people who only 
+go to a motor show to see a Porsche they put on something special at the dealers.
+
+	They transported a 959 up from England ( where ?  :-) ) together with a
+  Ferrari F40 which the U.K. importer owned ( twas a Ferrari dealership as well ).
+
+	So of course I had to go along . A red F40 and a white 959 under the same roof.
+	I took my camera along and took some photos , but most of them didn't 
+come out ( was most dissapointed ).
+
+	So I can say I've seen  959 and an F40 :-) .
+
+	See ya later,
+
+
+			John....
+
+P.S. Waiting list for 911 at local dealership is 2 years for a Ferrari its 7.
+
+John McNicol 4th Yr CS         | Janet    : dmcnicol@cs.strath.ac.uk
+Strathclyde University         | Internet : dmcnicol%cs.strath.ac.uk@nsf.ac.uk
+
+Scotland are going to win the World Cup !!!!!
+
+-----------------------
+
+Date: Fri, 18 May 90 15:12:31 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re: THE 959
+
+
+dmcnicol@uk.ac.strath.cs writes...
+
+>... A red F40 and a white 959 under the same roof. ...
+
+Lucky dude.
+
+well, to reiterate, i saw the IMSA GTO F40 with Jean Alesi driving.
+it looks just like the street car except with a more agressive rear wing.
+
+no porsches to defend the marque though.  what the h*ll happened?  i hope
+porsche gets into serious racing, instead of this hollywood type of
+attitude of f1, cart and bs like that.
+
+Porsche, i beg you, get back into sports car racing!!!  this is where you
+belong.  it is truly a sad day when Joest Racing has factory backing
+for the world sports car racing series.
+
+i personally would like to see racing, not the big politics/show/prima-donna
+type racing.
+
+but i guess, honda sells lots of cars due to its f1 motor.  yeah, but how
+close is the comparison between a v10 (v12 soon) to the 4 cylinders they
+put in civics?
+
+marketing magic i guess.
+
+am i alone in this?  am i a minority?  let me know what you think?
+
+/marciano
+
+Butzi, are you listening ???
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Fri, 18 May 90 12:49:33 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: New Guy, please add
+
+  [included note of May 18, Nael Sabha:]
+> From nsabha@orion.oac.uci.edu Fri May 18 12:28:34 1990
+> Received: from orion.oac.uci.edu by sun.udel.edu (4.0/4.7)
+> 	id AA10068; Fri, 18 May 90 12:28:31 EDT
+> Received: from orion.oac.uci.edu by orion.oac.uci.edu id aa15209;
+>           18 May 90 9:22 PDT
+> To: Steve Timmins <timmins@sun>
+> Subject: Re: PORSCHE Mailing list 
+> In-Reply-To: Your message of Thu, 17 May 90 19:34:06 -0400.
+>              <9005172334.AA18279@sun.udel.edu> 
+> Date: Fri, 18 May 90 09:22:25 -0700
+> Message-Id: <15203.643047745@orion.oac.uci.edu>
+> From: Nael Sabha <nsabha@orion.oac.uci.edu>
+> 
+> Steve, I tried sending the following to the address you
+> provided, but it didn't work. Let me know if you
+> might have another address. Thanks.
+> -----------------------------------------------------
+> 
+> porschephiles.bcm.tmc.edu 
+> 
+> 
+> Please add my name to the Porsche mailing list.
+> Thanks
+> Nael
+>  __________________________ 
+> | Nael Sabha               |     nsabha@orion.oac.uci.edu
+> | University of California |      
+> | 360 Computer Science     |         
+> | Irvine, CA 92717         |                               
+> |__________________________|                               
+> 
+  [end of included note]
+
+
+
+Thanks!
+
+        Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: bart@research.att.com
+Date: Fri, 18 May 90 20:50:18 EDT
+To: porschephiles@bcm.tmc.edu
+
+>i personally would like to see racing, not the big politics/show/prima-donna
+>type racing.
+
+>am i alone in this?  am i a minority?  let me know what you think?
+
+>/marciano
+
+i agree completely.  what in the WORLD is porsche doing in cart??
+and being just an engine provider, fer chrissake??  gosh, how
+wonderful that honda can supply killer engines (after spending
+$0.5 BILLION) to formula one, and gosh how clever of nissan to
+pay don devendorf to call his creations nissans (is there a SINGLE
+nissan part in the nissan gtp's?), and wowie gee peter sauber
+decided to use mercedes engines so mercedes now pays him to paint
+his cars silver...
+
+... BIG EFFING DEAL!!
+
+porsche got where it got in racing by building the WHOLE car,
+in weissach.  not only that, for a long time their race cars
+were useable on the street.  bye bye, 904 (and thanks a lot,
+herr prof dr piech).  ah, never mind, i can rant on that subject
+for a LONG time .. but at least porsche incorporates stuff they
+learn in racing to street cars.  i still get a kick when i
+buy pads for my 951 and the box says 917/930/951 on it.
+
+so, porsche, screw cart, screw formula one, get back into sports
+car racing!
+
+-----------------------
+
+Date: Sat, 19 May 90 15:08:01 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: kneff@osf.org, porschephiles@bcm.tmc.edu
+Subject: Re: 914's
+
+>My initial inclination is to replace the rear springs with something on the
+>order of 120lbs, and go with the Boge shocks.  My other options include
+>Konis/Bilsteins at twice the price, and/or larger torsion bars. I don't want to
+>go with too stiff rear springs, as I'll be using the car on the streets quite a
+>lot.  It will see some time at Lime Rock, so I don't want it sagging/swaying 
+>all over the track either.  Ideas?  Opinions?
+
+Sure, pleanty of both:
+
+I use the Troutman 160 lb progressive rear springs, with 21mm front bars
+and KBB shocks (which get replaced every 9 months or so). I like the way
+it drives in that configuration. I also had it corner balanced for my driving
+weight, since I weigh about 280 lbs and it DOES make a difference.
+
+As to tires, the AVS are great tires, as are Dunlop D40M2's. However, I'm
+now lusting after a set of CompT/A ZR's....
+
+As to wheels, I'd recommend against the Rivera's since they're cast not
+forged. I'd try to scare up a set of the *original* 2.0 alloys (which you 
+should have on the car, BTW) or if I was really going to get crazy, I'd
+have my hubs re-drilled for the 911 bolt pattern in the rear, bolt in a 911
+front end, and go with 15x6 Fuchs rims all around.... (and, if I hadn't 
+discovered that my 914 is all original and hence restorable, that's exactly
+what I'd have done with it...)
+
+Stan
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Sun, 20 May 90 11:09:27 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: 914 springs
+
+> I use the Troutman 160 lb progressive rear springs, with 21mm front bars
+> and KBB shocks (which get replaced every 9 months or so). I like the way
+> it drives in that configuration. I also had it corner balanced for my driving
+> weight, since I weigh about 280 lbs and it DOES make a difference.
+ 
+
+A low cost alternative may be those available from Bill Yates Racing
+Service, advertised in Pano. They are available in several weights
+(phone for info) and are quite inexpensive.
+
+> As to tires, the AVS are great tires, as are Dunlop D40M2's. However, I'm
+> now lusting after a set of CompT/A ZR's....
+
+Lust away.  They really are not as nice as the dunlops, which, IMHO are
+almost identical to RE71s, yet a tad less expensive.  They do wear
+better though.
+ 
+> have my hubs re-drilled for the 911 bolt pattern in the rear, bolt in a 911
+> front end, and go with 15x6 Fuchs rims all around.... (and, if I hadn't 
+
+These can be had quite inexpensively at swap meets.  On the order of
+$3-400 per set, depending on finish, if you really dig.
+
+Steve
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+To: bart@research.att.com
+Cc: porschephiles@bcm.tmc.edu
+Date: Mon, 21 May 90 11:17:34 -0400
+From: James J Dempsey <jjd@alexander.bbn.com>
+
+bart@research.att.com writes:
+>> so, porsche, screw cart, screw formula one, get back into sports
+>> car racing!
+
+Looks like you will get your wish.  This week's autoweek says that
+porsche is working on a brand new Group C car for (perhaps) the 1993
+season.  It also said they might only do the engine and contract
+someone like March to do the chassis.
+
+>> for a long time their race cars
+>> were useable on the street.  
+
+Again, you might get your wish.  This week's autoweek reports that
+Porsche will be producing a limited number of street cars based on the
+962!  Yow!
+
+		--Jim--
+
+-----------------------
+
+Date: Mon, 21 May 90 09:47:32 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Porsche Cup
+
+Some good news (?),
+
+read an old _On Track_ this weekend.  (Old, being not this weeks.)
+and in it was an article on the Porsche Cup they race in Europe.
+f(or those of you who don't know, it's factory sponsored fun.)
+well, last year they were using 951's.  which they will still use in
+Canada (?).
+
+but in Europe, they are using a lightened, tuned carrera 2.
+it's 507 lbs lighter, has 270 horsepower, and since the suspension has been
+changed, the author said, it wasn't as tail happy as previous 911's.
+
+it has wheels that look like the 959's (they're not), use pirelli slicks,
+the heater has been changed (lighter) and no undercoating.  i wish i could
+send pictures cause it looks totally BOSS !!!
+it also has sideview mirrors like the old moby dicks (Kremer 935 w/ the long
+tail).  and it has the standard electric tail, and all inside seating has
+been gutted for 1 racing recaro.
+
+they said it costs around $75k to buy to race one.  what i really like
+about it is that it is reminiscent of the '73 911RS.  total performance,
+not catering to the gold chained, shirt unbuttoned, "guido" type of
+poser.  (please, no flames, i'm just trying to create an envision of
+the type of guy you'd see in poor b grade movies that we all know buy
+expensive cars to impress, not drive.  plus, i myself am a minority.
+so i hope i didn't offend anyone.  if i did, i'm sorry.)
+
+i wonder if i could get one to drive here.  just wishful thinking.
+plus, i'd have to get a higher paying job, since i haven't even made
+$75k in my life yet.
+
+guess, there are drivers on the board still.  thank goodness!!!
+
+there's still hope left,
+/marciano
+
+not that the 951 wasn't a trick car.  i'd take one.  anyone want to
+give one to me.  i promise to take good care of it.  anyone???
+
+aunty M, it's a twister !!!
+
+
+-----------------------
+
+Date: Mon, 21 May 90 12:15:48 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: VitaM6!marciano@uunet.uu.net, porschephiles@bcm.tmc.edu
+Subject: Re:  Porsche Cup
+
+>but in Europe, they are using a lightened, tuned carrera 2.
+>it's 507 lbs lighter, has 270 horsepower, and since the suspension has been
+>changed, the author said, it wasn't as tail happy as previous 911's.
+
+Yeah, there's a REALLY nice article about it in the current Excellence
+magazine. Sounds like Porsche is taking a hard line on making you really
+campaign the cars instead of just buying them for the street or for
+(god forbid!) an investment. 
+
+And, BTW, they mentioned that they're all sold out, have been for a good
+while, and that people are paying BIG BUCKS for places on the waiting list.
+
+Stan
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Mon, 21 May 90 13:25:34 EDT
+To: Marciano Pitargue <uunet.uu.net!VitaM6!marciano@sun.udel.edu>
+Subject: Re: Porsche Cup
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of May 21, Marciano Pitargue:]
+> Some good news (?),
+> 
+> read an old _On Track_ this weekend.  (Old, being not this weeks.)
+> and in it was an article on the Porsche Cup they race in Europe.
+> f(or those of you who don't know, it's factory sponsored fun.)
+> well, last year they were using 951's.  which they will still use in
+> Canada (?).
+> 
+> but in Europe, they are using a lightened, tuned carrera 2.
+> it's 507 lbs lighter, has 270 horsepower, and since the suspension has been
+> changed, the author said, it wasn't as tail happy as previous 911's.
+> 
+> it has wheels that look like the 959's (they're not), use pirelli slicks,
+> the heater has been changed (lighter) and no undercoating.  i wish i could
+> send pictures cause it looks totally BOSS !!!
+> it also has sideview mirrors like the old moby dicks (Kremer 935 w/ the long
+> tail).  and it has the standard electric tail, and all inside seating has
+> been gutted for 1 racing recaro.
+> 
+> they said it costs around $75k to buy to race one.  what i really like
+> about it is that it is reminiscent of the '73 911RS.  total performance,
+> not catering to the gold chained, shirt unbuttoned, "guido" type of
+> poser.  (please, no flames, i'm just trying to create an envision of
+> the type of guy you'd see in poor b grade movies that we all know buy
+> expensive cars to impress, not drive.  plus, i myself am a minority.
+> so i hope i didn't offend anyone.  if i did, i'm sorry.)
+> 
+> i wonder if i could get one to drive here.  just wishful thinking.
+> plus, i'd have to get a higher paying job, since i haven't even made
+> $75k in my life yet.
+> 
+> guess, there are drivers on the board still.  thank goodness!!!
+> 
+> there's still hope left,
+> /marciano
+> 
+> not that the 951 wasn't a trick car.  i'd take one.  anyone want to
+> give one to me.  i promise to take good care of it.  anyone???
+> 
+> aunty M, it's a twister !!!
+> 
+  [end of included note]
+
+Somebody needs a subsciption to Pano, Excellence, Autoweek...  ;^)
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: Steve Timmins <timmins@sun.udel.edu>
+Date: Mon, 21 May 90 13:28:46 EDT
+To: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+Subject: Re:  Porsche Cup
+Cc: porschephiles@bcm.tmc.edu
+
+> And, BTW, they mentioned that they're all sold out, have been for a good
+> while, and that people are paying BIG BUCKS for places on the waiting list.
+>
+And...you have top be an invited competetor to the cup series, and have
+to put up a $25K deposit, which is lost if you don't compete in the
+races. (Make that 25K DM).  Made 50, 40 for customers, 10 for backup
+cars to be retained by the factory.
+
+Why not market this thing....they could charge more for less, like the
+911 ClubSport!
+
+Steve
+.
+ 
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+From: bart@research.att.com
+Date: Mon, 21 May 90 14:28:43 EDT
+To: porschephiles@bcm.tmc.edu
+
+>I would love to see them back in sports cars.  I'm going to Lime Rock
+>for the IMSA GTP next week and it is sad to think that there will
+>mostly be Nissans, Jaguars and Toyotas with 962s relegated to the back
+>of the pack.
+
+clearly you are going to the wrong place next weekend.  if you wnat
+to see porsches ... more to the point, if you want to DRIVE yours,
+you should be going to pocono this weekend.  except for YOU, timmins..;)
+
+-----------------------
+
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Mon, 21 May 90 15:48:26 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: '76 911S For Sale
+
+Posting this for a good friend, I can answer some questions, but not
+all, call if convenient.  Car is located in Milford DE.  Owner is long
+time PCA member Paul Warnell.
+
+1976 911S Targa For sale
+Gold -w- Beige Leather interior
+95,000 mi, 2.7L, runsa well
+Body: Some rust but nothing major
+6x15" Fuchs Alloys
+$9400 o.b.o.
+Paul Warnell
+(302)422-3021 (Days)
+(302)422-3576 (eves after 7-before 1-0 EST
+.
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Mon, 21 May 90 15:02:29 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: 911SC question
+
+OK, I'm getting a noise that my past experience leads me to believe is
+the old chain tensioners going south. I've never done this operation as
+a single undertaking, only as part of rebuilding a whole engine. My 
+questions:
+
+* can I do it with the engine in the car or should I pull it?
+
+* is my assumption that I should upgrade to the Carrera tensioners
+  a good one?
+
+* anything else I should be looking for here?
+
+Stan
+
+-----------------------
+
+Date: Mon, 21 May 90 17:42:05 EDT
+From: busdieck@cpsin.cps.msu.edu
+To: porschephiles@bcm.tmc.edu
+
+
+
+
+
+              I'm interested in purchasing a 1986 vintage 951 and was
+              wondering if anyone has any experience with some of
+              the 951 chip "kits", particularly those offered by
+              Autothority.  
+              
+              -Are the hp increases as high as claimed ( +30-50hp)
+              
+              -Can the stock engine handle this increase in power?
+               (my guess would be yes since the '88S and 89 only 
+               received a larger turbo a revised electronics)
+
+              -Can the rest of the drive line handle the increase,
+               particularly the transaxle?  (In the  88S and 89 turbos
+               I think 1st and 2nd gears were shot peened and a more
+               elaborate trans oil cooler was added from the turbo cup 
+               versions.  I've heard that the clutch is a weak link, 
+               but a stronger sport version can be swapped.)
+
+              -I've heard that the 1986 turbos had problems with the 
+               exhaust manifold.  Can anyone add to this or other 
+               problem areas to watch out for (cooling sys???).
+
+              -I know no 944 is known for great off the line 
+               performance but is the 951 , because of the taller 
+               gearing drop in CR and Autobahn tuning, as bad as some 
+               of the auto-rags seem to indicate?  Do the chip kits
+               help this??
+
+              -Is there any truth to the rumor that Porsche 
+               purposely detuned the 951 so that it wouldn't 
+               overshadow the rest of the line-up by offering 
+               comparable performance from a derivative of the 
+               humble 924??
+
+
+  Thanks for any help,
+     Paul Tacke
+
+
+
+-----------------------
+
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Tue, 22 May 90 10:28:41 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: please add.
+Cc: cubbage@se-sd.sandiego.ncr.com
+
+> To: cubbage@se-sd.sandiego.ncr.com
+> Subject: Re: Porsche mailing list
+> Newsgroups: rec.autos
+> In-Reply-To: <2982@se-sd.SanDiego.NCR.COM>
+> Organization: University of Delaware
+> Cc: timmins@sun.udel.edu
+> 
+> In article <2982@se-sd.SanDiego.NCR.COM> you write:
+> >I would like to add my name to the Porsche mailing list which I believe 
+> >is porschephiles@bcm.tcm.edu?  I have tried sending mail but it keeps
+> >bouncing!
+> >
+> >Can someone help me?
+> >
+> >Thanks,
+> >Sharon
+> >
+> >cubbage@se-sd.sandiego.ncr.com
+> 
+> I'll forward your note to the list.
+> 
+> Steve
+> 
+> 
+That's bmc.tcm i beleive.
+
+
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+	id AA11695; Tue, 22 May 90 17:00:29 EDT
+To: stanh@meyerhof.bcm.tmc.edu
+Cc: porschephiles@bcm.tmc.edu
+Subject: 911SC question
+
+
+Chain tensioners can be replaced without dropping the engine.  Just
+remove the muffler and the `engine cover' which is that black peice of
+sheet metal that protects the engine bay from the underside.  Everyone
+says you should upgrade to the carrera tensioners even if your current
+tensioners are still good.  While they are far more reliable than the
+old style, they do go bad.  I've seen FIVE go bad (completely
+collapse), Bruce Anderson says he's only seen two (making me more
+experienced?).  
+
+Other things it could be:
+
+1) The chains.  Once they've stretched, the tensioner is at the limit
+of its play and the only fix is to replace the chains.  Check the
+travel of the tensioner while it is still in, if it is extended all
+the way then your chains need to be replaced and your tensioners are
+prbably still good.  But since you have access to them anyway and if
+you have he money, it's probably worth it to go to the pressure fed tens.
+
+2) The chain ramps.  These should be checked for wear.  You will find
+little bits of plastic in your oil if they have started to break up...
+Usually you replace the ramps when you replace the tensioners.
+
+3) Other possibilities are wear on the various sprockets, that might
+give added play to the chains.
+
+If you upgrade to the pressure fed tens, make sure you get the
+upgraded carrera tensioner kit, it includes some extra brackets that
+the old carrera tensoiner kits didn't to prevent the new oil lines
+from vibrating too much and wearing holes into them.
+
+Also get the new idler arms, the old ones had a tendancy to snag.
+
+That's all I remember off the top of my head...
+
+Oh, be SURE to put the engine at TDC BEFORE YOU START.  In case the cam
+sprocket jumps when you loosen the chains.  Very important.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+-----------------------
+
+Date: Tue, 22 May 90 15:03:02 EDT
+From: "F W Kerfoot, Iii +1 201 949 6348" <homxc!fwk@rutgers.UUCP>
+To: porschephiles@bcm.tmc.edu
+Subject: re: 914
+
+
+I have been driving a 1974 914-2.0 for about 10 years, including many
+PCA track events, and I have some comments on the suitability of
+various modifications.
+
+Wheels:
+There are basically two wheel offsets around which have a suitable
+bolt pattern. One is the set of wheels which came on the 914,
+including 4.5x15 and 5.5x15 steel wheels and all 3 types of 5.5x15
+alloys, all of which have the same correct offset. The second
+offset is derived from one of the VWs, and is significantly different.
+All of the aftermarket wheels which I have seen are in the latter
+category, with the exception of the replica 5.5x15 4 bolt Fuchs alloys
+(note that many PCA regions will not let you use the repro. Fuchs alloys
+on the track). The stock offset wheels will allow up to 205-60x15 tires
+over a reasonable range of camber settings with good clearance.
+The VW offset wheels are tight even for 185-70x15 tires, although
+those can be squeezed in with appropriate camber settings required
+in some cases. Stick with stock wheels if you possibly can.
+
+Springs/bars:
+The stock 914 has a relatively flexible chassis (even without rust!),
+and unless a roll cage is added, it is easy to make the ssupension too
+stiff, causing the chassis to assume the role of a suspension by flexing.
+I would stick with the front factory bar or a 19 mm H+H bar on the
+loosest or second loosest adjustment hole, and stock torsion bars.
+In the rear, 140 lb springs without a rear bar or the stock springs
+with the factory rear sway bar produce a reasonably balanced car
+with the above front setup.  The latter produces better ride on the street.
+You can lower the front ride height (with the torsion bar adjusters)
+to match the height of a set of stock, sagged rear springs (you really
+want the front a little lower: perhaps 1") and have a nice, lowered car.
+
+Shocks:
+I used old-fashioned non-gas Koni's with the "collapse it and turn"
+adjustment, set about 1/2 turn off full soft. There are also people
+(Dennis Thovson in particular) who go very fast with the original
+Boge's.
+
+911 suspension updates:
+Someone discussed conversion to 5 bolt wheels from a 911, and suggested
+redrilling the rear hubs. Don't do it. Many PCA regions will not
+accept them for the track. Find the right 914-6 hubs at a swap meet.
+The main reason to consider this conversion is better brakes (take
+your choice from the 911 assortment, but any vented 911 setup beats
+the pants off the stock solid disks).
+
+This reasonably stock suspension setup, combined with a stock fuel-injected
+engine, produces a combination which is a better car than almost all drivers
+at PCA events. I got mine down to consistent 1:10's and occasional 1:09's
+at Lime Rock on A-008s (not "R"s), and the car probably could go faster.
+The car is still very reasonable for the street.
+
+Frank Kerfoot
+fwk@homxc.att.com
+...!att!homxc!fwk
+
+-----------------------
+
+
+To: porschephiles@bcm.tmc.edu
+Subject: Porsche internal/real model names
+Date: Wed, 23 May 90 09:23:35 -0400
+From: scholz@osf.org
+
+
+I've been reading this list with great interest since it's inception.  But
+now it's time to ask a stupid question.  I don't own a Porsche, so have
+never been an insider and I've not gotten around to buying any books on
+the history/story of Porsche cars.
+
+I would like to see a list of all the production street and race cars
+Porsche has produced (no too interested in one-offs, now).  But in the
+list, all I want is a few important facts.  I'm thinking of a table like
+this:
+
+model       internal  years   street/  engine       approx.     
+name        model #   avail.   race    type/size    HP/torque
+=====================================================================
+944          ?        83-86?    S      4cyl/2.3l     ?/?
+944S ...
+944S2 ...
+944Turbo    951? ...
+911...
+911SC...
+911Turbo    930...
+... etc ...
+
+What prompted this request recently has been Steve Timmins referral to his
+car as a 951 (as far as I've been able to tell, it's a 944 Turbo,
+correct?).
+
+Anyway, you can either email any info to me directly, or to the list. 
+Either way, I will compile everything and post a summary when the input
+dies down.
+
+Thanks,
+Carl <slowly working my way through the German car ranks> Scholz
+
+-----------------------
+
+From: bart@research.att.com
+Date: Wed, 23 May 90 13:27:15 EDT
+To: porschephiles@bcm.tmc.edu
+
+>From osf.org!scholz Wed May 23 09:23:35 0400 1990
+>I would like to see a list of all the production street and race cars
+>Porsche has produced (no too interested in one-offs, now).  But in the
+
+here's what i have in one liners:
+
+production cars
+356[ABC]        squashed beetle, 4 cyl
+speedster       roofless squashed beetle
+901/911         flat 6 cyl, peugot owns name with '0' in the middle -> 911
+912             lesser 911 (4 cyl)
+914             volks-porsche (vw in europe, porsche here)
+914-6           well, okay, this is a REAL porsche
+924             audi-porsche (audi commissioned but didn't buy)
+928             big fast water-cooled V8, bulbous
+930             911 turbo, the quintessential porsche - fast, dangerous
+944             924 with flared wheelwells, REAL porsche engine
+951             944 turbo
+959             low production super car, all wheel drive, turbo, etc etc
+964             911 carrera 4, all wheel drive, big engine, 911 replacement
+965             turbo 964, not out yet, may never come out
+
+race cars
+550	mid-engined 4 cyl 4 cam racer
+904     last streetable race car, BEAUTIFUL, rare&priceless now
+906     last left hand drive race car, 911 engine, BEAUTIFUL, rare&priceless now
+910     restyled, lighter 906
+907     odd bird
+908     3.0l flat 8
+916	VERY short run 914 derivative, only 6 or so built
+917     [drum roll] 4.5l flat 12 monster killer race car, the days when
+        men were men and giants walked the earth
+934     911 turbo race car
+935     slope nose winged 911 derivative endurance racer
+936     open cockpit 2.1l turbo endurance racer
+956     porsche reenters sports car racing after long hiatus, 2.65l turbo
+        ground effects racer.  won le mans many times in a row in the 80's
+961     rally version of 959, won paris-dakar rally
+962     long wheelbase 956 (so driver's feet don't get crushed in accidents)
+
+random
+915	911 gearbox
+
+-----------------------
+
+To: bart@research.att.com
+Cc: porschephiles@bcm.tmc.edu
+Date: Wed, 23 May 90 13:24:13 -0400
+From: scholz@osf.org
+
+
+bart@research.att.com writes:
+> lotta history you're asking about there.  here's a partial list of
+numbers
+> 901, 904, 906, 907, 908, 910, 911, 912, 914, 915, 916, 924, 928, 930,
+934,
+> 935, 936, 944, 951, 956, 959, 961, 962, 964, 965 ...
+>
+> i have a file explaining these somewhere, but i can't find it just now
+and
+> it would take a LONG time to type 'em all in.
+>
+> plus i have no idea what they've done re 944s2, 911 carerra 2 .. i
+posted
+> a request to that effect once, but it died a lonely death.
+
+Okay, so maybe I asked for too much.  What I'd really like is the street
+cars produced since about 1965, and really just the internal model numbers
+used for them, ala 944T = 951.
+
+Thanks again,
+Carl
+
+-----------------------
+
+Date: Wed, 23 May 90 12:29:40 CDT
+From: Stan Hanks <stanh@meyerhof.bcm.tmc.edu>
+To: porschephiles@bcm.tmc.edu, scholz@osf.org
+Subject: Re:  Porsche internal/real model names
+
+>But in the list, all I want is a few important facts
+
+I can appreciate you wanting a "simple" table with such info, but the
+table just for the 911 family runs something like 4 pages in Bruce Anderson's
+"911 Performance Handbook".....
+
+Stan
+
+-----------------------
+
+Date: Wed, 23 May 90 11:30:38 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+To: bart@research.att.com, porschephiles@bcm.tmc.edu
+Subject: Squashed Beetle!?!?!?!
+Cc: zursch@large.wpd.sgi.com
+
+	From bart@research.att.com  Wed May 23 10:34:32 1990
+	To: porschephiles@bcm.tmc.edu
+	
+	here's what i have in one liners:
+	
+	production cars
+	356[ABC]        squashed beetle, 4 cyl
+	speedster       roofless squashed beetle
+	912             lesser 911 (4 cyl)
+
+++++
+
+I have to take issue with this comment.....a 356 is most definitely *not*
+a squashed beetle any more than a 911 is. The distinctive shape of the 356 
+offers one of the lowest coefficients of drag available in any car of
+any era. These cars are the basis for your nice new Porsches..
+The recent faddish popularity of the speedster among lawyers is a bummer,
+but really, these are classic sports cars. 
+
+You 911 and 944 owners who look down your noses at anything pre '65 are
+funny. I suppose you yell at your grandmother for not waxing your 911 
+or polishing your gucci loafers right, too. 
+
+Don't get me wrong, the post '65 cars are great, and I'd love a new 944
+to toodle to work in every day. But this atttitude about older cars
+is ridiculous. I suppose you remember the Beatles as "that band that Paul
+McCartney was with before he was in `Wings'"? Geez louise, have a little 
+respect for the cars that made your nice new go-fast mobiles possible. 
+
+Okay, so my 356B tops out at 100mph and has a lowly 60HP (DIN). It still
+does its thing after 30 years, gets about 30MPG and dusts off the CRXsi 
+cars on the mountain roads. And when I park it, I come back to find little
+notes that start off "If you ever want to sell this car...." If you ever
+drove one, you might think more of them. A car is not the total of its 
+0-60 time, top speed, and price tag. 
+
+And the 912 is *not* a "lesser 911" it's a different sort of beastie 
+altogether. We've had this talk before.....they're made for different
+purposes. There is what I call "old sports car" and "new sports car" 
+schools of thought on how they ought to be. "old sports cars" were 
+not muscle cars, they were made to be quick with smallish motors, nimble,
+inexpensive, and easy for the car ethusiast to maintain. "new sports car"
+thought is faster and stickier at any cost and the maintenance and expense
+are secondary. And that's Okay, if you decide you want to have a state
+of the art sports car and you have the money to fiddle with it. (or have
+it fiddled with) But give me a break on this butthead snobbery. 
+
+JZ, proud owner (and not about to sell) of 1961 356B Coupe number 116106,
+made by Karosserie Reutter, with a "damen" 1600 Normal motor. Direct
+from F. Porsche Jr. to me. (with a couple intervening owners...) 
+
+Have a nice day. 
+
+--
+"Every time I look under the hood of a new car, it makes me wanna puke"
+							       - Carroll Shelby
+
+-----------------------
+
+
+
+Date: Wed, 23 May 90 11:58:19 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: Porsche model numbers
+To: porschephiles@bcm.tmc.edu
+
+I couldn't resist!  Boy, are you gonna get it over this one!
+ 
+>>From osf.org!scholz Wed May 23 09:23:35 0400 1990
+>>I would like to see a list of all the production street and race cars
+>>Porsche has produced (no too interested in one-offs, now).  But in the
+>
+>here's what i have in one liners:
+>
+>production cars
+ 
+type 42          original VW, ca. 1936.
+ 
+>356[ABC]        squashed beetle, 4 cyl
+                 ^^^^^^^^^^^^^^^
+ 
+;-) on:
+ 
+SAY WHAT!?!  These were the _real_ honest to GOD Porsche's if there ever was
+such a thing.  Eng. Ferdinand Porsche and his son Ferry Porsche designed these
+things and to imply that they are only `squashed beetles' is a gross
+miscarriage of justice!
+ 
+;-) off:
+ 
+There I feel better now.  Actually these cars started the porsche legend and
+defined the `feel' required of these fine automobiles even to this day.
+ 
+Also forgotten were the original Carreras, 4 cam engined 356s.
+ 
+>speedster       roofless squashed beetle
+ 
+;-) on:
+ 
+AAAAAAAAAAAAAUUUUUUUUUUUGGGGGGGGGGGGGGHHHHHHHHHHH!!!!!!!!!!!!!
+ 
+;-) off:
+ 
+Speedsters were the essential Porsche.  Very minimalist in approach and
+execution.  Not for possuers.  Unfortunately collectible.
+ 
+Also 4 cam versions called the Carrera GTS, very rare and _fast_.
+ 
+>901/911         flat 6 cyl, peugot owns name with '0' in the middle -> 911
+ 
+There was a great deal of debate that the 911 was not a real Porsche when it
+was first introduced.  Funny how things change.
+ 
+>912             lesser 911 (4 cyl)
+ 
+That's why the 1.6 liter 912 was faster than the later smog emission strangled
+911Ts, right?  A 912 is not a lesser 911, no more than a 944 is a lesser 928.
+ 
+>914             volks-porsche (vw in europe, porsche here)
+>914-6           well, okay, this is a REAL porsche
+ 
+Didn't sell well though.  Too close in price to a 911T, too bad for those of
+us who would want one.  Great for those who have them!
+ 
+>924             audi-porsche (audi commissioned but didn't buy)
+>928             big fast water-cooled V8, bulbous
+>930             911 turbo, the quintessential porsche - fast, dangerous
+ 
+Several variants.  Originally sold as the Turbo Carrera here, 911 Turbo in
+Europe.  Renamed 911 Turbo in 1978 for U.S. consumption.  The name 930 is the
+project number.
+ 
+>944             924 with flared wheelwells, REAL porsche engine
+>951             944 turbo
+>959             low production super car, all wheel drive, turbo, etc etc
+ 
+Vaguely 911 based.
+ 
+>964             911 carrera 4, all wheel drive, big engine, 911 replacement
+ 
+As for the 959.
+ 
+>965             turbo 964, not out yet, may never come out
+ 
+Ibid.
+ 
+>race cars
+ 
+Type 64  Meant for aborted Berlin-Rome race in late 1939.  WWII interferred.
+Obvious connection to 356 line by appearance.
+ 
+>550	 mid-engined 4 cyl 4 cam racer
+ 
+Not necessarily 4 cam.  Many came with the pushrod engine of the 356 `squashed
+beetle' line.
+ 
+>904     last streetable race car, BEAUTIFUL, rare&priceless now
+ 
+Most had the 4 cam 4 cylinder but a few factory cars were equiped with the
+(then) experimental sohc flat 6.
+ 
+>906     last left hand drive race car, 911 engine, BEAUTIFUL, rare&priceless
+now
+ 
+Not a 911 engine.  Rebuild one of each and you will find out how different
+they really are.  The two engines are very closely related however.  Cams and
+various other parts can be interchanged.  Beautiful birdcage type chassis.
+long and short tailled versions were available.
+ 
+>910     restyled, lighter 906
+ 
+I like the original better.
+ 
+>907     odd bird
+>908     3.0l flat 8
+ 
+A large group of 911 derivatives forgotten in here.  Just a few...
+ 
+911 ST   Monte Carlo Rally car.  911 S motor (160+bhp) but 911 T weight
+         (strpper)
+911 R    First customer racer of the 911 line.  906 motor.  _Fast_.
+911 Carrera RS 2.7 liter  1973  _Fast_ collectible (sigh...).  Think about a
+         1973 911 S with 2.7 l pistons and cylinders and the flares and a duck
+         tail and the stripes and.... (I know its not the real thing but I
+         can't afford the _real_ thing, I could own this replica though).
+911 Carrera RSR 3.0 liter 1974  _Fast_ collectible (sigh...).
+911 Turbo Carrera 2.1 liter  _FAST_  factory only.
+ 
+>916     VERY short run 914 derivative, only 6 or so built
+ 
+Meant as a street car.  Extant examples are fully upolstered and ready for the
+road.
+ 
+>917     [drum roll] 4.5l flat 12 monster killer race car, the days when
+>        men were men and giants walked the earth
+ 
+Engine was a development of 2 911 engines running flywheel to flywheel (one
+running opposite to the other).  All power take off from the middle, sohc but
+4 cams driven from the ends.  Many variants, turbos and engine displacements.
+Notably, 4.5 l (original), 4.7 l, 5.0 l, 5.4 l, 5.4 l turbo (917-10 Can-Am
+car) and 5.4 l turbo + intercooler (917-30 Can-Am car).  BTW, Mark Donohue
+drove a 917-30 at Talladega (?) to a record for closed circuit speed that (I
+believe) still exists today.  257 mph.  'nuff said.
+ 
+>934     911 turbo race car
+ 
+Group 4 930.
+ 
+>935     slope nose winged 911 derivative endurance racer
+ 
+Group 5 930.
+ 
+>936     open cockpit 2.1l turbo endurance racer
+ 
+Turbo 911 type motor.
+ 
+>956     porsche reenters sports car racing after long hiatus, 2.65l turbo
+>        ground effects racer.  won le mans many times in a row in the 80's
+>961     rally version of 959, won paris-dakar rally
+>962     long wheelbase 956 (so driver's feet don't get crushed in accidents)
+>
+>random
+ 
+547     4 cylinder 4 cam engine.
+ 
+616     Later 356 gearbox.
+ 
+>915	911 gearbox
+ 
+5 speed gear box.  The 4 speed is different as is the 4 speed of the early 911
+turbos (930s).
+ 
+I'm sure I screwed some of this up, but someone will fix it.
+ 
+Al Bowers
+'85 RZ 350
+Ex-'67 912
+
+-----------------------
+
+From: bart@research.att.com
+Date: Wed, 23 May 90 15:01:55 EDT
+To: porschephiles@bcm.tmc.edu
+Subject: Squashed Beetle!?!?!?!
+
+>And the 912 is *not* a "lesser 911" it's a different sort of beastie 
+
+apologies to all offended.  this was the result of
+
+	mail porschefiles < oldfile
+
+where oldfile was something i wrote a long time ago to explain porsche
+numerology to a non-porsche person.
+
+the virtues of the 356 are many.  like, uhh .. well i'm sure there are
+some, but describing a 356 to someone else in 10 words or less is not
+easy, particularly if you want to get across the pining reminiscing
+softheadedness you'd find in a pano article about it.
+
+in terms of layout, suspension, engine, etc, "squashed beetle" is
+a very accurate description of the 356, is it not??
+
+re 912's, i had never known a 912 owner but had heard they were paranoid.
+paranoid isn't the word, but 912 people must get very tired of explaining
+912ness to 911 heads who don't understand why one would bother.  apologies
+for forcing yet another littany..
+
+>Have a nice day. 
+
+that depends on how twin peaks finishes up, does it not?
+
+-----------------------
+
+Date: Wed, 23 May 90 15:44 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Re: Porsche model numbers
+To: porschephiles@bcm.tmc.edu
+
+ 
+    >904     last streetable race car, BEAUTIFUL, rare&priceless now
+ 
+    Most had the 4 cam 4 cylinder but a few factory cars were equiped with the
+    (then) experimental sohc flat 6.
+
+the car was intended to have the flat 6; conversion from a 4 to a 6
+is apparently straightforward and this has been done to some cars.
+oh well, with only 100 or so cars made, i'll never own one, or even
+have a chance to argue originality.
+ 
+    >916     VERY short run 914 derivative, only 6 or so built
+ 
+    Meant as a street car.  Extant examples are fully upolstered and ready for the
+    road.
+
+there are reportedly between 10 and 15 in existance, belonging to
+Porsche and Piech family friends and relatives.
+
+    >917     [drum roll] 4.5l flat 12 monster killer race car, the days when
+    >        men were men and giants walked the earth
+ 
+    Engine was a development of 2 911 engines running flywheel to flywheel (one
+    running opposite to the other).  All power take off from the middle, sohc but
+    4 cams driven from the ends.  Many variants, turbos and engine displacements.
+
+not as weird as it sounds; alfa did something similar to this with the
+magnificent 8C2900 engine of the late 1930s.  it is a very viable way to
+double your displacement when you're in a hurry to get a competitive
+engine ready.
+
+richard
+
+-----------------------
+
+From: bart@research.att.com
+Date: Wed, 23 May 90 16:16:45 EDT
+To: porschephiles@bcm.tmc.edu
+
+this number stuff makes it easy to describe what i want my next porsche
+to be, namely X where 924:951 -> 914:X
+
+so far as i can tell X is most closely approximated by the acura nsx..
+
+-----------------------
+
+Date: Wed, 23 May 90 13:19:14 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+To: bart@research.att.com, porschephiles@bcm.tmc.edu
+Subject: squashed beetle....
+
+
+	From bart@research.att.com  Wed May 23 12:17:44 1990
+	>Subject: Squashed Beetle!?!?!?!
+	
+	>And the 912 is *not* a "lesser 911" it's a different sort of beastie 
+	
+	apologies to all offended.  
+
+Accepted with a smile....
+	
+	the virtues of the 356 are many.  like, uhh .. well i'm sure there are
+	some, but describing a 356 to someone else in 10 words or less is not
+	easy, particularly if you want to get across the pining reminiscing
+	softheadedness you'd find in a pano article about it.
+
+I listed the first ones to jump to mind in my first post.....for a much 
+better defense of the species, read anything by Harry Pellow (AKA the Maestro)
+	
+	in terms of layout, suspension, engine, etc, "squashed beetle" is
+	a very accurate description of the 356, is it not??
+
+The same technology and basic design premises were used on both cars. I think,
+though that the 356 bears the same relationship to the bug that the 911 
+bears to the 356. i.e. they took what they learned and made something 
+similar (because it worked) and refined the performance with the best
+aspects of the previous venture. Actually, the 912 is the direct descendant,
+and uses the best of the 356 motors. The SC Super-90. 
+
+But the similarity ends with design premises. The 356 is a unibody, but it is
+materially different in construction from a bug. you can run your finger 
+from tip to stern on a 356 and never touch a seam (that isn't totally
+butt-welded and smoothed). This makes for a much more rigid chassis than 
+you get on a bug. The suspension is by torsion bar and trailing arm, and
+this works well. The sway bar design is different and more effective. Like 
+most older sports cars, the 356 is softly sprung for a good ride, but allows
+little body roll. The track and wheelbase is different than a bug for 
+better handling. the 356 wheelbase is 11 inches shorter than a bug, and the
+track is about 3" narrower. 
+
+The motor is certainly familiar to those who have dealt with VW motors, and
+in fact, you can bolt either motor directly on to either tranny. (the sheet
+metal is car specific, however. But the 356 motor uses improved designs for
+heads and case and almost every part. Hence, the 356 was getting up to 90
+HP while the bug was getting 25-36 HP. Also the oil filter and dual carb
+setup is dramatically different while retaining close to the same gas mileage. 
+Stock 356 motors came with up to 9.5:1 compression and were quite impressive
+for the day. A lot of bang for your buck. 
+
+The driver's perspective though, is totally different between a bug and 
+356. I know, I have lots of volksies and a 356. The feel is not that of
+an economy car. You feel like the car is much heavier than it is in terms
+of ride, but more agile and sure footed than a bug, even a specially prepared
+bug like I had until recently...
+
+So they spring from the same stock certainly, but then again, so do all 
+Porsches...
+	
+	re 912's, i had never known a 912 owner but had heard they were paranoid.
+	paranoid isn't the word, but 912 people must get very tired of explaining
+	912ness to 911 heads who don't understand why one would bother.  apologies
+	for forcing yet another littany..
+
+Defensive is probably the word. Still, if you don't have to have the awesome
+power et al. the 912 is a very groovy car. 
+	
+	>Have a nice day. 
+	
+	that depends on how twin peaks finishes up, does it not?
+	
+
+I haven't seen it.....But I hope it works out for you. 
+
+
+I've got to get ready for the 356 Club west coast holiday. We're going to 
+Morro Bay and then to the Porsche Parade in Monterey.....all the 356s 
+(or at least a good number of them) on the west coast are going to descend
+on a herd of otherwise unsuspecting EST-educated gold-chain PCA type 911
+drivers and steal all the chicks....
+
+Happy Motoring!
+
+JZ
+--
+"Every time I look under the hood of a new car, it makes me wanna puke"
+							       - Carroll Shelby
+
+-----------------------
+
+
+
+Date: Wed, 23 May 90 14:14:53 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re: Porsche internal/real model names
+
+some interesting tibits about some race cars.
+
+the 917k was made illegal for the European races.  much like the 959 in
+gruppe b.  another story.  so Porsche had to find a racing series for
+it.  how about Can-Am in America?  Where the big block chevy mclarens
+were dominating.  the Bruce and Denny show.  so the 917k and 917lh
+(derivative, which means long tail.  really fast on the mulsanne straight.
+i wonder who owns this car now.  probably the factory.) were brought to
+America to race.  after racing/development, the 917k (atmospheric, no turbo's
+probably the sweetest sound in the world is from a Porsche flat 12.
+can't wait till the historics at Laguna Seca.  not that the 12 cyl
+ferrari's weren't chopped lettuce, but i like the sound of the 12 cyl
+Porsche much better, getting distracted.  but if any one of you get a
+chance, just listen.) and were designated 917k/30.  2 turbo's
+open cockpit, 1100 hp race trim.  it literally destroyed the series.
+People were getting tired of watching Peter Greg winning all the time
+so the series lost interest, and died out.  only Porsche has the honor
+of ever destroying a series from vastly superior cars.  well winning
+all the time anyway.  for those who don't know, it had Sunoco sponsorship,
+was a dark blue.  maybe you've seen posters.  the sunoco Porsche (917k/30)
+also held the closed track record for the flying mile (???) for the
+longest time.  recently (last 5 years ???) was broken.
+
+936.  in 1981 (?) when Peter Schultz took over the reins of Porsche,
+he asked what cars the factory was going to take to Le Mans.  The
+team said, a couple of 924 turbo's, to see how they do.  other than
+that, nothing.  Mr. Schultz said "bullsh*t" (not really).  he
+said if Porsche goes to Le Mans, Porsche goes to Le Mans to win.  so they
+went to the factory museum, blew the dust of the flat 6 indy motor
+from the car that was banned, (they changed rules real fast so Porsche
+couldn't race.  scared of domination, like the 917k/30.  instant museum
+piece.  kinda of sad to see the march/Porsche motor combination not
+working too well.  i gave them 1 year to work out the bugs, then to
+start winning consistently, but ....  damn, i'm pissed.  get back into
+endurance racing!!!) and put it in a open cockpit 936.  Went to Le Mans
+with a single car, and won.
+
+some details are foggy.  if i'm wrong, i apologize.
+
+about the sound of 917k's.  you can hear (doesn't do justice) it in the
+movie _Le Mans_ with Steve McQueen, 1971.... "i want Porsche to win
+Le Mans..."  great movie for Porsche lovers, but i can't find it on
+video anywhere.  any help ????  i want my own copy.  was a box office
+flop though.  if anyone has info on getting this movie, let me know
+please.  i can't even find it listed in movie guide books and such.
+help.
+
+sorry to use up bandwidth !! ;^)
+/marciano
+
+-----------------------
+
+Date: Wed, 23 May 90 14:44:07 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re: Porsche model numbers
+
+
+>>916     VERY short run 914 derivative, only 6 or so built
+
+>Meant as a street car.  Extant examples are fully upolstered and ready for t
+he
+>road.
+
+i think it was built as a ferrari 206 (dino, later the 246) fighter.
+i'd much rather have the 916.  priceless.
+
+>there are reportedly between 10 and 15 in existance, belonging to
+>Porsche and Piech family friends and relatives.
+
+there's a yellow one in the San Francisco area.  saw it in a mag once.
+major cosmetic diff:  factore flared fenders, no targa top... steel (?).
+
+the 906 was built buy Butzi Porsche.  (Butzi's his nickname like deal.
+Ferdinand is his real name, or at least it starts with an f.)  designed
+and built.  until this year (?) he was head of Porsche Design, but now
+runs the company.
+
+> speedster
+
+forgot the 356 cabriolet.  remember that the speedster was built for
+"cheap".  or lets say less expensive.  now, they're more desirable.
+but just try to buy a 356 cabriolet.
+
+ok, granddad Porsche also worked on the Auto Union.  saw/heard it run
+when Laguna Seca honored Porsche as a make back in 83 (?).  i'm terrible
+with dates.  one left in the world, but the factory brought it and
+ran it.  16 cyls, could fry it's skinny tires in any gear, big
+Mercedes fighters.  sorta dominated before WWII.
+
+granddad Porsche also designed the original electric motors in the
+cable cars of SF, Pantzer (sp ???) tank, etc, etc.
+
+>>910     restyled, lighter 906
+
+saw a historic race where i say a 910 out drag a Ferrarri 512LMM to the
+finish line to win.  great race.
+
+forgot 911e, for einspringer (sp ??), injection.  oh, yeah !!! my favorite
+911 derivative.  73' 911rs and 74'911rsr.  the rsr was used for the first
+iroc series.  306 hp, lightened chassis (like no glove box, roll cage,
+oil cooler up front, wild colors,  wish i had one.  twin plug mech. injection.
+really cool sound from a revving 911rsr.)
+
+sorry, i got brain fade, in my last mesg i said Peter Greg (i think)
+i meant, Mark Donohue.  just got back from lunch,  burp.
+
+Although Peter Greg did drive some wicked 935's.
+
+> then to the Porsche Parade in Monterey
+
+i'll be there.... but only as a spectator.  sigh.
+
+>and steal all the chicks....
+
+not in monterey you won't.
+
+too fun, can't get back to work.
+/marciano
+
+-----------------------
+
+Date: Wed, 23 May 90 15:19:34 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: squashed beetles, acura nsx, and model numbers...
+To: porschephiles@bcm.tmc.edu
+
+On the topic of squashed beetles, acura nsx, and model numbers:
+ 
+Squashed beetles:
+ 
+>The same technology and basic design premises were used on both cars. I think,
+>though that the 356 bears the same relationship to the bug that the 911
+>bears to the 356. i.e. they took what they learned and made something
+>similar (because it worked) and refined the performance with the best
+>aspects of the previous venture. Actually, the 912 is the direct descendant,
+>and uses the best of the 356 motors. The SC Super-90.
+ 
+Note:  102 bhp here in the U.S. under the SAE ratings at that time.  90 bhp
+DIN rated in Germany.
+ 
+>But the similarity ends with design premises. The 356 is a unibody, but it is
+>materially different in construction from a bug. you can run your finger
+>from tip to stern on a 356 and never touch a seam (that isn't totally
+>butt-welded and smoothed).
+ 
+This is true _after_ the first 50 cars that were assembled at Gmund, Austria
+and after the prototype 356 that is still in the Porsche Museum.  The first
+run of 50 were made from _hand_ beaten aluminum bodies and used 986cc 4
+cylinder pushrod engines with 4 speed gearboxes.  These were not as smooth as
+the later 356s in body fit or finish, but boy could they go!  I saw one for
+sale recently, the owner was asking the absurdly low price of $ 12,000.  wish
+I had the cash then...
+ 
+>	re 912's, i had never known a 912 owner but had heard they were paranoid.
+>	paranoid isn't the word, but 912 people must get very tired of explaining
+>	912ness to 911 heads who don't understand why one would bother.  apologies
+>	for forcing yet another littany..
+ 
+>Defensive is probably the word. Still, if you don't have to have the awesome
+>power et al. the 912 is a very groovy car.
+ 
+Definately well balanced in the classical sense.  Adequate power, better
+handling than the 911 due to the reduced engine mass overhang and reduced
+weight.
+ 
+>	>Have a nice day.
+	
+>	that depends on how twin peaks finishes up, does it not?
+	
+>I've got to get ready for the 356 Club west coast holiday. We're going to
+>Morro Bay and then to the Porsche Parade in Monterey.....all the 356s
+>(or at least a good number of them) on the west coast are going to descend
+>on a herd of otherwise unsuspecting EST-educated gold-chain PCA type 911
+>drivers and steal all the chicks....
+ 
+The one thing I really miss was the camaradarie of being a Porsche owner.
+Always made me feel good to flash my lights at a 911 or a 356 and get a
+response.  I once had the opportunity to motor in a group of 5 Porsches on the
+San Diego Freeway (including a 924 and a 928).  All very impromptu and
+spontaneous, we all happened to be traveling together.  Most of the whiz kid
+Porsche owners today don't even realize that you're flashing your lights in
+greeting today.  Motorcycles are the same way, still.
+ 
+>Happy Motoring!
+ 
+About the NSX:
+ 
+>this number stuff makes it easy to describe what i want my next porsche
+>to be, namely X where 924:951 -> 914:X
+>
+>so far as i can tell X is most closely approximated by the acura nsx..
+ 
+A friend of mine (with all the right connections) just got to drive the
+prototype.  His impressions were of a very softly sprung vehicle with
+_awesome_ control.  He went into great detail about the titanium and aluminum
+structure (titanium lug nuts on the wheels!  talk about a corrosion problem!).
+ 
+ 
+And from Richard Welty (is this some sort of Welty conspiracy to moderate all
+the exotic car mailing lists?) about the model numbers:
+ 
+>    >904     last streetable race car, BEAUTIFUL, rare&priceless now
+>
+>    Most had the 4 cam 4 cylinder but a few factory cars were equiped with the
+>    (then) experimental sohc flat 6.
+>
+>the car was intended to have the flat 6; conversion from a 4 to a 6
+>is apparently straightforward and this has been done to some cars.
+>oh well, with only 100 or so cars made, i'll never own one, or even
+>have a chance to argue originality.
+ 
+No conversion was necessary on the factory cars, they came that way, customer
+cars got the more tempermental 4 cam.  I will check on the actual production
+figures as to how many came each way.
+ 
+>    >916     VERY short run 914 derivative, only 6 or so built
+>
+>    Meant as a street car.  Extant examples are fully upolstered and ready for
+>    road.
+>
+>there are reportedly between 10 and 15 in existance, belonging to
+>Porsche and Piech family friends and relatives.
+ 
+I heard 6, but my memory fails.  I know Otto Chandler of the Mirror/Times
+Corp. here in L.A. has (had?) one.  His was yellow, no targa roof though.  It
+was needed for structural considerations.  I will check this also.
+ 
+>    >917     [drum roll] 4.5l flat 12 monster killer race car, the days when
+>    >        men were men and giants walked the earth
+>
+>    Engine was a development of 2 911 engines running flywheel to flywheel (one
+>    running opposite to the other).  All power take off from the middle, sohc b
+>    4 cams driven from the ends.  Many variants, turbos and engine displacement
+>
+>not as weird as it sounds; alfa did something similar to this with the
+>magnificent 8C2900 engine of the late 1930s.  it is a very viable way to
+>double your displacement when you're in a hurry to get a competitive
+>engine ready.
+ 
+Actually the 935-78 model had a comparable power output to the 917-30.  A
+_*REAL*_ 911.  Talk about too much motor!
+ 
+One statistic that I do recall R&T publishing about their 935 test was that it
+went throught the standing start quarter mile in 8.9 seconds and 159 mph (?).
+Not bad for a car built _not_ as a drag racer but as an _endurance_ racer.
+ 
+Al Bowers
+
+-----------------------
+
+From: bart@research.att.com
+Date: Wed, 23 May 90 18:40:05 EDT
+To: porschephiles@bcm.tmc.edu
+
+>some details are foggy.  if i'm wrong, i apologize.
+
+on your knees!!
+
+>936.  in 1981 (?) when Peter Schultz took over the reins of Porsche,
+
+wayy wrong.  936 first appeared in 1976, totally unrelated to the
+LATER indy car save the ubiquitous flat 6.
+
+btw the man's name is shutz, no 'l'.
+
+>the 917k was made illegal for the European races.how about Can-Am in America?
+
+the 5 liter homologated sports car class was abolished because porsche
+and later ferrari drove through the homologation loophole fia didn't
+intend.  the 917K was never used in the can-am, which initially saw
+the unsuccessful use of the atmospheric 917PA and later the 917/[13]0
+driven by mark donohue, and later, george follmer.  peter gregg was
+*not* a can-am porsche driver.
+
+-----------------------
+
+Date: Wed, 23 May 90 17:58:37 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: made a mistake
+
+alright, i know i made a mistake about Peter Greg, and the letter
+designation was sketchy but...
+
+are you sure about the the 936???
+
+and i realize now that i was shutz.  my only saving grace is that
+i have a terrible memory.  thank god for computers and dbms.
+
+back to the 936, i read it in a mag somewhere and without fail,
+i forgot where.  but i do know that mr. shutz (ah, no l, i remembered)
+was upset about the 924 turbo's.  i think the same year that the
+y used the BFgoodrich street tires.
+
+i'll look it up, since i really don't want to mislead anyone.
+
+sorry if i offended anyone.
+/marciano
+
+i feel real lousy.  i think i'm going home now.
+
+-----------------------
+
+To: bmw@sol.crd.ge.com
+Cc: porschephiles@bcm.tmc.edu
+Subject: La Carrera Classic video
+Date: Thu, 24 May 90 09:21:04 -0400
+From: scholz@osf.org
+
+
+Last night was our quarterly local BMW CCA meeting.  Part of the
+festivities was the showing of the La Carrera(sp?) Classic video made by
+Cunningham BMW/Racing in San Diego.  If you remember, there was a great
+article about the race in the Roundel a couple of months ago, and they
+mentioned the video.  I think I have also seen ads from Cunningham in the
+mag selling the video.
+
+This video is the *COOLEST* 67 minutes of automotive action I've ever
+seen.  In brief, the video has some forward comments from Mr. Cunningham,
+and the driver and co-pilot in the car that had the camera.  The bulk of
+the tape is just the shots from inside the car.  This is just like the
+in-car camera shots during F1 races, except the camera is set behind and
+between the front seats looking out the windshield.  So, you get to see
+and hear everything the driver and co-pilot do.  The car is a stock M6 and
+it is f**king amazing!  The co-pilot is the owner of the car and both of
+them (I think) are salesmen at the dealership.  It is truly unique to see
+and hear the excitement that these two experienced, complete with colorful
+language when things just got too wild for polite words.  I highly
+recommend buying/renting/finding this video to any car enthusiast,
+especially a BMW fan!
+
+BTW, they finished SECOND behind a Testarossa, and the other two
+Cunningham entrants (another M6 and an M5) finished 4th and 5th out of 146
+entrants total!  Truly impressive from a set of straight stock (except for
+tires and wheels, I believe) luxury coupe/sedans.  They hit 173 MPH before
+the rev limiter kicked in!!  Several times!
+
+Carl
+
+-----------------------
+
+Date: Thu, 24 May 90 11:50 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: squashed beetles, acura nsx, and model numbers...
+To: porschephiles@bcm.tmc.edu
+
+    From: bowers@elxsi.dfrf.nasa.gov
+ 
+    And from Richard Welty (is this some sort of Welty conspiracy to moderate all
+    the exotic car mailing lists?) about the model numbers:
+ 
+(naah; i just happen to hang out in the same places as a lot of the
+rest of you.)
+
+    >    >904     last streetable race car, BEAUTIFUL, rare&priceless now
+
+    >    Most had the 4 cam 4 cylinder but a few factory cars were equiped with the
+    >    (then) experimental sohc flat 6.
+    >
+    >the car was intended to have the flat 6; conversion from a 4 to a 6
+    >is apparently straightforward and this has been done to some cars.
+    >oh well, with only 100 or so cars made, i'll never own one, or even
+    >have a chance to argue originality.
+ 
+    No conversion was necessary on the factory cars, they came that way, customer
+    cars got the more tempermental 4 cam.  I will check on the actual production
+    figures as to how many came each way.
+
+agreed.  it was something like the last 10 or so factory cars that
+got the 6 (or the not-very-successful 8); many of the customer cars
+switched from the 4 to the 6 during the active racing career of the 904,
+as did earlier factory cars with the 4.
+ 
+    >    >916     VERY short run 914 derivative, only 6 or so built
+ 
+
+    >there are reportedly between 10 and 15 in existance, belonging to
+    >Porsche and Piech family friends and relatives.
+ 
+    I heard 6, but my memory fails.
+
+_The Porsche Book_ says 11 made; some 5 or 6 in the US.  most kept by
+the family, a few sold to friends of the family.  the car was supposed
+to be wonderful, but the costing department killed the project.  it got
+the most powerful 911 engine of the time.
+
+    I know Otto Chandler of the Mirror/Times
+    Corp. here in L.A. has (had?) one.  His was yellow, no targa roof though.  It
+    was needed for structural considerations.  I will check this also.
+ 
+right; no targa roof on the 916.  also, wild flared fenders for the much
+larger tires.
+
+richard
+
+-----------------------
+
+Date: Thu, 24 May 90 08:56:00 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: in car 956
+
+talking about video's... there's one called in car 956, where one gets to
+ride with Derek Bell through some of the world's most famous tracks.
+including, Silverstone, Spa, Suzuka, Nurburgring (sp ?)... and of course
+le circuit de la sarthe... Le Mans.
+
+if one gets to check it out, just be amazed at the no lift in the (then only)
+kink on the Mulsanne straight.
+
+plus the wastegate/motor sound is pretty cool.
+
+and for those of you who like (fusion ?) jazz should check out
+'84 Le Mans video where the Joest NewMan Porsche won.  (the factory
+boycotted due to some reason?  can't remember.)
+
+just my $0.02 worth.
+/marciano
+
+-----------------------
+
+Date: Thu, 24 May 90 10:54:22 PDT
+From: zursch%large.wpd@sgi.com (Kid Redshift)
+To: bowers@elxsi.dfrf.nasa.gov, porschephiles@bcm.tmc.edu
+Subject: Re:  squashed beetles, acura nsx, and model numbers...
+
+>From bowers@elxsi.dfrf.nasa.gov  Wed May 23 15:40:43 1990
+ 
+The one thing I really miss was the camaradarie of being a Porsche owner.
+Always made me feel good to flash my lights at a 911 or a 356 and get a
+response.  I once had the opportunity to motor in a group of 5 Porsches on the
+San Diego Freeway (including a 924 and a 928).  All very impromptu and
+spontaneous, we all happened to be traveling together.  Most of the whiz kid
+Porsche owners today don't even realize that you're flashing your lights in
+greeting today.  Motorcycles are the same way, still.
+
+++++++
+
+I know what you mean....other 356ers never fail to flash or wave if they
+see you and 912 people do pretty much the same. Aside from  that,
+the ratio of people who acknowledge you is directly proportional
+to the age of the Porsche. A late model 911 Cabriolet, not a chance. A '66 
+911, almost 100%. Sigh. Too many lawyers. 
+
+Motorcycles are that way, yes, but not Harleys. Harley riders usually wave only 
+at Harley riders, and never to guys on hyperbikes. Of course, everybody waves
+to me on my Triumph. (as they go by at twice my speed... ;^( ) 
+
+JZ
+--
+"Every time I look under the hood of a new car, it makes me wanna puke"
+							       - Carroll Shelby
+
+
+-----------------------
+
+
+Date: Thu, 24 May 90 11:21:27 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: model and production numbers...
+To: porschephiles@bcm.tmc.edu
+
+>From Richard Welty:
+ 
+>    From: bowers@elxsi.dfrf.nasa.gov
+>
+>    And from Richard Welty (is this some sort of Welty conspiracy to moderate a
+>    the exotic car mailing lists?) about the model numbers:
+>
+>(naah; i just happen to hang out in the same places as a lot of the
+>rest of you.)
+ 
+I find this very amusing personally.  My brother was always the Italian car
+freak (3 FIATs and an Abarth at one time) and I was the Porsche freak (912).
+Now I'm looking for an ALFA and he has 3 VW's.  My how the tables have
+turned...
+ 
+>    >    >904     last streetable race car, BEAUTIFUL, rare&priceless now
+>
+>    >    Most had the 4 cam 4 cylinder but a few factory cars were equiped with
+>    >    (then) experimental sohc flat 6.
+>    >
+>    >the car was intended to have the flat 6; conversion from a 4 to a 6
+>    >is apparently straightforward and this has been done to some cars.
+>    >oh well, with only 100 or so cars made, i'll never own one, or even
+>    >have a chance to argue originality.
+>
+>    No conversion was necessary on the factory cars, they came that way, custom
+>    cars got the more tempermental 4 cam.  I will check on the actual productio
+>    figures as to how many came each way.
+>
+>agreed.  it was something like the last 10 or so factory cars that
+>got the 6 (or the not-very-successful 8); many of the customer cars
+>switched from the 4 to the 6 during the active racing career of the 904,
+>as did earlier factory cars with the 4.
+ 
+According to Jerry Sloniger in `Porsche: 4 Cam 4 Cylinder Race and Street
+Cars'  there were 106 made.  100 for customers and 6 for the factory.  All
+were supposed to get the 6 cylinder engine but there were teething
+difficulties.  Hence all customer cars got 4 cam 4 cylinder engines.  The
+factory cars got converted very shortly there after to the 6.  The following
+year a _few_ factory cars got the 8.
+ 
+>    >    >916     VERY short run 914 derivative, only 6 or so built
+>
+>    >there are reportedly between 10 and 15 in existance, belonging to
+>    >Porsche and Piech family friends and relatives.
+>
+>    I heard 6, but my memory fails.
+>
+>_The Porsche Book_ says 11 made; some 5 or 6 in the US.  most kept by
+>the family, a few sold to friends of the family.  the car was supposed
+>to be wonderful, but the costing department killed the project.  it got
+>the most powerful 911 engine of the time.
+>
+>    I know Otto Chandler of the Mirror/Times
+>    Corp. here in L.A. has (had?) one.  His was yellow, no targa roof though.
+>    was needed for structural considerations.  I will check this also.
+>
+>right; no targa roof on the 916.  also, wild flared fenders for the much
+>larger tires.
+ 
+The name is Otis Chandler.  My info from an old `VW & Posche' (read that
+probably wrong) says 20 cars.  The engine was the 911 S motor with 2.4 liter.
+This is one stepp below the state of tune for the 2.2 liter 911 S motor
+though, remember that the Carrera had the most powerful engine of the time
+plus the extra displacement.  Also one got used for a Targa Florio as a
+`pre-runner' for course familiarization.  Also says that after the race
+drivers got done with it some of the shock mounts had tore lose.
+ 
+Al
+
+-----------------------
+
+From: mueller%velo@cs.utah.edu (Tim Mueller)
+To: porsche%velo@cs.utah.edu
+Subject: porsche history
+Date: Thu, 24 May 90 13:16:45 MDT
+
+
+In the recent discussion of model numbers, specs, etc. there have been
+a number of references to certain books. Anybody care to give some short
+book reviews and tell where they found these things? 
+
+I have an aftermarket catalogue (Performance Products) which lists some
+books: "The Used 911 Story", "Porsche 911 and Derivatives", etc. 
+I would rather flip though a book before I bought it, however. 
+
+I've looked in the University library and didn't find anything (not too
+surprised) and checked out the big-name chain bookstores (nothing
+Porsche specific). Haven't checked the local city libraries, though.
+Best thing I found was a Haynes 911 manual at the autoparts store which
+I bought to learn more about the car.
+
+Anyway, I'm interested in books on the 911 family ( history, restoration,
+specs, etc.) and where I might find them.
+
+Tim Mueller
+mueller@cs.utah.edu
+
+-----------------------
+
+Date: Thu, 24 May 90 15:06:20 EDT
+From: seibert@xn.ll.mit.edu (Michael C. Seibert)
+To: porschephiles@bcm.tmc.edu
+Subject:  Porsche-waving
+
+Porsche-waving also seems to depend on where you are.  While we lived in
+the Colorado mountains, 90/100 (actually more like 9/10) Porsche-drivers
+would initiate a handwave or flash.  Here in Boston, it's more like 5/500.
+
+I remember a time I was on a trip through Colorado with a friend.  After
+watching me return the waves of several other Porsche-drivers, he finally
+asks, "How do you KNOW all of those people here?" [several hours from home] 
+It was something I had been taking for granted, so it was a minute or two
+before I could stop laughing enough to answer him.
+
+Some would occasionally even beep as we passed to get my attention (like I
+wouldn't notice a 91X from a mile off, right!).  This was 6-9 years ago, 
+maybe times are a-changing on me (and Porsche).  _MS
+
+-----------------------
+
+Date: Thu, 24 May 90 15:44:56 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+To: mueller%velo@cs.utah.edu
+Cc: porschephiles@bcm.tmc.edu
+Subject: porsche history
+
+
+> Anyway, I'm interested in books on the 911 family ( history,
+> restoration, specs, etc.) and where I might find them.
+
+The three books you need for restoration are:
+
+The bible, by God (The 911 performance handbook, by Bruce Anderson)
+The 911 Guide to purchase and restoration, by ... I forgot.  This is
+   for older cars, very helpful.
+The Factory parts catalog.  A MUST for any restoration.
+
+optional others are the factory service manual and a haynes or clymer.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+-----------------------
+
+Date: Thu, 24 May 90 13:14:42 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Re: porsche history and books...
+To: porschephiles@bcm.tmc.edu
+
+>> Anyway, I'm interested in books on the 911 family ( history,
+>> restoration, specs, etc.) and where I might find them.
+ 
+>The three books you need for restoration are:
+ 
+>The bible, by God (The 911 performance handbook, by Bruce Anderson)
+ 
+No that is God, he only _thinks_ he's Bruce Anderson... ;-)
+ 
+>The 911 Guide to purchase and restoration, by ... I forgot.  This is
+>   for older cars, very helpful.
+>The Factory parts catalog.  A MUST for any restoration.
+ 
+>optional others are the factory service manual and a haynes or clymer.
+ 
+The Posche Book.  Highly recommended.  Has every serial number and shows when
+production line changes were made.  Can't recall who the authors were
+though...
+ 
+The Illustrated Guide to Porsches, Dean Batchelor (?).  Good overview of the
+marque.
+ 
+Al Bowers
+Ex-'67 912 sn. 354026
+
+-----------------------
+
+Date: Thu, 24 May 90 13:23:57 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: camaradarie
+
+
+>From bowers@elxsi.dfrf.nasa.gov
+
+>The one thing I really miss was the camaradarie of being a Porsche owner.
+>Always made me feel good to flash my lights at a 911 or a 356 and get a
+>response.
+
+i understand.  i used to "borrow" my brother-in-law's 78 911sc and just look
+for other Porsches to flash lights at.  it's a wonderful feeling.
+alas, maybe one of these days.
+
+how come the camaradarie thing die out ???  whose fault is it?
+
+BTW, saw on cnn last night, the two 959's in oakland are Bill Gates (microsoft
+) and his ex partner.  can't remember the name.  but someone will.  help.
+dot said, crash data needed.  mr. Gates said, lawyers will find a way.
+
+only the shadow knows what will happen.  one was white, the other a cobalt
+blue.  thw white one in autoweek must have been this one.  like how many
+959's are hidden here.
+
+also, there must be more Porsche owners here on the West coast.  how bout
+starting a caravan to Monterey for the Porsche parade?  alas, i don't
+have one but its a neat idea.  any takers?  maybe we can contact
+...  probably one organized.  any info?
+
+zursch@sgi.com writes...
+>Well, keep an eye out for the white 356B (T-5 body) coupe...
+
+will do.  i'll probably be the one drooling uncontrollably, but i'll have
+a bib on so...
+
+sporatic brain waves.  just got back from lunch.... blood rushing to stomach
+therefore no blood to brain.... fade to black....
+
+/mar
+     c
+      i
+      a
+      n 
+      o
+       ...
+
+-----------------------
+
+Date: Thu, 24 May 90 16:45 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Re: porsche history and books...
+To: bowers@elxsi.dfrf.nasa.gov, porschephiles@bcm.tmc.edu
+
+    The Posche Book.  Highly recommended.  Has every serial number and shows when
+    production line changes were made.  Can't recall who the authors were
+    though...
+ 
+Jurgen Barth was one of them; he works for Porsche, and has driven for
+the factory in the past, and thus had better than usual access to factory
+records when he did the book.  there are some glitches and typos, some
+of the numbers don't add up, some of the tables are badly formatted, and
+the book doesn't really address the fact that the lines between the
+356A/B/C models weren't all that clearly drawn; i've seen a couple of
+transitional cars that had a mix of some older bits and newer bits (a
+friend owned a 356C that still had some 356B pieces in it as it came
+from the factory.)
+
+despite the flaws, i doubt that you'll find a better book with the
+sort of information that _The Porsche Book_ contains.
+
+richard
+
+-----------------------
+
+Date: Thu, 24 May 90 16:57 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: camaradarie
+To: Marciano Pitargue <VitaM6!marciano@uunet.uu.net>,
+        porschephiles@bcm.tmc.edu
+
+    how come the camaradarie thing die out ???  whose fault is it?
+
+it's happening with all the distinctive marques; i've heard
+the same thing said about saab, and more recently, alfa.
+the new owners don't seem to understand the fellowship.
+alfa spider owners don't even know what the closed cars
+look like, and just react to light flashing with blank
+stares, and i don't know why anyone would even bother
+to flash a moron saab driver with `oakley factory pilot'
+stickers in their windows.  when in my alfa, i only flash
+lights at owners of closed cars and old spiders, and in
+one of my saabs, i only flash cars with old `horse collar'
+grilles.  they usually appreciate having the owner of a
+newer car recognizing them.
+
+i would expect the situation to be very similar for porsches,
+with the one problem that with some of the most interesting
+old cars being so valuble, that they are more likely to end
+up in the hands of someone who doesn't under stand the headlight
+flash either (often, they'd be someone you wouldn't want to
+shake hands with.)
+
+richard
+
+-----------------------
+
+To: richard welty <welty@lewis.crd.ge.com>
+Cc: Marciano Pitargue <VitaM6!marciano@uunet.uu.net>,
+        porschephiles@bcm.tmc.edu
+Subject: Re: camaradarie 
+Date: Thu, 24 May 90 14:12:33 PDT
+From: kent@wsl.dec.com
+
+I'm glad I own a Triumph. There aren't new ones to dilute the marque,
+and the old ones aren't worth enough (yet?) to attract the yups. :-)
+
+-----------------------
+
+From: konishi@ai.mit.edu (Masahide Konishi)
+Date: Thu, 24 May 90 18:33:45 EDT
+To: VitaM6!marciano@uunet.uu.net, bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re:  in car 956
+
+As far as I remember, he didn't run Suzuka but Fuji International Speedway
+in that video.
+Currently Fuji has 2 chicanes after 1st corner (just before 100R corner) and
+before the last corner called A corner and B corner respectively. But at the
+time Bell ran, there was no chicane. That means the corse was "very high
+speed" and "dangerous" course.
+
+But anyway, his driving was amazing. Highly recommended.
+
+Masahide Konishi
+MIT AI Lab.
+
+-----------------------
+
+Date: Fri, 25 May 90 04:50:35 GMT
+From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+To: porschephiles@bcm.tmc.edu (Porschephiles mailing list)
+Subject: 916 tidbits...
+
+richard welty wrote:
+>     >>916     VERY short run 914 derivative, only 6 or so built
+
+>     > there are reportedly between 10 and 15 in existance, belonging to
+>     > Porsche and Piech family friends and relatives.
+
+> _The Porsche Book_ says 11 made; some 5 or 6 in the US.  most kept by
+> the family, a few sold to friends of the family.  the car was supposed
+> to be wonderful, but the costing department killed the project.  it got
+> the most powerful 911 engine of the time.
+
+> right; no targa roof on the 916.  also, wild flared fenders for the much
+> larger tires.
+
+Well, the "much larger tires" were actually 185/70HR15s...  :)  The car had
+wheel spacers, though, for increased track front and rear.  As far as I
+know, the Porsche/Piech families no longer own any 916s; the yellow car
+featured in VW&P is Mrs. Piech's original car (with psychedelic interior),
+and is, by my latest information, owned by a Mrs. Gotten in the US.  There
+were 10 different colours for the 11 cars: the only duplication was a 
+VW Silver Metallic, which was on 2 cars.  One of those was made for Gerd
+Porsche, and is now owned by Brumos Porsche-Audi in the US.
+
+Incidentally, the 914 4-cylinder was *NOT* *EVER* sold as a Volkswagen.  In
+Europe (and likely other markets as well) it was sold as a VW-Porsche, and
+at a subset of the VW dealers, but never as a straight Volkswagen.
+
+[ \tom haapanen --- university of waterloo --- tom@mims-iris.waterloo.edu ]
+[ "i don't even know what street canada is on"               -- al capone ]
+
+-----------------------
+
+From: neighorn@qiclab (Steven C. Neighorn)
+Date: Thu, 24 May 1990 23:05:11 PDT
+To: porschephiles@bcm.tmc.edu
+Subject: Re: porsche history and books...
+
+Another book, kinda light but fun, is:
+_Porsche A History of Excellence_ by Mike McCarthy
+
+This is a coffee table book, but it has some nice pictures, some
+interesting stories, and lots of great pictures. It goes up to
+1985, and the last picture is nice two page of the Rothmans
+Porsche 1 and 2 cars.
+
+Gallery Books, ISBN 0-8317-7088-8
+
+-- 
+Steven C. Neighorn  cse.ogi.edu!qiclab!neighorn OR neighorn@nosun.West.Sun.COM
+Sun Microsystems, Inc.     "Where we DESIGN the Star Fighters that defend the
+9900 SW Greenburg Road #240    frontier against Xur and the Ko-dan Armada"
+Portland, Oregon 97223         work: (503) 684-9001 / home: (503) 641-3469
+
+-----------------------
+
+Date: Fri, 25 May 90 08:34:53 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re:  in car 956
+
+>konishi@ai.mit.edu Masahide Konishi writes...
+
+>As far as I remember, he didn't run Suzuka but Fuji International Speedway
+
+yes you are right, cause they showed mt fuji.  i better get a check up.
+its getting harder to remember things.  ;-)
+
+BTW, isn't suzuka owned by honda ?
+/marciano, dork, and making myself a bigger dork. ;-)
+
+-----------------------
+
+Date: Fri, 25 May 90 09:26:27 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Dork and Bosch CIS fuel injection (was: Re: in car 956)
+To: porschephiles@bcm.tmc.edu
+
+Marciano writes:
+ 
+>yes you are right, cause they showed mt fuji.  i better get a check up.
+>its getting harder to remember things.  ;-)
+ 
+>BTW, isn't suzuka owned by honda ?
+ 
+>/marciano, dork, and making myself a bigger dork. ;-)
+            ^^^^      ^^^^^^ ^^^^^^ ^ ^^^^^^ ^^^^
+ 
+As most any martial arts student (worth anything) will tell you, the only
+foolish question is the unasked question.  The net and mailing lists are here
+for our amusement and education, so getting things wrong is all a part of the
+journey.
+ 
+Thanks for that word from our favorite sponsor, and now back to the topic at
+hand:
+ 
+Does anyone out there know (fact, educated guess, conjecture, opinion, lies)
+what the differences are between the Bosch CIS fuel injection used on 911's
+between the years of '69 and '73?  I know the cars grew in displacement (2.0
+to 2.7 liters) and lost compression ratio (9.8:1 to 8.0:1) during those years.
+Maybe Richard Welty can comment on the differences in philosophy and
+execution of Alfa's Spica and Porsche's Bosch mechanical fuel injection
+systems work?  What about working on such systems, does the nominal
+engineering type (read that: so-so on brains and 10 left toes for fingers)
+stand a chance working on such systems?
+ 
+Just curious...
+ 
+Al Bowers
+
+-----------------------
+
+Date: Fri, 25 May 90 10:09:28 PDT
+From: srp@cgl.ucsf.edu
+To: porschephiles@bcm.tmc.edu
+Subject: Bosch CIS fuel injection
+Cc: srp@babar.mmwb.ucsf.edu
+
+>
+>Does anyone out there know (fact, educated guess, conjecture, opinion, lies)
+>what the differences are between the Bosch CIS fuel injection used on 911's
+>between the years of '69 and '73?  I know the cars grew in displacement (2.0
+>to 2.7 liters) and lost compression ratio (9.8:1 to 8.0:1) during those years.
+
+I don't have my book here, but I think the CIS was not introduced until '73
+(did I misread you?)
+
+I have a '72T and I've got Mechanical.  I think all the E's and S's also
+have mechanical up until '73.
+
+There's only a snowball's chance in hell that I'd be able to sucessfully
+work on the mechanical pump itself.  I've considered playing with the
+mixture but... 
+
+On the other hand, I had a rebuild a few months ago - not cheap.
+
+	Good luck.
+
+	- Scott
+
+--
+
+
+-----------------------
+
+From: konishi@ai.mit.edu (Masahide Konishi)
+Date: Fri, 25 May 90 15:56:54 EDT
+To: VitaM6!marciano@uunet.uu.net, bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: Re:  in car 956
+
+>Marciano (VitaM6!marciano@uunet.uu.net) writes
+
+>BTW, isn't suzuka owned by honda ?
+
+
+Yes, it is. Suzuka is owned by one of Honda's subsidiaries called something
+like Honda Land Co. At Suzuka there is an amusement park by the side of the
+circuit also run by Honda Land. And when races are not on the course, you
+can go around the part of the circuit by a kart (a small one, not for serious
+kart race) which you can rent for about a few bucks. (Unfortunately I've
+never tried it.)
+
+Masahide
+
+
+-----------------------
+
+Date: Fri, 25 May 90 14:32:50 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: dork...
+
+nah, i am a dork.  i don't own a Porsche. ;-)  maybe one day though.
+
+BTW, autoweek said, in the late racing news section, that Porsche was
+gonna build 962 equivalents for the street.
+
+i ask, why?  are they trying to do a xk220 deal here?
+street cars are for street and racing.  race cars are for racing.
+that's why i really hate tacky mold on kits one can buy for trucks and
+such.
+
+anyone one care to comment?
+
+/dork
+
+come on Ed, knock on my door and say that i'm the next $10 million winner
+
+-----------------------
+
+Date: Tue, 29 May 90 09:52:42 PDT
+From: VitaM6!marciano@uunet.uu.net (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.uu.net
+Subject: consulier-like vehicle
+
+
+the consulier is ugly.
+
+i meant cars that resemble gtp cars, not production based cars.
+
+therefore, the consulier is ugly, the F40 is not.
+
+don't get me wrong, cars like the xk220 (except the consulier) are pretty
+and such, but i think that it out of its element when on some city street.
+i guess they're making these things to make $, not to be driven (everyday).
+
+just making a mute point.  trying to start a controversy ;-).
+( see, i am a dork! ;-) )
+
+BTW, i'm having a fight with me mates about the Porsche Parade in Monterey.
+when is it?
+
+/dork
+
+-----------------------
+
+Date: Tue, 29 May 90 09:55:45 PDT
+From: bowers@elxsi.dfrf.nasa.gov
+Subject: Bosch CIS (_not_ CIS) fuel injection and `The Porsche Book'...
+To: porschephiles@bcm.tmc.edu
+
+My previous statement:
+ 
+>Does anyone out there know (fact, educated guess, conjecture, opinion, lies)
+>what the differences are between the Bosch CIS fuel injection used on 911's
+                                            ^^^
+>between the years of '69 and '73?  I know the cars grew in displacement (2.0
+>to 2.7 liters) and lost compression ratio (9.8:1 to 8.0:1) during those
+                                                     ^^^
+>years.
+ 
+Major screw-up!  The CIS type of fuel injection was apparently the Bosch
+K-Jetronic (a little research goes a long ways here).  The previous system was
+a high pressure mechanical fuel injection type and that is the system in
+question.  The mechanical system was used in the years '69 to '73, but the '72
+- '73 cars suffered some drivability problems (as did the '68 cars) due to
+emissions regulations here in the U.S.  Also the 911T for the years '72-'73
+had a compression ratio of 7.5:1, not 8.0:1.
+ 
+I did admit to only so-so brains as an engineering type in the previous
+posting.
+ 
+Also, does anyone know where I can get my hands on `The Porsche Book'
+previously mentioned in other postings?  Classic Motorbooks doesn't list it in
+their latest catalog.  How does `Excellence Was Expected' from Karl Ludvigsen
+compare?
+ 
+Al Bowers (Dork #2)
+
+-----------------------
+
+From: photon!bvs@ucsd.edu (Bruce Shetler)
+Subject: 911 advice for new owner
+To: porschephiles%bcm.tmc.edu@ucsd.edu (porschephiles)
+Date: Tue, 29 May 90 12:09:31 PDT
+
+
+
+Greetings Porschephiles:
+
+Sorry about the length of this.  This is my initial posting and I
+promise to be more restrained in the future.
+
+I am a new (Feb) owner of an '80 911SC Targa.  I'm currently in the
+process of bringing the car back to first class condition, and being
+new to the whole 911 world I have alot of questions.  Any responses to
+these or advice in general would be greatly appreciated.  I'm a pretty
+competent mechanic - I've done it a little professionally and I have
+engine and manual transmission rebuilds under my belt. These were all
+on other types of vehicle however, I have no experience with 911's, or
+even much with VW's.  I plan to do all my own maintenance/repairs as I
+do with all my cars (in fact, that's half the fun of owning such a
+beast in my opinion) but I could use advice on the following matters:
+
+1.  Special problems or known weaknesses to be on the lookout for in
+'80's or 911's in general?  I understand the '78 to '80 engine is a
+good one and mine in particular seems tight and strong, sounds good and
+has good compression.  Any maintenance tips beyond the factory and
+Haynes recommendations?  I believe the car has about 60k miles on it
+(seems low, who really knows) - how much mileage can I expect before
+rebuild with good care?  I'm approaching my first valve adjustment.  Is
+it worth it to get a special dial indicator holder (I own a dial
+indicator already), are there any other hints for doing a valve
+adjustment more easily?
+
+2.  Good sources for parts/supplies that don't cost an arm and a leg?
+I'm aware of Tweeks and Performance products and am already on pretty
+good terms with my local dealer but am still looking for a more
+reasonable source and especially a good stock of quality used pieces.
+(I could use door panels for instance).
+
+3.  Driving tips?  I've heard all the horror stories about 911 weight
+distribution but so far I've found the handling to be superb.  I've
+broken the rear end loose a bit but it seemed quite controllable.  Are
+there unexpected things to look out for as I push the envelope more?
+
+4.  I have somewhat of a rough idle, especially when cold.  (Factory
+plug wires and tuning helped this alot).  This isn't a big deal, but
+I'd like to smooth it out some.  I've been going through the fuel
+system components and so far everything checks out.  I have the Bosch
+theory and troubleshooting guides but neither they or my Haynes really
+address the configuration of my engine precisely.  It's CA spec and I
+think someone may have messed with the vacuum hoses and the cat
+converters are rodded out (although it passed smog with flying
+colors).  Any suggestions?
+
+5.  I get quite a bit of steering vibration on some road surfaces.  I
+noticed this in more or less all the 911's I test drove so having
+checked the steering train for tightness I didn't really consider it a
+problem.  Now, however I'd like to be sure its O.K.  This doesn't have
+the signs of being wheel balance or alignment related, I think its just
+feedback from certain roads (concrete freeways with pour seams are the
+worst) but its fairly high frequency.  Is this as I think just the
+nature of the beast or could some problem be indicated?  (Shocks also
+seem to be in fine shape).
+
+6.  If I have any complaint with the car, its shifting.  The synchros
+could be better probably, but really its just that the length of throw
+and effort required seem a little off.  The other used ones I drove
+while shopping were as bad or worse - are they like this when new?
+What is the consensus on those shift modifying kits that are apparently
+supposed to help this.  The linkage really doesn't seem sloppy - would
+replacing some bushings help?
+
+7.  I have a really annoying squeak which I think I've traced to the
+front right A-arm attachment bushing.  I don't think this is anything
+serious but I'd like to just take the attachment bracket apart to
+squirt something lubricating in there, can this be detached as easily
+as it looks without taking everything else apart too?
+
+I apologize again for the bulk.
+
+Thanks to everyone,
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates             
+  San Diego, CA   92121                 
+  uucp:photon!bvs@ucsd.edu               
+========================================================================
+
+-----------------------
+
+Date: Tue, 29 May 90 16:40:49 EDT
+From: saulsgiv@kodak.com (Jon Saulsgiver (lunv00))
+To: porschephiles@bcm.tmc.edu
+Subject: unsub
+
+
+ Please take me off the Porsche mailing list. I originally signed up as I was
+ helping bail a friend out after a botched engine swap on his 930. Just one
+ thing I'd like to pass along to the readers, though: 
+  You may see an ad in Pano placed by a Dave Wolfarth of Rochester, NY.
+ I had a bad experience with him and his roommate, Chip Evaul. Just one data
+ point, but I wouldn't go back to them with my lawnmower!
+			-Jon Saulsgiver
+  saulsgiv@kodak.com
+
+
+-----------------------
+
+Date: Tue, 29 May 90 18:37 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Bosch CIS (_not_ CIS) fuel injection and `The Porsche Book'...
+To: bowers@elxsi.dfrf.nasa.gov, porschephiles@bcm.tmc.edu
+
+    From: bowers@elxsi.dfrf.nasa.gov
+ 
+    Major screw-up!  The CIS type of fuel injection was apparently the Bosch
+    K-Jetronic (a little research goes a long ways here).
+
+no `apparently' involved; CIS and K-jetronic are essentially the same,
+although it's hard to tell from manufacturer's literature sometimes.
+CIS/K-jet appeared in the early 70s, and by roughly 1975 had pretty
+much displaced the various earlier systems such as Bosch D in the
+marketplace.  the K-jetronic version with electronic supplements for
+the lambda sensors started showing up in CA cars around 77, and in
+50 state cars about 79; some turbocharged 50 state cars got it earlier
+(this is `cars' in general, not porsches specifically.)  before the
+lambda system was introduced, K-jetronic was entirely mechanical.
+
+richard
+
+-----------------------
+
+From: neighorn@qiclab (Steven C. Neighorn)
+Date: Tue, 29 May 1990 19:04:02 PDT
+To: porschephiles@bcm.tmc.edu
+Subject: More tales of the rich and famous
+
+Apologies if this is old news...
+
+Retypes without permission from the May 28th issue of MIS WEEK:
+
+  Two of our computer billionaires are having a sticky time with red
+tape.  It seems that former prep school pals Bill Gates and Paul
+Allen ordered matching limited edition Porsche 959s, worth about
+$900,000 each. The machines come with turbochargers, all-wheel
+drive and other features that allow them to exceed 200 mph.
+
+  But the Transportation Department is refusing to turn them loose
+from storage because the technologically advanced West German
+roadsters have not been modified to meet U.S. safety and environmental
+laws.  Apparently, the department wants data on how the car would
+withstand crashes. No one has been willing to wreck such expensive
+cars to generate that data.
+
+-- 
+Steven C. Neighorn  cse.ogi.edu!qiclab!neighorn OR neighorn@nosun.West.Sun.COM
+Sun Microsystems, Inc.     "Where we DESIGN the Star Fighters that defend the
+9900 SW Greenburg Road #240    frontier against Xur and the Ko-dan Armada"
+Portland, Oregon 97223         work: (503) 684-9001 / home: (503) 641-3469
+
+-----------------------
+
+Date: Wed, 30 May 90 11:46:49 GMT
+From: Tom Haapanen <tom@mims-iris.waterloo.edu>
+To: porschephiles@bcm.tmc.edu (Porschephiles mailing list),
+        info-vw@ames.arc.nasa.gov (Info-VW mailing list)
+Subject: Re: Bosch CIS (_not_ CIS) fuel injection
+
+richard welty wrote:
+> 
+>     From: bowers@elxsi.dfrf.nasa.gov
+>     Major screw-up!  The CIS type of fuel injection was apparently the Bosch
+>     K-Jetronic (a little research goes a long ways here).
+> 
+> no `apparently' involved; CIS and K-jetronic are essentially the same,
+> although it's hard to tell from manufacturer's literature sometimes.
+> CIS/K-jet appeared in the early 70s, and by roughly 1975 had pretty
+> much displaced the various earlier systems such as Bosch D in the
+> marketplace.  the K-jetronic version with electronic supplements for
+> the lambda sensors started showing up in CA cars around 77, and in
+> 50 state cars about 79; some turbocharged 50 state cars got it earlier
+> (this is `cars' in general, not porsches specifically.)  before the
+> lambda system was introduced, K-jetronic was entirely mechanical.
+
+I assume that the lambda K-Jetronic is what is known as KE-Jetronic (VW
+now actually tells you the injection system instead of just calling it
+'CIS').  However, does anyone know anything about...
+
+	- L-Jetronic, as used by BMW
+	- KE-Motronic, as used by the new VW 2.0L 16V engine
+
+[ \tom haapanen --- university of waterloo --- tom@mims-iris.waterloo.edu ]
+[ "i don't even know what street canada is on"               -- al capone ]
+
+-----------------------
+
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Wed, 30 May 90 09:35:06 EDT
+To: neighorn@qiclab.UUCP (Steven C. Neighorn), porschephiles@bcm.tmc.edu
+Subject: Re: More tales of the rich and famous
+
+>   But the Transportation Department is refusing to turn them loose
+> from storage because the technologically advanced West German
+> roadsters have not been modified to meet U.S. safety and environmental
+> laws.  Apparently, the department wants data on how the car would
+> withstand crashes. No one has been willing to wreck such expensive
+> cars to generate that data.
+> 
+
+'splain to me please how damage resistance impacts the environment?
+Littering perhaps?
+
+As I remember, emissions are well within specs.
+
+EPA Scum.  Afraid of a car with that kind of potential's what I hear.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+-----------------------
+
+Date: Wed, 30 May 90 08:51:20 PDT
+From: dimitry@eng.sun.com (Dimitry Struve)
+To: info-vw@ames.arc.nasa.gov, porschephiles@bcm.tmc.edu
+Subject: Re: Bosch CIS (_not_ CIS) fuel injection
+
+What is the Bosch "Digifant" system? This is the term used in the sales literature 
+for the most recent Vanagons. It seems this term is used to differentiate it from
+the various Jetronic/Motronic systems.
+
+-Dimitry
+
+-----------------------
+
+Date: Thu, 31 May 90 15:00:22 PDT
+From: ti@cindy.altos.com (Ti Kan)
+To: porschephiles@bcm.tmc.edu
+Subject: Bosch CIS injection
+
+Let me clarify things a little about Bosch Fuel Injection systems.
+
+All Bosch fuel injection system falls under one of two categories,
+pulsed, or continuous.  Pulsed injection system inject fuel in
+pulses into the intake ports, the duration of pulse determines the
+injected fuel quantity.  Continuous injection system inject fuel
+continuously into the intake ports, the quantity of fuel delivered
+is determined by the fuel pressure to the injectors.
+
+Here are the various Bosch systems and which category they fall under:
+
+Pulsed: D-Jetronic, L-Jetronic, LH-Jetronic, L-Motronic, LH-Motronic
+Continuous: K-Jetronic, K-Jetronic w/ lambda, KE-Jetronic, KE-Motronic
+
+All pulsed systems are electronically controlled, since the injector
+valves are electrically actuated.  Early pulsed systems have analog
+control units, whereas later systems have digital control units.
+Virtually all pulsed systems since 1980 have closed-loop OXS system.
+The basic L-Jetronic system has a vane-type air flow sensor whereas
+the LH-Jetronic has a hot-wire air mass sensor.  The D-Jetronic does
+not use an air flow sensor; it uses a manifold pressure sensor instead.
+VW's Digifant II system used on some newer cars is a pulsed system
+essentially the same as the LH-Motronic system.  Audi's 20-valve
+5-cylinder engine as used on the new 90 quattro and Coupe quattro uses
+the LH-Motronic system with permanent fault memory and self-diagnosis.
+
+The early continuous systems are purely mechanical, the K-Jetronic w/
+lambda has the closed-loop OXS system and has an analog electronic
+control unit to augment the mechanical operation.  The KE-Jetronic has
+more electronic control over various functions, but is still basically
+mechanical.  Some cars with K and KE Jetronic systems have digital
+control units.  All continuous systems use a plate-type air flow
+sensor.  VW and Audi calls the K-Jetronic systems "CIS", and the
+KE-Jetronic system "CIS-E".  The 1988+ Audi 80 has the KE-Motronic
+system.
+
+All the systems designated as "Motronic" are more than just
+fuel-injection; they are complete engine management systems which also
+control ignition spark advance all in one control unit.
+
+-Ti
+------------------------------------------------------------------------------
+Ti Kan                                                                  \\\
+vorsprung durch technik!                                                 \\\
+Internet: ti@altos.com                                                /// \\\
+UUCP: ...!{sun|sco|pyramid|amdahl|uunet}!altos!ti                    ////////\
+
+

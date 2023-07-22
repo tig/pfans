@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: A note about message formatting, and sendmail problems</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="gthomas@ctron.com">
+  <META NAME="MsgPropFrom" CONTENT="'EHSMITH.US.ORACLE.COM' <EHSMITH@us.oracle.com>">
+  <META NAME="MsgPropSubject" CONTENT="Re: A note about message formatting, and sendmail problems">
+  <META NAME="MsgPropDate" CONTENT="15 Jul 96 16:31:19 -0700">
+  <META NAME="MsgPropCc" CONTENT="porschefans-911@ioio.com">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">gthomas@ctron.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">EHSMITH.US.ORACLE.COM &lt;EHSMITH@us.oracle.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: A note about message formatting, and sendmail problems</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">15 Jul 96 16:31:19 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">porschefans-911@ioio.com</td></tr>
+</table>
+<pre>
+
+--=_ORCL_1076540_0_11919607151748450
+Content-Transfer-Encoding:7bit
+Content-Type:text/plain; charset="US-ASCII"
+
+Gabe: 
+ 
+Real name of car color:  Gerschparklinhersheyschrot.  Had a 78, same color... 
+ 
+Ted
+
+--=_ORCL_1076540_0_11919607151748450
+Content-Type:message/rfc822
+
+Date: 12 Jul 96 14:24:07
+From:"Gabriel M. Thomas" <gthomas@snowdog.dns.resnova.com>
+To:PorscheFans-911@ioio.com
+Subject:A note about message formatting, and sendmail problems
+Reply-to:gthomas@ctron.com
+X-Mailer: exmh version 1.6.2 7/18/95
+X-Orcl-Application:Content-Type:  text/plain; charset=us-ascii
+X-Info: Evaluation version at www.ioio.com
+X-Listmember: EHSMITH@us.oracle.com [PorscheFans-911@ioio.com]
+MIME-Version: 1.0
+Content-Transfer-Encoding:7bit
+Content-Type:text/plain; charset="US-ASCII"
+
+
+Hi all.
+
+I apologize for the non-porsche content, but I don't know the administrator's
+email address.  Sooo, I figured I would send my plea to the group instead...
+
+Lately, I have noticed that my copy of the digest occasionally gets truncated
+prematurely.  After doing a bit of investigating, I think I have found the
+problem.
+
+For those of you unfamiliar with the Unix mail command, a period (.) on a line
+all by itself is used to terminate the message.  It turns out that another mail
+application, called sendmail, also uses the . character for message 
+termination.
+
+sendmail is an actual transport program used for delivery of mail between
+systems on the net, so when sendmail gets a copy of the digest that contains
+a . on a line all by itself, such as the July 8 and 11 pfans, it assumes that
+the message is all done, and stops accepting data.  Voila - short pfans.
+
+What this means is that anyone who has sendmail between their mailbox and
+ioio.com will probably also have seen this problem and be wondering who is out
+to spoil their fun.
+
+Resolution of this problem is pretty simple:
+
+	PLEASE do not put a . on a line all by itself!
+
+Thanks.
+
+-Gabe Thomas
+
+------------------------------------------------------------------------------
+Gabe Thomas              |     Phone: (603) 337-2942
+Firmware Engineer        |       Fax: (603) 337-1773
+Cabletron Systems, Inc.  |    E-Mail: gthomas@ctron.com
+Rochester, NH 03866-5005 | '82 911SC metallic chocolate (what's the real name?)
+------------------------------------------------------------------------------
+
+
+
+==================================
+PorscheFans 911/912 Message
+For help, send an e-mail to PorscheFans@ioio.com.  You will get an automated reply.
+To post a message to PorscheFans 911, send an e-mail to PorscheFans-911@ioio.com
+
+--=_ORCL_1076540_0_11919607151748450--
+
+
+==================================
+PorscheFans 911/912 Message
+For help, send an e-mail to PorscheFans@ioio.com.  You will get an automated reply.
+To post a message to PorscheFans 911, send an e-mail to PorscheFans-911@ioio.com
+.
+</pre>
+</BODY></HTML>

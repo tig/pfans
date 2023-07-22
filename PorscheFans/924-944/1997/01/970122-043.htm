@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: Speed Formula</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="bgz9143@edi.dcro.dla.mil (Larry Dunlap), 924-944@PorscheFans.com">
+  <META NAME="MsgPropFrom" CONTENT="falcon@wolfenet.com (Tom Pultz)">
+  <META NAME="MsgPropSubject" CONTENT="Re: Speed Formula">
+  <META NAME="MsgPropDate" CONTENT="Thu, 23 Jan 1997 04:31:51 GMT">
+  <META NAME="MsgPropOrganization" CONTENT="Wolfe Internet Access L.L.C. - Seattle">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<9701221914.AA02896@edi.dcro.dla.mil>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">bgz9143@edi.dcro.dla.mil (Larry Dunlap), 924-944@PorscheFans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">falcon@wolfenet.com (Tom Pultz)</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: Speed Formula</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Thu, 23 Jan 1997 04:31:51 GMT</td></tr>
+</table>
+<pre>
+On Wed, 22 Jan 1997 14:14:56 -0500 (EST), you wrote:
+
+>What is the formula and variables to compute MPH at a given RPM?
+>
+>What info do we need?  Tire Size?  Gear Ratio?  What else?
+>HP? Torque?
+
+If you are only interested in computing mph at a given engine rpm, this =
+is
+what I wrote on the Hond Perf mailing list a while ago.  Note: this
+equation does not predict top speed, it only relates speed to engine rpm.
+
+To figure your approximate true speed use this simple formula:
+
+rpm x tire_circumference/(trans_gear_ratio x diff_gear_ratio x 1056.0)
+
+where:
+
+rpm =3D engine speed, revs/min.
+tire_circumference =3D rolling circumference of tire, inches.
+trans_gear_ratio =3D transmission gear ratio, depends on gear.
+diff_gear_ratio =3D differential gear ratio.
+1056.0 =3D conversion factor to convert units to mph.
+Note: for circumference in cm, use 2682.24 instead of 1056.0
+
+=46or example, look at the theoretical speed of a 1996 GS-R with the
+following properties:
+
+rpm =3D 8000
+tire_circumference =3D 73.7 inches (approximation based on 195/55-15 =
+tires)
+trans_gear_ratio =3D 0.787, 5th gear
+diff_gear_ratio =3D 4.40
+
+We get:
+
+8000 x 73.7/(0.787 x 4.40 x 1056.0) =3D 161.2 mph
+
+At 8000 rpm in 4th gear:
+
+8000 x 73.7/(1.034 x 4.40 x 1056.0) =3D 122.7 mph
+
+Obviously, a GS-R does not need to worry about running out of rpm in 5th
+gear as it would reach its top speed of about 141 mph at 7000 rpm.
+
+Hope this helps.
+
+   Tom
+
+
+==================================
+PorscheFans 924/944/968 Message
+To post a message, send e-mail to 924-944@PorscheFans.com
+.
+</pre>
+</BODY></HTML>

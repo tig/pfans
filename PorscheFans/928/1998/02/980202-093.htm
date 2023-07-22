@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: MIME FORMAT </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'Robert Jecmen' <bjecmen@sprynet.com>">
+  <META NAME="MsgPropFrom" CONTENT="David Kelly <dkelly@hiwaay.net>">
+  <META NAME="MsgPropSubject" CONTENT="Re: MIME FORMAT">
+  <META NAME="MsgPropDate" CONTENT="Mon, 02 Feb 1998 21:18:03 -0600">
+  <META NAME="MsgPropcc" CONTENT="928@porschefans.com">
+  <META NAME="MsgPropIn-reply-to" CONTENT="Message from 'Robert Jecmen' <bjecmen@sprynet.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Robert Jecmen &lt;bjecmen@sprynet.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">David Kelly &lt;dkelly@hiwaay.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: MIME FORMAT</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Mon, 02 Feb 1998 21:18:03 -0600</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">928@porschefans.com</td></tr>
+</table>
+<pre>
+> This is a multi-part message in MIME format.
+> 
+> ------=_NextPart_000_0018_01BD2F4E.2DFAAF00
+> Content-Type: text/plain;
+> 	charset="iso-8859-1"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> 
+>            I posted for the first time yesterday and saw that it came =
+> out in MIME format
+> with a bunch of jibberish after my message. Anyone know how to avoid =
+> this?
+
+I've noticed the following header in most all MIME gibberish messages:
+> X-mailer: Microsoft Outlook Express 4.71.1712.3
+
+Must be the standard email client in Win95? If there isn't an easy way 
+to disable the overcooked MIME formatting in that client, may I suggest 
+replacing it with something else? I've been very happy with Eudora Lite 
+from http://www.eudora.com/ and its free. These days I use exmh, also a 
+freebie, but I'll bet you don't want to install a Un*x clone such as
+http://www.freebsd.org/ on your PC (also free).
+
+Also note that MIME is not the problem. The problem is that your email 
+client is sending a multipart MIME enclosure. The first part is 
+"quoted-printable" plain text. The = signs at the end of lines are 
+escaping the end-of-line sequence. You'll notice a paragraph does not 
+end with the equals sign.
+
+The really big problem is the 2nd enclosure is a copy of the 1st part
+but formatted in HTML. Many email clients have no problem with your
+message, other than suddenly the font, font size, and background color
+is different than expected. The digest is a different matter, those
+readers see your message in the raw no matter what their email client
+can do.
+
+If you read the headers of this message you'll see that it too claims 
+to be in MIME format (because it is). Its not MIME that people are 
+complaining about, its "quoted-printable" and the multiple enclosures.
+
+'83 928S
+PPro-200 (FreeBSD 2.2.5)
+PowerCenterPro 210 (MacOS 7.6.1)
+
+--
+David Kelly N4HHE, dkelly@nospam.hiwaay.net
+=====================================================================
+The human mind ordinarily operates at only ten percent of its
+capacity -- the rest is overhead for the operating system.
+
+
+.
+</pre>
+</BODY></HTML>

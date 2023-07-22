@@ -1,0 +1,3212 @@
+From porschephiles-request@karazm.math.uh.edu  Sun Sep  1 13:31:25 1991
+Received: by karazm.math.uh.edu id <AA22732@karazm.math.uh.edu>; Sun, 1 Sep 91 13:31:25 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA22725@karazm.math.uh.edu>; Sun, 1 Sep 91 13:25:04 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA23290 (5.65a/CWI-2.105); Sun, 1 Sep 1991 20:21:49 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA09118; Sun, 1 Sep 1991 19:58:46 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA28894; Sun, 1 Sep 91 17:24:05 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA23203; Sun, 1 Sep 91 17:24:04 +0200
+Date: Sun, 1 Sep 91 17:24:04 +0200
+From: kevinh@hasler.ascom.ch (kevinh)
+Message-Id: <9109011524.AA23203@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: PCNA layoffs
+
+	Word reached my ear this evening that PCNA laid off about 30% of their employees
+	today.  Very sad news.
+
+	Kevin
+
+Have any dealers crashed? There have been many stories of "yuppies" etc. not buying Porsches in the UK, resulting in pictures of large storage areas full of unsold cars (mainly 944's) in the national press! God knows what they will do with these when the 968 is released in Autumn! Give one to me hopefully :-) :-)
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep  3 10:30:25 1991
+Received: by karazm.math.uh.edu id <AA02520@karazm.math.uh.edu>; Tue, 3 Sep 91 10:30:25 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA02507@karazm.math.uh.edu>; Tue, 3 Sep 91 10:21:09 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA23987; Tue, 3 Sep 91 11:14:48 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA00420; Tue, 3 Sep 91 11:14:42 EDT
+Date: Tue, 3 Sep 91 11:14:42 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109031514.AA00420@porsche.cs.rpi.edu>
+To: 0004056890@mcimail.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: "Kevin C. Gross"'s message of Sat, 31 Aug 91 04:22 GMT <80910831042208/0004056890NA2EM@mcimail.com>
+Subject: PCNA layoffs
+
+
+
+   Word reached my ear this evening that PCNA laid off about 30% of
+   their employees today.  Very sad news.
+
+I wouldn't say sad.  Porsche deserves what it is getting.  The genious
+is clearly gone from the company, and you can only go so far on name and
+reputation.  
+
+It won't be long before Porsche is sold.  GM, Nissan, maybe Mercedes.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep  3 11:10:25 1991
+Received: by karazm.math.uh.edu id <AA02719@karazm.math.uh.edu>; Tue, 3 Sep 91 11:10:25 CDT
+Received: from Calvin.EDU (ursa.calvin.edu) by karazm.math.uh.edu id <AA02695@karazm.math.uh.edu>; Tue, 3 Sep 91 11:01:29 CDT
+Received: by Calvin.EDU (4.1/SMI-4.1)
+	id AA21413; Tue, 3 Sep 91 11:57:45 EDT
+From: t13329@Calvin.EDU (Percy)
+Message-Id: <9109031557.AA21413@Calvin.EDU>
+Subject: PCNA layoffs
+To: porschephiles@karazm.math.uh.edu (Porsche list)
+Date: Tue, 3 Sep 91 11:57:44 EDT
+X-Mailer: ELM [version 2.3 PL0]
+
+weltyc@cs.rpi.edu says:
+
+> It won't be long before Porsche is sold.  GM, Nissan, maybe Mercedes.
+						^^^^^^
+
+	Man, that's a pretty hurtful thing to say.
+
+
+Su Misra
+-- 
+
+|        \  |  / \| \|      |  \|  |\  |    |    \| \|
+|  /|  /\  \|/   \|\ |\  .  |\ \|\ |/  |  /||  /|\|\ |\
+|/  | /  \  |     |\ |   .  |/  |\ |\  |/  ||/  | |\ |
+    |/    \ |     |  |      |   |  |  \    |    | |  |
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep  3 11:40:25 1991
+Received: by karazm.math.uh.edu id <AA03054@karazm.math.uh.edu>; Tue, 3 Sep 91 11:40:25 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA02978@karazm.math.uh.edu>; Tue, 3 Sep 91 11:38:16 CDT
+Received: from cse.ogi.edu by bcm.tmc.edu (AA19948); Tue, 3 Sep 91 11:35:07 -0500
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA02075; Tue, 3 Sep 91 09:35:04 -0700
+Date: Tue, 3 Sep 91 09:35:04 -0700
+From: bart%teni@cse.ogi.edu
+Message-Id: <9109031635.AA02075@cse.ogi.edu>
+Apparently-To: porschephiles@bcm.tmc.edu
+
+>I wouldn't say sad.  Porsche deserves what it is getting.  The genious
+>is clearly gone from the company, and you can only go so far on name and
+>reputation.  
+
+hear hear.  after years of pandering to the gold chain set, porsche
+infuriated the rest of us by forsaking sports car racing and floundering
+publicly and convincingly in single seat racing.
+
+so now the gold chains have been seduced by the japanese and the rest
+of us can't understand why porsche can't put some innovation and/or value
+into their cars.
+
+i've bought two porsches new, the second only because porsche was having
+a fire sale on 951S's.  lately i've been thinking maybe i could get a
+used 914 and have some fun with it...
+
+saw a great T-shirt a few weeks ago.  it had a pictures of 904/906/914/917/etc
+and was captioned "sure, porsche made some non-mid-engined cars ... but WHO
+CARES?"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep  3 20:50:27 1991
+Received: by karazm.math.uh.edu id <AA08230@karazm.math.uh.edu>; Tue, 3 Sep 91 20:50:27 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA08225@karazm.math.uh.edu>; Tue, 3 Sep 91 20:49:27 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ai25748;
+          3 Sep 91 21:35 EDT
+Date: Wed, 4 Sep 91 01:29 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: weltyc <weltyc@cs.rpi.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: PCNA layoffs
+Message-Id: <70910904012907/0004056890NA2EM@mcimail.com>
+
+>I wouldn't say sad.  Porsche deserves what it is getting.  The genius
+>is clearly gone from the company, and you can only go so far on name and
+>reputation.  
+
+Well, unfortunately the minions at PCNA can only sell what PAG gives them to
+sell.  So no matter how you feel about the direction the Board has taken since
+Peter Schutz' departure, it is of course too bad that everyone else from
+Stuttgart, to Reno, to your local dealership's part dept, and even to your local
+PCA chapter, has to pay the piper.
+
+My understanding continues to be that PAG is in no financial difficulty, and a
+sale would only come about if the family (Porsche and Piech) decided to bail. 
+(Remember that they hold 100% of the voting stock.)  My fear, what I really hate
+to see happen, is that Porsche will become/is becoming a boutique company like
+Ferrari and the other Italian firms.  Peter Porsche and/or Brian Bowler have
+expressed the same concern, if memory serves.  What they are willing to do about
+it really remains to be seen.
+
+I'm optimistic about the 968.  It seems likely to be a much improved 944S2 for a
+minimal price increase (two grand).  What that translates to in street price
+remains, of course, to be seen.  But given that S2's are going for $35,000, we
+could hope to see 968's available for $37,000.  Hope!
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep  3 20:30:27 1991
+Received: by karazm.math.uh.edu id <AA08184@karazm.math.uh.edu>; Tue, 3 Sep 91 20:30:28 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA08097@karazm.math.uh.edu>; Tue, 3 Sep 91 20:21:15 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af25364;
+          3 Sep 91 21:04 EDT
+Date: Wed, 4 Sep 91 01:02 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: kevinh <kevinh@hasler.ascom.ch>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: PCNA layoffs
+Message-Id: <64910904010246/0004056890NA1EM@mcimail.com>
+
+Kevin -
+
+Regarding dealers, yes, many are hurting.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 03:30:28 1991
+Received: by karazm.math.uh.edu id <AA09228@karazm.math.uh.edu>; Wed, 4 Sep 91 03:30:29 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA09220@karazm.math.uh.edu>; Wed, 4 Sep 91 03:25:32 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA29497 (5.65a/CWI-2.106); Wed, 4 Sep 1991 10:18:28 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA12074; Wed, 4 Sep 1991 10:12:48 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA21259; Wed, 4 Sep 91 10:05:08 +0200 (MET)
+Received: from mira.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA28755; Wed, 4 Sep 91 10:05:07 +0200
+Date: Wed, 4 Sep 91 10:05:07 +0200
+From: kevinh@hasler.ascom.ch (kevinh)
+Message-Id: <9109040805.AA28755@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: PCNA layoffs
+
+
+	>I wouldn't say sad.  Porsche deserves what it is getting.  The genius
+	>is clearly gone from the company, and you can only go so far on name and
+	>reputation.  
+
+	My understanding continues to be that PAG is in no financial difficulty, and a
+	sale would only come about if the family (Porsche and Piech) decided to bail. 
+	(Remember that they hold 100% of the voting stock.)  My fear, what I really hate
+	to see happen, is that Porsche will become/is becoming a boutique company like
+	Ferrari and the other Italian firms.  Peter Porsche and/or Brian Bowler have
+	expressed the same concern, if memory serves.  What they are willing to do about
+	it really remains to be seen.
+
+	I'm optimistic about the 968.  It seems likely to be a much improved 944S2 for a
+	minimal price increase (two grand).  What that translates to in street price
+	remains, of course, to be seen.  But given that S2's are going for $35,000, we
+	could hope to see 968's available for $37,000.  Hope!
+
+	Kevin
+
+The 968 seems to be another stop-gap model, the 944 S2 with 928 styling front and rear, yet another extension of the original 924. I like the 944 S2 very much but I think that they have almost come to the end of the road with this car, mind you, I also think that the Carrera 2/4 should not have been released - Porsche deperately need some fresh styling/cars. 
+
+I suppose it's possible that the 968 could evolve into a completely different car, Audi V6 planned in'93 I believe.
+
+Have you seen the proposed 928 replacement, a 4 door expensive barge - yeuch!! They seem to be moving into large luxury GT/coupe market rather than their original smallish junior supercar market - shame!!
+
+I wish I could buy a 944 S2 for $35,000 , in Switzerland (relatively cheap place for cars in Europe) they are about $50,000 and in the UK they are about $60,000+.  There must be some real secondhand bargains in the states!!
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 11:50:29 1991
+Received: by karazm.math.uh.edu id <AA10424@karazm.math.uh.edu>; Wed, 4 Sep 91 11:50:30 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA10416@karazm.math.uh.edu>; Wed, 4 Sep 91 11:47:31 CDT
+Received: from brahms.udel.edu by bcm.tmc.edu (AA11461); Wed, 4 Sep 91 11:44:23 -0500
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA05613; Wed, 4 Sep 91 12:44:20 -0400
+Message-Id: <9109041644.AA05613@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Wed, 4 Sep 1991 12:44:20 EDT
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: DELETE twilber@brahms.udel.edu
+
+Sorry, please don't delet me, just her.  At her request.
+
+Thanks,
+        Steve
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 14:10:30 1991
+Received: by karazm.math.uh.edu id <AA11094@karazm.math.uh.edu>; Wed, 4 Sep 91 14:10:30 CDT
+Received: from interlan.interlan.com by karazm.math.uh.edu id <AA11086@karazm.math.uh.edu>; Wed, 4 Sep 91 14:09:44 CDT
+Received: by interlan.interlan.com (5.65/1.35)
+	id AA00161; Wed, 4 Sep 91 15:10:01 -0400
+Date: Wed, 4 Sep 91 15:10:01 -0400
+From: powell@interlan.interlan.com (Glen D. Powell)
+Message-Id: <9109041910.AA00161@interlan.interlan.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Porsche crashing?
+
+
+It's to bad for the real enthusiast, but, Porsche is getting what they
+deserve. For years Porsche catered to the true enthusiast, with exciting
+but slightly expensive automobiles. Today they cater to the gold-chain-
+yupster-set with megadollar automobiles (928, 944) and very well-built
+but outrageously expensive antique automobiles (911). Porsche will all
+but disappear if they continue to ignore the true enthusiasts and follow
+their present path "upmarket". The yupsters are bored and turning japanese.....
+
+-glen
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 14:30:30 1991
+Received: by karazm.math.uh.edu id <AA11219@karazm.math.uh.edu>; Wed, 4 Sep 91 14:30:31 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA11171@karazm.math.uh.edu>; Wed, 4 Sep 91 14:21:41 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA24283; Wed, 4 Sep 91 15:15:11 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA00796; Wed, 4 Sep 91 15:15:03 EDT
+Date: Wed, 4 Sep 91 15:15:03 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109041915.AA00796@porsche.cs.rpi.edu>
+To: powell@interlan.interlan.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Glen D. Powell's message of Wed, 4 Sep 91 15:10:01 -0400 <9109041910.AA00161@interlan.interlan.com>
+Subject: Porsche crashing?
+
+
+
+
+   It's to bad for the real enthusiast, but, Porsche is getting what
+   they deserve.....
+
+I totally agree, luckily the old Porsches were built so well that the
+true enthusiast can always find a used one.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 14:40:30 1991
+Received: by karazm.math.uh.edu id <AA11584@karazm.math.uh.edu>; Wed, 4 Sep 91 14:40:31 CDT
+Received: from Calvin.EDU (ursa.calvin.edu) by karazm.math.uh.edu id <AA11357@karazm.math.uh.edu>; Wed, 4 Sep 91 14:36:03 CDT
+Received: by Calvin.EDU (4.1/SMI-4.1)
+	id AA07485; Wed, 4 Sep 91 15:32:15 EDT
+From: t13329@Calvin.EDU (Percy)
+Message-Id: <9109041932.AA07485@Calvin.EDU>
+Subject: Porsche bashing
+To: porschephiles@karazm.math.uh.edu (Porsche list)
+Date: Wed, 4 Sep 91 15:32:14 EDT
+X-Mailer: ELM [version 2.3 PL0]
+
+
+	I heartily agree with whoever remarked on the age of the 924
+line. In its 15 years (or more?) it has been reworked, remodeled,
+pumped-up, pumped-down, given facelifts, and butt-tucks, spawning along
+the way the 928 and the 944. I admit it was a great design to start
+out with but Porsche must realize that all the make-up and plastic
+surgery in the world can't disguise the fact that the 924 design has
+had its day - rehashing it in the 968 is, simply, poor form. An aging
+woman trying desperately to stay young and attractive, and losing. A
+911 this puppy is NOT.
+
+Su Misra
+-- 
+
+|        \  |  / \| \|      |  \|  |\  |    |    \| \|
+|  /|  /\  \|/   \|\ |\  .  |\ \|\ |/  |  /||  /|\|\ |\
+|/  | /  \  |     |\ |   .  |/  |\ |\  |/  ||/  | |\ |
+    |/    \ |     |  |      |   |  |  \    |    | |  |
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 21:50:33 1991
+Received: by karazm.math.uh.edu id <AA14437@karazm.math.uh.edu>; Wed, 4 Sep 91 21:50:33 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA14373@karazm.math.uh.edu>; Wed, 4 Sep 91 21:41:56 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac27522;
+          4 Sep 91 22:28 EDT
+Date: Thu, 5 Sep 91 02:27 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: Wheel-to-wheel <wheeltowheel@abingdon.eng.sun.com>
+Subject: Racing Dynamics stress bar
+Message-Id: <41910905022714/0004056890NA1EM@mcimail.com>
+
+Folks -
+
+This is part field report, part inquiry for other people's experiences.  My
+mechanic and I tried putting a Racing Dynamics stress bar (shock tower brace) in
+my '87 944S today.  I choose this part reluctantly because it costs twice what
+the Camber Truss equivalent does.  The reason was that I had seen one of the
+Camber Trusses installed in another 944S, and its owner apparently had to grind
+the bar pretty seriously to get it to clear the 944S' larger manifold.
+
+OK, so there were four basic problems with the RD part:
+
+1. The two flanges which share the shock bearing's bolts and fasten to same use
+two bolts, not four like the Camber Truss.  Non-fatal, probably not even serious
+according to my mechanic.
+
+2. These aluminum parts were, in part, formed by bending part of them to a 90
+degree angle.  The stress fractures were visible.  Non-fatal but schlocky. 
+Aluminum is not a metal I consider primo for cold-working.
+
+3. You cannot put the driver side piece on without either removing or relocating
+the metal AC line.  Non-fatal.  My guy carefully reshaped the line in two places
+and relocated the line down the tower a tad.  Adele clamp located to an usused
+stud which happens to be handy, speed nut applied.  The vacuum equipment there
+also gets moved a bit.
+
+4. The flanges are too thick to fully thread the nuts on the towers' shock
+bearing bolts.  Fatal error.  Repack the mess.
+
+Turned out my mechanic had a Camber Truss waiting for a customer.  Invoking the
+Autocross War Powers Emergency Act, I impounded it and we put it on.  Turned out
+that no grinding was necessary, there was some adjustment play in the device and
+it was possible to fiddle it so that neither the hood nor the manifold was
+rubbed.  Crayon marks at key points and a test drive verified this.
+
+Has anyone else tried the Racing Dynamics part, and what experiences have they
+had?  For 300 smackers, double the competition, I would expect better.
+
+Kevin
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep  4 22:40:33 1991
+Received: by karazm.math.uh.edu id <AA14572@karazm.math.uh.edu>; Wed, 4 Sep 91 22:40:33 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA14557@karazm.math.uh.edu>; Wed, 4 Sep 91 22:33:56 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab28331;
+          4 Sep 91 23:25 EDT
+Date: Thu, 5 Sep 91 03:23 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: Wheel-to-wheel <wheeltowheel@abingdon.eng.sun.com>
+Subject: More re: Racing Dynamics stress bar
+Message-Id: <33910905032333/0004056890NA2EM@mcimail.com>
+
+Ooops... complete brain fade, long day in the office.  There was another reason
+we repacked the RD stress bar kit.  It interfered with the brake proportioning
+valve on the master cylinder.  Not a little bit, a lot.  Very strange.  Fatal.
+
+Kevin
+
+From stan  Thu Sep  5 00:30:33 1991
+Received: by karazm.math.uh.edu id <AA15190@karazm.math.uh.edu>; Thu, 5 Sep 91 00:30:33 CDT
+Received: by karazm.math.uh.edu id <AA15087@karazm.math.uh.edu>; Thu, 5 Sep 91 00:13:31 CDT
+Date: Thu, 5 Sep 91 00:13:31 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: porschephiles@karazm.math.uh.edu, powell@interlan.interlan.com
+Subject: Re:  Porsche crashing?
+
+>...outrageously expensive antique automobiles (911).
+
+I'm insulted. My 11 year old ZR1-eating outrageously expensive antique
+automobile wants to defend its honor against anything you can muster....
+
+Stan
+
+From stan  Thu Sep  5 23:10:38 1991
+Received: by karazm.math.uh.edu id <AA20078@karazm.math.uh.edu>; Thu, 5 Sep 91 23:10:38 CDT
+Received: by karazm.math.uh.edu id <AA20055@karazm.math.uh.edu>; Thu, 5 Sep 91 23:04:52 CDT
+Date: Thu, 5 Sep 91 23:04:52 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: porschephiles@karazm.math.uh.edu
+Subject: Out for a while....
+
+I'm off to the UK for a couple of conferences. I'll be back in 
+about two weeks. Until then, things should run smoothly, but don't
+expect miracles.... or my usual wry banter, for that matter....
+
+Cheers,
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Sun Sep  8 07:20:47 1991
+Received: by karazm.math.uh.edu id <AA00302@karazm.math.uh.edu>; Sun, 8 Sep 91 07:20:47 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA00297@karazm.math.uh.edu>; Sun, 8 Sep 91 07:15:59 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA18114 (5.65a/CWI-2.107); Sun, 8 Sep 1991 14:12:46 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA24076; Sun, 8 Sep 1991 14:08:53 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA00738; Sun, 8 Sep 91 13:34:37 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA05543; Sun, 8 Sep 91 13:34:35 +0200
+Date: Sun, 8 Sep 91 13:34:35 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109081134.AA05543@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Porsche 968
+
+For those who are interested here is some info stolen from CAR magazine - still the best! -  of the new 968.
+
+The 968 will be released officially at the Frankfurt show this month, September. The principle changes are the front and rear styling, basically influences from the 928. The rear styling was cricised by CAR as being a bit of a mess and was also noted as being similar to the Scimitar SS1!
+
+The mechanical changes are concentrated in two areas, engine and transmission. The engine features a new inlet manifold (dual tract I seem to remember) which, together with some other smallish changes,  increases power to (234 or 250, sorry, can't remember now!!). The tranmission option will be either six-speed manual or tiptronic. Top speed is 158 MPH and 0-60 around 6.1 (factory figures).
+
+There are NO changes to the interior.
+
+The overall impression I gained from the article was of a little dissapointment, cosmetic changes to the bodywork (personally I prefer the 944 S2) but with significant improvements mechanically. 
+
+I believe they also said that the 968 will be built at Zuffenhausen, rather than by Audi at Neckarsulm(sp?) - possibly a sign of consolidation by Porsche and/or in recognition of the noted difference in production quality between Porsche and Audi.
+
+Apologies if there are some errors, it's all from memory, forgot the mag! Buy the magazine, it's a good article!
+
+kevinh@hasler.ascom.ch
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Sun Sep  8 16:50:49 1991
+Received: by karazm.math.uh.edu id <AA01055@karazm.math.uh.edu>; Sun, 8 Sep 91 16:50:50 CDT
+Received: from hydra.gatech.edu (hydra-rich.gatech.edu) by karazm.math.uh.edu id <AA01044@karazm.math.uh.edu>; Sun, 8 Sep 91 16:47:25 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA04419; Sun, 8 Sep 91 17:44:23 -0400
+Date: Sun, 8 Sep 91 17:44:23 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9109082144.AA04419@prism.gatech.edu>
+To: Lake@prism.gatech.edu, event@prism.gatech.edu,
+        porschephiles@karazm.math.uh.edu, report@prism.gatech.edu,
+        school@sol.crd.ge.com
+Subject: Elkhart
+
+In the grand tradition of the net, I hearby submit my impressions of the
+recent PCA sponsored drivers education event at Elkhart Lake, WI (Road
+America), Aug 31 & Sep 1.
+
+First off, the weather was gorgeous - mid to high 70's and partly
+cloudy.  Not so hot as to cause heat exhaustion and not so cool as to
+require a jacket.  Perfect.
+
+Administrative details: all novices and first-time Rd. America drivers
+were required to attend a drivers meeting Friday night. First-time
+drivers were required to drive with an instructor for track orientation
+no matter their experience level. Drivers were divided into four run
+groups - A, B, C, D (D = novice).  [At Rd. Atlanta, we use five groups
+and all instructors are expected to drive in the top two.]
+Unfortunately, my instructor was driving in the same group (C) as me
+(!). This made for somewhat awkward instruction.  I'm still a rookie at
+this sort of thing - I've driven at Rd. Atlanta twice and Talledega (the
+road course, not the oval) once - this was my first time at Rd. America.
+I'm fairly fast, heal/toe well, and drive a reasonably consistent line
+(I still catch myself snoozing occasionally :-)), but I need instruction
+in order to improve.  Apparently the event organizers did not expect
+group C drivers to desire instruction [I'm still somewhat puzzled as to
+why an instructor would drive in group C...].  On the bright side, the
+event was nicely organized, with each run session scheduled at 1/2 hour
+intervals - except for one exception sunday morning (due to an "off
+track excursion"), run sessions started and ended exactly on time. [At
+Rd.  Atlanta, no attempt is even made to publish a run-schedule much
+less stick to one]. Warm up laps started as soon as the last car from
+the previous session started its cool down lap. [At Rd. Atlanta, they
+wait for the last car in the previous session to _pit_ before letting
+the next session start]. As a consequence, each group got 4 sessions (2
+hours) each day.
+
+I was signed off to solo after my first session. At the next session, I
+gridded directly behind my instructor and followed him through his line.
+In the session after that, he followed me. After that, I was on my own.
+While the solo time was fun, I really wasn't learning very much and my
+times were barely improving.
+
+At midday Sunday, I talked another instructor (Russ somebody - I didn't
+catch his last name - he was the Chief Instructor for the weekend) into
+riding with me. He showed me a completely different line - radically
+different from what my first instructor (and all the other drivers in my
+group) used. Actually, most turns were exactly the same, but a few
+critical ones were very different.  Russ is a very aggressive driver and
+his teaching technique reflects that - after a lap in which I showed him
+my line, he reached over grabbed the steering wheel with his left hand
+and was constantly correcting my line and yelling at me for each mistake
+(most often not straightening the wheel soon enough at track-out). It
+was great - I really needed that negative feedback! My previous
+instructor had been much less aggressive and did not criticize very
+much.
+
+At the next session, by changing to the new line, charging harder into
+the turns and driving flat out in the straights, I bettered my times by
+almost 10 seconds (3:05 - 3:07) It felt fast to me... I was still
+getting passed by B-group drivers (the last driving session was combined
+B & C), but I was passing just about everything in C.  Russ was bragging
+about helping a fellow instructor get his time in the 2:40 range (!). I
+take that to be the `unobtainable' goal. Has anyone accumulated
+representative `good' times for various cars and experience levels?
+
+Anyway, here's a description of the Radical Russ line at Elkhart Lake:
+
+Entry: stay right as you enter the track (a couple hundred yards short
+	of turn 1). Hug the right side of the track until the apex then
+	track out normally. [Most other drivers moved immediately to the
+	left side of the track for a normal turn-in as soon as traffic
+	permitted].
+turn 2: do not follow the curve of the road between 1 and 3: as you
+	crest the hill (I guess this is technically turn 2), look for
+	the telephone poll on the far side of 3 - head for it. [most
+	other drivers followed the curve of the track to the left in
+	order to straighline brake along the edge of the track for 3].
+turn 3: still in 3rd gear after accelerating out of 1. Approach the
+	turn-in point slightly off axis (you are moving from the center
+	of the track towards the turn-in point on the left. At the time
+	you turn-in, you are on the left side of the track) Brake hard
+	and take full advantage of the track for track out.
+turn 4: Stay left for the track out from turn 3, then gently nudge the
+	car towards the center of the track - aim the car between the
+	`a' and `v' of the "Havoline" sign on the bridge. Let the track
+	come towards you slightly, but stay about 2/3 to the left. Look
+	for the `4' brake marker for turn 5 and imagine where the `2'
+	marker is. (slightly left of a roundish clump of leaves in the
+	trees... The `2' marker is hidden from view until you start down
+	the hill. The straight from 3 to 5 is taken under full
+	acceleration - I was getting to about 110mph before starting to
+	brake and downshift into turn 5. [most other drivers were on the
+	right side of the track at this point]
+turn 5: At the `4' and `3' braking markers, stay towards the center of
+	the track - be on the right side at the `2' marker and start
+	aggressive braking and downshift to 2nd gear (you upshifted to
+	4th in the previous straight). This turn must be taken
+	relatively slowly - I almost always slid the rear end in 5
+	(partially due to turbo lag and high RPMs from downshifting,
+	partially from just being too fast...) - this is OK - just don't
+	overcorrect! Accelerate up the hill and upshift to 3rd.  [turn 5
+	was the scene of a near-miss when a 911 lost its brakes going
+	into the turn - it `early apexed' in front of a car just
+	approaching the apex and another close behind - fortunately it
+	didn't hit either one and there was sufficient runoff such that
+	it didn't hit anything before it came to a stop. This is a very
+	fast track - good brakes are essential!]
+turn 6: Stay right up the hill and get ready to brake right under the
+	bridge - turn 6 is blind: you can't even see the turn-in cone
+	until you're practically on top of it. Take 6 in 3rd and allow
+	the car to track out before moving to the left of the track for
+	turn-in to 7.
+turn 7: lift slightly to settle the car (no need to brake) and clip the
+	apex as close as possible - track out under full acceleration -
+	don't start moving to the right for turn-in to 8 until about 1/3
+	of the way down the straight. [This is fairly exciting - the
+	track-out is downhill and under full acceleration, I almost
+	always had the impression that I was going to run out of track
+	at track-out...]
+turn 8:	A fast turn - taken in 3rd. Stay right at track-out since we'll
+	take the following turn full right.
+turns 9&10: the `carousel'. This is a large constant radius corner. Stay
+	full right with the right tires on the white line. Drive this
+	like a skid pad - drive as fast as possible without letting the
+	rear end break away - just feather the throttle to correct for
+	understeer. Anticipate the apex cone at the end of the turn and
+	charge full throttle (upshift to 4th) straight for the turn-in
+	to turn 11. [Most drivers stayed wide (2 or 3 feet left of the
+	white line) throughout the turn and waited until the very end to
+	tighten the turn at the apex - this was also the Skip Barber
+	instructor recommendations].
+turn 11: `the kink'. This was stressed at the driver's meeting as a very
+	dangerous corner. It's slightly off camber. The side rails at
+	the exit of the kink have lots of scrapes and paint marks from
+	cars that didn't make it... This was the scene of the only
+	multicar accident of the weekend - a 911 driver ran two wheels
+	off the track and tried to steer back on track, only to
+	slingshot into the side of a 944. No one was hurt, and the 911
+	didn't appear to be scratched, but the 944's driver's door and
+	rear quarter panel were badly mangled. Anyway, tap the brakes
+	before turn in and apex a foot and a half into the rumble strips
+	that form the apex of the turn. [most drivers stayed wide of the
+	rumble strips] Track-out and head for an orange blotch of paint
+	on the far side of the track - This keeps you on the left side
+	of the track [most drivers followed the curve of the track at
+	this point, but eventually ended up in the same sort of gentle
+	left hand turn into 12] accelerate hard and nudge the car into a
+	gentle left hand constant radius turn (moving from the left of
+	the track to the right then back to the left again) ending up on
+	the left side of the track, perfectly positioned for straight
+	line braking into turn 12.
+turn 12: downshift to 3rd and brake hard (you reached 110-115 on the
+	curvy `straight'). Allow the car to stay left during track-out
+	slightly longer than you feel is necessary - head for the clump
+	of trees on the left of the track. Now, move over the the right
+	side of the track for turn-in to 13. [most drivers continued the
+	turn from 12 as an arc that ends up at the turn-in for 13].
+turn 13: the apex is under the bridge and is blind until after your
+	turn-in.  Clip the apex and track-out well into the runoff area
+	on the right side of the track. Stay right and aim for the `2'
+	brake marker for 14. [Most drivers edged back over to the left
+	side of the track almost immediately after track out from 13 -
+	this was the only part of Russ's line that didn't feel right to
+	me - I think getting over to the left of the track sooner to set
+	up for 14 would have allowed a faster exit from 14, but I ran
+	out of time to test out this theory...].
+turn 14: (still in 3rd) Turn-in slightly late since this leads to the
+	longest straight on the track - accelerate full bore up the hill
+	and down again - I saw 120, 125 on the speedo by the end of the
+	straight.  _Don't_ forget about turn 1 at the end of the
+	straight! (As my first instructor said: "It's a good rule of
+	thumb that every straight ends in a turn"). It's easy to get
+	fixated on going fast in the straight...  Anyway, brake hard for
+	turn 1 and downshift taking the turn in 3rd.
+
+Elkhart Lake is a _long_ way from Atlanta (~16 hours), but the
+experience was worth it. Rd. America is a beautiful, long, fast track
+(~4.2 miles - advertised as the longest closed road course in the
+world). I just may convince myself to come back for the next event.
+My times were consistantly getting faster and faster (a couple seconds
+each run). If only I'd had another day...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Porsche - there is no substitute.
+
+	Steve Tynor
+	Georgia Tech Research Institute
+	tynor@prism.gatech.edu
+
+From porschephiles-request@karazm.math.uh.edu  Mon Sep  9 11:23:37 1991
+Received: by karazm.math.uh.edu id <AA04575@karazm.math.uh.edu>; Mon, 9 Sep 91 11:23:38 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA04570@karazm.math.uh.edu>; Mon, 9 Sep 91 11:19:38 CDT
+Received: Mon, 9 Sep 91 09:22:11 -0700 from kry.dnet by gemini.arc.nasa.gov (5.65b/1.2) with SMTP
+Message-Id: <9109091622.AA17832@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Mon, 9 Sep 91 09:23:44 PDT
+Date: Mon, 9 Sep 91 09:23:44 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: early 911 questions
+To: porschephiles@karazm.math.uh.edu
+
+I've been offered what seems like a good deal on a 1968 911s.
+
+Does anyone know:
+
+      Going prices for such a beast, interior and exterior are supposed
+      to be in good shape, 90k miles, needs clutch.
+
+      Any congenital problems besides the lack of layshaft bearings.
+
+Im'm very intrigued, largly because this car has only 20 less hp than
+my 911sc, is probably 400 lb lighter, and is (I think) the last 
+carburated 911.
+
+Comments anyone?
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep 10 02:53:39 1991
+Received: by karazm.math.uh.edu id <AA11826@karazm.math.uh.edu>; Tue, 10 Sep 91 02:53:39 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA11821@karazm.math.uh.edu>; Tue, 10 Sep 91 02:45:39 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA14821 (5.65a/CWI-2.107); Tue, 10 Sep 1991 09:42:13 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA17872; Tue, 10 Sep 1991 09:37:29 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA12943; Tue, 10 Sep 91 09:00:56 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA07076; Tue, 10 Sep 91 09:00:55 +0200
+Date: Tue, 10 Sep 91 09:00:55 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109100700.AA07076@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  early 911 questions
+
+	Im'm very intrigued, largly because this car has only 20 less hp than
+	my 911sc, is probably 400 lb lighter, and is (I think) the last 
+	carburated 911.
+
+The last car with carbs produced by Porsche was the 911T 'F' series cars of 1973.
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep 10 05:53:39 1991
+Received: by karazm.math.uh.edu id <AA12045@karazm.math.uh.edu>; Tue, 10 Sep 91 05:53:40 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA12040@karazm.math.uh.edu>; Tue, 10 Sep 91 05:50:41 CDT
+Received: from kestrel.ukc.ac.uk by mcsun.EU.net with SMTP;
+	id AA27258 (5.65a/CWI-2.107); Tue, 10 Sep 1991 12:47:26 +0200
+Message-Id: <9109101047.AA27258@mcsun.EU.net>
+Received: from axion.bt.co.uk by kestrel.Ukc.AC.UK   via PSS (UKC CAMEL FTP)
+           id aa26931; 10 Sep 91 11:41 BST
+Received: from bt-web.bt.co.uk by zaphod.axion.bt.co.uk 
+          via DECnet inbound channel id <23757-0@zaphod.axion.bt.co.uk>;
+          Tue, 10 Sep 1991 11:40:18 +0100
+X-Vms-To: R11F::KARAZM.MATH.UH.EDU::PORSCHEPHILES
+To: porschephiles@karazm.math.uh.edu
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Cylinder head torque values for 944.
+Date: Tue, 10 Sep 1991 11:40:18 +0100
+
+From:	NAME: Philip Katz           [DFF54 ]
+	FUNC: DFF54                           
+	TEL: 0473-645672                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	As part of a recent 48k service (by a Porsche-trained mechanic!), I
+had the coolant replaced. I now have a slight coolant leak from the
+cylinder head gasket, and the garage which did the service has
+become an ex-garage :-(
+
+	Reading the Haynes manual, it says that you should always re-torque
+the cylinder head bolts before replacing coolant, as new coolant can
+search out the slightest gap. The Haynes manual, however, does not
+give the torque values, saying that this has changed a number of
+times during the life of the engine. Another :-(
+
+	Does anyone have the figures and tightening sequence for an August
+1985 ('86 model year - teardrop dash) UK 2497cc 944 engine? Also
+(stupid question?) do you tighten the bolts with the engine hot or
+cold, or doesn't it matter?
+
+	A few more questions while I'm wasting bandwidth :
+
+1. Do Porsche supply the various gauges in the instrument binnacle
+separately? My MPG gauge doesn't work, and I can't seem to find out
+why. I removed the instrument binnacle, but there is so much
+on-board electronics that I was reluctant/unable to fault-find any
+further. I don't believe that it would be cost effective to replace
+the whole binnacle just to get the MPG meter working again (and I'm
+not even positive yet that that's where the problem lies) !!
+
+2. Can the struts which hold the bonnet ("hood") open be
+re-pressurised, or do you just have to replace them?
+
+Thanks in advance for any advice. 
+
+Philip
+
+P.S. I too wish that Porsche would concentrate on enthusiasts rather
+than pander to those with more money than sense. Then again, maybe
+its just the problems inherent in trying to maintain a 6-year old
+car which I paid 10,000 pounds for, when all the servicing/parts
+costs are geared towards a new (36,000 pound!) car.
+
+From porschephiles-request@karazm.math.uh.edu  Tue Sep 10 10:43:42 1991
+Received: by karazm.math.uh.edu id <AA12604@karazm.math.uh.edu>; Tue, 10 Sep 91 10:43:43 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA12565@karazm.math.uh.edu>; Tue, 10 Sep 91 10:35:58 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA27102; Tue, 10 Sep 91 11:29:18 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA01660; Tue, 10 Sep 91 11:29:12 EDT
+Date: Tue, 10 Sep 91 11:29:12 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109101529.AA01660@porsche.cs.rpi.edu>
+To: laforce@krypton.arc.nasa.gov
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: laforce@krypton.arc.nasa.gov's message of Mon, 9 Sep 91 09:23:44 PDT <9109091622.AA17832@gemini.arc.nasa.gov>
+Subject: early 911 questions
+
+
+   I've been offered what seems like a good deal on a 1968 911s.
+
+   Does anyone know:
+
+	 Going prices for such a beast, interior and exterior are supposed
+	 to be in good shape, 90k miles, needs clutch.
+
+	 Any congenital problems besides the lack of layshaft bearings.
+
+   Im'm very intrigued, largly because this car has only 20 less hp than
+   my 911sc, is probably 400 lb lighter, and is (I think) the last 
+   carburated 911.
+
+   Comments anyone?
+
+It is definitely harder to get parts for the short wheel base (pre 69)
+911s.  It was not the last carburated 911.  Your SC should more than
+20 HP over it.  It's a good car, probably will become valuable.  I'd
+say they go for about 8-12K nowadays, really nice ones in perfect
+shape with no rust (and that's rare) go for MUCH more.  The soft
+window targa are worth a lot more, too.  Don't get it if you expect it
+to be a reall hummer, your SC will blow it away, get it because it's a
+classic that if kept in good condition will definitely increase in
+value.  
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 03:33:42 1991
+Received: by karazm.math.uh.edu id <AA16845@karazm.math.uh.edu>; Wed, 11 Sep 91 03:33:43 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA16838@karazm.math.uh.edu>; Wed, 11 Sep 91 03:23:43 CDT
+Received: via EUnet; id AA00372 (5.65a/CWI-2.108); 
+	by mcsun.EU.net; Wed, 11 Sep 1991 10:20:24 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA00709; Wed, 11 Sep 1991 10:10:07 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA22668; Wed, 11 Sep 91 09:44:38 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA08478; Wed, 11 Sep 91 09:44:36 +0200
+Date: Wed, 11 Sep 91 09:44:36 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109110744.AA08478@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  early 911 questions
+
+	   I've been offered what seems like a good deal on a 1968 911s.
+
+	   Does anyone know:
+
+		 Going prices for such a beast, interior and exterior are supposed
+		 to be in good shape, 90k miles, needs clutch.
+
+		 Any congenital problems besides the lack of layshaft bearings.
+
+	   Im'm very intrigued, largly because this car has only 20 less hp than
+	   my 911sc, is probably 400 lb lighter, and is (I think) the last 
+	   carburated 911.
+
+	   Comments anyone?
+
+	It is definitely harder to get parts for the short wheel base (pre 69)
+	911s.  It was not the last carburated 911.  Your SC should more than
+	20 HP over it. 
+
+
+
+Why?, the `78 SC has 180 bhp (european (RoW?) figure, maybe more than California?) and the 2 litre 911S had 160 bhp, 20 bhp more? 
+
+
+
+        Don't get it if you expect it
+	to be a reall hummer, your SC will blow it away, get it because it's a
+	classic that if kept in good condition will definitely increase in
+	value.  
+
+I agree about getting it because it's a classic, but the performance of the earlier cars was comparatively higher than that of the late `70's cars. I think what you mean to say is that the later cars get their (slightly greater)performance easier and more comfortably (and less interestingly?). 
+
+Having driven a 911SC ( 3.0L 204bhp) and a 2.4 911, the 2.4 feels(!) quicker, the book times show that they are probably around the same. This may be due to gearing I suppose and of course to the peaky nature of the earlier cars.
+
+Incidently,I was quite dissapointed with the 911 SC, having driven it directly after a new 944S2 which I thought was fantastic, press the Go pedal and wow!  The 911 SC had to be really worked unlike my 2.4, which fluffs a bit at low revs and then bang, were off. Having said that i'd exchange it for an SC if I could, simply because of the bombproof engine and the fact it will not rust!
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 04:23:42 1991
+Received: by karazm.math.uh.edu id <AA16939@karazm.math.uh.edu>; Wed, 11 Sep 91 04:23:42 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA16934@karazm.math.uh.edu>; Wed, 11 Sep 91 04:20:56 CDT
+Received: via EUnet; id AA04344 (5.65a/CWI-2.108); 
+	by mcsun.EU.net; Wed, 11 Sep 1991 11:17:39 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA00472; Wed, 11 Sep 1991 11:06:12 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA23053; Wed, 11 Sep 91 10:53:09 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA08934; Wed, 11 Sep 91 10:53:06 +0200
+Date: Wed, 11 Sep 91 10:53:06 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109110853.AA08934@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  Porsche 968
+
+
+	I recently read that opinion of Audi build quality in many countries
+	throught Europe is that it is equal to or better than BMW and rapidly
+	approaching that of Mercedes.
+
+I don't agree with that,  I would say that the order(approximately) in Europe is
+
+
+East european cars
+French cars/Italian cars
+Ford
+VW and Opel(Vauxhall)
+Rover
+AUDI
+BMW
+Porsche and Mercedes
+
+
+
+I know this is a generalisation, no flames please!
+
+
+	I believe, from memory, that Audi also ranks higher in customer satisfaction
+	and quality ratings vs Porsche in many research polls, J.D. Power, etc.
+
+
+I'm not really familiar with these surveys, other than having read about them on rec.autos so I can't really comment on their methods etc. For example, i've seen one survey mentioned that showed the number of faults occuring, but did not differentiate between a faulty lightbulb and a faulty gearbox!!, anyway i'm sure you know what I mean!
+
+Rover, for example, have recently initiated a quality control program that is heavily biased towards things which the customer is likely to notice rather than faults which he is not likely to notice so much eg panel alignment.
+
+Customer satisfaction and quality are difficult things to accurately measure without bias, and certainly vary from country to country, Eg the BMW dealer here in Bern, Switzerland are crap compared to my local one in Cheshire, England.
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 08:53:43 1991
+Received: by karazm.math.uh.edu id <AA17296@karazm.math.uh.edu>; Wed, 11 Sep 91 08:53:43 CDT
+Received: from twolf6.CE.YALE.EDU by karazm.math.uh.edu id <AA17283@karazm.math.uh.edu>; Wed, 11 Sep 91 08:44:01 CDT
+Received: by twolf6.CE.YALE.EDU; Wed, 11 Sep 91 09:39:14 -0400
+To: kevinh@hasler.ascom.ch (kevinh)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Porsche 968 
+In-Reply-To: Message from kevinh@hasler.ascom.ch (kevinh) 
+	     Wed, 11 Sep 91 10:53:06 +0200.
+	     <9109110853.AA08934@libra.hasler.ascom.ch> 
+Date: Wed, 11 Sep 91 09:39:14 EDT
+Message-Id: <16282.684596354@twolf6.CE.YALE.EDU>
+From: Dan Kasha <kasha@twolf6.CE.YALE.EDU>
+
+
+
+
+>East european cars
+>French cars/Italian cars
+>Ford
+>VW and Opel(Vauxhall)
+>Rover
+>AUDI
+>BMW
+>Porsche and Mercedes
+
+>kevinh@hasler.ascom.ch
+
+Can't not flsme this.  Firstly, don't forget the technology sharing
+between countries.  For example, Renault, Peugeot and Volvo (as well
+as some lesser known companies) share the same engine V6 design,
+the PRV, which is an awseome engine.  Next, Rover is essentially Honda
+engines and other (we are not talking about door handles, but rather
+engine, suspension, chasis integrity).  The saab  9000 chasis is a
+joint design effort with Alfa Romeo (related to fiat BTW after many years
+floundering as a govt. owned company).  Fiat and the french make awesome
+small engines, remember that these countries have heavy 'gas guzzler'
+taxes, and the majority of what they produce is 1.4littres and down.
+Pretty responsible if you ask me, and damn good engine quality control.
+I can go nuts on my renault engine.  Fiat did a very impressive engine
+design, I think in the fiat uno, an engine around 1 littre.  They 
+decided that they needed a very complex design that reduced engine
+parts count by an absurd amount, like 30% - 50%, that ALSO permitted
+full automated assembly.  It works great.  That is inovation that
+helps the auto industry, not the psuedo race engines that arecompletely
+wimpy form a horsepower/engineweight or a hp/displacement scale.
+Also, look at the race teams of the above cars.  For example the
+peougot 305 (or 309?) that did pikes peak climb in about 12 minutes.
+It had a 1.9l engine making over 700hp.  Beat the glof syncro fire
+breathing car by 2 minutes - that is the one that made it up without
+blowing up.  And I don't recall seing audi doing well either.  
+On a last note, the hottest car in germany now is the toyota corola.
+This comes from a freind that lives in germany that is a car enthusiast
+as well.  The general population feeling is that the small BMW's and
+VW are overpriced and relatively unreliable, and the corola which
+has excellent handling, power (16valve) is a reliability dream.  We
+get the cream of the lot from BMW and Mercedes here, but in europe
+they are just another car in the low end market (hence the $11K BMW
+314, no power, cloath everything, power  nothing, and many prefer
+a corola or mitsubishi).  I don't mean to start a war between country
+loyalty, just saying that there is a lot more to a quality list than
+an american car maagazine's view of the expensive cars.
+
+
+Dan Kasha
+kasha@twolf.ce.yale.edu
+(203)432-4261 
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 10:53:43 1991
+Received: by karazm.math.uh.edu id <AA17665@karazm.math.uh.edu>; Wed, 11 Sep 91 10:53:44 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA17647@karazm.math.uh.edu>; Wed, 11 Sep 91 10:46:09 CDT
+Received: by mcsun.EU.net; Wed, 11 Sep 1991 17:42:51 +0200; via EUnet; id AA02553 (5.65a/CWI-2.109); 
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA04719; Wed, 11 Sep 1991 17:36:20 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA25801; Wed, 11 Sep 91 17:25:14 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA09656; Wed, 11 Sep 91 17:25:13 +0200
+Date: Wed, 11 Sep 91 17:25:12 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109111525.AA09656@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: Porsche 968
+
+
+	>East european cars
+	>French cars/Italian cars
+	>Ford
+	>VW and Opel(Vauxhall)
+	>Rover
+	>AUDI
+	>BMW
+	>Porsche and Mercedes
+
+	>kevinh@hasler.ascom.ch
+
+	Can't not flsme this.  Firstly, don't forget the technology sharing
+	between countries.  For example, Renault, Peugeot and Volvo (as well
+	as some lesser known companies) share the same engine V6 design,
+	the PRV, which is an awseome engine.
+
+Yes, awseomely BAD! Nobody accepts this as a suucessful engine design. The number of problems caused by those wet-liners!! . Who were the lesser known companies by the way, Alpine being owned by Renault.
+
+
+        Next, Rover is essentially Honda
+	engines and other (we are not talking about door handles, but rather
+	engine, suspension, chasis integrity).
+
+Well, can't really argue that there isn't a lot of Honda in there! There are UK designed and supplied engines in the 820i ( a good engine, believe it or not). In the 220/420/216/214/416 there are Rover-only engines. There are also significant metalwork differences between the Honda and the Rover models, especially in the new 8-series released this/next month.
+
+
+
+        french make awesome
+	small engines, remember that these countries have heavy 'gas guzzler'
+	taxes, and the majority of what they produce is 1.4littres and down.
+
+
+Mmmm, but they rattle(tappets) like hell after only a few thousand kilometres, and seem to supply piston rings with a life of about the same, smokey!!
+
+
+	Pretty responsible if you ask me
+
+I think it was more down to protectionism after the second world war! 
+
+
+        Fiat did a very impressive engine
+	design, I think in the fiat uno, an engine around 1 littre.  They 
+	decided that they needed a very complex design that reduced engine
+	parts count by an absurd amount, like 30% - 50%, that ALSO permitted
+	full automated assembly.  It works great.
+
+You are referring to the FIRE engine, which was very successful publicly but was not such a success in terms of emissions and petrol consumption, almost a backwards step according to some reports i've read.
+
+
+        That is inovation that
+	helps the auto industry, not the psuedo race engines that arecompletely
+	wimpy form a horsepower/engineweight or a hp/displacement scale.
+
+Things are never what they seem! What do you mean by pseudo race engines?
+
+
+	Also, look at the race teams of the above cars.  For example the
+	peougot 305 (or 309?) that did pikes peak climb in about 12 minutes.
+	It had a 1.9l engine making over 700hp.  Beat the glof syncro fire
+	breathing car by 2 minutes - that is the one that made it up without
+	blowing up.  And I don't recall seing audi doing well either
+
+
+Interesting result, 700 bhp from 1.9L, thats better than a Formula one engine!!, ok ,it probably had a turbo which means you can crank it up as much as you like assuming the block/pistons/rings/clutch/gearbox/diffential/driveshafts can take it, anyway, a 309 doesn't have a turbo option so I guess the rest of the drivetrain isn't standard either!! - not really fair then is it.
+
+  
+	On a last note, the hottest
+
+
+read CHEAP!
+
+
+         car in germany now is the toyota corola.
+	This comes from a freind that lives in germany that is a car enthusiast
+	as well.  The general population feeling is that the small BMW's
+
+
+BMW's aim is to go upmarket away from VW/AUDI so they make a better car and sell it for more money - so what! See the trend from the 1502/1602 - 315 - 316(1.8L) - Current new 316i(1991) model.
+
+	VW are overpriced
+
+In relation to a Trabi, yes.
+
+        and the corola which
+	has excellent handling, power (16valve) is a reliability dream.
+
+But is not built so well, rusts quicker(believe me!) and is not so strong in a crash.
+
+
+        We get the cream of the lot from BMW and Mercedes here, but in europe
+	they are just another car in the low end market
+
+
+No, i'm sorry,  VW, renault, Fiat, Ford, Opel, Vauxhall, Japanese cars, Rover, Audis  are the everyday cars.   BMW's and Mercedes's and Porsche are just not obtainable by Joe Average!!!! I live, at the moment, in Switzerland, one of the wealthiest countries in Europe - do you think we're all driving Mercs and Beemers, no chance - Opels and VW's abound!. Mercs,BMW and Porsche probably have just as great a status as anywhere!!
+
+
+        (hence the $11K BMW 314,
+
+What, where is this model, i've never seen it!!! 
+
+BMW range starts from the 316i ($23,000) and goes 318i,320i,325i then 520i 24v up to the M5. Mercedes starts with the 190E( I think) which costs around $30,000. 
+
+I know that Porsche prices are cheaper in America than in Germany (and Switzerland), so could anybody tell me how these prices for BMW and the Mercedes compare with those in America.
+
+
+
+        no power 
+
+a 325i, 0-60 in 7 seconds and 142MPH is no power?
+
+        cloath everything
+
+Leather is not very common in Europe.
+
+
+
+        power  nothing
+
+What do you want?, they are all on the options list! The American BMW distributor just has a standard options "pack" which he orders, what's the difference?
+
+
+
+        and many prefer
+	a corola or mitsubishi).
+
+Yes, they are cheaper, if you can't afford it then you have no choice.
+
+
+        I don't mean to start a war between country
+	loyalty, just saying that there is a lot more to a quality list than
+	an american car maagazine's view of the expensive cars.
+
+
+Who said anything about american car rags view's. Read any quality european mag ( Eg CAR ) and you'll get the same message, drive them and you can feel the difference.
+
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 13:03:43 1991
+Received: by karazm.math.uh.edu id <AA18224@karazm.math.uh.edu>; Wed, 11 Sep 91 13:03:43 CDT
+Received: from interlan.interlan.com by karazm.math.uh.edu id <AA18179@karazm.math.uh.edu>; Wed, 11 Sep 91 12:58:54 CDT
+Received: by interlan.interlan.com (5.65/1.35)
+	id AA16450; Wed, 11 Sep 91 13:56:24 -0400
+Date: Wed, 11 Sep 91 13:56:24 -0400
+From: powell@interlan.interlan.com (Glen D. Powell)
+Message-Id: <9109111756.AA16450@interlan.interlan.com>
+To: kasha@twolf6.CE.YALE.EDU, kevinh@hasler.ascom.ch
+Subject: Re: Porsche 968
+Cc: porschephiles@karazm.math.uh.edu
+
+
+Can't not flame your response!
+
+The original posting was NOT about engines or advanced engine technology,
+it was about vehicle build quality.
+
+Manufacturer's race engines have nothing to do with vehicle build quality.
+
+Just a few years back Audi won Pikes peak outright, in production class
+and beating all the open cars....
+
+(not the original posting, but the one you were responding to, sorry)
+
+The American magazine was commenting on the opinions of owners and
+enthusiasts in Europe, not the magazine's opinion itself.
+
+-glen
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 14:53:43 1991
+Received: by karazm.math.uh.edu id <AA18977@karazm.math.uh.edu>; Wed, 11 Sep 91 14:53:44 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA18960@karazm.math.uh.edu>; Wed, 11 Sep 91 14:46:07 CDT
+Received: by mcsun.EU.net; Wed, 11 Sep 1991 21:42:51 +0200; via EUnet; id AA22075 (5.65a/CWI-2.109); 
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA06176; Wed, 11 Sep 1991 21:07:10 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA26283; Wed, 11 Sep 91 19:16:33 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA09686; Wed, 11 Sep 91 19:16:31 +0200
+Date: Wed, 11 Sep 91 19:16:31 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109111716.AA09686@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Leather!
+
+
+	>        cloth everything
+
+	>Leather is not very common in Europe.
+
+	been meaning to ask this: is leather not viewed as a luxury item in europe, as in
+	"what are those crazy americans thinking?"?
+
+	Yes ,it is a luxury item, costing $2000 dollars upwards, 10% of the cost of a 316i !! -
+        (except that you can only order it on the 6-cylinder models). There aren't that many
+        cars actually that you can order it on, as you say - a luxury item!
+
+	kevinh@hasler.ascom.ch
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 23:24:12 1991
+Received: by karazm.math.uh.edu id <AA21496@karazm.math.uh.edu>; Wed, 11 Sep 91 23:24:12 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA21474@karazm.math.uh.edu>; Wed, 11 Sep 91 23:14:58 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA00966; Wed, 11 Sep 91 21:18:30 PDT
+Date: Wed, 11 Sep 91 21:18:30 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9109120418.AA00966@hyperion.llnl.gov>
+To: katz_p_m@bt-web.bt.co.uk
+Subject: Re:  Cylinder head torque values for 944.
+Cc: porschephiles@karazm.math.uh.edu
+
+>        Reading the Haynes manual, it says that you should always re-torque
+>the cylinder head bolts before replacing coolant, as new coolant can
+>search out the slightest gap. The Haynes manual, however, does not
+>give the torque values, saying that this has changed a number of
+>times during the life of the engine. Another :-(
+>
+>        Does anyone have the figures and tightening sequence for an August
+>1985 ('86 model year - teardrop dash) UK 2497cc 944 engine? Also
+>(stupid question?) do you tighten the bolts with the engine hot or
+>cold, or doesn't it matter?
+
+Philip,
+
+I have never heard of having to re-torque cylinder head bolts before
+replacing engine coolant.  I checked my Haynes manuals (both the
+original manual and the supposedly "updated" manual which fraudulently
+claims to cover the later models), but I did not see any such
+recommendation in the section (Chapter 1, Section 33) on cooling
+system servicing.  Could you tell me more specifically where you saw
+this in the manual?  Although the re-torquing of cylinder heads to
+cure leaks might be more common than I realize, I would prefer
+to replace the gasket, which will have to be done sooner or later
+anyway if it has begun to leak.
+
+As for the cylinder head torque values, I did verify your comment
+about the Haynes manual's omission and deferral to a Porsche dealer.
+You must have the newer manual, because the original manual does
+specify a torquing procedure that matches the one specified in the
+factory manual:
+
+1st step 20 Nm
+2nd step 50 Nm
+3rd step 90 Nm
+
+I scanned the index of the PCNA Tech Bulletins from 1/86 through 12/89
+and did not see any bulletins that looked like these values have been
+superceded for any 944.  My search was not exhaustive, however, in
+that I only looked at the bulletin titles.  Of course, even the 3-step
+procedure given above only applies to installing the head with a fresh
+gasket.  I see no specification whatever for re-torquing a head on a
+used gasket.  As for your question about engine temperatures during
+torquing, the installation of a new head gasket is obviously done on a
+cold engine, so I presume the torques are based on that fact.  I would
+imagine this is true of engine torque specifications in general,
+however.
+
+>1. Do Porsche supply the various gauges in the instrument binnacle
+>separately? My MPG gauge doesn't work, and I can't seem to find out
+
+The instrument cluster gauges are still separate on the 85.5+ models,
+so I would expect that you could just replace the tachometer (into
+which the MPG gauge is integrated).  As you say, this assumes that it
+needs to be replaced.  In order to make this determination (without
+just swapping in a new unit), you would have to check that the MPG
+meter is receiving (1) a proper voltage from the speedometer (which
+requires only a voltmeter to check) and (2) fuel injector timing
+signals from the DME unit (which requires an oscilloscope to check).
+(Note to Kevin Gross if you're listening: I was wrong in my earlier
+speculations about how this gauge functions).  You would also need
+some documentation (i.e., factory manual) to be able to identify the
+connections for the tests.
+
+>2. Can the struts which hold the bonnet ("hood") open be
+>re-pressurised, or do you just have to replace them?
+
+I don't think the hood shocks can be re-pressurized.  Even if they
+could, it would probably cost at least as much to have it done as
+it would to just buy new ones.
+
+Sorry for all the :-(s,
+-Milo
+
+From porschephiles-request@karazm.math.uh.edu  Wed Sep 11 23:23:43 1991
+Received: by karazm.math.uh.edu id <AA21492@karazm.math.uh.edu>; Wed, 11 Sep 91 23:23:43 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA21482@karazm.math.uh.edu>; Wed, 11 Sep 91 23:23:05 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac00734;
+          12 Sep 91 0:12 EDT
+Date: Thu, 12 Sep 91 04:11 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: katz p m <katz_p_m@bt-web.bt.co.uk>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Cylinder head torque values for 944.
+Message-Id: <15910912041151/0004056890NA2EM@mcimail.com>
+
+Philip -
+
+I think I can answer a few of your questions.
+
+First off, an old question.  You asked about a connector at the back of the fuel
+rail.  Well, I was threading a new wire through the harness last night and
+finally discovered this connector to which you referred!  (Nice burn on my right
+forearm from the worklight, too, to boot.  You try getting a new wire through
+the eyes inside the 944S manifold!)  I discovered the plug because I knocked
+open the rubber stopper which normally hides it away.  I was short of time and
+didn't trace it, but will do so soon and give you an answer.
+
+The cylinder head tightening torques for Model 82, engine types M44.01 - 04, up
+to but not including Model 86 are:
+
+"1st stage   20 Nm
+2nd stage   50 Nm
+3rd stage   90 Nm
+
+"A light film of oil must be applied to the stud threads."
+
+"As from Model 86, Engine type M 44.05 - 08
+
+1st stage   20 Nm
+2nd stage   50 Nm
+3rd stage   90 Nm
+
+"A light film of oil must be applied to the stud threads." [Yes, identical to
+first set!]
+
+"As from Model 86, Engine type M 44.05 - 10
+
+"In conjunction with a 12 mm high nut
+
+1st stage  20 Nm
+2nd stage  90 degree rotation angle
+3rd stage  90 degree rotation angle.
+
+"A light film of oil must be applied to the stud threads.
+
+"As from Model 89, Engine type M 44.11/12 (2.7 l)
+
+1st stage  20 Nm
+2nd stage  60 degree rotation angle
+3rd stage  60 degree rotation angle
+
+...  Workshop manual, pg. 15-10a.
+
+The order, looking from the starboard (US passenger, UK driver!) side:
+
+   8  4  2  6  10
+   9  5  1  3  7
+
+The spec is with a cold engine - it pretty much assumes you've just had it
+apart, right?  Most torque values are with the car and engine cold, as a rule.
+
+Having transcribed all this, I don't see why you should touch the bolts.  I have
+never heard this advice before.  I would really, to put it more strongly, not
+mess with them.  When you change the coolant, be sure to remove the M8 drain
+bolt on the engine block as well.  You'll get a bit more fluid out through it. 
+And replace the seal ring on it (8x14 mm, 900.123.002.30) and on the bleed valve
+(on my 87 944S: 8x12 mm, N 013 830 7).  (The block drain bolt was deleted, if
+memory serves, as of MY 89.)
+
+Hood shocks: Replace, they cannot be repaired.  Don't try opening them!  I
+believe they have been upgraded and the newer part has black-coloured pistons,
+unlike the shiny original version's pistons.
+
+MPG device: I found that there are a few pages in the workshop manual describing
+its diagnosis.  I can mail copies to you given a postal address.  I would guess
+that the gauges can be replaced individually.  Check with a dealership.  Or try
+a VDO distributer in the UK.  (I have addresses in the US and Canada, but not
+elsewhere.)  Their current catalog does not list a gauge like Porsche's MPG
+widget.  I suspect it was a custom job for Porsche.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Thu Sep 12 00:13:43 1991
+Received: by karazm.math.uh.edu id <AA21842@karazm.math.uh.edu>; Thu, 12 Sep 91 00:13:43 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA21832@karazm.math.uh.edu>; Thu, 12 Sep 91 00:08:45 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA01016; Wed, 11 Sep 91 22:12:14 PDT
+Date: Wed, 11 Sep 91 22:12:14 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9109120512.AA01016@hyperion.llnl.gov>
+To: 0004056890@mcimail.com
+Subject: Re: Cylinder head torque values for 944.
+Cc: porschephiles@karazm.math.uh.edu
+
+
+Kevin,
+
+After I posted my last message on this head tightening issue, I made
+another pass through the PCNA Tech Bulletins and this time found an
+updated cylinder head tightening procedure (1987, Group 1, Number
+8703).  This bulletin claims that the same tightening procedure is to
+be used on all 944 and 924S engines.  Is the info you just posted more
+recent than this bulletin?  If so, where did you get it?
+
+-Milo
+
+From porschephiles-request@karazm.math.uh.edu  Thu Sep 12 03:13:44 1991
+Received: by karazm.math.uh.edu id <AA22086@karazm.math.uh.edu>; Thu, 12 Sep 91 03:13:44 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA22076@karazm.math.uh.edu>; Thu, 12 Sep 91 03:11:42 CDT
+Received: by mcsun.EU.net; Thu, 12 Sep 1991 10:08:25 +0200; from kestrel.ukc.ac.uk with SMTP; id AA11837 (5.65a/CWI-2.109); 
+Received: from prl.philips.co.uk by kestrel.Ukc.AC.UK   with UUCP  id aa22375;
+          12 Sep 91 9:03 BST
+Received: from prsun5h by prlhp1.prl.philips.co.uk; Thu, 12 Sep 91 08:04:28 bst
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Thu, 12 Sep 91 08:01:45 BST
+Message-Id: <3820.9109120701@prsun5h.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: CO meters and early 911 tuning
+
+Hi folks,
+  Here in the UK (I don't know about anywhere else) Gunson, a well known
+manufacturer of DIY tuning equipment, has started selling a CO meter for
+about 50 quid (~90$).  As I would like to be able to do my own tuning on
+my '72 911 E and both the Haynes and Clymer manuals refer (in the
+minimal stuff they have on tuning) to CO values I was wondering whether
+this gadget will do the job.  The box claims an accuracy of ~0.5% CO.
+ 
+  A related point - is the w/shop manual the only place where I can 
+find info on setting up the mechanical fuel injection (I am on the
+waiting list for the PCGB copy but I reccon I won't see it before
+Christmas :-( ).  In fact does this manual give any tuning info at all ? 
+(I would be grateful for any advice, hints etc  on the tuning issue). 
+  
+  Lastly, while I'm at it, does anyone know when CO meters etc became  
+part of the tuner's armoury ? Would they have been used in 1972 when my
+car was new and if not how did they do the set up ? 
+ 
+Thanks in advance for any responses ...
+ 
+        __
+       /__) .  _  /_   _   _  _ /
+      / \  / /_  /  / /_| /  /_/
+ 
+colers@prl.philips.co.uk
+
+From porschephiles-request@karazm.math.uh.edu  Thu Sep 12 11:45:19 1991
+Received: by karazm.math.uh.edu id <AA23486@karazm.math.uh.edu>; Thu, 12 Sep 91 11:45:20 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA23477@karazm.math.uh.edu>; Thu, 12 Sep 91 11:43:15 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA24648; Thu, 12 Sep 91 12:36:35 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA02845; Thu, 12 Sep 91 12:36:28 EDT
+Date: Thu, 12 Sep 91 12:36:28 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109121636.AA02845@porsche.cs.rpi.edu>
+To: colers@prl.philips.co.uk
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Richard Cole's message of Thu, 12 Sep 91 08:01:45 BST <3820.9109120701@prsun5h.prl.philips.co.uk>
+Subject: CO meters and early 911 tuning
+
+
+   I was wondering whether this gadget will do the job.  
+
+I don't knwo about the specific product you mentioned, but a CO meter
+is useful for diagnosing many problems and tuning.  Especially if you
+DON'T do it a lot.
+
+     A related point - is the w/shop manual the only place where I can 
+   find info on setting up the mechanical fuel injection (I am on the
+   waiting list for the PCGB copy but I reccon I won't see it before
+   Christmas :-( ).  In fact does this manual give any tuning info at all ? 
+   (I would be grateful for any advice, hints etc  on the tuning
+   issue). 
+
+The problem with the Bosch MFI is that the adjustments need to be made
+under load, and around 2000 RPM.  This basically means while you're
+driving.  The manual has a picture of the CO sensor in the exhaust
+with the wire taped to the car so the readout is in the cockpit while
+you are driving.
+
+     Lastly, while I'm at it, does anyone know when CO meters etc became  
+   part of the tuner's armoury ? Would they have been used in 1972 when my
+   car was new and if not how did they do the set up ? 
+
+CO meters have been around for a long time, before 1970 certainly.
+Most mecahincs will use them until they can feel the difference.  When
+the engine isn't running to rich or lean it is much smoother, and
+makes a slightly different sound.  Once you have done it a few times,
+you don't need the CO tester anymore.  That's why I said above it's
+good if you don't do it much.
+
+TO adjust the MFI you need the three special tools (stoddard and
+performance products sells them, I think).  Basically, you adjust the
+idle mixture until it feels smoothest (or if you have to CO tester
+until the reading is correct).  Then drive the car.  When at OT, go to
+2cnd or 3rd gear (it says in the factory manual) and 2000RPM and try
+to accelerate.  Then stop the car (and engine) and adjust the mixture
+lean.  Get back and drive, see if it feels better or worse.  If worse,
+adjust it richer, if better, adjust it leaner.  Keep going until you
+can't improve it.  Once you have the runnign mixture right, you have
+to go back and redo the idle mizture.  Then the running mixture, again
+and again until they are both as good as they can be.  It takes about
+a day if it's your first time, after that it gets a little easier,
+like a few hours.  It also goes a little faster with the CO meter
+since you will always know if you are too lean or too rich, but
+hooking it up to work whiel the car is driving is a pain.  I've
+found the MFI run nicer when adjusted slightly richer than the manual
+says.  Also, there is a supplement to the service manual for the Bosch
+MFI.  It's out of print, but most Porsche shops have it and might let
+you borrow it to photocopy.
+
+When this system is running right, it blows away most other FI systems
+and carbs, because the fuel is delivered at 90psi which is almost
+double conventional EFI systems and orders of magnitude higher than
+carbs.  The high pressure means excellent atomization of the fuel, and
+a MUCH more efficient burn, almost like having twin plugs. They are
+also a lot more reliable than the CIS or motronic, since it is
+entirely mechanical and few things break.  Once it goes out of
+adjustment, though, it's a real big pain to adjust properly.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Thu Sep 12 12:03:44 1991
+Received: by karazm.math.uh.edu id <AA23563@karazm.math.uh.edu>; Thu, 12 Sep 91 12:03:45 CDT
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA23507@karazm.math.uh.edu>; Thu, 12 Sep 91 11:55:30 CDT
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA25114; Thu, 12 Sep 91 12:48:51 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA02851; Thu, 12 Sep 91 12:48:50 EDT
+Date: Thu, 12 Sep 91 12:48:50 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109121648.AA02851@porsche.cs.rpi.edu>
+To: kevinh@hasler.ascom.ch
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: kevinh's message of Wed, 11 Sep 91 09:44:36 +0200 <9109110744.AA08478@libra.hasler.ascom.ch>
+Subject:  early 911 questions
+
+
+
+   Why?, the `78 SC has 180 bhp (european (RoW?) figure, maybe more
+   than California?) and the 2 litre 911S had 160 bhp, 20 bhp more?
+
+I'll have to look it up, but the older cars (pre 72) were listed by
+porsche as BHP, and the newer ones (73 and after) were listed as SAE
+net.  Or maybe that's backwards.  Anyway, I don't remember the
+difference, but one was higher than the other for the same actual
+power, I seem to recall hearing that most listing were inaccurate
+about HP comparisons between the older and newr cars.
+
+   I agree about getting it because it's a classic, but the
+   I performance of the earlier cars was comparatively higher than
+   I that of the late `70's cars. I think what you mean to say is that
+   I the later cars get their (slightly greater)performance easier and
+   I more comfortably (and less interestingly?).
+
+Well, from track experience, the SCs do get about .5-1 second at LRP with
+comparable drivers over the old S (73 and earlier).  Exactly what
+causes this I don't knwo.  It coudl better brakes, and gearing but
+I dont' remember all the ratios offhand.  I agree the older, lighter,
+cars *feel* faster, and certainly look a lot better.
+
+   Incidently,I was quite dissapointed with the 911 SC, having driven
+   it directly after a new 944S2 which I thought was fantastic, press
+   the Go pedal and wow!  The 911 SC had to be really worked unlike my
+   2.4, which fluffs a bit at low revs and then bang, were off. Having
+   said that i'd exchange it for an SC if I could, simply because of
+   the bombproof engine and the fact it will not rust!
+
+Maybe tehre was something wrong with your SC.  The one's I've had and
+driven were perhaps the most driveable cars I've ever been in,
+excepting only the fact that double clutching was necessary to upshift
+to second gear.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Thu Sep 12 21:23:44 1991
+Received: by karazm.math.uh.edu id <AA27655@karazm.math.uh.edu>; Thu, 12 Sep 91 21:23:45 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA27604@karazm.math.uh.edu>; Thu, 12 Sep 91 21:15:00 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id al28652;
+          12 Sep 91 22:01 EDT
+Date: Fri, 13 Sep 91 02:01 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Milo Dorr <dorr@hyperion.llnl.gov>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Cylinder head torque values for 944.
+Message-Id: <51910913020115/0004056890NA3EM@mcimail.com>
+
+Milo -
+
+My info comes from page 15-10a of the workshop manual, which was part of
+supplement 17 and issues sometime in 1988.  A lot of the pages in that
+supplement were devoted to converting over to the angle-torque method.  However,
+as my previous piece noted, the conventional force-torque method is still
+recommended for older cars.  No idea why.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Thu Sep 12 22:53:45 1991
+Received: by karazm.math.uh.edu id <AA27820@karazm.math.uh.edu>; Thu, 12 Sep 91 22:53:45 CDT
+Received: from Menudo.UH.EDU by karazm.math.uh.edu id <AA27810@karazm.math.uh.edu>; Thu, 12 Sep 91 22:51:48 CDT
+Received: from Sugar.HackerCorp.COM by Menudo.UH.EDU with UUCP id AA28938
+  (5.65c+/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Thu, 12 Sep 1991 22:48:32 -0500
+Received: by sugar.neosoft.com (smail2.5)
+	id AA26930; 12 Sep 91 19:06:14 CDT (Thu)
+Received: from ncrcom.DaytonOH.NCR.COM by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA17662; Thu, 12 Sep 91 19:06:02 -0400
+Received: from ncrlnk by ncrcom.DaytonOH.NCR.COM id aa20621; 12 Sep 91 19:04 EDT
+Received:  by ncrlnk (5.61/25-eef)
+	id AA09424; Thu, 12 Sep 91 22:59:43 GMT
+Message-Id: <9109122259.AA09424@ncrlnk>
+Received: by ncrlnk.DaytonOH.NCR.COM; 12 Sep 91 18:59:33 EDT
+Subject: 1984 944 oxygen sensor
+To: porschephile <porschephiles@karazm.math.uh.EDU>
+Date: Thu, 12 Sep 91 15:24:36 PDT
+From: Karl Held <karl@ncrspks.sparksnv.ncr.com>
+Return-Receipt-To: Karl.Held@sparksnv.ncr.com
+X-Mailer: ELM [version 2.3 PL8]
+
+Greetings:
+	Has anyone sucessfully replaced the factory oxygen sensor with another
+	brand/type (ie one not so outrageously expensive) on a 1984 944 ? This
+	is a California-smogged vehicle, which uses a different type of sensor 
+	-- and therefore is even more expensive :-( -- than the standard 944.
+	Someone once mentioned using a VW or Audi sensor.
+	Since Ijust requested to be added to this mailing list, I may or may not        receive any responses through the list, so please forward any responses
+	to me directly for this initial posting.
+		Thanks-
+-- 
+Karl Held - N7ITN  SPARKS F.E.S.C. ISS  \
+405 Edison Way, Reno, Nevada 89502 USA  ) \
+Voice: 702-786-1832  FAX: 702-786-6473  )___\  
+MAILplus:   Karl.Held@SparksNv.NCR.COM  .------
+
+From porschephiles-request@karazm.math.uh.edu  Fri Sep 13 03:23:46 1991
+Received: by karazm.math.uh.edu id <AA28443@karazm.math.uh.edu>; Fri, 13 Sep 91 03:23:46 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA28438@karazm.math.uh.edu>; Fri, 13 Sep 91 03:15:39 CDT
+Received: by mcsun.EU.net; Fri, 13 Sep 1991 10:12:21 +0200; via EUnet; id AA26007 (5.65a/CWI-2.109); 
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA00404; Fri, 13 Sep 1991 10:06:19 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA10599; Fri, 13 Sep 91 09:48:54 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA11626; Fri, 13 Sep 91 09:48:52 +0200
+Date: Fri, 13 Sep 91 09:48:52 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109130748.AA11626@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  early 911 questions
+
+
+	   Why?, the `78 SC has 180 bhp (european (RoW?) figure, maybe more
+	   than California?) and the 2 litre 911S had 160 bhp, 20 bhp more?
+
+	I'll have to look it up, but the older cars (pre 72) were listed by
+	porsche as BHP, and the newer ones (73 and after) were listed as SAE
+	net.  Or maybe that's backwards.  Anyway, I don't remember the
+	difference, but one was higher than the other for the same actual
+	power, I seem to recall hearing that most listing were inaccurate
+	about HP comparisons between the older and newr cars.
+
+
+The SAE is the older figure, but I was not using SAE but DIN figures, therefore the comparison should stand.
+
+	   I agree about getting it because it's a classic, but the
+	   I performance of the earlier cars was comparatively higher than
+	   I that of the late `70's cars. I think what you mean to say is that
+	   I the later cars get their (slightly greater)performance easier and
+	   I more comfortably (and less interestingly?).
+
+	Well, from track experience, the SCs do get about .5-1 second at LRP with
+	comparable drivers over the old S (73 and earlier).  Exactly what
+	causes this I don't knwo.  It coudl better brakes, and gearing but
+	I dont' remember all the ratios offhand.  I agree the older, lighter,
+	cars *feel* faster, and certainly look a lot better.
+
+
+Yes, I suppose, thinking about it, that the SC have higher torque values (the REAL power rating) so they should have a bit more oomph!
+
+
+	   Incidently,I was quite dissapointed with the 911 SC, having driven
+	   it directly after a new 944S2 which I thought was fantastic, press
+	   the Go pedal and wow!  The 911 SC had to be really worked unlike my
+	   2.4, which fluffs a bit at low revs and then bang, were off. Having
+	   said that i'd exchange it for an SC if I could, simply because of
+	   the bombproof engine and the fact it will not rust!
+
+	Maybe tehre was something wrong with your SC.  The one's I've had and
+	driven were perhaps the most driveable cars I've ever been in,
+	excepting only the fact that double clutching was necessary to upshift
+	to second gear.
+
+The car was absolutely perfect, i'm still kicking myself for not buying it!! The reason I was dissapointed was the gearchange (worse than my `73!), in that it was not so precise(defined) and the gate seemed wide (maybe my memory is fading now!) and also because it had no guts at lowish revs. My `73 is the same but at least it gets  more exciting thereafter. It's probably the "feeling" of going fast!!
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Fri Sep 13 05:03:45 1991
+Received: by karazm.math.uh.edu id <AA28596@karazm.math.uh.edu>; Fri, 13 Sep 91 05:03:45 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA28537@karazm.math.uh.edu>; Fri, 13 Sep 91 04:59:19 CDT
+Received: by mcsun.EU.net; Fri, 13 Sep 1991 11:55:57 +0200; from kestrel.ukc.ac.uk with SMTP; id AA03481 (5.65a/CWI-2.109); 
+Message-Id: <9109130955.AA03481@mcsun.EU.net>
+Received: from axion.bt.co.uk by kestrel.Ukc.AC.UK   via PSS (UKC CAMEL FTP)
+           id aa15296; 13 Sep 91 10:27 BST
+Received: from bt-web.bt.co.uk by zaphod.axion.bt.co.uk 
+          via DECnet inbound channel id <20433-0@zaphod.axion.bt.co.uk>;
+          Fri, 13 Sep 1991 10:24:39 +0100
+X-Vms-To: R11F::KARAZM.MATH.UH.EDU::PORSCHEPHILES
+To: porschephiles@karazm.math.uh.edu
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Coolant and cylinder head torqueing
+Date: Fri, 13 Sep 1991 10:24:39 +0100
+
+From:	NAME: Philip Katz           [DFF54 ]
+	FUNC: DFF54                           
+	TEL: 0473-645672                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	In response to those who were surprised at the advice about
+re-torquing cylinder head bolts before replacing coolant on my 944,
+the following comes from my 1990 dated Haynes manual (ISBN 1 85010
+657 6), Chapter 3 ("Cooling, heating and air conditioning systems"),
+Section 2 ("Antifreeze - general information"), Page 93 :
+
+			BEGIN QUOTE
+
+	"Before adding antifreeze to the system, check all hose connections
+and retorque the cylinder head nuts, because antifreeze tends to
+search out and leak through very minute openings."
+
+			END QUOTE
+
+	Hence my initial question - I had my antifreeze replaced as part of
+the 48k service a couple of weeks ago and now seem to have a coolant
+leak from the head gasket. The garage which did the service has just
+gone out of business :-(
+
+	I have had varying advice, but Kevin suggested that I really should
+get the head gasket replaced, as I could be storing up trouble for
+the future by just retorquing the bolts. Now I have to decide
+whether I have enough confidence to do this myself.
+
+Philip
+
+From porschephiles-request Mon Sep 16 15:26:41 1991
+Received: by karazm.math.UH.EDU id AA14396
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 16 Sep 1991 06:44:27 -0500
+Received: from mcsun.EU.net by karazm.math.UH.EDU with SMTP id AA14392
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 16 Sep 1991 06:44:21 -0500
+Received: by mcsun.EU.net; Mon, 16 Sep 1991 13:41:01 +0200; via EUnet; id AA08024 (5.65a/CWI-2.109); 
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA08223; Mon, 16 Sep 1991 13:36:17 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA05541; Mon, 16 Sep 91 13:26:43 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA13891; Mon, 16 Sep 91 13:26:41 +0200
+Date: Mon, 16 Sep 91 13:26:41 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109161126.AA13891@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Turn indicator questions
+
+Hi Folks, time for another stupid question or two, concerning my turn indicators on my '73 911. 
+
+Having replaced the relay recently I have only just noticed that, for example, when I turn left that the left (arrow shaped) light blinks momentarily, and then both the left AND right (arrow shaped) lights blink in unison. Is this normal.
+
+Also the indicator stalk seems a bit hesitant to stay down(turning left) and normally requires two or three attempts to make it stay there. Can this be adjusted/fixed/improved in any way?? It cancels correctly after the turn!
+
+Is there anybody else on this list who lives/has lived in Switzerland, as I would like to ask some questions specifically about the Swiss vehicle test? for example - will it fail the test if the turn indicator is a bit hesistant to stay clicked into the turn position?
+
+Does anybody also know if the `73 RS Carrera had a fibreglass front spoiler, my Porsche dealer says that I can order this part in fibreglass (at extortionate cost!!) and that it is the correct material!
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request Mon Sep 16 05:02:54 1991
+Received: by karazm.math.UH.EDU id AA14514
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 16 Sep 1991 07:57:24 -0500
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.UH.EDU with SMTP id AA14510
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 16 Sep 1991 07:57:22 -0500
+Received: by aixservr.egr.duke.edu (5.61-AIX-1.2/1.0)
+	id AA1103189 (for porschephiles@karazm.math.uh.edu, from js/js@aixservr.egr.duke.edu); Mon, 16 Sep 91 09:02:54 -0400
+Date: Mon, 16 Sep 91 09:02:54 -0400
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9109161302.AA1103189@aixservr.egr.duke.edu>
+To: kevinh@hasler.ascom.CH, porschephiles@karazm.math.uh.edu
+Subject: Re:  Turn indicator questions
+
+  Both my old 914 and my current 911 have the "double blinker" turn-signal
+effect.  This is only on the gauge indicators, not on the actual turn-signals,
+so it isn't a safety problem or anything.
+
+  Apparently the blinker circuit requires a certain amount of drain from the
+flasher bulbs (external) to make the gauge blinker work properly - I had a
+turn signal bulb with the blinker portion the same wattage as the parking light
+portion, and the gauge indicator worked fine.  However, the bulb soon burned
+out (leaky turn signal housing seal) and I replaced it with a "standard" turn
+signal bulb, where the blinker part is half the wattage of the parking part.
+The gauge indicator behavior went back to doing its same old trick.  Apparently
+this is an age related problem with the flasher unit, which is pretty pricey
+if I recall correctly.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request Mon Sep 16 05:10:41 1991
+Received: by karazm.math.UH.EDU id AA14601
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 16 Sep 1991 08:17:33 -0500
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA14597
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 16 Sep 1991 08:17:30 -0500
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA20829; Mon, 16 Sep 91 09:10:42 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA03794; Mon, 16 Sep 91 09:10:41 EDT
+Date: Mon, 16 Sep 91 09:10:41 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109161310.AA03794@porsche.cs.rpi.edu>
+To: kevinh@hasler.ascom.ch
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: kevinh's message of Mon, 16 Sep 91 13:26:41 +0200 <9109161126.AA13891@libra.hasler.ascom.ch>
+Subject: Turn indicator questions
+
+
+Sounds like the signal unit on the steering column needs to be
+replaced.  These devicces wear out after a while, and they're sort of
+expensive... 
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Mon Sep 16 12:23:15 1991
+Received: by karazm.math.UH.EDU id AA18718
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 16 Sep 1991 19:27:02 -0500
+Received: from longs.LANCE.ColoState.Edu by karazm.math.UH.EDU with SMTP id AA18714
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 16 Sep 1991 19:27:00 -0500
+Received: from mears.LANCE.ColoState.Edu by longs.LANCE.ColoState.Edu (5.64/1.1)
+	id AA26380; Mon, 16 Sep 91 18:23:22 -0600
+Message-Id: <9109170023.AA26380@longs.LANCE.ColoState.Edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 
+From: cj414491@longs.LANCE.ColoState.Edu
+Date: Mon, 16 Sep 91 18:23:15 -0600
+Sender: cj414491@longs.LANCE.ColoState.Edu
+X-Mts: smtp
+
+Please include me in the Porsche list!
+
+Thanks						Corey
+
+
+From porschephiles-request Tue Sep 17 03:59:09 1991
+Received: by karazm.math.UH.EDU id AA22009
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 17 Sep 1991 07:02:34 -0500
+Received: from nelson.tx.ncsu.edu by karazm.math.UH.EDU with SMTP id AA22005
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 17 Sep 1991 07:02:31 -0500
+Received: by nelson.tx.ncsu.edu (5.65b/SAM 07-20-90 10:07:54)
+	id AA04224; Tue, 17 Sep 91 07:59:10 -0400
+From: cpastore@unity.ncsu.edu
+Posted-Date: Tue, 17 Sep 91 7:59:09 EDT
+Message-Id: <9109171159.AA04224@nelson.tx.ncsu.edu>
+Subject: remove me, please
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 17 Sep 91 7:59:09 EDT
+X-Mailer: ELM [version 2.3 PL8]
+
+Please remove me from this list.
+
+Thank you
+
+cpastore@nelson.tx.ncsu.edu
+Chris Pastore
+
+
+From porschephiles-request Tue Sep 17 02:29:21 1991
+Received: by karazm.math.UH.EDU id AA23499
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 17 Sep 1991 11:34:01 -0500
+Received: from gatekeeper.oracle.com by karazm.math.UH.EDU with SMTP id AA23494
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 17 Sep 1991 11:33:45 -0500
+Received:  from hqpyr1.us.oracle.com by gatekeeper.oracle.com (5.59.11/37.6)
+	id AA22769; Tue, 17 Sep 91 09:30:17 PDT
+Received:  by hqpyr1.us.oracle.com (5.59.11/37.7)
+	id AA08484; Tue, 17 Sep 91 09:29:21 PDT
+Message-Id: <9109171629.AA08484@hqpyr1.us.oracle.com>
+Date: Tue, 17 Sep 91 09:29:21 PDT
+From: "MCATLIN" <MCATLIN@us.oracle.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: please remove my userid from your list
+Original-To: hqpyr1:porschephiles@karazm.math.uh.edu
+
+
+I've enjoyed the mail notes immensely, thank you]  But I am going back
+to grad school and have to give up *both* my userid and my Porsche.
+Not for long, I hope]
+ 
+thanks again,
+Mary Catlin
+ 
+mcatlin@us.oracle.com
+
+
+From porschephiles-request Wed Sep 18 01:28:00 1991
+Received: by karazm.math.UH.EDU id AA27610
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 17 Sep 1991 20:45:31 -0500
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA27606
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 17 Sep 1991 20:45:28 -0500
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ag26807;
+          17 Sep 91 21:33 EDT
+Date: Wed, 18 Sep 91 01:28 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Help!  944S timing belt
+Message-Id: <54910918012845/0004056890NA4EM@mcimail.com>
+
+It couldn't have happened to a nicer guy.  At the Zone 1 Autocross, my timing
+belt broke.  My '87 944S is currently parked in front of Don Coburn's house in
+Seaford, Long Island.  Two good things:  One, despite all, I won my class.  I
+got my clock utterly cleaned Saturday, but the gentleman failed to show on
+Sunday.  Two, I got to ride home to  in Jerry Pellegrino's Pink Car, which some
+of you may have seen at the Parade.  (In fact, if you attended the Parade, you
+are almost certain to have noticed it!)
+
+It shouldn't have happened.  The belt was replaced with the correct part at
+11,000 miles, per a recall on it.  It got retensioned in Oct 89 with a new water
+pump, at 23,000 miles.  And it got retensioned a few months ago at 33,000 miles.
+Now, at 37,000, it's deceased, along with at least several valves.  So, we have
+a 26,000 mile-old part which Porsche says replace at 45,000 miles (or never, if
+you read the MY 87-88 service tech bulletin) and retension every 15,000 or
+30,000 miles (again depending on what you read).  The belt seems to be in good
+condition except where damaged, and despite the stripped teeth around the
+crankshaft sprocket it has good tension.
+
+So the question is, have any of you had a similar failure in a 16-valver?  Know
+anyone who has?  I would like to PCNA foot the bill as much as possible.  I'm
+not out to rant and rave at the dealer or PCNA, and I am pretty sure they will
+help me out to some extent.  It would help me, when talking to them, to know
+whether other owners have had similar failures.
+
+Thanks in advance...
+
+Kevin
+
+From porschephiles-request Wed Sep 18 05:15:38 1991
+Received: by karazm.math.UH.EDU id AA28959
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 18 Sep 1991 08:22:39 -0500
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA28955
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 18 Sep 1991 08:22:37 -0500
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA18278; Wed, 18 Sep 91 09:15:44 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA04393; Wed, 18 Sep 91 09:15:38 EDT
+Date: Wed, 18 Sep 91 09:15:38 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109181315.AA04393@porsche.cs.rpi.edu>
+To: 0004056890@mcimail.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: "Kevin C. Gross"'s message of Wed, 18 Sep 91 01:28 GMT <54910918012845/0004056890NA4EM@mcimail.com>
+Subject: Help!  944S timing belt
+
+
+I don't read the 944 tech bulletins from Porsche, but a guy I know had
+his 35Kmi timing belt go at Bridgehampton two years ago.  He went to
+the dealer about it, and they would not absorb the cost, telling him
+that although the factory recommends replacement after 45K miles, that
+figure is for street driven cars.  If you track your car, they
+recommend it be changed at least every 30K miles, and if you are
+"aggressive", at 25K miles.  That's what he told me they told him, and
+he says they wouldn't budge.  He was too fed up to follow it up with
+PCNA, so I don't know how much of this is the BS of the particular
+dealer he went to.
+
+In our region we've been telling people to change the 944 timing belt
+every 30K, whether or not they track it, and all the people who did it
+found chips or partially missing teeth in the belt.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Wed Sep 18 08:14:16 1991
+Received: by karazm.math.UH.EDU id AA02171
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 18 Sep 1991 17:19:04 -0500
+Received: from relay.hp.com by karazm.math.UH.EDU with SMTP id AA02167
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 18 Sep 1991 17:18:37 -0500
+Received: from hpcuhc.cup.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA19389; Wed, 18 Sep 91 15:15:13 -0700
+Received: by hpcuhc.cup.hp.com
+	(15.11/15.5+IOS 3.20+cup+OMrelay) id AA22447; Wed, 18 Sep 91 15:14:16 pdt
+Date: Wed, 18 Sep 91 15:14:16 pdt
+From: Mike Zampiceni <mikezee@hpcuhc.cup.hp.com>
+Message-Id: <9109182214.AA22447@hpcuhc.cup.hp.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Porsche List
+
+Please put my name on your subscription list for Porschephiles. I've had
+a few and might be able to help others as well as get others to answer 
+some of my questions. Thank you...
+
+From porschephiles-request Mon Sep 23 00:58:00 1991
+Received: by karazm.math.UH.EDU id AA20932
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 22 Sep 1991 20:12:52 -0500
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA20928
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sun, 22 Sep 1991 20:12:51 -0500
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab04536;
+          22 Sep 91 21:00 EDT
+Date: Mon, 23 Sep 91 00:58 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: autox <autox@hoosier.utah.edu>
+To: Rocky Entriken <0003006623@mcimail.com>
+To: Wheel-to-wheel <wheeltowheel@abingdon.eng.sun.com>
+Subject: Plexiglass / Lexan fabrication
+Message-Id: <45910923005854/0004056890NA3EM@mcimail.com>
+
+Folks -
+
+A friend recently lost a plexiglass (or lexan or whatever) window off a very
+rare race car.  It, alas, blew off and broke into a couple of pieces in local
+competition.  The factory has been no help, since the car is long out of
+production.  He would like to replace it, and we're looking for someone who can
+fabricate such a piece.  He also would like to replace one of the headlamp
+covers, same material and slightly cracked.
+
+Any ideas who or where to look?  This is a gorgeous car, and I owe the guy a
+huge favour - he trailered my disabled car back from Long Island to Mass., round
+trip, today!  Thanks greatly.
+
+Kevin Gross
+kcgross@mcimail.com
+
+From stan Sun Sep 22 16:58:13 1991
+Received: by karazm.math.UH.EDU id AA21815
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 22 Sep 1991 21:58:14 -0500
+Received: by karazm.math.UH.EDU id AA21811
+  (5.65c/IDA-1.4.4 for porschephiles@karazm.math.uh.edu); Sun, 22 Sep 1991 21:58:13 -0500
+Date: Sun, 22 Sep 1991 21:58:13 -0500
+From: "\"Stan Hanks (bcm)\"" <stan>
+Message-Id: <199109230258.AA21811@karazm.math.UH.EDU>
+To: porschephiles@karazm.math.uh.edu
+Subject: I'm back....
+
+And a long strange trip it's been. Driving in the UK is
+so strange -- and they don't seem to enforce the speedlimits
+on the motorways (equiv. to US Interstates)!!! But, I only saw 3 911s,
+a dozen or so 944s, and about the same in 924s. No 914s, no 356s.
+And that's in London, Birmingham, Warwick, Oxford, and about a week tooling 
+about the country.
+
+I did visit a dealership, and now have some good contacts for getting
+those hard-to-find Euro model parts, in case anyone else needs some
+help  with that.
+
+I am  just starting to go through the back Porschephiles mail and requests.
+Be patient if there's something I should be looking at....
+
+Stan
+
+
+From porschephiles-request Mon Sep 23 06:38:45 1991
+Received: by karazm.math.UH.EDU id AA23708
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 23 Sep 1991 09:49:41 -0500
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA23704
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 23 Sep 1991 09:49:03 -0500
+Received: from encore.encore.COM by bcm.tmc.edu (AA10579); Mon, 23 Sep 91 09:45:30 -0500
+Received: from gould.encore.COM by encore.encore.COM with SMTP
+	  id AA10075 (5.64/UK-2.1-910826); Mon, 23 Sep 91 10:41:42 -0400
+Received: by gould.encore.com id AA05696 (5.54/UK-2.1-910920);
+	  Mon, 23 Sep 91 10:38:53 EDT
+Received: by infocenter.encore.com id AA07445 (5.52/UK-2.1-910806);
+	  Mon, 23 Sep 91 10:38:46 EDT
+Message-Id: <7445.9109231438@infocenter.encore.com>
+From: dquara@encore.com (Doug Quara)
+Date: Mon, 23 Sep 1991 10:38:45 EDT
+Department: Information Systems
+Organization: Encore Computer Corporation
+X-Mailer: Mail User's Shell (7.2.0 10/25/90)
+To: mustangs@hpda.cup.hp.com, autox@hoosier.utah.edu,
+        british-cars@hoosier.utah.edu, italian-cars@sol.crd.ge.com,
+        mazda-list@ms.uky.edu, porschephiles@bcm.tmc.edu, saab@dartmouth.edu,
+        wheeltowheel@abingdon.sun.com, volvo-net@me.rochester.edu (Volvo List),
+        z-car@rsiatl.uucp
+Subject: Shock prices
+
+
+I have received the catalogs from Shock Warehouse.  Below are some
+examples of the suggested retail prices from the various manufacturers,
+and Team.Net (et al) prices.  Below are only selected examples.  YMMV.
+
+I also talked with Bruce about needing a list of people.  We have simplified
+this tremendously.  Anyone wanting to deal thru them should call them
+directly, but *do* make sure you speak to Bruce, and you *must* mention
+you are from Team.Net, otherwise they won't recognize us for the discounted
+prices.
+
+	Bruce McVay
+	Shock Warehouse
+	800 245-SHOX
+
+They have Bilstein, Koni, KYB, Boge and shocks, Heckethorn off-road shocks,
+Eibach suspensions, and other related items.
+
+Please note: The examples below are things I looked up via the catalogs,
+and are subject to error (I know how to read, but you know  :-).  Also,
+the prices speak nothing of the relative quality of the brands.  That's
+up to you to decide.  Bruce can help with advice as to what is best for
+you.
+
+I would prefer that you *don't* call me for prices.  I am not an expert,
+and frankly, I don't think my employer would like me spending the
+time to look up the items in the catalogs responding to e-mail.  That's
+what Bruce gets paid for.  In fact, Bruce may be able to do better on
+certain prices than I would be able to quote, so it is in your interest
+to talk to him directly.  Do mail me if you have questions about
+the Shock Warehouse, or the mechanisms for dealing with them.
+Also, reactions to the samples are welcome.
+
+The prices below are only representative samples, and may not accurately
+represent the companies offerings, nor what is actually available for
+a particular car.
+
+Examples:
+
+KONI:			Sugg			Team.Net
+'91 Mustang
+  F:			199.95 (245.95 Sport)	149.96 (184.46 Sport)
+  R:			 90.95 (106.03 Sport)	 68.21 ( 79.52 Sport)
+  Q:			105.55			 79.16
+
+'87 944
+  F:			186.95 (192.73 Sport)	140.21 (144.55 Sport)
+  R:			114.95 (120.95 Sport)    86.21 ( 90.71 Sport)
+
+'87 CRX
+  F:			139.95 (163.95 Sport)	104.96 (122.93 Sport)
+  R:			106.65 (110.11 Sport)	 79.99 ( 82.58 Sport)
+
+'86 Volvo 740
+  F:			147.35			110.51
+  R:			 89.05			 66.79
+
+
+KYB:
+'91 Mustang
+  F:			 99.10			 51.56
+  R:			 52.95			 27.71
+  Q:			  n/a
+
+'87 944
+  F:			 68.50			 35.63
+  R:			 52.95			 27.71
+
+'87 CRX
+  F:			 95.85			 49.88
+  R:			 49.90			 25.88
+
+'86 Volvo 740
+  F:			 68.50			 35.63
+  R:			 52.95			 27.71
+
+
+BILSTEIN
+'91 Mustang
+  F:			199.00			149.25
+  R:			 99.00			 74.25
+  Q:			  n/a
+
+'97 944
+  			need Porsche Part Numbers
+
+'87 CRX
+  F:			229.00			171.75
+  R:			229.00			171.75
+
+'86 Volvo 740
+  F:			  n/a
+  R:			109.00			 81.75
+
+
+BOGE
+'86 Volvo 740
+  F:			 81.65			 61.24
+  R:			 63.74			 47.80
+
+
+From porschephiles-request Mon Sep 23 04:26:15 1991
+Received: by karazm.math.UH.EDU id AA24720
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 23 Sep 1991 13:35:10 -0500
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA24716
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 23 Sep 1991 13:35:07 -0500
+Received: from Sun.COM by bcm.tmc.edu (AA01062); Mon, 23 Sep 91 13:31:35 -0500
+Received: from Corp.Sun.COM (lemay.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA22868; Mon, 23 Sep 91 11:31:33 PDT
+Received: from wineglass.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA06124; Mon, 23 Sep 91 11:31:31 PDT
+Received: by wineglass.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA02510; Mon, 23 Sep 91 11:26:15 PDT
+Date: Mon, 23 Sep 91 11:26:15 PDT
+From: Gary.Cook@Corp.Sun.COM (Gary Cook - CS Mgr - Latin America)
+Message-Id: <9109231826.AA02510@wineglass.Corp.Sun.COM>
+To: porschephiles@bcm.tmc.edu
+Subject: subscription
+
+
+
+Can someone tell me how to subscribe to this group?
+
+
+
+Gary W. Cook, C.S. Mgr, Latin America / Caribbean * Sun Microsystems, Inc.
+2550 Garcia Ave.  MS MPK2-1		Mountain View, Ca  94303-1100
+Tel: 415-688-9371			Fax: 415-688-9477 
+Compuserve: 73567,2774			Email: gwcook@Sun.COM
+
+From stan Mon Sep 23 16:20:37 1991
+Received: by karazm.math.UH.EDU id AA28685
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 23 Sep 1991 21:20:47 -0500
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA28681
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 23 Sep 1991 21:20:46 -0500
+Received: from Menudo.UH.EDU by bcm.tmc.edu (AA09921); Mon, 23 Sep 91 21:17:16 -0500
+Received: from Karazm.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA18869
+  (5.65c+/IDA-1.4.4 for <porschephiles@bcm.tmc.edu>); Mon, 23 Sep 1991 21:17:11 -0500
+Received: by karazm.math.UH.EDU id AA28668
+  (5.65c/IDA-1.4.4); Mon, 23 Sep 1991 21:20:37 -0500
+Date: Mon, 23 Sep 1991 21:20:37 -0500
+From: "\"Stan Hanks (bcm)\"" <stan>
+Message-Id: <199109240220.AA28668@karazm.math.UH.EDU>
+To: Gary.Cook@corp.sun.com, porschephiles@bcm.tmc.edu
+Subject: Re:  subscription
+
+You learn about net.etiquette first. Always send request to be 
+added to or dropped from  a group to <groupname>-request@<grouphost>.
+
+In this case, mail *REQUESTS* to "porschephiles-request@karazm.math.uh.edu"
+and *TRAFFIC* to "porschephiles@karazm.math.uh.edu".
+
+Stan Hanks
+Moderator
+
+From porschephiles-request Wed Sep 25 18:08:47 1991
+Received: by karazm.math.UH.EDU id AA09183
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 09:45:57 -0500
+Received: from mcsun.EU.net by karazm.math.UH.EDU with SMTP id AA09177
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 25 Sep 1991 09:45:53 -0500
+Received: by mcsun.EU.net via EUnet;
+	id AA26358 (5.65a/CWI-2.112); Wed, 25 Sep 1991 16:42:20 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA08082; Wed, 25 Sep 1991 16:36:21 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA25447; Wed, 25 Sep 91 16:08:48 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA27699; Wed, 25 Sep 91 16:08:47 +0200
+Date: Wed, 25 Sep 91 16:08:47 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109251408.AA27699@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  I'm back....
+
+
+	And a long strange trip it's been. Driving in the UK is
+	so strange -- and they don't seem to enforce the speedlimits
+	on the motorways (equiv. to US Interstates)!!!
+
+
+Yes they do, I had a nice big fine a few years ago to prove it. Maybe they just don't use it for revenue purposes. Average speeds in the fast lane on the M1 amd M6 are 80-90MPH (assuming the traffic is moving!!) and the speed limit is 70 MPH. If you are caught at over 100MPH then you will probably loose your license for a while.
+
+
+
+        But, I only saw 3 911s,
+	a dozen or so 944s, and about the same in 924s. No 914s, no 356s.
+	And that's in London, Birmingham, Warwick, Oxford, and about a week tooling 
+	about the country.
+
+
+911's are fairly rare in the UK, 924's and 944's are seen fairly regularly depending on what part of the country you are in - mainly London, South east and North West. 914's were not imported to the UK, no RHD were made I believe. 356`s are rare, i've never seen one in the UK!
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request Wed Sep 25 06:21:14 1991
+Received: by karazm.math.UH.EDU id AA09247
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 09:55:07 -0500
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA09243
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 25 Sep 1991 09:55:02 -0500
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA03825; Wed, 25 Sep 91 10:21:14 -0400
+Date: Wed, 25 Sep 91 10:21:14 -0400
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9109251421.AA03825@prism.gatech.edu>
+To: stan@karazm.math.UH.EDU
+In-Reply-To: "\"Stan Hanks (bcm)\""'s message of Sun, 22 Sep 1991 21:58:13 -0500 <199109230258.AA21811@karazm.math.UH.EDU>
+Subject: I'm back....
+Cc: porschephiles@karazm.math.uh.edu
+
+I recently bought a 914 2.0L from a brit who was on his way back to the
+UK - he claimed that there are only a handful of 914's in GB...
+
+Steve
+
+From porschephiles-request Wed Sep 25 01:21:57 1991
+Received: by karazm.math.UH.EDU id AA09367
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 10:25:46 -0500
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA09363
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 25 Sep 1991 10:25:44 -0500
+Received: from Eng.Sun.COM (zigzag-bb.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA18457; Wed, 25 Sep 91 08:22:13 PDT
+Received: from fez.Eng.Sun.COM by Eng.Sun.COM (4.1/SMI-4.1)
+	id AA21974; Wed, 25 Sep 91 08:22:07 PDT
+Received: by fez.Eng.Sun.COM (4.1/SMI-4.1)
+	id AA01812; Wed, 25 Sep 91 08:21:57 PDT
+Date: Wed, 25 Sep 91 08:21:57 PDT
+From: Ben.Dubin@Eng.Sun.COM (ben dubin)
+Message-Id: <9109251521.AA01812@fez.Eng.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: Porsche Parts: Mail order and Used?
+Cc: Ben.Dubin@Eng.Sun.COM
+
+
+Two questions,
+
+I have a 73 911T and have been looking around for a good mail order
+parts place.  I have seen Automotion's and Performance's.  While
+their catalogs are very nice and complete, there prices are nothing
+to write home about.  Is there a low price mail order place, one
+that perhaps sells factory parts too?  If they have a catalog great
+if not that is okay.  Any real life experience dealing with them would
+be very helpful.
+
+Also, does anybody know of a good used parts shop.  The guy I purchased
+my 911 from put one of those Mitcom update rear ends on the car (I 
+can't stand it!).  I would like the original tail pieces.  If anyone
+out there has some or all of the parts or knows of a good Porsche
+wrecker please let me know.
+
+Please post all responses.
+
+Many thanks,
+
+Ben Dubin
+
+From porschephiles-request Wed Sep 25 04:34:41 1991
+Received: by karazm.math.UH.EDU id AA01142
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 13:43:07 -0500
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA01138
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Wed, 25 Sep 1991 13:43:00 -0500
+Received: from Corp.Sun.COM (lemay.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA00216; Wed, 25 Sep 91 11:39:29 PDT
+Received: from northbeach.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA16761; Wed, 25 Sep 91 11:39:27 PDT
+Received: by northbeach.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA01904; Wed, 25 Sep 91 11:34:41 PDT
+Date: Wed, 25 Sep 91 11:34:41 PDT
+From: Volney.Spalding@Corp.Sun.COM (Volney Spalding)
+Message-Id: <9109251834.AA01904@northbeach.Corp.Sun.COM>
+To: porschephiles@karazm.math.UH.EDU
+Subject: Re:  Welcome to the List
+
+Hi,
+
+I am new to the list so I hope not to offend any .etiquette norms ;^)
+
+I am a guy who has known for 10 years that I will someday
+own a 911--even though I have never driven or even ridden
+in one... 
+
+My assumption is that for around 10k I can by a late 60's
+early 70's 911 in fair shape--more or less stock.  I know that 
+there are a lot of 912's out there but my sense is that the 
+4 cylinder motor is just not going to cut it for me.  Not that I
+am going to be driving all that fast.  My wife has a 5.0
+Mustang and I don't think I've ever been over 85 mph.  It's not 
+top speed that matters, it's quickness and whether or not you
+can cruise at 75-80 without feeling like the engine is working
+too hard.
+
+Please help me with a sanity test.  Should I go for a 912
+and be driving a Porsche sooner?  Or should I wait until
+I can really afford a 911?  Or are my assumptions all wrong?
+What are the trade-offs and advantages to either?
+
+Your perspectives would be appreciated.
+
+Thanks,
+
+Volney Spalding
+
+Current Car: 84 GTI...at least it's German ;^)
+
+
+
+From porschephiles-request Wed Sep 25 13:01:55 1991
+Received: by karazm.math.UH.EDU id AA03121
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 16:10:54 -0500
+Received: from TWOLF6.CE.YALE.EDU by karazm.math.UH.EDU with SMTP id AA03117
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 25 Sep 1991 16:10:51 -0500
+Received: by twolf6.CE.YALE.EDU; Wed, 25 Sep 91 17:01:56 -0400
+To: Volney.Spalding@corp.sun.com (Volney Spalding)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Welcome to the List 
+In-Reply-To: Message from Volney.Spalding@corp.sun.com (Volney Spalding) 
+	     Wed, 25 Sep 91 11:34:41 -0700.
+	     <9109251834.AA01904@northbeach.Corp.Sun.COM> 
+Date: Wed, 25 Sep 91 17:01:55 EDT
+Message-Id: <23533.685832515@twolf6.CE.YALE.EDU>
+From: Dan Kasha <kasha@twolf6.CE.YALE.EDU>
+
+
+
+I can tell you lots about 912's.  I own one.  It needs restoration 
+though.  The original 912 was made from 1965 (my year) to 1968 I
+think, then the 912E came out in 1976 I think, a 911 with the 914
+engine.
+To understand the 912, the 1964 356 cost something like 3,200 bucks.
+The 65 911 cost 6,500, DOUBLE.  So to keep the change moderate, 
+they put the 356 engine in the 911 and sold them for 3700 bucks.  
+Nothing was diffenet but the engine, a slight instrument panel 
+change and the number.  So handling and the like were the same.
+100sae hp vs 140sae hp in the 911.  The 911 did 0 - 60 in 9 seconds.
+(140 hp in a 2,300 pound car).  The 912 in 11.5 seconds.  All times
+and figures are acurate to about 10%, the quality of my memory is
+a limit.  One other thing, the first year they sold 2 times as many
+912 as 911's!!!  Excellence magazine had an issue about the 912, you
+can back order it.  Also, to speed on the 912 is over 110, and I think
+125+ for the 911.  There's the difference.  The 912 is rare now only
+because they didn't sell many after the first year and also the
+911 has been in production for 25 years now.  
+Also, the 912 is basically a modified (well modified) VW beetle
+engine (1950 era beleive it or not), many parts are cheap, some 
+are outrageous (crank shaft).  Same goes for 911 engines, I've found
+that except for a few luck models all the parts are outrageous
+in those.  Any other questions, I may know the answer.
+
+
+I must flame this one.
+>Current Car: 84 GTI>...at least it's German ;^)
+There are lots of great cars in the world that are not german, don't
+put those typical blinders on, you may find yourself driving relative
+garbage someday.
+
+
+Dan Kasha
+kasha@twolf.ce.yale.edu
+(203)432-4263
+
+From porschephiles-request Wed Sep 25 09:56:58 1991
+Received: by karazm.math.UH.EDU id AA03793
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 17:00:34 -0500
+Received: from longs.LANCE.ColoState.Edu by karazm.math.UH.EDU with SMTP id AA03789
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Wed, 25 Sep 1991 17:00:32 -0500
+Received: from glacier.LANCE.ColoState.Edu by longs.LANCE.ColoState.Edu (5.64/1.1)
+	id AA11062; Wed, 25 Sep 91 15:56:59 -0600
+Message-Id: <9109252156.AA11062@longs.LANCE.ColoState.Edu>
+To: porschephiles@karazm.math.UH.EDU
+Subject: Re: Welcome to the List 
+In-Reply-To: Your message of "Wed, 25 Sep 91 11:34:41 PDT."
+             <9109251834.AA01904@northbeach.Corp.Sun.COM> 
+Date: Wed, 25 Sep 91 15:56:58 -0600
+From: cj414491@longs.LANCE.ColoState.Edu
+X-Mts: smtp
+
+
+I drove a 912 last summer.  It was a 67 (good year), and had the Weber
+replacment carbs.  My father drove it out of the lot, and out towards
+the interstate.  At the interstate, he got out and traded spots with me.
+I figured I'd just get a feel for the 0-60 time, since the road was so
+heavily travelled as to make a top-speed run out of the question 8^).
+Was I impressed?  Well, by the time I looked down at the speedo, expecting
+to see it pass 60 soon, we were already at 90!!!  Yes, the car went FAR
+quicker and FAR smoother and more effortlessly than my neighbor's 5.0
+Mustang.  No fanfare, growls, or other disgustingly phallic-like noises,
+with the windows closed, at least.  Oh, it sounded alive with the windows
+open, however.  By the way, 90 is about 5750 in second gear.  The sweet
+sound of German, air-cooled machines!  I don't know how the 912 would fare
+against the 5.0 in a drag race, but I would take the 912 any day, especially
+considering it's heritage, relative rarity, and going price.
+If you decide to look for a 912, email me for some free advice concerning
+each year's problems.  Good luck!
+
+
+
+
+From porschephiles-request Wed Sep 25 07:56:38 1991
+Received: by karazm.math.UH.EDU id AA03799
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 25 Sep 1991 17:01:32 -0500
+Received: from eagle.is.lmsc.lockheed.com by karazm.math.UH.EDU with SMTP id AA03795
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 25 Sep 1991 17:01:29 -0500
+Received: by eagle.is.lmsc.lockheed.com (5.57/Ultrix2.4-C)
+	id AA16242; Wed, 25 Sep 91 14:56:10 CDT
+Received: from titan.rdd.lmsc.lockheed.com. by laic.rdd.lmsc.lockheed.com (4.0/SMI-4.0)
+	id AA22388; Wed, 25 Sep 91 14:58:20 PDT
+Received: from gander.laic (gander.rdd.lmsc.lockheed.com) by titan.rdd.lmsc.lockheed.com.rdd.lmsc.lockheed.com (4.0/SMI-4.0)
+	id AA02521; Wed, 25 Sep 91 14:56:38 PDT
+Date: Wed, 25 Sep 91 14:56:38 PDT
+From: rmoises@titan.rdd.lmsc.lockheed.com (Roger Moises)
+Message-Id: <9109252156.AA02521@titan.rdd.lmsc.lockheed.com.rdd.lmsc.lockheed.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: Porsche Parts: Mail order and Used?
+Cc: rmoises@titan.rdd.lmsc.lockheed.com
+
+
+|>Two questions,
+|>
+|>I have a 73 911T and have been looking around for a good mail order
+|>parts place.  I have seen Automotion's and Performance's.  While
+|>their catalogs are very nice and complete, there prices are nothing
+|>to write home about.  Is there a low price mail order place, one
+|>that perhaps sells factory parts too?  If they have a catalog great
+|>if not that is okay.  Any real life experience dealing with them would
+|>be very helpful.
+|>
+|>Also, does anybody know of a good used parts shop.  The guy I purchased
+|>my 911 from put one of those Mitcom update rear ends on the car (I
+|>can't stand it!).  I would like the original tail pieces.  If anyone
+|>out there has some or all of the parts or knows of a good Porsche
+|>wrecker please let me know.
+|>
+|>Please post all responses.
+|>
+|>Many thanks,
+|>
+|>Ben Dubin
+
+   My recommendation: check-out any issue of "Excellence" magazine; they have
+many ads for Porsche parts and accessories. Their classified section can also 
+reveal some interesting items (i.e. body and engine parts). Hope this helps!
+
+Roger Moises
+
+------------------------------------------------------------------------------
+Roger T. Moises                 Voice: (408) 742-7806
+Lockheed Missles & Space Co.    e-mail: rmoises@titan.rdd.lmsc.lockheed.com
+P.O. Box 3504 1964/102
+Sunnyvale, CA 94088-3504
+
+------------------------------------------------------------------------------
+
+From porschephiles-request Thu Sep 26 12:03:08 1991
+Received: by karazm.math.UH.EDU id AA06371
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 03:19:37 -0500
+Received: from mcsun.EU.net by karazm.math.UH.EDU with SMTP id AA06367
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 03:19:31 -0500
+Received: by mcsun.EU.net via EUnet;
+	id AA14889 (5.65a/CWI-2.112); Thu, 26 Sep 1991 10:15:57 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA19589; Thu, 26 Sep 1991 10:06:24 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA05825; Thu, 26 Sep 91 10:03:09 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA28562; Thu, 26 Sep 91 10:03:08 +0200
+Date: Thu, 26 Sep 91 10:03:08 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109260803.AA28562@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  Plexiglass / Lexan fabrication
+
+
+	Folks -
+
+	A friend recently lost a plexiglass (or lexan or whatever) window off a very
+	rare race car.  It, alas, blew off and broke into a couple of pieces in local
+	competition.  The factory has been no help, since the car is long out of
+	production.  He would like to replace it, and we're looking for someone who can
+	fabricate such a piece.  He also would like to replace one of the headlamp
+	covers, same material and slightly cracked.
+
+	Any ideas who or where to look?  This is a gorgeous car, and I owe the guy a
+	huge favour - he trailered my disabled car back from Long Island to Mass., round
+	trip, today!  Thanks greatly.
+
+
+
+what car is is?
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request Thu Sep 26 11:29:43 1991
+Received: by karazm.math.UH.EDU id AA06364
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 03:17:57 -0500
+Received: from mcsun.EU.net by karazm.math.UH.EDU with SMTP id AA06360
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 03:17:50 -0500
+Received: by mcsun.EU.net via EUnet;
+	id AA14778 (5.65a/CWI-2.112); Thu, 26 Sep 1991 10:14:17 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.65c8/1.34)
+	id AA19476; Thu, 26 Sep 1991 09:41:18 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.22)
+	id AA05698; Thu, 26 Sep 91 09:29:44 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA28543; Thu, 26 Sep 91 09:29:43 +0200
+Date: Thu, 26 Sep 91 09:29:43 +0200
+From: kevinh@hasler.ascom.CH (kevinh)
+Message-Id: <9109260729.AA28543@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: Welcome to the List
+
+
+
+	I drove a 912 last summer.  It was a 67 (good year), and had the Weber
+	replacment carbs.  My father drove it out of the lot, and out towards
+	the interstate.  At the interstate, he got out and traded spots with me.
+	I figured I'd just get a feel for the 0-60 time, since the road was so
+	heavily travelled as to make a top-speed run out of the question 8^).
+	Was I impressed?  Well, by the time I looked down at the speedo, expecting
+	to see it pass 60 soon, we were already at 90!!!  Yes, the car went FAR
+	quicker and FAR smoother and more effortlessly than my neighbor's 5.0
+	Mustang.  No fanfare, growls, or other disgustingly phallic-like noises,
+	with the windows closed, at least.  Oh, it sounded alive with the windows
+	open, however.  By the way, 90 is about 5750 in second gear.  The sweet
+	sound of German, air-cooled machines!  I don't know how the 912 would fare
+	against the 5.0 in a drag race, but I would take the 912 any day, especially
+	considering it's heritage, relative rarity, and going price.
+	If you decide to look for a 912, email me for some free advice concerning
+	each year's problems.  Good luck!
+
+
+You forgot the smiley.
+
+kevinh@hasler.ascom.ch
+
+From porschephiles-request Thu Sep 26 05:44:07 1991
+Received: by karazm.math.UH.EDU id AA06907
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 08:50:33 -0500
+Received: from TWOLF6.CE.YALE.EDU by karazm.math.UH.EDU with SMTP id AA06903
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 08:50:32 -0500
+Received: by twolf6.CE.YALE.EDU; Thu, 26 Sep 91 09:44:08 -0400
+To: cj414491@longs.lance.colostate.edu
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Welcome to the List 
+In-Reply-To: Message from cj414491@longs.lance.colostate.edu 
+	     Wed, 25 Sep 91 15:56:58 -0600.
+	     <9109252156.AA11062@longs.LANCE.ColoState.Edu> 
+Date: Thu, 26 Sep 91 09:44:07 EDT
+Message-Id: <24759.685892647@twolf6.CE.YALE.EDU>
+From: Dan Kasha <kasha@twolf6.CE.YALE.EDU>
+
+
+
+>If you decide to look for a 912, email me for some free advice concerning
+>each year's problems.  Good luck!
+
+
+
+What is wrong with the 1965  (actually a 1966 model year picked up in
+1965 - a very early one) I have and plan to restore?  
+
+
+
+Dan Kasha
+kasha@twolf.ce.yale.edu
+(203)432-4263
+
+From porschephiles-request Thu Sep 26 04:54:13 1991
+Received: by karazm.math.UH.EDU id AA07677
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 11:57:52 -0500
+Received: from cs.utah.edu by karazm.math.UH.EDU with SMTP id AA07673
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 11:57:51 -0500
+Received: from velo.utah.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA06046; Thu, 26 Sep 91 10:54:17 -0600
+Received: by velo.utah.edu (5.65/utah-2.11-leaf)
+	id AA00296; Thu, 26 Sep 91 10:54:15 -0600
+Message-Id: <9109261654.AA00296@velo.utah.edu>
+From: mueller%velo@cs.utah.edu (Tim Mueller)
+To: porsche%velo@cs.utah.edu
+Subject: 911 clutch question
+Date: Thu, 26 Sep 91 10:54:13 MDT
+
+
+My '72 911 clutch is beginning to have problems. As far as I know, it is
+the original and has 122,000 miles. At first I noticed a little noise
+when first engaging (in reverse) after work each day. Sounded like a bit
+of unevenness somewhere, like maybe a little oil leaked onto the clutch
+somewhere. Now I'm getting some serious chattering (like vibrates the
+whole car sometimes) when engaging, but not all the time. This happens
+both in 1st and reverse. It seems to be worse when you need the clutch
+the most (hills, engine at say 2000 rpm when engaging). Sounds like
+something is warped. 
+
+This is probably an obvious problem to some of you. If so, is it
+something I should fix immediately, or can I live with it for a while? I
+realize replacing the clutch means pulling the engine. Other than it being 
+a lot of work, is it a particularly difficult job to do yourself? (My most
+advanced job has been replacing a cylinder head on a BMW 2002.)
+
+Thanks for any advice.
+
+Tim Mueller
+mueller@cs.utah.edu
+
+
+From porschephiles-request Thu Sep 26 09:50:32 1991
+Received: by karazm.math.UH.EDU id AA08159
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 12:45:25 -0500
+Received: from cs.utah.edu by karazm.math.UH.EDU with SMTP id AA08155
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 12:45:24 -0500
+Received: from velo.utah.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA07647; Thu, 26 Sep 91 11:41:51 -0600
+Received: from cs.utah.edu by velo.utah.edu (5.65/utah-2.11-leaf)
+	id AA00359; Thu, 26 Sep 91 11:41:47 -0600
+Received: from squid.egr.duke.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA07639; Thu, 26 Sep 91 11:41:40 -0600
+Received: by aixservr.egr.duke.edu (5.61-AIX-1.2/1.0)
+	id AA1103339 (for @cs.utah.edu:porsche@velo, from js/js@aixservr.egr.duke.edu); Thu, 26 Sep 91 13:50:32 -0400
+Date: Thu, 26 Sep 91 13:50:32 -0400
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9109261750.AA1103339@aixservr.egr.duke.edu>
+To: mueller%velo@cs.utah.edu, porsche%velo@cs.utah.edu
+Subject: Re:  911 clutch question
+
+  Sounds like a bad pressure plate to me, but also be sure to check the clutch
+cable first.  On the 72-73 911s there is a reinforced rubber section around
+the clutch cable that runs between the transmission and the firewall.  If this
+section is broken, you get a nasty positive feedback effect.  When the engine
+starts to engage, it moves forward on its mounts and thus gives the cable more
+play, engaging it further.  The effect is something like repeatedly dropping
+the clutch, and only comes into play when you are starting from 1st gear.
+...this is why you don't use the early 911 clutch cable on the 72-73 ;-)
+
+  I've never dropped the engine in my 911 - on the 914 I could change the 
+clutch in about 5 hours, only dropping the transmission.  I suspect you could
+get away with only dropping the transmission on the 911 too, but I'm not sure...
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request Thu Sep 26 05:17:51 1991
+Received: by karazm.math.UH.EDU id AA09006
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 14:21:54 -0500
+Received: from cs.utah.edu by karazm.math.UH.EDU with SMTP id AA09002
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 14:21:44 -0500
+Received: from velo.utah.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA09825; Thu, 26 Sep 91 13:18:09 -0600
+Received: from cs.utah.edu by velo.utah.edu (5.65/utah-2.11-leaf)
+	id AA00421; Thu, 26 Sep 91 13:18:05 -0600
+Received: from Sun.COM by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA09820; Thu, 26 Sep 91 13:18:03 -0600
+Received: from Eng.Sun.COM (zigzag-bb.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA12846; Thu, 26 Sep 91 12:17:58 PDT
+Received: from tassajara.Eng.Sun.COM by Eng.Sun.COM (4.1/SMI-4.1)
+	id AA19437; Thu, 26 Sep 91 12:17:53 PDT
+Received: by tassajara.Eng.Sun.COM (4.1/SMI-4.1)
+	id AA07620; Thu, 26 Sep 91 12:17:51 PDT
+Date: Thu, 26 Sep 91 12:17:51 PDT
+From: Rod.Miller@Eng.Sun.COM (Rod Miller)
+Message-Id: <9109261917.AA07620@tassajara.Eng.Sun.COM>
+To: js@aixservr.egr.duke.edu, mueller%velo@cs.utah.edu,
+        porsche%velo@cs.utah.edu
+Subject: Re:  911 clutch question
+
+After you've done it a couple of times, the 911 engine comes out in
+1/2 hour.  A few more minutes to put it back in.  I think it would
+be much easier to drop the engine than to attempt to drop just the
+tranny.  Further, most of the work in dropping the engine/tranny is
+done by the time you've got the tranny itself ready to drop (not
+including tranny to engine disconnection.)  The major added work in 
+dropping them together is draining the oil so you can disconnect the 
+oil lines.
+
+Also, I don't think there is enough space lengthwise to separate the 
+tranny starting from the position of both being installed in the car.
+
+If you attempt to drop the tranny separately and give up, which I 
+think is likely, reconnecting it to the the engine and droppng them 
+as a unit will consume much more time. So in my opinion you are being
+penny wise and pound foolish.
+
+As a last argument, removal of the engine and tranny in one piece is 
+the way it was designed.
+
+Then if you do what I would probably have when I was inexperienced
+(not to imply that you are too), and ignore the advice of others and go
+try to drop just the tranny just to see if I could do it, let us know 
+how it went.    8-)  8-)
+
+Maybe somebody else will post that the tranny can be dropped in 5 usec
+once you know how...
+
+Rod
+
+From porschephiles-request Thu Sep 26 12:04:56 1991
+Received: by karazm.math.UH.EDU id AA09469
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 15:12:34 -0500
+Received: from cs.utah.edu by karazm.math.UH.EDU with SMTP id AA09465
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 15:12:32 -0500
+Received: from velo.utah.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA11696; Thu, 26 Sep 91 14:08:59 -0600
+Received: from cs.utah.edu by velo.utah.edu (5.65/utah-2.11-leaf)
+	id AA00494; Thu, 26 Sep 91 14:08:57 -0600
+Received: from cs.rpi.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA11691; Thu, 26 Sep 91 14:08:54 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA08804; Thu, 26 Sep 91 16:04:56 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA05720; Thu, 26 Sep 91 16:04:56 EDT
+Date: Thu, 26 Sep 91 16:04:56 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109262004.AA05720@porsche.cs.rpi.edu>
+To: mueller%velo@cs.utah.edu
+Cc: porsche%velo@cs.utah.edu
+In-Reply-To: Tim Mueller's message of Thu, 26 Sep 91 10:54:13 MDT <9109261654.AA00296@velo.utah.edu>
+Subject: 911 clutch question
+
+
+Check your cable and the pedal stop on the floorboard.  If these are
+OK, then your clutch&pressure plate probably need to be replaced.
+This is not a hard job, the easiest technique is to just drop the
+engine, leaving the transmission in.  If you've never dropped the
+engine, then it's probably not going to be easy either, but if you
+want to do your own work you should know how to drop the engine.
+
+A few words of advice if you do it yourself:
+
+1) Be careful removing the flywheel bolts.  They have a 12pt star bolt
+   that is very easy to strip.  Make sure the tool is all the way in,
+   and use a long pipe so you can turn it gently.
+
+2) Examine the main engine seal carefullly.  If there is even the
+   slightest markings or signs of wear, replace it.  This is a common
+   cause of MAJOR oil leaks in 911s.  If there is oil in the clutch housing
+   then probably it needs to be replaced even if it looks OK.
+
+3) This job takes two people.
+
+4) When you reattach the clutch cable, there should be about 1" of
+   play in the pedal, and adjust the floorboard stop so the the clutch
+   fork does not rub against the housing.
+
+
+Actually, I'm about to replace the main seal on a friends car, so If
+you like I'll try to remember to take notes - or you coudl fly over
+and watch.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Thu Sep 26 12:10:37 1991
+Received: by karazm.math.UH.EDU id AA09522
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 15:18:43 -0500
+Received: from cs.utah.edu by karazm.math.UH.EDU with SMTP id AA09518
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 15:18:40 -0500
+Received: from velo.utah.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA12380; Thu, 26 Sep 91 14:15:07 -0600
+Received: from cs.utah.edu by velo.utah.edu (5.65/utah-2.11-leaf)
+	id AA00513; Thu, 26 Sep 91 14:15:05 -0600
+Received: from cs.rpi.edu by cs.utah.edu (5.65/utah-2.17-cs)
+	id AA12368; Thu, 26 Sep 91 14:15:01 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA08895; Thu, 26 Sep 91 16:10:43 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA05724; Thu, 26 Sep 91 16:10:37 EDT
+Date: Thu, 26 Sep 91 16:10:37 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109262010.AA05724@porsche.cs.rpi.edu>
+To: Rod.Miller@eng.sun.com
+Cc: js@aixservr.egr.duke.edu, mueller%velo@cs.utah.edu,
+        porsche%velo@cs.utah.edu
+In-Reply-To: Rod Miller's message of Thu, 26 Sep 91 12:17:51 PDT <9109261917.AA07620@tassajara.Eng.Sun.COM>
+Subject:  911 clutch question
+
+
+You should not drop the tranny alone.  It is a real big pain in the
+neck, and that's with a lift.  We tried it once and vowed not to do it
+again. 
+
+Dropping the engine alone is quite simple, and avoids the rather
+lengthy job of removing the cv joints.  This can't be done on the cars
+with the "push type" clutch (70 and 71, I think), and shouldn't be
+done on the SCs and later, I forget why...
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Thu Sep 26 15:31:01 1991
+Received: by karazm.math.UH.EDU id AA09581
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 15:31:03 -0500
+Received: from aixwiz.austin.ibm.com by karazm.math.UH.EDU with SMTP id AA09577
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 15:31:01 -0500
+Received: by aixwiz.austin.ibm.com (AIX  2.1.2/4.03)
+          id AA03695; Thu, 26 Sep 91 15:26:35 
+Date: Thu, 26 Sep 91 15:26:35 
+From: pedz@aixwiz.austin.ibm.com (Perry Smith)
+Message-Id: <9109270326.AA03695@aixwiz.austin.ibm.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: strange sounds
+
+Hey, o.k. call me stupid but I don't know what this is.  When I get home
+at night and turn off the engine, there is still a sound coming
+out (besides the fan).  It goes for about 10 seconds or so and thenis
+off for about 5 minutes, then it comes back, etc.  When it goes
+off there is a slight gurgeling sound as if it is either pumping oil
+or coolant.  (BTW, I have a 1989 951).
+
+A second question of similar topic is when I first start my car about
+the time I'm ready to go, there is a 1 to 2 second "burrr" as if a
+servo is moving into (or out of) place.
+
+pedz
+
+From porschephiles-request Fri Sep 27 00:55:00 1991
+Received: by karazm.math.UH.EDU id AA11929
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 26 Sep 1991 21:49:57 -0500
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA11925
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 26 Sep 1991 21:49:55 -0500
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac02200;
+          26 Sep 91 21:09 EDT
+Date: Fri, 27 Sep 91 00:55 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Perry Smith <pedz@aixwiz.austin.ibm.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: strange sounds
+Message-Id: <83910927005538/0004056890NA2EM@mcimail.com>
+
+Perry -
+
+The sound you hear when shutting off your car is a cool-down pump which
+continues to circulate coolant in 951-series cars after the car has been turned
+off.  It runs for at least 30 seconds and until the temp drops enough.  Charlie
+Learoyd wrote a description of in the June Pano's Tech Q&A column - recommend yu
+read it.  The extra circulation is to keep the turbo from heat-soaking and
+coking itself.
+
+As for your other problem, I don't quite understand your brief description. 
+Does the "solenoid" bzzz occur when starting the engine, or when, having started
+the car, you are putting it in gear and driving away?
+
+Kevin
+
+From porschephiles-request Fri Sep 27 03:50:46 1991
+Received: by karazm.math.UH.EDU id AA14440
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 27 Sep 1991 12:54:25 -0500
+Received: from apple.com by karazm.math.UH.EDU with SMTP id AA14436
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 27 Sep 1991 12:54:23 -0500
+Received: by apple.com (5.61/27-Sep-1991-eef)
+	id AA04706; Fri, 27 Sep 91 10:50:46 -0700
+	for porschephiles@karazm.math.uh.edu
+Date: Fri, 27 Sep 91 10:50:46 -0700
+From: Patty Winter <winter@apple.com>
+Message-Id: <9109271750.AA04706@apple.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: strange sounds
+
+
+Kevin Gross writes:
+
+------------
+The sound you hear when shutting off your car is a cool-down pump which
+continues to circulate coolant in 951-series cars after the car has been turned
+off.  It runs for at least 30 seconds and until the temp drops enough.  Charlie
+Learoyd wrote a description of in the June Pano's Tech Q&A column - recommend yu
+read it.  The extra circulation is to keep the turbo from heat-soaking and
+coking itself.
+------------
+
+That pump doesn't eliminate the need to idle the engine for a bit after
+parking the car, though, does it?
+
+
+Patty
+
+From porschephiles-request Fri Sep 27 10:23:22 1991
+Received: by karazm.math.UH.EDU id AA14543
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 27 Sep 1991 13:28:58 -0500
+Received: from relay.hp.com by karazm.math.UH.EDU with SMTP id AA14539
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Fri, 27 Sep 1991 13:28:55 -0500
+Received: from hpwala.wal.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA10625; Fri, 27 Sep 91 11:25:20 -0700
+Received: from hpwadac.wal.hp.com by hpwala.wal.hp.com with SMTP
+	(15.11/15.5+IOS 3.22) id AA26624; Fri, 27 Sep 91 14:26:51 edt
+Received: by hpwarq.HP.COM; Fri, 27 Sep 91 14:24:24 edt
+Message-Id: <9109271824.AA13631@hpwarq.HP.COM>
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Date: Fri, 27 Sep 91 14:23:22 EDT
+X-Server: hpwadac
+X-Citing: Celtics!
+X-Cargo: steamed snails
+X-Mailer: Mail User's Shell (6.5.6 6/30/89)
+To: Patty Winter <winter@apple.com>, porschephiles@karazm.math.UH.EDU
+Subject: Re: strange sounds
+
+> The sound you hear when shutting off your car is a cool-down pump which
+>continues to circulate coolant in 951-series cars after the car has been turned
+>off.  It runs for at least 30 seconds and until the temp drops enough.  Charlie
+>Learoyd wrote a description of in the June Pano's Tech Q&A column-recommend yu
+> read it.  The extra circulation is to keep the turbo from heat-soaking and
+> coking itself.
+> -----------------------------------------------------------------------
+> That pump doesn't eliminate the need to idle the engine for a bit after
+> parking the car, though, does it?
+> Patty
+
+That's quite true: the turbo has to spin down from a very high speed (up to 
+100,000 rpm), and it requires adequate lubrication during the process. By 
+running the car at idle for a minute or two, oil pressure is maintained and
+good lubrication of the rotor bearings allows the turbo to spin down to idle
+speeds (quite a bit lower - perhaps only 10,000 rpm or less), from which it
+will continue to spin down safely even without additional oil flow. The extra
+cooling is still very good design - you can't have too much insurance on your
+turbine bearings.
+
+
+-- 
+---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+
+From porschephiles-request Fri Sep 27 11:17:26 1991
+Received: by karazm.math.UH.EDU id AA14917
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 27 Sep 1991 14:24:50 -0500
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA14910
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 27 Sep 1991 14:24:45 -0500
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA00576; Fri, 27 Sep 91 15:17:26 EDT
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA05992; Fri, 27 Sep 91 15:17:26 EDT
+Date: Fri, 27 Sep 91 15:17:26 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9109271917.AA05992@porsche.cs.rpi.edu>
+To: winter@apple.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Patty Winter's message of Fri, 27 Sep 91 10:50:46 -0700 <9109271750.AA04706@apple.com>
+Subject: strange sounds
+
+
+Almost all new cars with electric cooling fans run for a minute or
+two - when hot - after you shut the car off.  This allows for more
+even cooling of components which helps prevent things like head warp.
+It does NOT mean turbo owners of any make or model can shut their cars off
+without a minute at idle.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Fri Sep 27 13:08:00 1991
+Received: by karazm.math.UH.EDU id AA15932
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 27 Sep 1991 17:05:17 -0500
+Received: from att.att.com by karazm.math.UH.EDU with SMTP id AA15928
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Fri, 27 Sep 1991 17:05:15 -0500
+Message-Id: <199109272205.AA15928@karazm.math.UH.EDU>
+From: homxc!fwk@att.att.com
+Date: Fri, 27 Sep 91 17:08 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: porschephiles@karazm.math.UH.EDU
+Subject: Re: strange sounds
+
+>
+>Almost all new cars with electric cooling fans run for a minute or
+>two - when hot - after you shut the car off.  This allows for more
+>even cooling of components which helps prevent things like head warp.
+>It does NOT mean turbo owners of any make or model can shut their cars off
+>without a minute at idle.
+>
+The above is true, but my understanding is that the 944 Turbo (951) in
+particular goes further, and circulates coolant through the turbo
+bearings with a separate pump. This provides an effective sink for the
+heat stored in the turbo, thereby reducing the temperature rise in the
+turbo bearings after a hot shutdown. This is the same purpose for allowing
+a minute or two of idle after hard usage. As someone else noted, you do have
+to wait for the turbo shaft to slow down before shutdown to continue
+to provide oil pressure to its bearings, but this takes modest numbers
+of seconds, not minutes.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request Sat Sep 28 03:00:00 1991
+Received: by karazm.math.UH.EDU id AA16907
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 27 Sep 1991 22:19:23 -0500
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA16903
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 27 Sep 1991 22:19:21 -0500
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af24200;
+          27 Sep 91 23:06 EDT
+Date: Sat, 28 Sep 91 03:00 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: John Lupien <lupienj@hpwarq.wal.hp.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: Patty Winter <winter@apple.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: strange sounds
+Message-Id: <30910928030003/0004056890NA4EM@mcimail.com>
+
+Patty and John -
+
+I find it easy to agree with what John says: letting the car idle cannot hurt
+and will almost certainly help.  I don't know whether Porsche has a stated
+recommendation regarding cool-down.
+
+Kevin
+
+From porschephiles-request Sat Sep 28 02:45:21 1991
+Received: by karazm.math.UH.EDU id AA18630
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 28 Sep 1991 11:49:05 -0500
+Received: from apple.com by karazm.math.UH.EDU with SMTP id AA18621
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 28 Sep 1991 11:49:03 -0500
+Received: by apple.com (5.61/27-Sep-1991-eef)
+	id AA15198; Sat, 28 Sep 91 09:45:21 -0700
+	for porschephiles@karazm.math.uh.edu
+Date: Sat, 28 Sep 91 09:45:21 -0700
+From: Patty Winter <winter@apple.com>
+Message-Id: <9109281645.AA15198@apple.com>
+To: 0004056890@mcimail.com
+Subject: Re: strange sounds
+Cc: porschephiles@karazm.math.uh.edu
+
+
+
+
+	I find it easy to agree with what John says: letting the car
+	idle cannot hurt and will almost certainly help.  I don't know
+	whether Porsche has a stated recommendation regarding cool-down.
+
+
+When I bought my 951, the salesman (who used to be a service manager at
+a Porsche dealership) recommended three minutes. I suspect they say that
+so folks will do it for at least 30 seconds. :-)  
+
+Anyway, the odds are that when I pull into a parking space there's
+still a couple minutes left on the Pink Floyd song I'm listening to, so
+I might as well let the car idle while the song ends. :-)
+
+
+Patty
+
+
+From porschephiles-request Mon Sep 30 09:37:29 1991
+Received: by karazm.math.UH.EDU id AA00229
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 30 Sep 1991 13:20:33 -0500
+Received: from relay1.UU.NET by karazm.math.UH.EDU with SMTP id AA00225
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 30 Sep 1991 13:20:31 -0500
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA20024; Mon, 30 Sep 91 13:48:59 -0400
+Received: from elf.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 134757.2306; Mon, 30 Sep 1991 13:47:57 EDT
+Received: from ocelot.wang.com by elf.wang.com
+	id aa01138; Mon, 30 Sep 91 13:37:17 EDT
+Subject: 951 owners
+To: porschephiles@karazm.math.uh.edu
+Date: Mon, 30 Sep 91 13:37:29 EDT
+In-Reply-To: <9109301501.AA19456@relay2.UU.NET>; from "Mail Delivery Subsystem" at Sep 30, 91 11:01 am
+X-Mailer: ELM [version 2.3 PL8]
+From: Chris Bennet <chrisb@ocelot.wang.COM>
+Message-Id:  <9109301737.aa20965@ocelot.wang.COM>
+
+
+ 
+ Those of you who own 951's;  offered for sale:
+ 
+ 1 clutch (clutch, pressure plate, pilot bearing) $370+shipping
+   These parts are new, genuine Porsche, updated parts.  
+ 1 944 Turbo manual (this is the manual you need in addition to
+   the regular 944 service manuals) $45 plus shipping.
+   This manual is the latest (bought < 1 mo ago).
+ 
+ Those of you who are new to 951's;  the clutch is a maintenance
+ item.  My friend's went at 36K, I've come across ones with 41K that
+ where already on their 2nd clutch.  I bought this clutch [from a dealer
+ who was going out of business] with this in mind. 
+ 
+   My home phone # is (603) 880-1363 (New Hampshire), please call before
+   10pm Eastern.
+ 
+  Chris
+
+From porschephiles-request Mon Sep 30 06:38:34 1991
+Received: by karazm.math.UH.EDU id AA00865
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 30 Sep 1991 15:39:32 -0500
+Received: from taurus.cs.nps.navy.mil (taurus-campus.cs.nps.navy.mil) by karazm.math.UH.EDU with SMTP id AA00861
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 30 Sep 1991 15:39:31 -0500
+Received: from atlas.cs.nps.navy.mil.nps.navy.mil by taurus.cs.nps.navy.mil (4.1/cs.nps-1.0)
+	id AA15014; Mon, 30 Sep 91 13:38:34 PDT
+Date: Mon, 30 Sep 91 13:38:34 PDT
+From: erickson@taurus.cs.nps.navy.mil (David Erickson)
+Message-Id: <9109302038.AA15014@taurus.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Chevy Wheels
+
+
+This weekend I bought a set of Porsche 5 1/2" x 15" chrome wheels with a
+3 68 datestamp at a flea market in San Jose.  The funny part of the story 
+is that the seller insisted that the wheels were from a Chevy!  I can just
+about picture a low-rider cruising through East San Jose with Porsche
+rims...  Logical explanation no. 1: the guy had no idea what the wheels
+fit, and since Chevys have 15" 5-bolt rims, they must be Chevy rims.
+Logical explanation no. 2: they were hot, and it's a lot easier to sell
+Chevy parts in East San Jose than Porsche parts.  Actually, the rims were
+kind of warm after sitting out in the sun all morning...
+
+Anyhow, I do have a few questions.  
+	The rims have a P with  a triangle around it - which manufacturer 
+		does this indicate?  
+	Were these the stock wheels for both 911's and 912's in 1968?
+	What size tires fit these rims?
+
+BTW, I intend to put these rims on my '64 356C.  In appearance they are
+identical to the stock 4 1/2" wheels currently on the car.
+
+-Dave Erickson
+

@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Final Solution for DME/Fuel Pressure?</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="istook <istook@flash.net>">
+  <META NAME="MsgPropFrom" CONTENT="Matt Warner <MWarner1@ix.netcom.com>">
+  <META NAME="MsgPropSubject" CONTENT="Final Solution for DME/Fuel Pressure?">
+  <META NAME="MsgPropDate" CONTENT="Sun, 25 May 1997 22:46:43 -0700">
+  <META NAME="MsgPropCc" CONTENT="924-944@porschefans.com">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<199705251937.OAA19266@centurion.flash.net>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">istook &lt;istook@flash.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Matt Warner &lt;MWarner1@ix.netcom.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Final Solution for DME/Fuel Pressure?</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Sun, 25 May 1997 22:46:43 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">924-944@porschefans.com</td></tr>
+</table>
+<pre>
+>Matt Warner--I will respond to your e-mail when I have a little more
+
+>time, but I am not "touting" my experience so much as I am giving the
+
+>1,700 or so members of the list a very-very important tip about a
+
+>problem that 944s have, one that many people have spent a
+considerable
+
+>amount of money trying to solve.  I present it in a quizing manner so
+
+>that people will notice it, take the time to read a letter, and think
+
+>about it.  They then will probably remember the syptoms/solution
+should
+
+>it occur to their vehicle.  If I want to give away a prize for people
+
+>responding and trying to come up with an answer, then that is my
+
+>business, not yours.
+
+
+Fair enough.
+
+
+
+
+>Have you tried and duplicated the problem??  Try it by pinching of
+your
+
+>fuel line (return)with the engine running, even with  the engine
+reved
+
+>to be sure you have a good alternator output.  When the engine dies,
+
+>then do the same thing, only with one injector unplugged.  The
+
+>starter/fuel pump "draw" doesn't matter, and I never said that they
+did.
+
+
+No, you didn't.  I was the one who suggested the idea about the fuel
+pump drawing too much power, but it would only apply to a cold engine
+being started, not a warm engine which is running.  See below for an
+explanation of the warm engine on three cyliders which you have
+observed.
+
+
+>Try it and then e-mail me about the "cold Hard facts", and we can
+
+>discuss it further.  You will find that you lose injector fire when
+the
+
+>line is clamped shut with all injectors connected, but you will not
+lose
+
+>the injector fire with one unplugged.  Now, if the power is constant
+to
+
+>the injectors, why does the pulsing ground disappear??  As I stated,
+I
+
+>am no electrical expert, but you will find my diagnosis correct. 
+
+>Whatever the reason, the DME causes the ground to go away.
+
+>
+
+>I look forward to your response.
+
+>
+
+>Don Istook
+
+
+I have dug deeper into the information that I have and discovered that
+pinching off the return line should not kill the engine due to fuel
+pressure alone since the fuel pump itself contains a pressure relief
+valve.  In fact, pinching off the return line is the documented way to
+test the fuel pressure regulator (and related components).  My source
+is "Bosch Fuel Injection & Engine Management" by Charles O. Probst,
+SAE.  Page 11 of Chapter 4 states:
+
+
+<paraindent><param>right,left</param>"If system pressure tests do not
+show the 0.5 bar pressure drop with the vacuum line connected, check
+the vacuum line for leaks.  If the line is sound, the regulator is
+faulty.
+
+
+"If system pressure is low in both parts of the test, the regulator
+could be returning too much fuel or the fuel pump may not be delivering
+properly.  You can pinpoint the problem by pinching off the return line
+as shown in Fig. 3-7.  Do this slowly to avoid a sudden pressure surge
+that could ruin the gauge.  If the gauge shows 4 bar (59 psi) or above,
+the fuel-pump relief valve is working, so the regulator is faulty.  If
+the pressure did not rise, there is a problem with fuel delivery, which
+should be checked as described in 3.3 Fuel Delivery.
+
+
+"If system pressures are too high, temporarily remove the fuel pressure
+regulator return line.  Attach a short hose to the pressure regulator
+outlet and direct it into an unbreakable container.  Run the system
+pressure test again.  If pressures are now correct, then the fuel
+return line is blocked.  If pressures are still high, the regulator is
+faulty.
+
+</paraindent>
+
+This said, I did come up with a possible answer as to why the injectors
+stop clicking.  You described a situation where three injectors would
+run but four would not.  It took me a while, but I think I finally have
+an explanation which fits the symptoms.
+
+
+When the engine is warm and you close off the return line, the fuel mix
+gets rich.  What happens next?  The computer tries to compensate when
+the O2 sensor starts going towards the rich side.  But the way it
+compensates is important.  The computer tries to lean out the mixture
+to bring the combustion properties within specified limits by reducing
+the amount of fuel injected.  It does this by shortening the pulse time
+(since the pressure is fixed).  In an extreme case where the fuel
+pressure goes very high, the computer shortens the pulse time to such a
+point that the magnetic field doesn't have enough time to move the
+injector pintle, and that's why the clicking stops-- the pulse is just
+too short.  At idle, the combined open and fire pulse takes only about
+10 milliseconds.  That's doesn't leave much room from which to start
+cutting back.  Alternately, the DME may just decide to shut the whole
+thing down, which you suggested in a previous post.  I only mention
+that the engine must be warm because the engine runs in open-loop mode
+until the O2 sensor warms up.
+
+
+So why do three cylinders run and not four?  It's the equivalent of
+false air, except this is on the exhaust side.  The fourth cylinder
+isn't introducing any fuel into the exhaust system and is in fact
+permitting pure air.  This air brings the average mixture that the O2
+sensor sees back into a zone that the computer recognizes as "normal"
+and the engine continues to run (albeit poorly).
+
+
+In short, my first theory about not enough power to run everything
+certainly doesn't apply to the warm engine dying under the conditions
+you have observed.  This idea seems to fit the situation much better--
+in effect, the computer is doing exactly what it's programmed to do,
+which is to keep the fuel mix at ideal conditions.  That also explains
+why the alternator output doesn't matter.
+
+
+Please let me know if this sounds plausible to you.
+
+
+Matt Warner
+
+
+85.5 Porsche 944
+
+153,000 Miles
+
+Mechanical Engineer
+
+Macintosh Believer!
+
+PGP Key available at http://www.netcom.com/~mwarner1
+
+.
+</pre>
+</BODY></HTML>

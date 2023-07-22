@@ -1,0 +1,3150 @@
+From porschephiles-request@karazm.math.uh.edu  Tue Apr  2 09:09:12 1991
+Received: by karazm.math.uh.edu id <AA20921@karazm.math.uh.edu>; Tue, 2 Apr 91 09:09:13 CST
+Received: from hydra.gatech.edu ([128.61.6.11]) by karazm.math.uh.edu id <AA20867@karazm.math.uh.edu>; Tue, 2 Apr 91 09:02:58 CST
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA05984; Tue, 2 Apr 91 10:02:41 -0500
+Date: Tue, 2 Apr 91 10:02:41 -0500
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9104021502.AA05984@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Wheels
+
+I've been bitten hard by the autox/driving school bug. I've decided that
+I ought to buy a set of tires and to simplify track preparation, a set
+of wheels. I drive an '87 951 (944T) with stock 7x16 and 8x16 phone
+dials. These have been pretty majorly scratched up (they're painted! not
+anodized...) by a couple of incompetent tire mounts.
+
+I checked into the recent tip about PCNA's wheel blowout, but none of
+the sale wheels will fit my car (the 951 club sport wheels would be
+great, but they'll only fit '88 and later: apparently they have a
+different offset than the earlier cars (aside: what would it take to
+modify my car/the wheel to mount these on my car?)) I'd like to use the
+phone dials on the car now for the track and get another set (hopefully
+more cosmetically durable) for the street.
+
+The local dealer wants to sell me a set of 'used' phone dials for
+$250/each. New price (with a PCA discount) is about $310 for the fronts,
+$360 for the rears. I haven't seen them, but I suspect they are 'like
+new' - he said they were taken off the car at about 2K miles since the
+owner wanted BBSs or some such.
+
+What would y'all consider a good deal on a set of decent wheels for the
+951? I was hoing to get down into the $150-200 range: can I do that? Can
+I do better?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr  2 12:49:12 1991
+Received: by karazm.math.uh.edu id <AA23395@karazm.math.uh.edu>; Tue, 2 Apr 91 12:49:13 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA23376@karazm.math.uh.edu>; Tue, 2 Apr 91 12:47:31 CST
+Received: from brahms.udel.edu by bcm.tmc.edu (AA23264); Tue, 2 Apr 91 12:47:02 CST
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA26350; Tue, 2 Apr 91 13:46:57 -0500
+Message-Id: <9104021846.AA26350@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Tue, 2 Apr 1991 13:46:56 EST
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Polishing Phone Dials
+
+For general information:
+
+I had a set of phone dials, painted and scratched, which were rather
+unsightly.  I took them to the shop who does my paintwork, and was
+quoted $75 each for sanding, prep, prime and repaint.  
+
+Given that I didn't want to blow the money, I went to True Value and
+bought some steel wool (medium, $1.59), some Enhance water soluble fume free
+stripper ($5.59) a cheapo paint prush ($.88) and picked up some latex
+gloves ($.99).
+
+About 3 hours later, the first wheel was completely stripped and
+polished (the steel wool actually gives a relatively scratch free
+finish).   Although they do not have a mirror finish they are quite
+attractive (better than pain imho) and should be easier to maintain,
+with a little vaseline and / or car wax.  The second one took about 4
+hours (hands getting tired).
+
+Anyway, I had heard not to use chemical strippers on AL, so I tried it
+on a junk wheel first.  There seem to be no detrimental effects.  One
+note:  buy LOTS of latex gloves or some chemical proof gloves.  Use
+S.O.S. or similar between applications of stripper and as a final polish
+as it neutralizes.  It takes almost exactly 1 can of stipper per wheel,
+so buy the gallon if you plan on doing a set.  
+
+Two down, two to go!
+
+Steve
+.
+
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr  2 15:19:13 1991
+Received: by karazm.math.uh.edu id <AA25304@karazm.math.uh.edu>; Tue, 2 Apr 91 15:19:13 CST
+Received: from att.att.com by karazm.math.uh.edu id <AA25297@karazm.math.uh.edu>; Tue, 2 Apr 91 15:18:51 CST
+From: muenchen@ihlpm.att.com
+Date: Tue, 2 Apr 91 15:00 CST
+Original-From: ihlpm!muenchen (Robert L Duncan +1 404 573 4144)
+To: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu
+Cc: prism.gatech.edu!tynor@att.UUCP (Steve Tynor)
+Subject: 7 or 8X16 wheel choices, costs
+
+	Some notes to add to Steve Tynor's EMail re 
+	buying a second set of racing wheels for his Porsche 944T
+	---------------------------------------------------------
+
+> I've been bitten hard by the autox/driving school bug. I've decided that
+> I ought to buy a set of tires and to simplify track preparation, a set
+> of wheels. I drive an '87 951 (944T) with stock 7x16 and 8x16 phone dials. 
+
+	Me, too!  I'm looking to get the same wheel size as you,
+and I've got my eye on Yoko A008Rs.  Perhaps if we're in the same market,
+we could save some money by buying together.
+
+
+> I checked into the recent tip about PCNA's wheel blowout, but none of
+> the sale wheels will fit my car (the 951 club sport wheels would be
+> great, but they'll only fit '88 and later
+
+	I called Clair Parts Express (recommended by Calvin
+Sanders, neptune!calvin@uunet.UU.NET) in a prev. team.net posting)
+and got prices of $329 and $337, where he'd prob incl. shipping
+free of charge.
+
+
+> different offset than the earlier cars (aside: what would it take to
+> modify my car/the wheel to mount these on my car?)) 
+
+	I did not hear this from (George Clooney at) Clair's Parts Express.
+I clarified the year and presence of ABS, and referred him to the tech
+report that Kevin suggested that clarifies this topic of wheel/tire combos.
+
+> The local dealer wants to sell me a set of 'used' phone dials for
+> $250/each. New price (with a PCA discount) is about $310 for the fronts,
+> $360 for the rears. 
+
+	The used wheels sound like a pretty good deal.
+If you don't take the offer, please let me know, as I might.
+
+	To give you an approximation of the cost of wheels,
+I've looked at another alternative: racing/aftermarket wheels,
+but they also run quite a bit.  Following are prices from (Greg at)
+Marsh Racing Wheel (800 643-3625):
+
+	Steel		Aluminum		Carbon Fiber
+    	-----    	-------- 		------------
+7X16	Not_Avail	$270        		Not_Available (est. $250) 
+8X16	$115     	$270    		Not Available (est. $300)
+
+Note: Aluminum wheels are 3-piece, weigh eleven (11) lbs.
+Note: Carbon Fiber wheels not expected to be available in 1991.
+
+		Robert Duncan
+		AT&T Bell Labs, Atlanta, GA
+		(404) 573-4144		robert_l_duncan@ihlpm.att.com
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr  2 15:49:13 1991
+Received: by karazm.math.uh.edu id <AA25686@karazm.math.uh.edu>; Tue, 2 Apr 91 15:49:13 CST
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA25621@karazm.math.uh.edu>; Tue, 2 Apr 91 15:42:57 CST
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA02731; Tue, 2 Apr 91 13:42:26 PST
+Date: Tue, 2 Apr 91 13:42:26 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9104022142.AA02731@hyperion.llnl.gov>
+To: tynor@prism.gatech.edu
+Subject: Re:  Wheels
+Cc: porschephiles@karazm.math.uh.edu
+
+>I checked into the recent tip about PCNA's wheel blowout, but none of
+>the sale wheels will fit my car (the 951 club sport wheels would be
+>great, but they'll only fit '88 and later: apparently they have a
+>different offset than the earlier cars (aside: what would it take to
+>modify my car/the wheel to mount these on my car?)) I'd like to use the
+
+Steve,
+
+It is possible to install club sport wheels on the earlier cars, but
+Porsche expressly advises against it and dealers will not perform the
+modification (at least the one I tried to get to do it did not want
+take responsibility).  It is clearly best to use wheels that fit the
+car without the use of spacers, adaptors and such.  Nevertheless, I so
+much prefer the look of the club sport wheel on 944s that I decided to
+tackle the job myself on my '86 951.  I have had no problems
+whatsoever as a result of having performed this conversion, and the
+car really looks great.  Although the procedure described below was a
+bit of a hassle, I think it was worth it in the end.
+
+First, I bought four 930 wheel spacers from Automotion and some 72mm
+studs.  The 930 spacers are 27mm thick, which, by my computations, is
+only a couple of millimeters less than the exact difference in offset.
+There is room under the rear quarter panels to increase the track
+further with a slightly larger spacer, but this would require the use
+of longer studs than the readily-available 72mm I used, and I don't
+think it is worth the extra effort.
+
+The 930 hubcentric spacers fit nicely on the rear, but require some
+machining to fit the front hubs.  If you are still interested after
+reading all of this, I can mail you a picture with dimensions that you
+could take to someone with a lathe.  The machining operation is
+straightforward, requiring only the inner bore to be increased to
+clear the part of the front hub into which the dust cap fits.  Since
+you will probably want to remove the front hubs anyway in order swap
+the stock studs for the longer ones (I also used the opportunity to
+repack the bearings), it would probably be a good idea to haul the
+hubs along to the machine shop too just to make sure the spacer does
+in fact fit properly.  I ran into a slight problem with the unmachined
+parts of the front hubs that needed a little bit of filing down to
+allow the spacer to clear (don't mess with the machined parts on which
+the wheel is supported, though).  In the end, the modified front
+spacers fit as snugly and centered as the rears.
+
+The last trick you need to know is how to install the studs in the
+rear hubs.  Because the rear hubs ride in the wheel bearings of the
+85.5+ 944s, removing them is (I believe) impossible without pulling
+apart the sealed bearing assembly.  This is in contrast to the early
+944s on which the rear hubs are splined onto the stub axles and are
+relatively easy to take off.  Therefore, it is best to leave the hubs
+on the car.  In order to get the old studs out, you will need to
+remove the emergency brake shoes.  You will then need to rig up
+something to press the studs out, like two C clamps and a metal bar.
+The old (shorter) studs can then be wiggled out from behind the hub
+flange.  To install the 72mm studs, I had to remove the emergency
+brake cable from the trailing arm in order to create enough clearance
+to angle the longer studs behind the hub flange (there is a cavity in
+which the emergency brake mechanism attaches to the cable that is deep
+enough to temporarily accomodate the long stud).  The studs can then
+be pulled into the flange with a lug nut.
+
+Good luck,
+Milo Dorr
+
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr  2 22:31:15 1991
+Received: by karazm.math.uh.edu id <AA01451@karazm.math.uh.edu>; Tue, 2 Apr 91 22:31:16 CST
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA01402@karazm.math.uh.edu>; Tue, 2 Apr 91 22:26:48 CST
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ag09285;
+          2 Apr 91 23:24 EST
+Date: Wed, 3 Apr 91 04:26 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Steve Tynor <tynor@prism.gatech.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Wheels
+Message-Id: <60910403042606/0004056890NB1EM@mcimail.com>
+
+Regarding putting the new style 951S wheels on '87 951's, I have been told that
+they fit just fine.  Rich Brekus of Northeast Region picked up a set from Robert
+Wood, great price, and apparently has had no problem with them on his 951. 
+Charlie Learoyd, 944 person on National Tech Committee, knows Rich and his car
+and can be contacted to comfirm the fit.  Yes, there is a tech bulletin which
+says not to do this.
+
+This is for an '87-forward car, note.  The '87 cars (and forward) have a 52.3
+rim offset front and rear.  The 951S wheels have a 65 mm offset on the 7x16
+fronts and a 60 mm offset on the 9x16 rears.  Ie, real close and probably not a
+problem.  The old rule of thumb, which I think still stands, is that you want
+the height of the lug bolt/lug nut grip to be no less than 1.5 times the lug
+bolt diameter.
+
+As Milo notes, the '86 and earlier cars have a different suspension, different
+rim offsets, and a history of spacers and 911 wheel swaps.  A lot of this wheel
+stuff is ultimately empirical, which means find someone who's done it before!
+
+You can get the dinged telephone dials repainted.  There is a tech bulletin
+describing the painting process, very simple and with products specified, which
+I could forward to you or your body shop.  The folks I patronize here did a set
+for a friend a few years ago and they looked just fine.  The work was easy and
+they were a little unsure what to charge the guy!  They have a very hard
+(Imron-like) clear-coat which they used on my car and it has been very durable. 
+The wheel-well lips they shot with it have stood up extremely well to winter
+abuse, better than the original paint I think.  I expect they used it on my
+friend's rims.
+
+If the curb damage is any more than superficial (ie, goes into metal), you may
+be better off letting Robert Wood do the work for you instead.  He is,
+apparently, willing and able to clean up aesthetic metal damage.  He will not
+weld or otherwise repair wheels which are, in his opinion, too damaged to safely
+repair.
+
+Ruf will also do this kind of repair work.  A friend had a set of messed-up Ruf
+(ie, Speedline) 17" rims done through Exclusive in NJ.  I don't know who really
+did the work, and I don't know whether they're interested in non-Ruf wheels, but
+you might call them and ask.
+
+Another alternative, depending on your budget, is to leave the scratched up
+'phone dials as-is for competition use, and get a nice set in whatever style you
+like for those evenings on the town.  Me, I wear my forged alloys on the track
+and keeps the telephone dials for town and poor weather.  I guess that shows my
+priorities...
+
+Kevin
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 04:41:16 1991
+Received: by karazm.math.uh.edu id <AA05006@karazm.math.uh.edu>; Wed, 3 Apr 91 04:41:17 CST
+Received: from uunet.UU.NET ([137.39.1.2]) by karazm.math.uh.edu id <AA04981@karazm.math.uh.edu>; Wed, 3 Apr 91 04:38:25 CST
+Received: from kestrel.ukc.ac.uk by uunet.UU.NET with SMTP 
+	(5.61/UUNET-primary-gateway) id AA07290; Wed, 3 Apr 91 05:38:02 -0500
+Received: from prl.philips.co.uk by kestrel.Ukc.AC.UK   with UUCP  id aa27606;
+          3 Apr 91 9:27 BST
+Received: from prsun5h.prl.philips.co.uk by prlhp1.prl.philips.co.uk; Wed, 3 Apr 91 08:08:43 bst
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Wed, 3 Apr 91 08:06:40 BST
+Message-Id: <390.9104030706@prsun5h.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 heat exchangers
+
+Hi folks,
+  I have to replace the heat exchangers on my '72 911E and have been advised
+to buy SSI stainless steel ones.  Does anyone have any experience with these
+(good or bad) or any alternative suggestions ?  I have also read that some
+steel pattern exchangers have welds inside the heat exchanger box itself and
+that these may not be 100% gas tight - any comments (I may have to get a steel
+one pro tem until I can save up for the stainless ones).
+
+Thanks in advance for any info ..
+
+        __
+       /__) .  _  /_   _   _  _ /
+      / \  / /_  /  / /_| /  /_/                  colers@prl.philips.co.uk
+
+         Contact me for info on the Porsche Club GB 2.4 Register
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 16:31:17 1991
+Received: by karazm.math.uh.edu id <AA15717@karazm.math.uh.edu>; Wed, 3 Apr 91 16:31:17 CST
+Received: from SUNED.ZOO.CS.YALE.EDU ([128.36.0.19]) by karazm.math.uh.edu id <AA15283@karazm.math.uh.edu>; Wed, 3 Apr 91 16:21:23 CST
+Received: by SUNED.ZOO.CS.YALE.EDU; Wed, 3 Apr 91 17:20:55 EST
+From: Doug Fields <fields-doug@CS.YALE.EDU>
+Message-Id: <9104032220.AA26739@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (hare) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Wed Apr  3 17:20:53
+To: tynor@prism.gatech.edu (Steve Tynor)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Wheels 
+In-Reply-To: Your message of "Tue, 02 Apr 91 10:02:41 EST."
+             <9104021502.AA05984@prism.gatech.edu> 
+Date: Wed, 03 Apr 91 17:20:51 -0500
+
+
+Ah... You too, eh? I got bitten recently at a CVR track event
+at Lime Rock. However, my requirements are slightly different.
+I have an '88 951S, so the car is slightly different. I cannot
+afford new rims, so I'm more curious as to which kind of tires
+would be good on the track but passable on the road, too. I have
+heard that Yokohama makes a certain kind that's pretty good.
+
+May I recommend (as I was recommended by many people) that you 
+get rid of your stock brake pads? Apparently these do not transmit
+heat too well and can warp your rotors. A brand "Frodo" or something
+like that was recommended to me.
+
+Any other suggestions, anyone?
+
+Doug
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 16:51:18 1991
+Received: by karazm.math.uh.edu id <AA16291@karazm.math.uh.edu>; Wed, 3 Apr 91 16:51:18 CST
+Received: from hydra.gatech.edu ([128.61.6.11]) by karazm.math.uh.edu id <AA16270@karazm.math.uh.edu>; Wed, 3 Apr 91 16:48:19 CST
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA05713; Wed, 3 Apr 91 17:47:59 -0500
+Date: Wed, 3 Apr 91 17:47:59 -0500
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9104032247.AA05713@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: Doug Fields's message of Wed, 03 Apr 91 17:20:51 -0500 <9104032220.AA26739@SUNED.ZOO.CS.YALE.EDU>
+Subject: Wheels 
+
+| Ah... You too, eh? I got bitten recently at a CVR track event
+| at Lime Rock. However, my requirements are slightly different.
+| I have an '88 951S, so the car is slightly different. I cannot
+| afford new rims, so I'm more curious as to which kind of tires
+
+Well, I'm not sure I can either, but it doesn't hurt to shop around. All
+the hot drivers at last weeks autocross were driving on Yokohama 008Rs.
+Everyone was very excited about a new tire just out: the 008RS or 008S
+(? they were just calling them 'S').  Someone said he picked up a set
+mail order for about $85/each and they're supposedly 'even better' than
+the 'R'. These are probably the tires I'll end up with - I just hate to
+tear up my street Potenzas at $180 a pop. The reason I'm considering
+wheels too is that my painted phone dials were badly scratched up last
+time I mounted tires - I'd like to minimize the chance for that
+happening again. Steve Timmins' suggestion re: stripping the paint and
+polishing the aluminum is tempting. I may convince myself to try it.
+
+| May I recommend (as I was recommended by many people) that you
+| get rid of your stock brake pads? Apparently these do not transmit
+| heat too well and can warp your rotors. A brand "Frodo" or something
+| like that was recommended to me.
+
+Tell me more: is this something I need to worry about?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 17:21:18 1991
+Received: by karazm.math.uh.edu id <AA16804@karazm.math.uh.edu>; Wed, 3 Apr 91 17:21:18 CST
+Received: from SUNED.ZOO.CS.YALE.EDU ([128.36.0.19]) by karazm.math.uh.edu id <AA16742@karazm.math.uh.edu>; Wed, 3 Apr 91 17:16:52 CST
+Received: by SUNED.ZOO.CS.YALE.EDU; Wed, 3 Apr 91 18:11:34 EST
+From: Doug Fields <fields-doug@CS.YALE.EDU>
+Message-Id: <9104032311.AA27354@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (hare) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Wed Apr  3 18:11:32
+To: tynor@prism.gatech.edu (Steve Tynor)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Wheels 
+In-Reply-To: Your message of "Wed, 03 Apr 91 17:47:59 EST."
+             <9104032247.AA05713@prism.gatech.edu> 
+Date: Wed, 03 Apr 91 18:11:31 -0500
+
+
+>| May I recommend (as I was recommended by many people) that you
+>| get rid of your stock brake pads? Apparently these do not transmit
+>| heat too well and can warp your rotors. A brand "Frodo" or something
+>| like that was recommended to me.
+>
+>Tell me more: is this something I need to worry about?
+
+Everything I heard said that there were two things you should do ASAP
+if you plan to track your car regularly (which I must admit I do plan
+to within the limits of my finances). First, they said, change your brake
+pads. You apparently have to get a set of pads which transmit heat to
+the brake calipers really well, and in order to do that they are generally
+made out of much harder or metal-containing material. As I said, they
+mentioned a "Frodo" (or something like that) that they recommend. They
+(my they's are generic to people I met at the track) recommended as well
+to consider some sort of method of cooling the brakes even more. Something
+like a vent that goes from that small little hold in front of your front
+wheels on a 951 to point it directly at the brake rotor or something. I'm
+not sure, and that was of secondary importance. The breaks do get REALLY
+hot. Remember NOT to engage your parking brake after coming off the track...
+That'll ruin your rotors too!
+
+Anyway the other thing they mentioned would make a big difference was putting
+on new rubber... So, I'm going to get rid of my Eagles and put on something
+that is passable on the street. I don't drive my car much due to school... It
+sits in the garage weekdays without use.
+
+>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+>Porsche - there is no substitute.
+
+Of course not... Need that be said?
+
+:)
+
+Doug
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 18:11:18 1991
+Received: by karazm.math.uh.edu id <AA17316@karazm.math.uh.edu>; Wed, 3 Apr 91 18:11:18 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA17306@karazm.math.uh.edu>; Wed, 3 Apr 91 18:10:41 CST
+Received: from Sun.COM ([192.9.9.1]) by bcm.tmc.edu (AA09479); Wed, 3 Apr 91 13:43:29 CST
+Received: from Eng.Sun.COM (zigzag-bb.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA09076; Wed, 3 Apr 91 11:42:25 PST
+Received: from abingdon.Eng.Sun.COM by Eng.Sun.COM (4.1/SMI-4.1)
+	id AA25077; Wed, 3 Apr 91 11:42:27 PST
+Received: from localhost by abingdon.Eng.Sun.COM (4.1/SMI-4.1)
+	id AA08445; Wed, 3 Apr 91 14:42:53 EST
+Message-Id: <9104031942.AA08445@abingdon.Eng.Sun.COM>
+To: porschephiles@bcm.tmc.edu
+Subject: 77 924 for sale
+Date: Wed, 03 Apr 91 14:42:53 EST
+From: banta@eng.sun.com
+
+
+
+For those in the bay area:
+
+1977 Porsche 924, featuring
+     - American Racing alloy wheels
+     - brand new Goodyear Eagle GT+4 tires
+     - sunroof
+     - Peak Power AM/FM/Cass Stereo, Blaupunkt speakers
+     - 4 speed
+     - excellent maintenance
+     - 27-28 mpg, observered in recent driving
+     - receipts for most, if not all, professional service
+     - body in good condition
+
+Comments:
+     - 25K on current clutch
+     - 30K on fairly complete brake work (including calipers,
+       wheel cyls, rotors and drums)
+     - 5K on Ferodo front brake pads, rears did not need replacement at time
+     - 4 months on new battery
+     - about six months since cooling system work (radiator
+       rodded, hoses and thermostat replaced)
+     - aligned with new tires, alignment data available
+     - all equipment smog legal
+     - compression on all cylinders: 135-150
+     - no plates (sorry, I'm keeping my DEV NUL plates)
+     - driver's side carpet shows wear
+     - other interior carpet faded from years of sun, but otherwise
+       in good shape
+     - bright "signul grun" (signal green) exterior, tan interior
+     - brand new CIS/ignition module
+
+Asking:
+     $2500, cash or equivalent.  Price is negotiable, terms are not.
+
+Contact:
+     andy banta, at 408-448-2524, or respond to this posting
+
+andy
+banta@abingdon.sun.com
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 19:01:18 1991
+Received: by karazm.math.uh.edu id <AA17722@karazm.math.uh.edu>; Wed, 3 Apr 91 19:01:18 CST
+Received: from valhalla.ee.rochester.edu (ee.rochester.edu) by karazm.math.uh.edu id <AA17676@karazm.math.uh.edu>; Wed, 3 Apr 91 18:54:12 CST
+Received: from socrates.ee.rochester.edu 
+	by valhalla.ee.rochester.edu (4.1/cf1.40ee) 
+	id AA03215; Wed, 3 Apr 91 19:53:51 EST
+From: Mark Sirota  <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/1.2client) id AA17300; Wed, 3 Apr 91 19:53:21 EST
+Date: Wed, 3 Apr 91 19:53:21 EST
+Message-Id: <9104040053.AA17300@socrates.ee.rochester.edu>
+In-Reply-To: tynor@prism.gatech.edu (Steve Tynor)
+       "Wheels" (Apr  3,  5:47pm)
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: tynor@prism.gatech.edu (Steve Tynor), porschephiles@karazm.math.uh.edu
+Subject: Re: Wheels
+
+On Apr  3,  5:47pm, Steve Tynor writes:
+> Well, I'm not sure I can either, but it doesn't hurt to shop around. All
+> the hot drivers at last weeks autocross were driving on Yokohama 008Rs.
+> Everyone was very excited about a new tire just out: the 008RS or 008S
+> (? they were just calling them 'S').  Someone said he picked up a set
+> mail order for about $85/each and they're supposedly 'even better' than
+> the 'R'. These are probably the tires I'll end up with - I just hate to
+> tear up my street Potenzas at $180 a pop. The reason I'm considering
+> wheels too ...
+
+Okay, those of you who have the autocross bug, listen up.
+
+Tires: There are currently two major selections - the Yokohama A008RS and
+the BFGoodrich Comp T/A R1.  You can't go wrong with either of these tires.
+I use the BFGoodrich for a number of reasons, which I won't go into here,
+but the Yoko is also an excellent tire.
+
+Some quick words on the Yokohama line of competition tires: the A008RS, new
+this season, replaces the A008RTU, which replaced the A008R a year and half
+ago.  Also last year, the A001R was discontinued.
+
+The BFG Comp T/A R1 is new this year, too; BFG has two compounds - the 204
+is the high-heat compound for track use, and the 206 is the low-temp
+compound for autocrossing.  The 204 will also work well for autox, and is
+probably comparable to the A008RS.
+
+Bridgestone and Hoosier also make reasonable tires for this sort of use.
+Goodyear and General have made stabs at it, but have not really come too
+close.
+
+It's worthwhile to have a second set of wheels with your competition tires
+mounted.  It's a significant initial expense, but it pays off in the long
+run (competition tires are cheaper, and your street tires don't get chewed
+up so much and still work well in the rain).  Not to mention that the
+difference in handling and braking with competition tires is *AMAZING* -
+it's just lots more fun on sticky rubber.
+
+>> May I recommend (as I was recommended by many people) that you
+>> get rid of your stock brake pads? Apparently these do not transmit
+>> heat too well and can warp your rotors. A brand "Frodo" or something
+>> like that was recommended to me.
+> 
+> Tell me more: is this something I need to worry about?
+
+Ferodo would be the company you're thinking of.  A word of wisdom - these
+high-heat brake pads don't work very well for autocrossing.  They're a must
+for the racetrack, though.  For autocrossing, use stock pads.  Your brakes
+just don't get hot enough to make the race pads work well.
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr  3 21:21:19 1991
+Received: by karazm.math.uh.edu id <AA18279@karazm.math.uh.edu>; Wed, 3 Apr 91 21:21:19 CST
+Received: from  visual2.tamu.edu  ([128.194.2.142]) by karazm.math.uh.edu id <AA18266@karazm.math.uh.edu>; Wed, 3 Apr 91 21:14:44 CST
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA18504; Wed, 3 Apr 91 21:08:45 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA01011; Wed, 3 Apr 91 21:11:15 PST
+Date: Wed, 3 Apr 91 21:11:15 PST
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <9104040511.AA01011@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: Speaking of mileage...
+
+
+Always a new question:
+
+A 1977 924 is getting:
+>     - 27-28 mpg, observered in recent driving
+
+How's everybody else doing?  More directly, I'm getting on my '84  
+944:
+
+15 mpg city - tiny city averaging 10 minute driving time :-( I know I  
+	know...
+23 mpg hwy - I rarely get a full tank of highway.
+
+How's that?  It's been consistent for a long while though I noticed a  
+slow drop to these levels about 6 months after coming to this little  
+city 2.5 years ago.
+
+JBSaxon ?-)
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 03:01:20 1991
+Received: by karazm.math.uh.edu id <AA18869@karazm.math.uh.edu>; Thu, 4 Apr 91 03:01:20 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA18864@karazm.math.uh.edu>; Thu, 4 Apr 91 02:58:22 CST
+Received: from mips.com by bcm.tmc.edu (AA17120); Thu, 4 Apr 91 02:57:53 CST
+Received: from ralph.mips.com by mips.com (5.61.15/2.7) id AA15831; 
+	Thu, 4 Apr 91 00:57:49 -0800 
+Received: by ralph.mips.com (5.61/Relay-2.11) 
+	id AA23968; Thu, 4 Apr 91 00:57:47 -0800
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9104040857.AA23968@ralph.mips.com>
+Subject: mileage
+To: porschephiles@bcm.tmc.edu
+Date: Thu, 4 Apr 91 0:57:44 PST
+X-Mailer: ELM [version 2.3 PL11]
+
+Since I don't know how to drive fast (yeh, yeh I know what a waste to have a
+89' 951S), I tried to achieve another record: highest mpg per full tank.
+So far - 26.3 mpg, and that was taken shortly before the 15,000 tune up, and
+of course 95% of the driving was done on the freeway.
+
+I haven't tried to take the measurement since the tune up.
+
+Talking about the side effect from not knowing how to drive fast, I don't
+see why tires need to be changed every 10-15K miles.  Mine with 20,000 miles on
+them look like new to me.
+> 
+> How's everybody else doing?  More directly, I'm getting on my '84  
+> 944:
+> 
+> 15 mpg city - tiny city averaging 10 minute driving time :-( I know I  
+> 	know...
+> 23 mpg hwy - I rarely get a full tank of highway.
+> 
+> How's that?  It's been consistent for a long while though I noticed a  
+> slow drop to these levels about 6 months after coming to this little  
+> city 2.5 years ago.
+> 
+> JBSaxon ?-)
+> 
+> 
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 04:11:20 1991
+Received: by karazm.math.uh.edu id <AA18890@karazm.math.uh.edu>; Thu, 4 Apr 91 04:11:21 CST
+Received: from  visual2.tamu.edu  ([128.194.2.142]) by karazm.math.uh.edu id <AA18885@karazm.math.uh.edu>; Thu, 4 Apr 91 04:07:19 CST
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA19913; Thu, 4 Apr 91 04:01:20 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA02250; Thu, 4 Apr 91 04:04:02 PST
+Date: Thu, 4 Apr 91 04:04:02 PST
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <9104041204.AA02250@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: Nomination for drivers school.
+
+
+>Since I don't know how to drive fast (yeh, yeh I know what a waste  
+>to have a 89' 951S), I tried to achieve another record: highest mpg  
+>per full tank. So far - 26.3 mpg, and that was taken shortly before  
+>the 15,000 tune up, and of course 95% of the driving was done on the  
+>freeway.
+
+Tsk tsk tsk!!!  Sounds like a candidate for immediate enrollment into  
+the nearest auto-x school.  You'll find that your 951 doesn't even  
+feel right unless it's running around 4-5k rpm (at least that's what  
+it is for me, in my ancient 944 so I imagine it's a little broader  
+for you) then the mix of power and control really start to mean  
+something.  Just make a rule not to shift into fourth or fifth gear  
+and you'll get a new appreciation for your car. :-)
+
+Consider this a very light light light flame...  I'm certain that  
+your "waste" puts the shudders in a couple of people out there like  
+myself.  I'll give you some lessons if you want, free of charge :-)
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 06:51:20 1991
+Received: by karazm.math.uh.edu id <AA19079@karazm.math.uh.edu>; Thu, 4 Apr 91 06:51:21 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA19074@karazm.math.uh.edu>; Thu, 4 Apr 91 06:48:57 CST
+Received: from shark.cs.fau.edu by bcm.tmc.edu (AA18311); Thu, 4 Apr 91 06:48:15 CST
+Received: by shark.cs.fau.edu id AA22350
+  (5.65a/IDA-1.4.2 for porschephiles@bcm.tmc.edu); Thu, 4 Apr 91 07:47:22 -0500
+Received: from ankh with uucp; Thu, 4 Apr 91 07:40:51
+Received: by ankh.ftl.fl.us (/\=-/\ Smail3.1.18.1 #18.6)
+	id <m0jOTcO-00028rC@ankh.ftl.fl.us>; Thu, 4 Apr 91 07:40 EST
+Message-Id: <m0jOTcO-00028rC@ankh.ftl.fl.us>
+Date: Thu, 4 Apr 91 07:40 EST
+From: pax@ankh.ftl.fl.us (Garry M. Paxinos)
+To: porschephiles@bcm.tmc.edu
+Subject: Speaking of mileage...
+
+
+James Bennett Saxon writes:
+ > How's everybody else doing?  More directly, I'm getting on my '84  
+ > 944:
+ > 
+ > 15 mpg city - tiny city averaging 10 minute driving time :-( I know I  
+ > 	know...
+ > 23 mpg hwy - I rarely get a full tank of highway.
+ > 
+
+I'm getting roughly :
+
+         28 mpg hwy  - I do mostly hwy driving  (without a/c)
+         23 mpg city - again without a/c.
+
+on my '86 944T.  But as summer is rapidly approaching, I will have to
+start using the a/c again shortly... <sigh>
+
+Pax.
+
+Email  : pax@ankh.ftl.fl.us    pax@metrolink.com    gmp@pinet.aip.org
+USNail : 3868 NW 21 Ct.  Coconut Creek, Fl 33066          Voice : 305-973-8478
+UUCP   : {uflorida.edu!novavax, mthvax, herctec, cs.fau.edu, attmail}!ankh!pax
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 08:01:21 1991
+Received: by karazm.math.uh.edu id <AA19192@karazm.math.uh.edu>; Thu, 4 Apr 91 08:01:21 CST
+Received: from drs4330b.erim.org ([35.196.36.5]) by karazm.math.uh.edu id <AA19187@karazm.math.uh.edu>; Thu, 4 Apr 91 07:59:53 CST
+Received: by drs4330b.erim.org (4.1/SMI-4.1)
+	id AA01087; Thu, 4 Apr 91 08:57:54 EST
+Date: Thu, 4 Apr 91 08:57:54 EST
+From: vayda@drs4330b.erim.org (Alan Vayda)
+Message-Id: <9104041357.AA01087@drs4330b.erim.org>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: mileage
+
+My 1983 944 (100500 miles) gets 18-20 city and 27 highway.
+
+Alan Vayda
+vayda@drs4330b.erim.org
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 09:31:20 1991
+Received: by karazm.math.uh.edu id <AA19327@karazm.math.uh.edu>; Thu, 4 Apr 91 09:31:20 CST
+Received: from brahms.udel.edu ([128.175.13.16]) by karazm.math.uh.edu id <AA19310@karazm.math.uh.edu>; Thu, 4 Apr 91 09:27:49 CST
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA02989; Thu, 4 Apr 91 10:27:11 -0500
+Message-Id: <9104041527.AA02989@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Thu, 4 Apr 1991 10:27:11 EST
+In-Reply-To: Doug Fields <fields-doug@CS.YALE.EDU>
+       "Re: Wheels" (Apr  3,  5:20pm)
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: Doug Fields <fields-doug@CS.YALE.EDU>,
+        tynor@prism.gatech.edu (Steve Tynor)
+Subject: Re: Wheels
+Cc: porschephiles@karazm.math.uh.edu
+
+} May I recommend (as I was recommended by many people) that you 
+} get rid of your stock brake pads? Apparently these do not transmit
+} heat too well and can warp your rotors. A brand "Frodo" or something
+} like that was recommended to me.
+} 
+} Any other suggestions, anyone?
+} 
+} Doug
+
+I have been having pretty damn good luck with the Repcos on 951S brakes.
+Concidering $33 a set and $28 a set (F/R) they stop pretty damn good.
+
+This is track usage.  I'm not a slug on the brakes either.
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 10:11:20 1991
+Received: by karazm.math.uh.edu id <AA19384@karazm.math.uh.edu>; Thu, 4 Apr 91 10:11:20 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA19369@karazm.math.uh.edu>; Thu, 4 Apr 91 10:04:05 CST
+Received: from brahms.udel.edu ([128.175.13.16]) by bcm.tmc.edu (AA20549); Thu, 4 Apr 91 09:37:16 CST
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA03409; Thu, 4 Apr 91 10:36:46 -0500
+Message-Id: <9104041536.AA03409@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Thu, 4 Apr 1991 10:36:45 EST
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: mileage
+
+951T
+
+Best highway: 27
+Avg highway:  24
+Avg city:     18
+Avg track:     6
+Backroads:    12
+
+The "Happy boost" really hurts when you step on it.
+
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 13:51:20 1991
+Received: by karazm.math.uh.edu id <AA20785@karazm.math.uh.edu>; Thu, 4 Apr 91 13:51:20 CST
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA20755@karazm.math.uh.edu>; Thu, 4 Apr 91 13:49:09 CST
+Received: by NRI.NRI.Reston.VA.US id ao29972; 4 Apr 91 14:38 EST
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab00500;
+          3 Apr 91 20:38 EST
+Date: Thu, 4 Apr 91 01:29 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Richard Cole <colers@prl.philips.co.uk>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911 heat exchangers
+Message-Id: <91910404012919/0004056890NB4EM@mcimail.com>
+
+I have heard nothing but good things about the SSI heat exchangers.  But I drive
+a water-cooler, and observe from that remove.  I know Bruce Anderson likes 'em.
+
+Avoid any heat exchangers with welds inside the boxes!  A very few early 911's
+had them, and any leak can easily be literally fatal.  I read a piece last year
+about a UK driver who passed out at the wheel because of the carbon monoxide.  I
+cannot imagine any reputable part being on the market these days with this
+misdesign.  Ie, if it has it, it's a cheap knock-off.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 13:51:23 1991
+Received: by karazm.math.uh.edu id <AA20789@karazm.math.uh.edu>; Thu, 4 Apr 91 13:51:23 CST
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA20758@karazm.math.uh.edu>; Thu, 4 Apr 91 13:49:16 CST
+Received: by NRI.NRI.Reston.VA.US id ap29972; 4 Apr 91 14:38 EST
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af00500;
+          3 Apr 91 20:38 EST
+Date: Thu, 4 Apr 91 01:36 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Doug Fields <fields-doug@cs.yale.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: Steve Tynor <tynor@prism.gatech.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Wheels
+Message-Id: <11910404013611/0004056890NB1EM@mcimail.com>
+
+Steve and Doug,
+
+The pads you refer to are Ferodo DS-11's.  You can get 'em for 951 and 951S cars
+(and I would assume the 944S2 since they have 951 brakes), but not for 944 or
+944S.  These pads are NOT suitable for street use, because they must be warmed
+up before they start gripping.  
+
+The brake cooling kit is the Holbert Cool-Brake now being sold by Bob Russo.  I
+don't know anyone else who sells such a kit for 944-series cars.  There are a
+number of suppliers for 911-series cars, for example, Alan Johnson Racing.  The
+Holbert kit is a bear to install, and was IMHO not a very well made thing.  I
+can send you soft copy of an article I wrote on the subject a couple of years
+ago.  It is indeed worth it if you need it.
+
+If you're new to track events, you really don't have to get DS-11's or a
+Cool-Brake to go faster or have fun.  You can wait until the symptoms arise with
+your stock set-up: pedal fade, glazing, warping.  Your instructor can point it
+out to you when it happens.  Of course, once you've warped your rotors it is a
+little late...
+
+The tires are Yokohama A008RS', and if you can get a set of 245/45 x 16's, CALL
+ME COLLECT RIGHT AWAY: 617 621 0095!!!  I have been trying to get them ever
+since Tech Tactics, but Yoko is, as far as I can tell, jerking people around as
+they did last year.  Folks are living off of last years A008RTU's and random
+A008R's left in stock.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 14:31:20 1991
+Received: by karazm.math.uh.edu id <AA21086@karazm.math.uh.edu>; Thu, 4 Apr 91 14:31:20 CST
+Received: from att.att.com by karazm.math.uh.edu id <AA21031@karazm.math.uh.edu>; Thu, 4 Apr 91 14:25:15 CST
+From: muenchen@ihlpm.att.com
+Date: Thu, 4 Apr 91 13:15 CST
+Original-From: ihlpm!muenchen (Robert L Duncan +1 404 573 4144)
+To: porschephiles@karazm.math.uh.edu
+Subject: autocross to learn vehicle, driving
+
+> Since I don't know how to drive fast (yeh, yeh I know what a waste to have a
+> 89' 951S), I tried to achieve another record: highest mpg per full tank.
+> So far - 26.3 mpg, and that was taken shortly before the 15,000 tune up
+
+	Violet -
+
+	A suggestion on how to have fun, learn to to drive better 
+(and faster), and safely explore the handling of your Porsche:
+try an autocross (especially if your area has an beginner's autocross
+school, which many areas offer early in the year).  It's cheap
+(you can graduate to $1000 track courses with Bob Bondurant later),
+and a lot of fun!
+
+		Robert Duncan
+		AT&T Bell Labs, Atlanta, GA
+		robert_l_duncan@ihlpm.att.com
+	
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 14:41:20 1991
+Received: by karazm.math.uh.edu id <AA21168@karazm.math.uh.edu>; Thu, 4 Apr 91 14:41:20 CST
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA21133@karazm.math.uh.edu>; Thu, 4 Apr 91 14:38:17 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA07896; Thu, 4 Apr 91 12:37:18 PST
+Date: Thu, 4 Apr 91 12:37:18 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9104042037.AA07896@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: oversize wrist pin bushings
+
+One of the connecting rods from the 356 engine I am working on has a spun
+wrist pin bushing.  My machinist said he doesn't have any over-size
+bushings, and he says the hole in the rod is about .001" oversize as a
+result of spinning.  The old bushing is loose enough that it can be pushed
+out or back in by hand.  He said he can make a new bushing which will
+custom-fit.  The cost would be ~$30.
+
+Is this the way to go?  Are there premanufactured oversize rod bushings
+available?
+
+-Dave Erickson
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 15:51:20 1991
+Received: by karazm.math.uh.edu id <AA21949@karazm.math.uh.edu>; Thu, 4 Apr 91 15:51:21 CST
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA21901@karazm.math.uh.edu>; Thu, 4 Apr 91 15:45:08 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA07950; Thu, 4 Apr 91 13:44:15 PST
+Date: Thu, 4 Apr 91 13:44:15 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9104042144.AA07950@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: PAP
+
+I've had problems ordering from PAP - am I the only one?
+
+Specifics: I ordered several items, one of which was not in the package,
+but was billed anyway.  When I called to report the missing item, they
+said just add it on to the next order - we won't bill you for it.  The
+missing item was a $3.50 valve cover gasket, so I was not too worried.
+
+The next time I ordered, I mentioned that I had been shorted, explained
+what I had been told, the salesman said no problem.  The order arrived 
+without the missing item.  At that point I didn't feel like making an issue
+out of it.
+
+Last week I called to check a price for a pressure plate, and was quoted
+$80.  I called back and placed the order, along with 8 valve springs
+and some bearings.  This time I was quoted $115 for the pressure plate.
+I mentioned the previous quote, and the salesman said "I can live with
+that."  The order arrived without the pressure plate and with used,
+rusty (!) valve springs, at $5 each.  Boy, was I mad.  They agreed to
+take the valve springs back, and issue a credit, but the salesman
+insisted he had said used valve springs when I placed the order.  He
+didn't see anything wrong with sending rusty valve springs!  I asked 
+about the pressure plate, and he said they don't back order.  The
+price was $115.  It was in stock.  After some pointed discussion, he
+agreed to send it for $80.  It remains to be seen if it will arrive.
+
+-Dave Erickson
+
+From jet  Thu Apr  4 16:41:25 1991
+Received: by karazm.math.uh.edu id <AA22929@karazm.math.uh.edu>; Thu, 4 Apr 91 16:41:25 CST
+Received: from Sun.COM by karazm.math.uh.edu id <AA22896@karazm.math.uh.edu>; Thu, 4 Apr 91 16:38:18 CST
+Received: from snail.Sun.COM (snail.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA11804; Thu, 4 Apr 91 06:41:03 PST
+Received: from East.Sun.COM by snail.Sun.COM (4.1/SMI-4.1)
+	id AA12124; Thu, 4 Apr 91 06:41:01 PST
+Received: from suneast.East.Sun.COM by East.Sun.COM (4.1/SMI-4.1)
+	id AA06540; Thu, 4 Apr 91 09:40:58 EST
+Received: from visibility.East.Sun.COM by suneast.East.Sun.COM (4.1/SMI-4.1)
+	id AA08941; Thu, 4 Apr 91 09:36:47 EST
+Received: by visibility.East.Sun.COM (4.1/SMI-4.1)
+	id AA00513; Thu, 4 Apr 91 09:40:54 EST
+Date: Thu, 4 Apr 91 09:40:54 EST
+From: pmoody@East.Sun.COM (Paul Moody - Sun BOS Software)
+Message-Id: <9104041440.AA00513@visibility.East.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: Speaking of mileage...
+
+I'm getting 20mpg (about 75% hwy, 25% city) in my 1980 928, with 77,000.
+
+Strictly hwy has yielded 23mpg. Strictly insane driving yields about 10mpg!
+
+Paul
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 18:31:22 1991
+Received: by karazm.math.uh.edu id <AA24045@karazm.math.uh.edu>; Thu, 4 Apr 91 18:31:22 CST
+Received: from relay1.UU.NET ([192.48.96.16]) by karazm.math.uh.edu id <AA23932@karazm.math.uh.edu>; Thu, 4 Apr 91 18:21:34 CST
+Received: from auspex.UUCP by relay1.UU.NET with UUCP 
+	(5.61/UUNET-shadow-mx) id AA19549; Thu, 4 Apr 91 19:21:11 -0500
+Date: Thu, 4 Apr 91 15:58:37 PST
+From: auspex!brogers@uunet.UU.NET (Bob Rogers)
+Message-Id: <9104042358.AA22922@auspex.com>
+To: uunet!karazm.math.uh.edu!porschephiles@uunet.UU.NET
+Subject: Another car for sale
+
+
+Another bay area car for sale. Shipping of course is possible...
+
+
+
+1979 Porsche 930
+Black with Black Interior
+Repainted, new glass, rubber, tires and interior
+underside redone and repainted. Car has not been
+in the wet since it was redone.
+Rims were chromed with the Porsche emblem repainted
+oil lines and wiring was replaced as required
+Andial Micro-fueler added
+Engine gaskets and seals replaced
+Upraded cam tensioner
+Tranmission resealed and worn parts replaced
+934 boost adjust with 934 boost gauge
+
+$ 42,000.00
+
+Contact Robert Rogers Auspex Systems (408) 492-0900
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr  4 20:21:21 1991
+Received: by karazm.math.uh.edu id <AA24417@karazm.math.uh.edu>; Thu, 4 Apr 91 20:21:21 CST
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA24404@karazm.math.uh.edu>; Thu, 4 Apr 91 20:17:08 CST
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab08617;
+          4 Apr 91 21:10 EST
+Date: Fri, 5 Apr 91 02:00 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: Porsche Cars North America <0004537177@mcimail.com>
+Subject: Tech Tactics XI
+Message-Id: <95910405020059/0004056890NB1EM@mcimail.com>
+
+At the suggestion of Chris Welty, here's a copy of an article I wrote for the
+Northeast Region's newsletter on Zone 1's Tech Tactics XI, held a month ago. 
+For those of you silly enough not to be PCA members (hi Paul!), Zone 1 covers
+all of the top right corner of North America.  Tech Tactics is a week-end affair
+much like the longer-extant War Bonnet.
+
+--------------------------------------------------------------------
+
+Tech Tactics XI                                       Kevin Gross
+
+Each spring for the last eleven years, Zone 1 has hosted a week-
+end get-together known as Tech Tactics.  From Friday evening
+through Sunday afternoon, several hundred PCA'ers spend time
+talking about all manner of Porsche-related things.  This year,
+saw a very large contingent of Northeast folk in attendance, too
+many to list here.
+
+It became apparent last year that we had outgrown the Enfield,
+Conn. Harley Hotel, and so the site was moved this year to the
+Springfield Sheraton at Monarch Place, right in the downtown.
+This change turned out very well.  The hotel is much larger, and
+the rooms are nice.  It has a few restaurants of its own and,
+because it's right in Springfield, there are a number of good
+restaurants within walking distance.
+
+Four tire companies sponsored different parts of the week-end:
+Yokohama, B.F. Goodrich, Pirelli, and Bridgestone.  With the slow
+economy these days, tire companies are being a lot more selective
+in their promotions.  We must be doing something right to get all
+four of them.  Yokohama got us off to a start by sponsoring a
+hospitality suite Friday evening, complete with a fine selection
+of German beers and wines, and assorted munchies.
+
+Saturday morning started with a talk by John Paterak on
+"Streetwise: Preparation for the Boston concours (street class)."
+Sort of.  A big part of John's talks always covers what products
+and processes he's discovered over the last twelve months.  He
+started with a long list of advice on preparing your cars for
+concoursing (you had to be there...).  For example, you should
+avoid overdoing polishing of engine parts such as the 911 series'
+fans, which come rough from the factory.  He recommends Wurth's
+HS 2000 for lubricating hood latches and doors, since it can be
+directed and dries to a gel.  Do lubricate things - you'll lose
+points if a dry latch won't open and your trunk cannot be
+inspected!  And, of course, clean everything and everywhere,
+especially behind the gas pedal (right, Alex?).
+
+John's product picks include 3M Imperial Hand Glaze, which he
+recommends for polishing.  It works especially well on black
+cars.  Check your progress with a spot light or a flash light,
+which will show scratches and swirls better than fluorescents.
+Put the glaze onto a 100% cotton rag, and fold any seams under,
+balling up the rag.
+The factory has just come out with new targa door and roof seals
+for the 911's.  They are made of a new rubber which apparently
+will not deteriorate in the traditional fashion.  Surflex is now
+being recommended by Porsche for redying worn leather seat
+bolsters.  Black is a standard color; other colors will be mixed
+to sample.  PCNA will now issue new door jam stickers for those
+of you who have lost the original, if you provide them with
+proper documentation.   And the list goes on.  In fact, John
+handed out the list of twenty-eight different products he
+recommended.
+
+A coffee break followed, and this was our first chance to mob the
+concession area.  Each of the sponsoring tire companies had a
+manned booth.  And there were booths manned by Stoddard Imported
+Cars, 912 Enterprises, Performance Video, etc. with all manner of
+products for sale.  Our own Nann and Don did a land-office
+business selling Boston '91 tee shirts.
+
+Bruce Anderson, our National Technical Chair, followed the coffee
+break with a talk on the "Evolution and Modifications of 911
+Engines."  You want to know about crankcases?  You came to the
+right place.  One bit of trivia is that, with a small number of
+exceptions such as the 906, Porsche has always used the same
+crankcase on their street and race cars.  Another is that Porsche
+updates styles when their tooling wears out.  For example, the
+928 fenders and 911 crankcases were updated once the old tooling
+was shot.
+
+Despite his long history with Porsche engines, Bruce is a firm
+believer in the electronic engine management systems in use
+today.  The future of hot-rodding engines lies, he says, in the
+DME, using systems like Haltech's.  Of course, making changes
+involves updating many, many data points in the chip sets, unlike
+swapping three jets in a carburetor.
+
+Bob White spoke next.  We got the benefit of his years working
+with Porsche in the form of a history and photographic tour of
+the Weissach research center.  Porsche AG derives a surprisingly
+large fraction of their revenues from research work done there on
+contract to any number of companies.  Projects have included the
+A300 Airbus cockpit design, firetrucks, ambulances, crash testing
+of Corvettes, all-wheel drive Fords, forklifts, and BMW
+motorcycles.  And did you know that the Porsche/Piech family also
+imports all of VW and Audi for Austria?
+
+Bob brought along some film footage Porsche shot in the late
+fifties.  They were evaluating the handling of their cars and
+others on in conditions very much like autocrossing.  "Handling"
+is perhaps much too genteel a word, especially when the passenger
+had to hike out his window to keep one car from flipping.
+
+After a buffet lunch sponsored by B.F. Goodrich, the ever droll
+Jim Newton gave a talk entitled "Understeer, Oversteer, Where to
+Steer?"  One point he made was not to focus too closely on wheel
+well heights; instead, it is most important that the weight borne
+by each wheel be balanced.  Since restoration is his job, Jim
+advised us to watch for wear and rust in suspension parts,
+especially the torsion bars and chassis parts to which the
+suspension bolts.  Rusted torsion bars can crack.  He also went
+through a number of photographed examples of reinforcement pieces
+welded into 911 series cars.
+
+Next up was Mike Valentine.  He was one of the founders of
+Cincinnati Microwave, the folks who make the Escort, Passport,
+and Solo radar detectors.  A few years ago, he left to start
+Valentine Research.  Their product is the g-Analyst, ads for
+which you have probably seen in just about all the car magazines.
+One tidbit he offered was its ability to record up to 54 minutes
+of track time if you have a laptop computer with you in the car,
+rather than the eight minutes it is normally limited to.
+
+There's no new g-Analyst hardware or software planned for the
+near future.  If you haven't upgraded to the "level 2" software
+yet, it's available for $10.  Mike does have a semi-secret
+project in the works: a radar detector.  His non-competition
+agreement with Cincinnati Microwave keeps him from saying
+anything else about it at present.  If it's half as revolutionary
+as his prior products, I would expect great things.
+
+And there were, as might be expected, plenty of radar and speed
+control questions.  Mike addressed them in a matter of fact
+manner; he clearly knows his facts.  Oh yes, apparently radar
+guns have been classified by the FDA as Class C carcinogens.
+That lead shield the officer is wearing may not be for bullets...
+
+At 4 o'clock, representatives from the four tire manufacturers
+composed a panel: Bob Strange from B.F. Goodrich, Rick Brennan
+from Bridgestone, Jack Demaio from Pirelli, and Tom Mason from
+Yokohama.  Each gave a brief talk on the state of his company's
+art.  Jack Demaio dropped the only bombshell, introducing for the
+first time in the US their P Zero C "specialist" tire.  Its
+asymmetric tread resembles that of the Yoko A008 series.  It will
+be available in 13 - 17" size, is Z-rated, has a 7/32" unshaven
+depth, and has a high modulus tread compound (whatever that
+means).  Pirelli worked with the Porsche Club Italia in
+developing the tire.
+
+Tom Mason was extremely apologetic for his company's broken
+promises regarding the RTU series last year.  The A008RS will be
+available by the second quarter this year, and at "dramatically
+reduced" prices.  Yokohama will be bringing a truck track-side to
+SCCA national, regional, and solo events, and to PCA zone-level
+events.  Late breaking news: this reporter has been on the phone
+regularly with KT Motorsports in New York state.  The latest word
+is that the RS's have been released from port, and they are just
+waiting for the truck to show up at their door.  Prices are
+indeed dramatically less.
+
+Bob Strange fielded a few questions from the audience.  One piece
+of advice was that shaved tires generally need more wheel weights
+to balance; four or five ounces is not unusual.  Wurth make wheel
+weights with a very strong glue, which will help those of use who
+lose weights at the track because of melted glue.
+
+And so ended the first day of presentations.  Pirelli sponsored a
+cocktail hour, and Bridgestone sponsored a fine dinner.  The
+after-dinner speaker was PCA's Alan Friedman, who brought us up
+to date on the PCA racing program you've read about in Pano.
+Judging from the audience's questions, there is still a fair bit
+of uncertainty concerning the expected (and tolerated) level of
+competitiveness: is this an SVRA-style Sunday drive, or is it
+more of an SCCA Solo program?  To help clear the waters, Alan
+showed a very exciting videotape of a like series run by the PC
+Great Britain.  Their cars are clearly not street-driven and each
+driver is sponsored.  We saw very little car-to-car contact,
+despite what was definitely hammer-and-tongs competition.
+
+Sunday's session ran a half-day.  We started with Louis Ruf, head
+of the famed Ruf tuning shop.  He brought with him a videotape of
+Stefan Roser driving the Yellowbird at the Nurburgring.  I would
+hate to be Stefan's tire sponsor; he demonstrated a very smooth,
+consistent, technique of sliding the car through every turn.
+
+Louis ran through a list of new products planned or ready for the
+964 series (ie, the Carrera 4 and 2 cars).  They have a new
+series of 8x17 and 9x17 wheels, asymmetric "run flat" hump design
+like Denloc, but able to wear conventional tires.  There will be
+a spoiler lip for the front, bolt-on shock tower braces, a
+lowering suspension kit, springs and shocks.  And a sports
+muffler which works with the existing catalytic converter, has a
+right side twin-pipe tip, and restores the 911 baffle sound.
+How about a 75 mph relay for the rear spoiler?  It seems that
+some police have caught on to the speed at which the stock
+spoiler is raised!
+
+In the planning stages are a BTR modification for the new 911
+Turbo, and a brand new CTR-2.  The latter will be a 964 twin
+turbo, with a 3.4 litre engine.  Initially available as a two-
+wheel drive, later as a four-wheel drive.  And 962 brakes for the
+Carreras with ABS.  Finally, Ruf is working on two lightweight
+Carrera RS', and has started taking on 356 series work.
+
+Our final speaker was Tim Deroin of In-Car Cameras.  He gave us
+an interesting overview of the way all those in-car cameras work,
+and just how expensive they are.  Some Daytona cars are currently
+carrying as many as three or four cameras, pointing out front,
+from the rear bumper, at the driver's face, and at his feet.
+They get controlled from the infield by a guy with a joystick.
+Running an in-car camera can cost $20,000 for the equipment plus
+another $500 and hour for the helicopter needed to relay the
+signal.  And then the driver hits the wall, of course.
+
+Tim had a bunch of advice for amateur set-ups.  The new Sony
+Handicam is a great way to go, easy to mount in the car, for
+example to the roll bar.  "Chip" cameras are recommended over
+tube models, because they won't be damaged by glare.  A Lexan
+shield is easy to make and will protect the camera from debris.
+One thing you may notice is that high-horsepower ignition can
+cause signal break-up.
+
+Finally, the event ended with all speakers assembled into a panel
+to field questions from the audience.  After all the questions
+were answered, several hundred Porsche drivers made their ways
+homeward, more knowledgeable than when they came, very eager to
+get their cars on the road for another season.
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr  5 02:51:22 1991
+Received: by karazm.math.uh.edu id <AA25545@karazm.math.uh.edu>; Fri, 5 Apr 91 02:51:22 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA25533@karazm.math.uh.edu>; Fri, 5 Apr 91 02:45:13 CST
+Received: from athena.llnl.gov by bcm.tmc.edu (AA04438); Fri, 5 Apr 91 02:44:47 CST
+Received: by athena.llnl.gov (4.1/LLNL-1.18)
+	id AA04297; Fri, 5 Apr 91 00:44:08 PST
+Date: Fri, 5 Apr 91 00:44:08 PST
+From: bert@athena.llnl.gov (Bert Still)
+Message-Id: <9104050844.AA04297@athena.llnl.gov>
+To: porschephiles@bcm.tmc.edu
+Subject: Distler Brothers
+
+
+Greetings fellow Porschephiles!
+
+I had the unfortunate circumstance of having the wheel bearing go on the
+right front wheel of my 928.  This had the effect of allowing the rotor
+enough play to get into the caliper and for the hub and spindle to be damaged
+as well (have you ever seen the wheel nut literally welded to the spindle
+due to the heat?).  So, I have need for major parts.
+
+The nearby shop wants $1363 for the spindle, caliper, hub, bearings, seals,
+nut, rotors and pads (basically everything that goes between the balljoints
+and the rim) for new parts.  There is a used dealer in Anaheim by the name
+Distler Brothers.  They want $440 for the used versions of the same parts.
+The guy I talked with claimed the parts were in "fine" condition, whatever
+this means, but, I have to admit being a little skeptical at the wide
+disparity in cost.
+
+Has anyone out there had dealings with Distler Brothers?  Good or Bad?
+Any other recommendations (I'll try Kempton and DH Industries, both in
+Florida, tomorrow)?
+
+Thanks for the help!
+
+Keep her 'tween the ditches,
+
+Bert
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr  5 11:23:51 1991
+Received: by karazm.math.uh.edu id <AA26806@karazm.math.uh.edu>; Fri, 5 Apr 91 11:23:51 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA26767@karazm.math.uh.edu>; Fri, 5 Apr 91 11:17:41 CST
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by bcm.tmc.edu (AB09451); Fri, 5 Apr 91 11:17:16 CST
+Date: Fri, 5 Apr 91 12:16:55 EST
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA07781; Fri, 5 Apr 91 12:16:55 EST
+Message-Id: <9104051716.AA07781@sirius.cs.rpi.edu>
+To: bert@athena.llnl.gov
+Cc: porschephiles@bcm.tmc.edu
+In-Reply-To: Bert Still's message of Fri, 5 Apr 91 00:44:08 PST <9104050844.AA04297@athena.llnl.gov>
+Subject: Distler Brothers
+
+
+   The nearby shop wants $1363 for the spindle, caliper, hub, bearings, seals,
+   nut, rotors and pads (basically everything that goes between the balljoints
+   and the rim) for new parts.  There is a used dealer in Anaheim by the name
+   Distler Brothers.  They want $440 for the used versions of the same parts.
+   The guy I talked with claimed the parts were in "fine" condition, whatever
+   this means, but, I have to admit being a little skeptical at the wide
+   disparity in cost.
+
+I can definitely get you these, new or used, but I need the year and
+type (s4?)....
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr  5 18:36:41 1991
+Received: by karazm.math.uh.edu id <AA29589@karazm.math.uh.edu>; Fri, 5 Apr 91 18:36:42 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA29575@karazm.math.uh.edu>; Fri, 5 Apr 91 18:34:25 CST
+Received: from brahms.udel.edu by bcm.tmc.edu (AA17126); Fri, 5 Apr 91 18:34:00 CST
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA07315; Fri, 5 Apr 91 19:33:57 -0500
+Message-Id: <9104060033.AA07315@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Fri, 5 Apr 1991 19:33:56 EST
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: More wheels, (long)
+
+ 
+ } 	To give you an approximation of the cost of wheels,
+ } I've looked at another alternative: racing/aftermarket wheels,
+ } but they also run quite a bit.  Following are prices from (Greg at)
+ } Marsh Racing Wheel (800 643-3625):
+ } 
+ } 	Steel		Aluminum		Carbon Fiber
+ }     	-----    	-------- 		------------
+ } 7X16	Not_Avail	$270        		Not_Available (est. $250) 
+ } 8X16	$115     	$270    		Not Available (est. $300)
+ } 
+ } Note: Aluminum wheels are 3-piece, weigh eleven (11) lbs.
+ } Note: Carbon Fiber wheels not expected to be available in 1991.
+ } 
+ 
+ A note on 951 wheels:
+ (offsets measured from wheel centerline)
+
+ all 944 83-86 including turbo have 23.3 mm offset, and wheels as large
+ as 8 and 9x16 can be fit on ALL MODELS, turbo or not
+ 
+ all 944 87-91 have 53.3mm offset, and largest is 8 and 9x16.  Porsche
+ SAYS the club sport wheels only fit TurboS, but this is not true, they
+ have been seen on 87s, and can even be put on early cars and all 928
+ models.  Early cars need 30mm (or so) spacers and new studs.
+ 
+ All 964 (carrera 2 and 4) wheels also have the infamous 53.3mm offset as
+ do the 928 forged "plate" wheels, seen as an option on 87 and 88 944s
+ and 951s before the club sport wheels became available.  The carrera 2
+ and 944S2 wheels are available in 6" (c2 frt) 7" (S2 frt) and 8" (both
+ rear)  All prosches currently made have the 53.3 mm offset.  Thes above
+ wheels are cars and available from robt wood at about $300 + 15 ship.
+ 
+ A last option for these cars are the rare magnesium 8" and 9" phone
+ dials which came on the Rothmanns cars.  These have been seen on 5 cars
+ last weekend, so they are available.
+ 
+ On the aftermarket marsh wheels - if you notice, the 951 theels have a
+ very odd shape in the inside, as shown in the illustration below.
+ 
+ 
+ -------
+ |
+ |
+ \__
+    |    (Hub attaches here)
+  __|
+ /
+ |
+ |
+ --------
+ 
+ -----> inside
+ 
+ 99% of aftermarket wheels ore more or less flat on the inside, and will
+ not fit the 87 and later 951 because the brake caliper sicks out farther
+ than the wheel hub due to the ABS stuff.
+ 
+ I had planned on buying marsh myself, but found that their center plates
+ will not clear the brake calipers, especially on turboS cars. and 828
+ S-4 models.
+ 
+ I ended up putting 8" phones (87) on thr front of my car.  The 7" jobs
+ will interfere with the S-4 style calipers.
+ 
+ Perhaps more than you wanted to know, but I spent alot of time on this
+ one.  BTW - 9" on the rear is no problem.  The only aftermarket wheels
+ that seem to work on these cars are BBS, which fit in 7.5" and 9.5"
+ sizes....
+ 
+ 
+ Steve
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr  5 20:26:42 1991
+Received: by karazm.math.uh.edu id <AA29884@karazm.math.uh.edu>; Fri, 5 Apr 91 20:26:42 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA29873@karazm.math.uh.edu>; Fri, 5 Apr 91 20:22:31 CST
+Received: from NRI.Reston.VA.US by bcm.tmc.edu (AA17793); Fri, 5 Apr 91 20:22:03 CST
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae02663;
+          5 Apr 91 21:12 EST
+Date: Sat, 6 Apr 91 02:02 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Bert Still <bert@athena.llnl.gov>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Distler Brothers
+Message-Id: <73910406020237/0004056890NB3EM@mcimail.com>
+
+Bert -
+
+>The nearby shop wants $1363 for the spindle, caliper, hub, bearings, seals,
+>nut, rotors and pads (basically everything that goes between the balljoints
+>and the rim) for new parts. 
+
+Some of these are "wear" items which I would not re-use from another car except
+in the cases of abject penury or being stranded far from home!  Of course,
+knowing the history of the car the parts came off helps.  If it was totalled,
+there may be hidden damage you're buying.
+
+The parts I would consider re-using are the spindle, caliper, and hub. You
+should not, imho, re-use the bearings, seals, nut, or tie-rods.  The rotors and
+pads are a toss-up: check the rotors for acceptable depth, any warping or really
+jagged grooving.  If you take pads out of a car, they should ideally be put back
+in where they came out, ie, right front outer goes back in right front outer,
+etc.  I suppose if you're careful and easy the first hundred miles that they'll
+bed in to their new homes, though.
+
+Shop the new parts prices around.  Not all dealers charge the same, by any
+stretch of the imagination!  I think they tend to really mark up the 928 stuff
+more than the other models, to boot.
+
+I'm curious: why did this problem happen in the first place?
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr  5 21:06:44 1991
+Received: by karazm.math.uh.edu id <AA00170@karazm.math.uh.edu>; Fri, 5 Apr 91 21:06:44 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA00160@karazm.math.uh.edu>; Fri, 5 Apr 91 21:05:39 CST
+Received: from brahms.udel.edu by bcm.tmc.edu (AA18111); Fri, 5 Apr 91 21:05:17 CST
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA10763; Fri, 5 Apr 91 22:05:13 -0500
+Message-Id: <9104060305.AA10763@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Fri, 5 Apr 1991 22:05:12 EST
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Wheels - for sale this time
+
+
+Any or all of the following wheels for sale:
+All are some 944 turbo OEM, some early some late offset, as listed.
+
+set 7 and 8" x 16" fuchs 23.3 mm offset for 911 or 944 early  $950
+set 7 and 8" x 16" phones same as above, OEM 86 951           $750
+7 and 8" x 16" phones 53.3 mm offset, 1 each      7" - $175, 8" $200
+pair of 8" x 16" phones, 87 and later (53.3mm offset)         $475
+
+Fuchs are as new with painted center caps.
+
+Steve
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr  5 21:06:42 1991
+Received: by karazm.math.uh.edu id <AA00166@karazm.math.uh.edu>; Fri, 5 Apr 91 21:06:42 CST
+Received: from  visual2.tamu.edu  ([128.194.2.142]) by karazm.math.uh.edu id <AA00116@karazm.math.uh.edu>; Fri, 5 Apr 91 20:57:25 CST
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA27448; Fri, 5 Apr 91 20:51:17 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA05360; Fri, 5 Apr 91 20:53:58 PST
+Date: Fri, 5 Apr 91 20:53:58 PST
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <9104060453.AA05360@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: bearing bummer for the 928
+
+
+Bert,
+
+Sorry to hear about your mishappening.  Maintenance alone is enough  
+fun on our Porsches w/o repair.  I just wanted to give you the  
+cheapest Porsche parts place I've found thanks to Jim Selders.  They  
+give either 10% off factory price or pay for shipping.  Dealers  
+aren't much fun.
+
+The place is Claire Motors (800) 354-5100.  I've talked with Barry,  
+and Jim says to talk to Mack.  Their other number is (617) 323-4600  
+and their fax number is (617) 469-4908.
+
+Good luck with the repair.
+
+James
+
+P.S.  Way to go Violet!!!
+
+
+From porschephiles-request@karazm.math.uh.edu  Sat Apr  6 16:36:43 1991
+Received: by karazm.math.uh.edu id <AA01478@karazm.math.uh.edu>; Sat, 6 Apr 91 16:36:44 CST
+Received: from hub.ucsb.edu by karazm.math.uh.edu id <AA01461@karazm.math.uh.edu>; Sat, 6 Apr 91 16:29:02 CST
+Received: from engrhub (engrhub.ucsb.edu) by hub.ucsb.edu; id AA12539
+	sendmail 4.0/UCSB-2.0-sun
+	Sat, 6 Apr 91 14:28:02 PST for porschephiles@karazm.math.uh.edu
+Received: by engrhub (5.57/UCSB-v2)
+	id AA01546; Sat, 6 Apr 91 14:15:48 PST
+Date: Sat, 6 Apr 91 14:15:48 PST
+From: treacy%engrhub@hub.ucsb.edu (George Treacy)
+Message-Id: <9104062215.AA01546@engrhub>
+To: pmoody@east.sun.com, porschephiles@karazm.math.uh.edu
+Subject: Re: Speaking of mileage...
+
+please remove me from this group
+
+thank you
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr  8 16:06:50 1991
+Received: by karazm.math.uh.edu id <AA08313@karazm.math.uh.edu>; Mon, 8 Apr 91 16:06:50 CDT
+Received: from hydra.gatech.edu ([128.61.6.11]) by karazm.math.uh.edu id <AA08192@karazm.math.uh.edu>; Mon, 8 Apr 91 16:01:04 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA02044; Mon, 8 Apr 91 17:00:36 -0400
+Date: Mon, 8 Apr 91 17:00:36 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9104082100.AA02044@prism.gatech.edu>
+To: robert_l_duncan@ihlpm.att.com
+Cc: porschephiles@karazm.math.uh.edu
+Subject: re: Road Atlanta
+
+Sorry I missed you! Which run group were you in? I was in 1 (my second
+time at Rd. Atlanta), driving a red 951 (marked #252). Glad you enjoyed
+it. It sure got my blood pumping. I'm seriously thinking of heading up
+to Mid-Ohio some time this summer and my instructor is egging me to
+drive at Road America over Labor Day (my folks live NW of Chicago, so I
+can 'justify' the long trip).
+
+I got to sit 'right seat' for Joe Cogbill when he was 'checking cones'
+at lunch time on Saturday. He drove my car to the limit! (and well past
+mine - I was hanging on for dear life - we were doing about 130mph in
+the 'dip'.)
+
+Sounds like you had good times - I was getting 2:02 - 2:10 (I'm not very
+consistent yet). I hear that the heavily modified street 930's were
+getting on the order of 1:44. Sheesh!
+
+Steve
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr  8 16:06:47 1991
+Received: by karazm.math.uh.edu id <AA08309@karazm.math.uh.edu>; Mon, 8 Apr 91 16:06:47 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA08271@karazm.math.uh.edu>; Mon, 8 Apr 91 16:04:46 CDT
+Received: from galaxy.cps.msu.edu by bcm.tmc.edu (AA15554); Mon, 8 Apr 91 16:04:20 CDT
+Received: from kelp.cps.msu.edu by galaxy.cps.msu.edu (4.1/rpj-5.0); id AA13400; Mon, 8 Apr 91 16:58:19 EDT
+Received: by kelp.cps.msu.edu (4.1/4.1)
+	id AA00678; Mon, 8 Apr 91 17:05:55 EDT
+Date: Mon, 8 Apr 91 17:05:55 EDT
+From: busdieck@cps.msu.edu
+Message-Id: <9104082105.AA00678@kelp.cps.msu.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Wheels (more)
+
+
+
+Just out of curiousity and future reference, is there any handling advantage to
+putting the 53.3mm  wheels on an 86 951 (23.3mm)?  Also which wheels are 
+considered better (lighter, stronger, etc) the Fuchs or phone dials?
+
+
+       Thanks,
+            Paul
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr  8 16:16:47 1991
+Received: by karazm.math.uh.edu id <AA08436@karazm.math.uh.edu>; Mon, 8 Apr 91 16:16:47 CDT
+Received: from relay.hp.com by karazm.math.uh.edu id <AA08412@karazm.math.uh.edu>; Mon, 8 Apr 91 16:12:24 CDT
+Received: from hpwala.wal.hp.com by relay.hp.com with SMTP
+	(16.5/15.5+IOS 3.13) id AA25535; Mon, 8 Apr 91 14:11:58 -0700
+Received: from hpwadac.wal.hp.com by hpwala.wal.hp.com with SMTP
+	(15.11/15.5+IOS 3.22) id AA07219; Mon, 8 Apr 91 17:12:36 edt
+Received: by hpwarq.HP.COM; Mon, 8 Apr 91 17:11:45 edt
+Message-Id: <9104082111.AA13178@hpwarq.HP.COM>
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Date: Mon, 8 Apr 91 17:10:59 EDT
+X-Server: hpwadac
+X-Citing: Celtics!
+X-Cargo: steamed snails
+X-Mailer: Mail User's Shell (6.5.6 6/30/89)
+To: wheeltowheel@abingdon.eng.sun.com, porschephiles@karazm.math.uh.edu,
+        british-cars@encore.com, info-vw@ames.arc.nasa.gov,
+        autox@hoosier.utah.edu
+Subject: West coast trip
+
+Hi folks,
+   Another East Coast car nut headed west...
+   I'll be in California from 4-13-91 through 4-21-91.
+   Stops planned in LA, SD, and SF (in approx that order).
+   If anything's hopping, let me know.
+   I'd like to get together with the net.car.nuts out there if possible.
+
+
+-- 
+---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr  8 16:36:47 1991
+Received: by karazm.math.uh.edu id <AA08604@karazm.math.uh.edu>; Mon, 8 Apr 91 16:36:48 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA08580@karazm.math.uh.edu>; Mon, 8 Apr 91 16:32:38 CDT
+From: muenchen@ihlpm.att.com
+Date: Mon, 8 Apr 91 15:12 CDT
+Original-From: ihlpm!muenchen (Robert L Duncan +1 404 573 4144)
+To: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu
+Subject: Laps at Road Atlanta
+
+	What'd you do this weekend?
+
+	I had a great time at Road Atlanta with the Porsche Club 
+of America (PCA), and wanted to share some of the fun. Highlights:
+	* great (but scary) track, 
+	* faultless SCCA track/corner support, and 
+	* lots of fun miles learning the track and techniques 
+	  with the PCA region's instructors.
+
+	The PeachState region PCA rented the track for the weekend
+(2.5 miles of rolling terrain, reminiscent of Road America, but not 
+so heavily forested).  As an aside, apparently Porsche is the only 
+marque club planning a weekend at Road Atlanta in '91, which seems odd. 
+
+	Instruction
+	-----------
+	Instructors rode with each driver classed as Novice or 
+Beginner; Intermediate drivers make the transition to driving solo; 
+all Advanced drivers (and Instructors) drove alone on the track.  
+Although driving instructors are not allowed in the cars of Advanced 
+drivers (as is done in the NE), the local policy was discussed this 
+weekend (and may be changed in the future).
+
+	A Lap at Road Atlanta
+	---------------------
+	The track features many significant elevation changes,
+complete with a roller coaster finish.  Here's a lap:
+
+	You enter on the front straight (1/2 mile), 
+leading onto a long, sweeping right-hand turn (1) uphill, 
+which crests *just* before a 45-degree left turn (2),
+and then you enter a long, 180-degree right-hand carousel (3),
+leading to the esses that go down and then again uphill 
+through a gulley framed by two hillsides. The first right 
+hand turn is downhill and off-camber (4), followed by a 
+flat left-right jog that precedes a severe uphill left (5)
+leading to a short chute.  Crest the hill, thru the chute,
+and you bend around a banked right (6), shortly followed by a 
+hairpin right (7) onto the back straight.
+
+	Here's where things get really interesting.
+The back straight is about a mile long, full-throttle 
+through the entire length (if you dare).  The roller coaster
+starts with a mild crest (this track always presents you with 
+the Q: "I wonder what's over that hill?") a loooong straight section, 
+then a sweeping, blind right hand turn (9) made over "the hump"
+and then, suddenly, down into a gulley (10) and back up the hill.
+(Be sure and cross the crease at the bottom at the hill
+perpendicular to the crease!  And don't do anything funny,
+like braking early for the end of the straight, that might
+upset the car at this point!).  The roller coaster isn't over yet.
+
+	After a mile of acceleration, you're now presented with 
+one exit: turn into a hole in the side of the hill (under a 
+pedestrian bridge) - it's a blind right-hand turn (11).  You brake hard, 
+aided by the hard uphill slope, turn hard right under the bridge, 
+peering over the road to search for the apex of the hill, and then the 
+road drops away (300 foot drop in 1/4 mile), as you plummet downhill 
+towards a sweeping 90-degree right (12) in front of the grandstands. 
+Now you're on the front straight, ready for another lap.
+
+	Now I ask: Is that fun, or what?
+
+	I got to run about 50 laps this weekend, got lots of helpful
+instruction, moved up in classification, and met some nice people.
+Fast laps in stock Porsches run under two minutes, mine ran are around
+2:05, or about 75 mph average speed.
+
+
+		Robert Duncan
+		AT&T Bell Labs, Atlanta, GA
+		robert_l_duncan@ihlpm.att.com
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr  8 20:46:47 1991
+Received: by karazm.math.uh.edu id <AA09775@karazm.math.uh.edu>; Mon, 8 Apr 91 20:46:48 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA09770@karazm.math.uh.edu>; Mon, 8 Apr 91 20:46:45 CDT
+Received: from NRI.Reston.VA.US by bcm.tmc.edu (AA17719); Mon, 8 Apr 91 20:46:17 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af22153;
+          8 Apr 91 21:28 EDT
+Date: Tue, 9 Apr 91 01:20 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: busdieck <busdieck@cps.msu.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Wheels (more)
+Message-Id: <52910409012025/0004056890NB4EM@mcimail.com>
+
+The 52 mm wheels won't fit well on a 23 mm car.  The suspension is really
+different, which means your handling will go down the tubes, as I understand
+things.  And there's the problem of fitting rims and tires under the wheel well.
+
+Forged alloy wheels (eg, Fuchs five-spoke or dish-shaped) are lighter than cast
+alloys (eg, telephone dials).  The fancy term is "sprung mass."  The reason is
+that forged metal is stronger by the pound than cast, which means the same net
+mechanical strength can be had for less weight.  My limited understanding is
+that unless and until you get to be a very accomplished driver, the lower sprung
+mass won't make an appreciable difference to your driving.  In the long list of
+things to do to improve your times (driver, tires, bars, shocks, etc.) I don't
+think I've ever seen wheel mass figure in.
+
+If you have an pre-'87 car, you can get forged rims for a bunch less money than
+the '87-forward cars.  Advantage yours!
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr  8 23:06:49 1991
+Received: by karazm.math.uh.edu id <AA09989@karazm.math.uh.edu>; Mon, 8 Apr 91 23:06:49 CDT
+Received: from Menudo.UH.EDU by karazm.math.uh.edu id <AA09984@karazm.math.uh.edu>; Mon, 8 Apr 91 23:05:57 CDT
+Received: from sugar.hackercorp.com by Menudo.UH.EDU with UUCP id AA26511
+  (5.65a+/IDA-1.4.2 for porschephiles@karazm.math.uh.edu); Mon, 8 Apr 91 23:05:30 -0500
+Received: by sugar.hackercorp.com (smail2.5)
+	id AA16333; 8 Apr 91 19:59:45 CDT (Mon)
+Received: from pyramid.UUCP by relay1.UU.NET with UUCP 
+	(5.61/UUNET-shadow-mx) id AA17477; Mon, 8 Apr 91 20:44:14 -0400
+Received: from pyrps5 by pyramid.pyramid.com (5.61/OSx5.0-890710)
+	id AA27997; Mon, 8 Apr 91 17:29:01 -0700
+Received: from localhost 
+	by pyrps5.pyramid.com (5.61/OSx5.1)
+	id AA21145; Mon, 8 Apr 91 17:29:56 -0700
+Message-Id: <9104090029.AA21145@pyrps5.pyramid.com>
+To: lupienj@hpwarq.wal.hp.com (John Lupien)
+Cc: wheeltowheel@abingdon.eng.sun.com, porschephiles@karazm.math.uh.edu,
+        british-cars@encore.com, info-vw@ames.arc.nasa.gov,
+        autox@hoosier.utah.edu, danj@pyrps5.pyramid.com
+Subject: Re: West coast trip 
+In-Reply-To: Your message of Mon, 08 Apr 91 17:10:59 EDT
+Date: Mon, 08 Apr 91 17:29:55 PDT
+From: Dan Jones <danj@pyrps5.pyramid.com>
+
+
+>Hi folks,
+>   Another East Coast car nut headed west...
+>   I'll be in California from 4-13-91 through 4-21-91.
+>   Stops planned in LA, SD, and SF (in approx that order).
+>   If anything's hopping, let me know.
+>   I'd like to get together with the net.car.nuts out there if possible.
+
+John, surely you're joking.  The Long Beach GP is this weekend, April 13
+and 14.  I'm there.  You can watch Eddie win his first IndyCar race, his
+first open-wheel race since his Osella F2 days in '79.  Afterall, he scored
+his first F1 points at Long Beach, so why shouldn't he score his first CART
+win there.
+
+Oh yeh, if you are into motorcycles, the USGP is the following weekend at
+Laguna Seca.
+
+Dan Jones
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr 11 13:36:13 1991
+Received: by karazm.math.uh.edu id <AA09827@karazm.math.uh.edu>; Thu, 11 Apr 91 13:36:14 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA09688@karazm.math.uh.edu>; Thu, 11 Apr 91 13:30:11 CDT
+Received: from atc.boeing.com by bcm.tmc.edu (AA20504); Thu, 11 Apr 91 13:29:42 CDT
+Received: by atc.boeing.com on Thu, 11 Apr 91 11:27:20 PDT
+Received: from GUESSWHO ([130.122.1.95]) by hsvaic.boeing.com (4.1/SMI-4.1-hsvaic-s.2)
+	id AA23548; Thu, 11 Apr 91 13:26:58 CDT
+Message-Id: <9104111826.AA23548@hsvaic.boeing.com>
+Date: Thu, 11 Apr 1991 12:33:28 -0600
+To: porschephiles@bcm.tmc.edu
+From: scott@hsvaic.boeing.com (Scott Hinckley) (by way of scott@hsvaic.boeing.com)
+Subject: Security, how much is enough?
+
+***I DO NOT SUBSCRIBE TO THIS LIST, PLEASE REPLY VIA E-MAIL***
+I will post a summary in a couple of weeks
+
+For all you (water cooled VW/Audi 4-5000/Porsche 924,944) owners out
+there:
+
+This is an informal survey of security techniques for those of us with
+the easy-break-in door handles, please respond via mail.
+
+   Are you using some sort of door-plate/pry guard for your door handles?
+      What brand?
+   What other security measures (if any) do you have for your car (this
+      includes removeable radios/etc)?
+
+   Has you car ever been broken into?
+      Were any security measures in place at the time?
+      Did that cause you to buy any current security measures?
+      What did they break into it to get?
+
+Thanks for any responses, I will (of course) summarize my findings to
+the net in some sort of chart.
+-- 
+<<<<<<<<<<<Scott
+Hinckley<<<<<<<<<<<<>>>>>>>>>>VW&Apple][Forever!!!>>>>>>>>>>
+Internet:scott@hsvaic.boeing.com|UUCP:...!uunet!uw-beaver!bcsaic!hsvaic!scot
+
+DISCLAIMER: All contained herein are my opinions, they do not|+1 205 461
+2073
+represent the opinions or feelings of Boeing or its management| 
+BTN:461-2073
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr 11 14:36:13 1991
+Received: by karazm.math.uh.edu id <AA10640@karazm.math.uh.edu>; Thu, 11 Apr 91 14:36:13 CDT
+Received: from relay.hp.com by karazm.math.uh.edu id <AA10599@karazm.math.uh.edu>; Thu, 11 Apr 91 14:33:16 CDT
+Received: from hpdmd48.boi.hp.com by relay.hp.com with SMTP
+	(16.5/15.5+IOS 3.13) id AA28618; Thu, 11 Apr 91 12:32:47 -0700
+Received: from hpbsrl.boi.hp.com by hpdmd48.boi.hp.com with SMTP
+	(15.11/15.5+IOS 3.21) id AA14555; Thu, 11 Apr 91 13:34:14 mdt
+Received: by hpbsrl.boi.hp.com
+	(15.11/15.5+IOS 3.12) id AA05547; Thu, 11 Apr 91 13:33:45 mdt
+Date: Thu, 11 Apr 91 13:33:45 mdt
+From: Bob Pentecost <bpenteco@hpbsrl.boi.hp.com>
+Message-Id: <9104111933.AA05547@hpbsrl.boi.hp.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 Cam Tensioner legality
+Cc: 0004537177@mcimail.com
+
+
+The attached message about the legality of certain cam chanin tensioners 
+in SCCA racing was sent to Bruce Anderson by a friend of mine.
+I suggested to him that I post this note here in an effort to find out
+what is known by other Porsche people.  Can you help?
+
+Thanks.
+
+Bob Pentecost
+
+----------------------
+                         DATAFAX MESSAGE
+                              FROM
+                         GLENN B. INGRAM
+                    EUROSPORT ENGINEERING CO.
+                       1220 N. 21st STREET
+                       BOISE IDAHO  83702
+                          (208)323-5047
+                          (208)343-2724
+                                
+
+DATE:  April 9, 1991                    FAX#:     0410-1200-PEG
+
+TO:  MR. BRUCE ANDERSON            FROM:GLENN B. INGRAM     
+        PCA TECHNICAL
+        REPRESENTATIVE
+                              
+                         
+                         
+                         
+
+cc:  EUROSPORT/PCA TECHNICAL REFERENCE FILE
+     SCCA SOLO II TECHNICAL FILE
+     SNAKE RIVER REGION SCCA CORRESPONDENCE FILE
+     PCA-SILVER SAGE REGION CORRESPONDENCE FILE
+
+
+SUBJECT:  LEGALITY OF PRESSURE FEED CAM TENSIONER UPDATE
+     FOR SCCA A STOCK SOLO II RACING
+     
+Dear Mr. Anderson;
+
+I am currently driving a 1972 Porsche 911T in SOLO II-A Stock.
+The problem I have encountered is the legality of the pressure
+feed cam tensioner update that has been done to my car.  Since
+the car is very competitive in this class, it is under high
+visibility for any modifications done to the chassis/drive train.
+
+Under the current SOLO II rules, the pressure fed cam tensioners
+are not legal, since the original tensioners are still available
+from Porsche.  My worry, as with other 911 owners, is that the
+use of this "stock" tensioning system can result in massive
+engine failure, especially in this sport.  As a side note, I have
+experienced a cam tensioner failure on my 1972 911S, which
+resulted in a very expensive rebuild!
+
+Specifically, could please assist me in the following:
+
+1.   Is there ANY literature from Porsche that would support the
+     updating of the cam tensioner to the latest pressure feed
+     design?
+
+2.   Since this update is not a "performance upgrade", is there
+     any information that would, officially from Porsche, suggest
+     that this update be recommended over the use of the "old
+     style, hydraulic cam tensioner" design?
+
+3.   Could you please direct me to someone at PCNA that could
+     assist me with any information to support my case.
+
+4.   If possible, could you assist me in developing a plan to
+     appeal and change this ruling.
+
+Since the majority of all 911 owners running in A Stock use the
+standard tensioners with the aftermarket mechanical collars, they
+to are illegal.  Those not having this protection risk engine
+problems.
+
+Please, at your earliest convenience, assist me in this problem.
+Please sent a written reply to the aforementioned address, or
+call me at either phone number.
+
+Thank you very much in advance.
+
+Best Regards,
+
+Glenn B. Ingram
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr 11 21:09:22 1991
+Received: by karazm.math.uh.edu id <AA04275@karazm.math.uh.edu>; Thu, 11 Apr 91 21:09:23 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA04210@karazm.math.uh.edu>; Thu, 11 Apr 91 21:00:53 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id cl16192;
+          11 Apr 91 21:36 EDT
+Date: Fri, 12 Apr 91 00:47 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Bob Pentecost <bpenteco@hpbsrl.boi.hp.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911 Cam Tensioner legality
+Message-Id: <65910412004756/0004056890NB1EM@mcimail.com>
+
+Bob -
+
+A quick pass through the Tech Bulletins yielded the following:
+
+Group 15, no. 80-02, dated 25 July 1980.  Reads in part
+
+  "Subject: Chain Sprocket Support
+   ...
+   Retrofitting earlier cars
+   New parts can be installed in earlier cars as follows:"
+
+Group 15, no. 82-02, dated 16 August 1982.  Describes differences if a modified
+chain tensioner put into production, and reads in part
+
+  "Subject: Chain Tensioner Mounting
+   ...
+   Tensioner, part no. 930 105 049 00, used on earlier vehicles, is no
+   longer available as a spare part"
+
+Group 15, no. 84-01, dated 11 May 1984.
+
+  "Subject: Hydraulic Chain Tensioner Kit
+
+   Hydraulic chain tensioners were instroduced with the start of production
+   for the 1984 Model Year.  These new chain tensioners may be retrofit to
+   all 1968 and later 199 vehicles by using the following conversion kits:
+
+   ..."
+
+Group 1, no. 8719, dated 12 August 1987 describes a minor change to the right
+side tensioner oil supply line used in 911 Carrera and 911 Turbo cars.  It reads
+in part:
+
+  "Subject: Oil Supply Lines for Chain Tensioner
+   ...
+   New style parts should be installed when performing engine or oil leak
+   repairs in the area of oil supply lines."
+
+I hope this helps.  I am sure your friend will need back-up, and will be happy
+to FAX or mail copies of these bulletins to you or him.  Let me know.
+
+Kevin Gross
+
+From mg  Wed Apr 17 13:20:12 1991
+Received: by karazm.math.uh.edu id <AA00247@karazm.math.uh.edu>; Wed, 17 Apr 91 13:20:12 CDT
+Received: from aixwiz.austin.ibm.com ([129.35.18.137]) by karazm.math.uh.edu id <AA21237@karazm.math.uh.edu>; Wed, 17 Apr 91 01:54:58 CDT
+Received: by aixwiz.austin.ibm.com (AIX  2.1.2/4.03)
+          id AA23215; Wed, 17 Apr 91 01:50:35 
+Date: Wed, 17 Apr 91 01:50:35 
+From: pedz@aixwiz.austin.ibm.com (Perry Smith)
+Message-Id: <9104171350.AA23215@aixwiz.austin.ibm.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: sun roof
+
+First, I may have had a few messages bounce.  That problem has been
+fixed so if you took me off of the list, please add me back on.
+
+My friend has a new MR-2 which has a sorta T top.  The inside "shades"
+come out and you are left with clear "glass".  This is a raelly cool
+effect, espeically in the rain.
+
+I'm wondering if any third market vendor has a "glass" top for a 944.
+I have a '89 944 Turbo.  I've considered just removing the top and
+trusting my life to the alarm system (which has a proximaty sensor)
+plus I would cover the car in these cases so the thief would have to
+work as hard (well almost) to get in as he would to smash a window.
+
+But the problem is the wind noise.  I really like quit cars and the wind
+noise would frustrate me I think.  I plan on trying it anyway just to
+see.  But does anyone know of such a top or a way to get one semi-custom
+built?
+
+Thanks;
+pedz
+
+BTW, my cluch went out after just 12K miles.  Sorta bums me out.  It takes
+16 hours to replace the damn thing.  Is this usual?  I drive the car
+pretty hard but I try not to abuse it.
+
+From mg  Wed Apr 17 13:20:09 1991
+Received: by karazm.math.uh.edu id <AA00243@karazm.math.uh.edu>; Wed, 17 Apr 91 13:20:10 CDT
+Received: from NRI.Reston.VA.US ([132.151.1.15]) by karazm.math.uh.edu id <AA17392@karazm.math.uh.edu>; Tue, 16 Apr 91 20:07:22 CDT
+Received: from mcimail.com by NRI.sun1.NRI.Reston.VA.US id ad00228;
+          16 Apr 91 20:59 EDT
+Date: Wed, 17 Apr 91 00:57 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re; Wheels for Sale
+Message-Id: <91910417005719/0004056890NB4EM@mcimail.com>
+
+Someone mentioned that he had a set of rims for sale for an '86 951.  I tossed
+the item, but a friend called today looking for just such a thing.  Whoever it
+was, still got 'em?
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr 17 14:59:28 1991
+Received: by karazm.math.uh.edu id <AA02141@karazm.math.uh.edu>; Wed, 17 Apr 91 14:59:28 CDT
+Received: from SUNED.ZOO.CS.YALE.EDU ([128.36.0.19]) by karazm.math.uh.edu id <AA02060@karazm.math.uh.edu>; Wed, 17 Apr 91 14:55:31 CDT
+Received: by SUNED.ZOO.CS.YALE.EDU; Wed, 17 Apr 91 15:54:47 EDT
+From: Doug Fields <fields-doug@CS.YALE.EDU>
+Message-Id: <9104171954.AA09719@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (jaguar) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Wed Apr 17 15:54:45
+To: pedz@aixwiz.austin.ibm.com (Perry Smith)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: sun roof 
+In-Reply-To: Your message of "Wed, 17 Apr 91 01:50:35."
+             <9104171350.AA23215@aixwiz.austin.ibm.com> 
+Date: Wed, 17 Apr 91 15:54:42 -0400
+
+
+>I'm wondering if any third market vendor has a "glass" top for a 944.
+>I have a '89 944 Turbo.  I've considered just removing the top and
+>trusting my life to the alarm system (which has a proximaty sensor)
+>plus I would cover the car in these cases so the thief would have to
+>work as hard (well almost) to get in as he would to smash a window.
+
+Yes... There is one of these sunroofs sold by both Automotion and Performance
+Products. I think the Automotion price is a hundred or more bucks lower, though.
+Get both of their catalogs... The have neat gizmos for your car. I have the same
+car in the initial-release '88 version. NO! NOT WITH THE STRANGE RED!
+
+I have a proximity sensor on my alarm... Removing the top will allow
+anyone who walks
+down the street to set off your alarm... Plus the disadvantage of a strong wind or
+some leaves setting it off. I've found that the proximity sensor is rather a pain-
+every false alarm I have is caused by it. I'm considering jacking down
+the sensitivity
+by a LARGE margin.
+
+>BTW, my cluch went out after just 12K miles.  Sorta bums me out.  It takes
+>16 hours to replace the damn thing.  Is this usual?  I drive the car
+>pretty hard but I try not to abuse it.
+
+Wow! Mine's still healthy with over 15k miles and 4 days of track... Yes the track
+has hit me like a sledgehammer...
+
+Doug
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr 17 15:49:28 1991
+Received: by karazm.math.uh.edu id <AA03296@karazm.math.uh.edu>; Wed, 17 Apr 91 15:49:29 CDT
+Received: from sirius.cs.rpi.edu ([128.213.3.10]) by karazm.math.uh.edu id <AA03182@karazm.math.uh.edu>; Wed, 17 Apr 91 15:40:54 CDT
+Date: Wed, 17 Apr 91 16:40:12 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA07802; Wed, 17 Apr 91 16:40:12 EDT
+Message-Id: <9104172040.AA07802@sirius.cs.rpi.edu>
+To: pedz@aixwiz.austin.ibm.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Perry Smith's message of Wed, 17 Apr 91 01:50:35  <9104171350.AA23215@aixwiz.austin.ibm.com>
+Subject: clutch
+
+
+   BTW, my cluch went out after just 12K miles.  Sorta bums me out.  It takes
+   16 hours to replace the damn thing.  Is this usual?  I drive the car
+   pretty hard but I try not to abuse it.
+
+Getting 12Kmiles on a clutch is quite low, so it isn't usual.  You're
+making your clutch work too hard.  
+
+16 hours to replace is also *not* usual - if you paid for it.  I
+replaced one a few months ago and it took us something like 12 (or
+maybe it was 10), and it was our first time.  BOOK on the job is
+supposedly 6 or 7.  I sent someone on the list a message about it with
+the exact numbers.  Anyway, point is if you paid for 16 hrs of labor
+you got ripped.  If you did it yourself it's understandable.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr 18 12:50:24 1991
+Received: by karazm.math.uh.edu id <AA01548@karazm.math.uh.edu>; Thu, 18 Apr 91 12:50:24 CDT
+Received: from valhalla.ee.rochester.edu (ee.rochester.edu) by karazm.math.uh.edu id <AA01410@karazm.math.uh.edu>; Thu, 18 Apr 91 12:43:31 CDT
+Received: from socrates.ee.rochester.edu 
+	by valhalla.ee.rochester.edu (4.1/cf1.40ee) 
+	id AA25194; Thu, 18 Apr 91 13:42:53 EDT
+From: Mark Sirota  <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA25880; Thu, 18 Apr 91 13:41:55 EDT
+Date: Thu, 18 Apr 91 13:41:55 EDT
+Message-Id: <9104181741.AA25880@socrates.ee.rochester.edu>
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: Help!  914 rear brakes
+
+I cannot for the life of me figure out how to retract the inner pistons on the
+rear calipers of a '73 914 2.0.  If it matters, they are ATE calipers.
+
+The outers are retracted by turning an allen screw on the outside of the
+caliper.  There is another allen screw on the inside side, but it is
+certainly not connected to the inner piston by any mechanism, and does not
+have a lock nut like the outer one does.  Another good question would be,
+what the hell is this screw for?
+
+Please help me, ASAP!  Thanks infinitely in advance!
+
+Mark
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr 19 09:30:28 1991
+Received: by karazm.math.uh.edu id <AA15532@karazm.math.uh.edu>; Fri, 19 Apr 91 09:30:29 CDT
+Received: from sirius.cs.rpi.edu ([128.213.3.10]) by karazm.math.uh.edu id <AA15451@karazm.math.uh.edu>; Fri, 19 Apr 91 09:23:15 CDT
+Date: Fri, 19 Apr 91 10:22:32 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA18768; Fri, 19 Apr 91 10:22:32 EDT
+Message-Id: <9104191422.AA18768@sirius.cs.rpi.edu>
+To: msirota@ee.rochester.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mark Sirota's message of Thu, 18 Apr 91 13:41:55 EDT <9104181741.AA25880@socrates.ee.rochester.edu>
+Subject: Help!  914 rear brakes
+
+   X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+
+   I cannot for the life of me figure out how to retract the inner
+   pistons on the rear calipers of a '73 914 2.0.  If it matters, they
+   are ATE calipers.
+
+   The outers are retracted by turning an allen screw on the outside
+   of the caliper.  There is another allen screw on the inside side,
+   but it is certainly not connected to the inner piston by any
+   mechanism, and does not have a lock nut like the outer one does.
+   Another good question would be, what the hell is this screw for?
+
+The inners are retracted the same way as the outers.  That screw on
+the inside is accessed through a hole in the trailing arm (I don't
+remember if it has a locking nut).  
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Sun Apr 21 17:00:55 1991
+Received: by karazm.math.uh.edu id <AA17999@karazm.math.uh.edu>; Sun, 21 Apr 91 17:00:55 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA17956@karazm.math.uh.edu>; Sun, 21 Apr 91 16:55:47 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA02207; Sun, 21 Apr 91 14:58:18 PDT
+Date: Sun, 21 Apr 91 14:58:18 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9104212158.AA02207@hyperion.llnl.gov>
+To: pedz@aixwiz.austin.ibm.com
+Subject: Re:  sun roof
+Cc: porschephiles@karazm.math.uh.edu
+
+Perry,
+
+I believe that the sunroofs Doug referred to in the Automotion and
+Performance Products catalogs are made by Saratoga.  It turns out that
+one can buy directly from them at a significant savings.  They have an
+ad in the April edition of Excellence magazine, in which they are
+advertizing tops for $399.  A couple of years ago, I bought a sunroof
+for my 944 directly from Saratoga for $350.  The roof had been used as
+a demonstrator, but had no flaws or other indication that it was not
+brand new.  I don't know whether the $399 tops they are currently
+advertizing are new or used, but I would assume they are new, since
+they do not specifically mention demo tops in their ad as they did
+when I bought mine.  If you are interested, the address is:
+
+Saratoga Sunroof Corp.
+821 Main St.
+Clifton Park, NY  12065
+(518) 877-8588
+
+I have been basically satisfied with my Saratoga top, although it does
+not seem to fit quite as well as the factory top.  On my '84 944 and
+'86 951, the wind deflector hinges had to be lowered using shims and
+longer screws (which are provided by Saratoga along with
+instructions).  In spite of the shimming, I was not able to get the
+front edge of the top completely level with the car's roof, so there
+is a very slight step.  This is not a cosmetic problem, but there is
+some wind noise at highway speeds.  I suppose I could eventually solve
+this problem by making my own shims or some other kludge, but I have
+not been bothered enough to make the effort.  The sunroof also rattles
+and squeaks a bit, although I understand some silicone spray might
+solve this problem.
+
+-Milo
+
+
+From porschephiles-request@karazm.math.uh.edu  Sun Apr 21 17:20:55 1991
+Received: by karazm.math.uh.edu id <AA18171@karazm.math.uh.edu>; Sun, 21 Apr 91 17:20:55 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA18166@karazm.math.uh.edu>; Sun, 21 Apr 91 17:20:39 CDT
+Received: from brahms.udel.edu by bcm.tmc.edu (AA01011); Sun, 21 Apr 91 17:19:53 CDT
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA27461; Sun, 21 Apr 91 18:19:51 -0400
+Message-Id: <9104212219.AA27461@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Sun, 21 Apr 1991 18:19:50 EDT
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: sunroofs bu saratoga.
+
+
+Saratoga recently offered these to all PCA members for $250.  You have
+to buy them in a group through the region, but they are mix and match.
+Ifg anyone is interested in more info. lemme know.
+
+S
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Sun Apr 21 17:30:55 1991
+Received: by karazm.math.uh.edu id <AA18258@karazm.math.uh.edu>; Sun, 21 Apr 91 17:30:55 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA18182@karazm.math.uh.edu>; Sun, 21 Apr 91 17:21:36 CDT
+Received: from brahms.udel.edu by bcm.tmc.edu (AA01016); Sun, 21 Apr 91 17:20:57 CDT
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA27521; Sun, 21 Apr 91 18:20:56 -0400
+Message-Id: <9104212220.AA27521@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Sun, 21 Apr 1991 18:20:55 EDT
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: '86 951 phone dials for sale
+
+7&8x16, decent shape.  Picked up at a swapmeet.  $550 for all four.
+
+Steve
+(Plus ship)
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 22 11:21:00 1991
+Received: by karazm.math.uh.edu id <AA06543@karazm.math.uh.edu>; Mon, 22 Apr 91 11:21:00 CDT
+Received: from elroy.Jpl.Nasa.Gov by karazm.math.uh.edu id <AA06502@karazm.math.uh.edu>; Mon, 22 Apr 91 11:20:01 CDT
+Received: from wciu.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA24964; Mon, 22 Apr 91 09:19:23 PDT
+Received: by wciu.EDU (5.51/smail2.5/06-01-89)
+	id AA13749; Mon, 22 Apr 91 11:56:35 EDT
+From: pete@wv.wciu.edu (Pete Gregory)
+X-Mailer: SCO System V Mail (version 3.2)
+To: porschephiles@karazm.math.uh.edu
+Subject: another bitmap
+Date: Mon, 22 Apr 91 8:38:41 PDT
+Message-Id:  <9104221538.aa00702@nevada.wv.wciu.edu>
+
+Here's a bitmap I worked out about two months ago that I thought I'd 
+share with my fellow porschephiles...
+
+#define 930_width 75
+#define 930_height 75
+#define 930_x_hot -1
+#define 930_y_hot -1
+static char 930_bits[] = {
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x1f,
+   0x00, 0xf8, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xc0, 0xff, 0xe3,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x3f, 0xfd, 0xff, 0xd7, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xc7, 0xfb, 0xff, 0xb7, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xf0, 0xfb, 0xff, 0x6f, 0xfe, 0xff, 0xff, 0xff, 0xf7, 0x7f,
+   0xfc, 0xfb, 0xff, 0xdf, 0xfd, 0xff, 0xff, 0xff, 0x0f, 0x9c, 0xfc, 0xfb,
+   0xff, 0xbf, 0xf3, 0xff, 0xff, 0xff, 0xff, 0xe3, 0x81, 0xf7, 0xff, 0xbf,
+   0xe7, 0xff, 0xff, 0xff, 0xff, 0xc1, 0x0f, 0x00, 0x00, 0x00, 0x00, 0xff,
+   0xff, 0xff, 0xff, 0x3f, 0x00, 0x80, 0x03, 0x00, 0x00, 0xc0, 0xff, 0xff,
+   0xff, 0x0f, 0x00, 0xfc, 0xff, 0xff, 0x03, 0x00, 0xf0, 0xff, 0xff, 0x07,
+   0x00, 0xff, 0xff, 0xff, 0x0f, 0x00, 0x00, 0xff, 0xf7, 0x01, 0x1f, 0xfe,
+   0xff, 0xff, 0x0f, 0x00, 0x00, 0xfe, 0x07, 0xc0, 0x7f, 0xf8, 0xff, 0xff,
+   0x1f, 0x00, 0x00, 0xfe, 0x3f, 0xf0, 0xff, 0xf9, 0xff, 0xff, 0x1f, 0xfe,
+   0xe1, 0xfc, 0xff, 0xf9, 0xff, 0xf3, 0xff, 0xff, 0x1f, 0xff, 0xe7, 0xfd,
+   0xff, 0xfd, 0xff, 0xf7, 0xff, 0xff, 0x9f, 0xff, 0xef, 0xfd, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xef, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xdf, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xf8, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x7f, 0x80,
+   0x00, 0x01, 0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff, 0x7f, 0xbf, 0x7e, 0xfd,
+   0xfa, 0xf7, 0xef, 0xd7, 0xff, 0xff, 0x7f, 0x80, 0x7e, 0x01, 0x02, 0xf4,
+   0x0f, 0x10, 0xf0, 0xff, 0x7f, 0xff, 0x7e, 0x7d, 0xff, 0xf5, 0xef, 0xd7,
+   0xff, 0xff, 0x7f, 0xff, 0x00, 0xfd, 0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x7f, 0x80, 0x00, 0x01,
+   0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff, 0x7f, 0xbf, 0x7e, 0xfd, 0xfa, 0xf7,
+   0xef, 0xd7, 0xff, 0xff, 0x7f, 0x80, 0x7e, 0x01, 0x02, 0xf4, 0x0f, 0x10,
+   0xf0, 0xff, 0x7f, 0xff, 0x7e, 0x7d, 0xff, 0xf5, 0xef, 0xd7, 0xff, 0xff,
+   0x7f, 0xff, 0x00, 0xfd, 0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x7f, 0x80, 0x00, 0x01, 0x02, 0x04,
+   0xe8, 0x17, 0xe0, 0xff, 0x7f, 0xbf, 0x7e, 0xfd, 0xfa, 0xf7, 0xef, 0xd7,
+   0xff, 0xff, 0x7f, 0x80, 0x7e, 0x01, 0x02, 0xf4, 0x0f, 0x10, 0xf0, 0xff,
+   0x7f, 0xff, 0x7e, 0x7d, 0xff, 0xf5, 0xef, 0xd7, 0xff, 0xff, 0x7f, 0xff,
+   0x00, 0xfd, 0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0x7f, 0x80, 0x00, 0x01, 0x02, 0x04, 0xe8, 0x17,
+   0xe0, 0xff, 0x7f, 0xbf, 0x7e, 0xfd, 0xfa, 0xf7, 0xef, 0xd7, 0xff, 0xff,
+   0x7f, 0x80, 0x7e, 0x01, 0x02, 0xf4, 0x0f, 0x10, 0xf0, 0xff, 0x7f, 0xff,
+   0x7e, 0x7d, 0xff, 0xf5, 0xef, 0xd7, 0xff, 0xff, 0x7f, 0xff, 0x00, 0xfd,
+   0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0x7f, 0x80, 0x00, 0x01, 0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff,
+   0x7f, 0xbf, 0x7e, 0xfd, 0xfa, 0xf7, 0xef, 0xd7, 0xff, 0xff, 0x7f, 0x80,
+   0x7e, 0x01, 0x02, 0xf4, 0x0f, 0x10, 0xf0, 0xff, 0x7f, 0xff, 0x7e, 0x7d,
+   0xff, 0xf5, 0xef, 0xd7, 0xff, 0xff, 0x7f, 0xff, 0x00, 0xfd, 0x02, 0x04,
+   0xe8, 0x17, 0xe0, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0x7f, 0x80, 0x00, 0x01, 0x02, 0x04, 0xe8, 0x17, 0xe0, 0xff, 0x7f, 0xbf,
+   0x7e, 0xfd, 0xfa, 0xf7, 0xef, 0xd7, 0xff, 0xff, 0x7f, 0x80, 0x7e, 0x01,
+   0x02, 0xf4, 0x0f, 0x10, 0xf0, 0xff, 0x7f, 0xff, 0x7e, 0x7d, 0xff, 0xf5,
+   0xef, 0xd7, 0xff, 0xff, 0x7f, 0xff, 0x00, 0xfd, 0x02, 0x04, 0xe8, 0x17,
+   0xe0, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff,
+   0xff, 0xff, 0xff, 0xff, 0xff, 0xff};
+
+Enjoy!!!
+ 
+Pete Gregory, UNIX SA  |  pete@wv.wciu.edu                    |
+World Vision USA/ISD   |                                   ___|___
+919 W. Huntingon Dr.   |  Voice: 818/357-7979 x3347           |
+Monrovia, CA  91016    |  FAX:   818/303-6212                 |
+                                                              |
+"Candygram for Mongo..."
+"Mongo like candy!"....
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr 23 13:19:01 1991
+Received: by karazm.math.uh.edu id <AA11651@karazm.math.uh.edu>; Tue, 23 Apr 91 13:19:02 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA11514@karazm.math.uh.edu>; Tue, 23 Apr 91 13:18:03 CDT
+Received: Tue, 23 Apr 91 11:13:29 PDT by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9104231813.AA29615@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Tue, 23 Apr 91 11:13:40 PDT
+Date: Tue, 23 Apr 91 11:13:40 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: Nasty 914 brakes
+To: porschephiles@karazm.math.uh.edu
+
+Anyone run into this problem?
+
+A friend of mine just replaced the front brake pads on his '74 914.  There
+seems to be **much** more drag than with the previous pads, and the brakes
+make noise all the time, not just when in use.
+
+Are the pads just wearing in, and perhaps thicker than stock.  The pads are 
+from NAPA (don't say it, I know), not from someone reliable.
+
+I didn't see the work done, so I have no info there, just the above symptoms.
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr 24 11:10:10 1991
+Received: by karazm.math.uh.edu id <AA04743@karazm.math.uh.edu>; Wed, 24 Apr 91 11:10:10 CDT
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA04511@karazm.math.uh.edu>; Wed, 24 Apr 91 11:00:45 CDT
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA03347; Wed, 24 Apr 91 08:59:16 PDT
+Date: Wed, 24 Apr 91 08:59:16 PDT
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9104241559.AA03347@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Automotion Swap Meet
+
+This Sunday (April 28) Automotion is having their second annual swap meet
+(3535 Kifer, Santa Clara, CA).  It opens at 8:00 for buyers, 6:30 for sellers.  Cost of a space is $10.
+
+I'll be there, selling a 356 engine piece by piece. If you're planning on
+going, drop me a note - I'll bring a few extra St. Pauli Girls.
+
+-Dave Erickson
+
+From porschephiles-request@karazm.math.uh.edu  Wed Apr 24 23:32:45 1991
+Received: by karazm.math.uh.edu id <AA00808@karazm.math.uh.edu>; Wed, 24 Apr 91 23:32:46 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA00725@karazm.math.uh.edu>; Wed, 24 Apr 91 23:24:48 CDT
+Received: from athena.llnl.gov by bcm.tmc.edu (AA21876); Wed, 24 Apr 91 22:45:55 CDT
+Received: by athena.llnl.gov (4.1/LLNL-1.18)
+	id AA14587; Wed, 24 Apr 91 20:44:59 PDT
+Date: Wed, 24 Apr 91 20:44:59 PDT
+From: bert@athena.llnl.gov (Bert Still)
+Message-Id: <9104250344.AA14587@athena.llnl.gov>
+To: porschephiles@bcm.tmc.edu
+Subject: ball joints question
+
+
+Greetings one and all!
+
+In the course of fixing what James has termed "the bearing bummer," I have
+run across the need for replacing the lower right front ball joint.  Simple
+enough, right?  I get the new part (which fits just like it was designed
+that way :-) and begin the bolt-on process.  So now I hit a snag: the ball
+is rotating so that I can't tighten the nut onto the ball joint stud.
+
+So, the question:  how do I keep the ball joint from rotating so that I
+can tighten the assembly?
+
+Thanks!
+
+Bert
+
+PS.  I'll post the full "bearing bummer" story when it becomes past history.
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr 25 04:52:47 1991
+Received: by karazm.math.uh.edu id <AA03894@karazm.math.uh.edu>; Thu, 25 Apr 91 04:52:47 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA03879@karazm.math.uh.edu>; Thu, 25 Apr 91 04:51:14 CDT
+Received: from chx400.switch.ch by bcm.tmc.edu (AA22717); Thu, 25 Apr 91 04:50:29 CDT
+Received: from hasler.ascom.ch by chx400.switch.ch (5.61/Ultrix2.4-C)
+	id AA29497; Thu, 25 Apr 91 11:37:38 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.18)
+	id AA17420; Thu, 25 Apr 91 11:14:43 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA02741; Thu, 25 Apr 91 11:14:21 +0200
+Date: Thu, 25 Apr 91 11:14:21 +0200
+From: kevinh@hasler.ascom.ch (Kevinh)
+Message-Id: <9104250914.AA02741@libra.hasler.ascom.ch>
+To: porschephiles@bcm.tmc.edu
+Subject: ball joints question
+
+
+>So, the question:  how do I keep the ball joint from rotating so that I
+>can tighten the assembly?
+
+
+I haven't done this on a Porsche, but on other cars in similar situations i've jacked up the car on a point that compresses the balljoint, enabling you to tighten the nut up to the required torque.
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Thu Apr 25 21:02:51 1991
+Received: by karazm.math.uh.edu id <AA10500@karazm.math.uh.edu>; Thu, 25 Apr 91 21:02:51 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA10425@karazm.math.uh.edu>; Thu, 25 Apr 91 20:53:06 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac18729;
+          25 Apr 91 21:47 EDT
+Date: Fri, 26 Apr 91 01:43 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Spinning pistons
+Message-Id: <44910426014344/0004056890NB1EM@mcimail.com>
+
+Does anyone have any experience with brake pistons turning in their caliper?  I
+changed my pads today, and noticed that one seemed to have turned itself
+noticeably in the floating caliper of my '87 944S.
+
+What's the best way to calibrate and correct the situation?  I've been told by a
+local mechanic that I can pump it out enough to grab the piston above the boot
+with, for example, a set of tongue-and-groove pliers, then turn it gently.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Fri Apr 26 09:44:15 1991
+Received: by karazm.math.uh.edu id <AA17409@karazm.math.uh.edu>; Fri, 26 Apr 91 09:44:16 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA17359@karazm.math.uh.edu>; Fri, 26 Apr 91 09:38:21 CDT
+From: mfogg@druwa.att.com
+Date: Fri, 26 Apr 91 07:49 MDT
+To: porschephiles@karazm.math.uh.edu
+
+
+Ola Folks!
+
+Its time for the '72 Targa to go topless (happy twentieth, dear).
+
+After market kits seem to be about $3000, and I have seen an oem parts
+package for $4500 (Porsche Plus in Denver, now).
+
+I've also located an oem frame for $1800. 
+
+Being a designer by trade, I'd really like to do a clone of my own. 
+So, has anyone out there put in an aftermarket or oem frame?
+Has anyone fabricated one from scratch?
+
+Anybody know where the guy that did the 1970 Oakland Roadster Show
+speedster is now?  Anybody converted a Targa to a speedster?
+
+Please mail or even call collect.  
+
+Also need a pair of seats, in black.
+
+
+Regards,
+
+
+Mark Richard-Fogg
+303 538 1184
+303 839 1127
+303 839 9296 fax
+
+
+From stan  Fri Apr 26 21:44:20 1991
+Received: by karazm.math.uh.edu id <AA01623@karazm.math.uh.edu>; Fri, 26 Apr 91 21:44:20 CDT
+Received: by karazm.math.uh.edu id <AA01602@karazm.math.uh.edu>; Fri, 26 Apr 91 21:43:29 CDT
+Date: Fri, 26 Apr 91 21:43:29 CDT
+From: Stan Hanks (bcm) <stan>
+To: mfogg@druwa.att.com
+Subject: topless cars
+Cc: porschephiles@karazm.math.uh.edu
+
+I just talked to Mike Upshaw at The Steel Works 619.598.4390 about their
+product. It's $2800 to shops, and sounds like it takes only minimal effort
+to install. He told me what was involved, and it should take a reasonably
+skilled person (with a plasma cutter and MIG/TIG welder) an afternoon  to
+install the frame; it was designed to bolt in on any Targa. The rest of the
+story is that you then need a substantial amount of work from an upholstery
+shop to do the headliner and top on the frame, and to re-finish the rear
+deck area (which really isn't there any more...).
+
+I found a guy locally who had purchased the kit and had the installation done
+instead of doing it himself. Total cost was about $5k, taking a net of about
+4 days in real time. Finished product looked really nice, pretty 
+indistinguishible from the factory top. But it's *not* a factory top.
+
+The TSW kit is designed to fasten to the Targa windshield bar rather than
+having to do metal fab work there, or take your old Targa top and rip out the
+header bar and  weld it to the top (there are kits that require that, BTW).
+Using the factory top would require some additional work in that area.
+
+As the car never could have had a factory top to begin with, and as most
+of the roll-your-own cabrio tops (i.e. top cover and headliner, not whole
+top) I've seen installed were nicer than those done using the factory 
+fabric kits, I don't see a real win to using a factory top unless it's 
+cheaper or something. Now, if I were doing a '83 and up car, where it
+*could* have had the factory top, that's a different story...
+
+One additional work of advice: the pre-78 Targas don't have as much  structural
+stiffening as the SC and up cars, and also didn't have the "long-life" 
+galvanized bodies (making them susceptible to rust weakening in hidden 
+areas). TSW recommends additional stiffening for the pre-78s, and notes
+that this might be a really nice time to add that roll cage you've always
+wanted...
+
+I'm considering it, but would still rather trade cars for a '86 factory
+turbo look cabrio....
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Sat Apr 27 13:34:22 1991
+Received: by karazm.math.uh.edu id <AA10210@karazm.math.uh.edu>; Sat, 27 Apr 91 13:34:22 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA10098@karazm.math.uh.edu>; Sat, 27 Apr 91 13:28:20 CDT
+Received: from brahms.udel.edu by bcm.tmc.edu (AA19442); Sat, 27 Apr 91 13:27:32 CDT
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA07072; Sat, 27 Apr 91 14:27:30 -0400
+Message-Id: <9104271827.AA07072@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Sat, 27 Apr 1991 14:27:30 EDT
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Newsletter article, FYI
+
+I am publishing the following in our newsletter:
+
+
+On-line porsches
+
+For those Club members who have access to a computer hooked to
+either bitnet or internet, a vast resource may be at your
+fingertips without your even knowing it.
+
+If you are familiar with how electronic mail works, then you can
+sign up for the PORSCHEPHILES mailing list.  Here's how it works: 
+you send mail to a central location, and it is automatically
+forwarded to everyone on the list.  If you choose to respond to an
+article or question, you may respond either to the entore mailing
+list of only to the sender.  Information is transmitted almost
+instantaniously.  Best of all, for people who already have an E-
+mail facility, it is more or less free.
+
+To give a feeling for the scope of the list,  Bruce Anderson is on
+it and often answers technical questions, and topics vary from tire
+reveiws (by members of the list who race or run track events) to
+targa-convertable conversions.  Traffic on the list is medium,
+which is to say somewhere between 2 and 10 articles are posted
+daily.  Some of the articles from our newsletter get posted, as do
+those of other regions.
+
+The address of the list is:
+
+There are both club and non-club members on the list, but we have
+been pretty sucessful in our conversion efforts.
+
+Other mailing lists catering to  varying interests also exist.  For
+example, the "schools" list talks about driver's education for all
+marques, and the auto-x list, with maybe 20-30 articles a day deals
+with all aspects of autocross.
+
+If any club members care to contact me for further information, I
+am:
+
+timmins@brahms.udel.edu
+
+(Translation: timmins on the brahms computer at the University of
+Delaware, and educational institution)
+
+Actually this is the best way to contact me for any reason!
+
+-- 
+
+From porschephiles-request@karazm.math.uh.edu  Sat Apr 27 17:24:22 1991
+Received: by karazm.math.uh.edu id <AA13529@karazm.math.uh.edu>; Sat, 27 Apr 91 17:24:22 CDT
+Received: from uunet.UU.NET ([137.39.1.2]) by karazm.math.uh.edu id <AA13474@karazm.math.uh.edu>; Sat, 27 Apr 91 17:17:29 CDT
+Received: from kestrel.ukc.ac.uk by uunet.UU.NET with SMTP 
+	(5.61/UUNET-primary-gateway) id AA05554; Sat, 27 Apr 91 18:16:41 -0400
+Message-Id: <9104272216.AA05554@uunet.UU.NET>
+Received: from axion.bt.co.uk by kestrel.Ukc.AC.UK   via PSS (UKC CAMEL FTP)
+           id aa06153; 27 Apr 91 23:16 BST
+Received: from bt-web.bt.co.uk by zaphod.axion.bt.co.uk 
+          via DECnet inbound channel id <24530-0@zaphod.axion.bt.co.uk>;
+          Sat, 27 Apr 1991 23:15:25 +0100
+X-Vms-To: R11F::KARAZM.MATH.UH.EDU::PORSCHEPHILES
+To: porschephiles@karazm.math.uh.edu
+From: katz_p_m@bt-web.bt.co.uk
+Subject: What to look for in a used 944 ?
+Date: Sat, 27 Apr 1991 23:15:25 +0100
+
+From:	NAME: Philip Katz           [DFF54 ]
+	FUNC: DFF54                           
+	TEL: 0473-645672                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	I'm sure that this discussion did the rounds a while ago, but I
+thrashed a hard disk and lost a lot of mail, so apologies for
+bringing it up again ...
+
+	I am in the market for a used 944. My top budget is 10,000 pounds
+(about $US17,000), and on this side of the pond that might buy me an
+'85 with about 50,000 on the clock (buying privately, not from a
+dealer!).
+
+	So .... what shoul I be aware of when looking at these beasts? What
+goes wrong? Are there any particular extras worth getting (or
+avoiding!)? Were there any significant changes about that time,
+where it is worth getting the later car?
+
+	Thanks in advance for any info.
+
+Philip
+
+
+
+
+
+Author:	Philip Katz           [DFF54 ]
+Date:	27-Apr-1991
+Posted-date: 27-Apr-1991
+Subject: Text file via Automail                                                  
+
+
+Philip Katz,                      : EMail Katz_P_M@bt-web.bt.co.uk
+BT Research Laboratories          : Phone +44 473 645672
+DFF54, B68/17, Martlesham Heath   : Fax   +44 473 637550
+Ipswich, Suffolk, England IP5 7RE : Pager +44 81 8407000 Unit
+0539400
+
+
+From porschephiles-request@karazm.math.uh.edu  Sat Apr 27 22:44:23 1991
+Received: by karazm.math.uh.edu id <AA16014@karazm.math.uh.edu>; Sat, 27 Apr 91 22:44:23 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA15993@karazm.math.uh.edu>; Sat, 27 Apr 91 22:42:13 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab09195;
+          27 Apr 91 23:39 EDT
+Date: Sun, 28 Apr 91 03:34 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: Porsche Cars North America <0004537177@mcimail.com>
+Subject: Parts ain't always parts
+Message-Id: <73910428033437/0004056890NB4EM@mcimail.com>
+
+Remember Al Caldwell's article in Pano last year about the differences between
+the OEM and after-market 911 oil filters?  Well, I changed my 944S' oil today,
+taking out the last of my Imparts-supplied PER 165 filters out and putting in a
+PCNA-supplied PER 165.  Guess what - you can see the same difference in them as
+with the 911 filters, just by looking in their bases.
+
+Does anyone know WHY these same-numbered parts are different?  PCNA: what's the
+deal - why does Purolater (well, Knecht really) market a same-numbered part
+which is in fact different?
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Sat Apr 27 23:54:23 1991
+Received: by karazm.math.uh.edu id <AA16800@karazm.math.uh.edu>; Sat, 27 Apr 91 23:54:23 CDT
+Received: from  visual2.tamu.edu  ([128.194.2.142]) by karazm.math.uh.edu id <AA16743@karazm.math.uh.edu>; Sat, 27 Apr 91 23:48:21 CDT
+Received: by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA00212; Sat, 27 Apr 91 23:44:21 GMT-0700
+Date: Sat, 27 Apr 91 23:44:21 GMT-0700
+From: james@visual2.tamu.edu (James Bennett Saxon)
+Message-Id: <9104280644.AA00212@ visual2.tamu.edu >
+Received: by NeXT Mailer (1.62)
+To: porsche@visual2.tamu.edu
+Subject: 944s and dashboard lighting
+
+
+Haodee,
+
+My little red car is going blinkey these days.  This happen to  
+anybody out there?  
+
+
+First the light behind the climate control panel was blinking and a  
+tap would bring it back, then it just never came on.  Now, one of the  
+lignts on my tach is out after similar tapping no longer helped.  Am  
+I going to be driving a car without dashlights soon?  Anybody know  
+how to replace them?  Dashes are usually a pain in the kazinko in all  
+cars.  I imagine I'll have to take out the engine to do it, huh?
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Sun Apr 28 21:04:26 1991
+Received: by karazm.math.uh.edu id <AA28367@karazm.math.uh.edu>; Sun, 28 Apr 91 21:04:27 CDT
+Received: from cmcl2.NYU.EDU (nyu.edu) by karazm.math.uh.edu id <AA28264@karazm.math.uh.edu>; Sun, 28 Apr 91 20:55:56 CDT
+Received: by cmcl2.NYU.EDU (5.61/1.34)
+	id AA08444; Sun, 28 Apr 91 21:55:09 -0400
+From: tester@cmcl2.NYU.EDU (L Testerville)
+Message-Id: <9104290155.AA08444@cmcl2.NYU.EDU>
+Subject: Hydraulic Clutch Failure ('87 944S)
+To: porschephiles@karazm.math.uh.edu
+Date: Sun, 28 Apr 91 21:55:07 EDT
+X-Mailer: ELM [version 2.3 PL11]
+
+Hi all,
+
+ Today I happily removed the cover from my 944S to speed off to a
+matinee.  The engine starts fine and I get a good feeling about the car,
+especially since she's been waiting for someone to drive her all week.
+Just as I get ready to engage first, I am bewildered by the apparent
+disappearance of the clutch pedal; I could have sworn that I just
+depressed it...  A careful look under the dash finds the pedal sitting
+idly against the floor panel.  Well, to make a long story short - there
+seems to have been a catastrophic failure of all or part of the clutch
+hydraulic system.  Since there is no tell-tale wet spot under the
+tranny, I am puzzled as to where the problem might be.  I've tried
+pumping the pedal manually to no avail and even tried to fill the brake
+fluid reservoir to maximum.  Since there is absolutely no pressure
+developing with the pedal, I am very concerned about this car's future.
+
+ Anybody care to venture a suggestion or advice before I resort to the
+moneysuckers to get the car going?
+
+ \\Lee
+thx1138@nyu.edu
+
+p.s. sure wish I hadn't put off buying those factory manuals - but then
+again; even if I had, would I have been able to effect the proper
+repairs?
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 29 11:44:27 1991
+Received: by karazm.math.uh.edu id <AA08238@karazm.math.uh.edu>; Mon, 29 Apr 91 11:44:27 CDT
+Received: from Sun.COM by karazm.math.uh.edu id <AA08195@karazm.math.uh.edu>; Mon, 29 Apr 91 11:41:39 CDT
+Received: from Corp.Sun.COM (jethro.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA14614; Mon, 29 Apr 91 09:40:53 PDT
+Received: from formula1.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA17628; Mon, 29 Apr 91 09:40:51 PDT
+Received: by formula1.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA00198; Mon, 29 Apr 91 09:41:40 PDT
+Date: Mon, 29 Apr 91 09:41:40 PDT
+From: Stefan.Fielding-Isaacs@Corp.Sun.COM (S. Fielding-Isaacs [Wordsmith - Intercon Eng])
+Message-Id: <9104291641.AA00198@formula1.Corp.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: 914 suspension conversion
+
+
+ Greetings again, folks.
+
+ Well cruised to the Automotion swap meet again this weekend
+ and got the necessaries to convert my 914 suspension to a
+ 911 suspension (front strut towers, struts, "S" calipers, and
+ rotors).
+
+ The question I have remaining is what wheels to buy. I've
+ been thinking about going to 16" wheels (7" phone dials all
+ the way around). I gather that the early phone dials will
+ fit under stock fenders. If they don't, no biggie. I'm
+ planning on having the car painted and bodywork done in
+ the very near future (like next month). 
+
+ So I need some advice as to what wheels to get. Any reason
+ I shouldn't go to the 16"? Are 15" or 16" wheels more
+ expensive? What about tires (A008s of some form). Anybody
+ know what offset I should look for wheels in? 
+
+ Has anyone on this list done this and do you know how much
+ my fenders would have to be flared to accomodate 7" wheels?
+
+ thanks in advance,
+ Stef
+
+ 
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 29 12:04:27 1991
+Received: by karazm.math.uh.edu id <AA08497@karazm.math.uh.edu>; Mon, 29 Apr 91 12:04:27 CDT
+Received: from Sun.COM by karazm.math.uh.edu id <AA08444@karazm.math.uh.edu>; Mon, 29 Apr 91 12:01:33 CDT
+Received: from Corp.Sun.COM (jethro.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA17329; Mon, 29 Apr 91 10:00:47 PDT
+Received: from formula1.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA19311; Mon, 29 Apr 91 10:00:45 PDT
+Received: by formula1.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA00232; Mon, 29 Apr 91 10:01:34 PDT
+Date: Mon, 29 Apr 91 10:01:34 PDT
+From: Stefan.Fielding-Isaacs@Corp.Sun.COM (S. Fielding-Isaacs [Wordsmith - Intercon Eng])
+Message-Id: <9104291701.AA00232@formula1.Corp.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: ATE calipers
+
+
+ I had a question vis a vis Porsche brake calipers.
+
+ My 914 has ATE calipers and I picked up both alloy
+ and steel calipers for the 911 this weekend that
+ are ATE. 
+
+ Is this a subsidiary of Porsche? Have they always
+ made Porsche's calipers?
+
+ The alloy calipers are rather nice - unibody 
+ construction, very large dimensions but very light.
+
+ Anybody know if Koni struts are hard to rebuild (mine
+ need it very badly). Am going to put rebuild kits in
+ the calipers as well. I figure that they probably 
+ need it..
+
+ Stefan
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 29 14:14:26 1991
+Received: by karazm.math.uh.edu id <AA10200@karazm.math.uh.edu>; Mon, 29 Apr 91 14:14:27 CDT
+Received: from interlan.interlan.com ([130.204.8.1]) by karazm.math.uh.edu id <AA10170@karazm.math.uh.edu>; Mon, 29 Apr 91 14:11:19 CDT
+Received: by interlan.interlan.com (5.65/1.35)
+	id AA24022; Mon, 29 Apr 91 16:09:49 -0400
+Date: Mon, 29 Apr 91 16:09:49 -0400
+From: powell@interlan.interlan.com (Glen D. Powell)
+Message-Id: <9104292009.AA24022@interlan.interlan.com>
+To: Stefan.Fielding-Isaacs@corp.sun.com, porschephiles@karazm.math.uh.edu
+Subject: Re:  ATE calipers
+
+
+ATE is a German OEM brake part manufacturer. ATE is used on Audi, BMW,
+Porsche, and perhaps VW and Mercedes as well.
+
+I have ATE rotors and master cylinder on my '85 Quattro. Good stuff!
+
+On the Konis, I think they are lifetime warranty -- send 'em back!
+
+-glen
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 29 15:54:28 1991
+Received: by karazm.math.uh.edu id <AA12713@karazm.math.uh.edu>; Mon, 29 Apr 91 15:54:29 CDT
+Received: from caip.rutgers.edu by karazm.math.uh.edu id <AA12592@karazm.math.uh.edu>; Mon, 29 Apr 91 15:47:23 CDT
+Received: from piano.rutgers.edu by caip.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+	id AA14437; Mon, 29 Apr 91 16:46:30 EDT
+Received: by piano (5.17/3.01) 
+	id AA05885; Mon, 29 Apr 91 16:46:28 EDT
+Date: Mon, 29 Apr 91 16:46:28 EDT
+From: boubez@bass.rutgers.edu
+Message-Id: <9104292046.AA05885@piano>
+To: fields-doug@cs.yale.edu
+Cc: tynor@prism.gatech.edu, porschephiles@karazm.math.uh.edu
+In-Reply-To: Doug Fields's message of Wed, 03 Apr 91 18:11:31 -0500 <9104032311.AA27354@SUNED.ZOO.CS.YALE.EDU>
+Subject: Wheels 
+
+
+I was cleaning up my mail files, and I re-read this exchange on brakes. I
+just wanted to point out that one of the latest VW&Porsche issues contains
+an article about brake pads, and how to go about picking what's tight for
+your car. You might want to check it out. If you can't find it, let me know
+and I'll remember to bring it in.
+
+toufic
+
+            R 2 4
+            |_|_|      Toufic Boubez
+            | | |      boubez@caip.rutgers.edu
+            1 3 5      CAIP Center, Rutgers University
+
+ 
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 29 20:34:27 1991
+Received: by karazm.math.uh.edu id <AA16710@karazm.math.uh.edu>; Mon, 29 Apr 91 20:34:27 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA16673@karazm.math.uh.edu>; Mon, 29 Apr 91 20:33:08 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ae09362;
+          29 Apr 91 21:23 EDT
+Date: Tue, 30 Apr 91 01:21 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: L Testerville <tester@cmcl2.nyu.edu>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Hydraulic Clutch Failure ('87 944S)
+Message-Id: <60910430012106/0004056890NB4EM@mcimail.com>
+
+You probably have one of two problems.  The first is that you got air in your
+clutch, which is a bear to get out because of the angle of the master clutch
+cylinder.  It is unlikely to have snuck in unless you tried bleeding it.
+
+The other possibility is a leaking or failed master or slave cylinder.  If your
+master fails, you will likely get fluid in the driver's footwell, staining your
+mats or carpets.  The slave cylinder, however, will leak right onto the ground.
+
+There are probably a number of other things which could cause this sort of
+failure.  Your should probably seek professional advice.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Mon Apr 29 20:35:02 1991
+Received: by karazm.math.uh.edu id <AA16720@karazm.math.uh.edu>; Mon, 29 Apr 91 20:35:02 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA16670@karazm.math.uh.edu>; Mon, 29 Apr 91 20:33:04 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad09362;
+          29 Apr 91 21:22 EDT
+Date: Tue, 30 Apr 91 01:20 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: "Glen D. Powell" <powell@interlan.interlan.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: "Stefan.Fielding Isaacs" <Stefan.Fielding-Isaacs@corp.sun.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re:  ATE calipers
+Message-Id: <35910430012053/0004056890NB4EM@mcimail.com>
+
+ATE = Alfred Teves, and as mentioned, they and Girling are two independent
+suppliers of braking, etc. components to Porsche and other manufacturers.
+
+The Koni lifetime guarantee doesn't exist if you bought the shocks with your
+Porsche, or from PCNA.  If this is the case, you get PCNA's standard one-year
+guarantee on parts.  However, PCNA has proven to be very flexible with parts
+which have broken long before they should have.  If you have Koni's which leaked
+(or whatever) after, say, 18 months on your car, by all means ask your dealer
+who will take it up with your area rep.
+
+I have no knowledge or experience re: rebuilding shocks.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr 30 08:24:34 1991
+Received: by karazm.math.uh.edu id <AA23560@karazm.math.uh.edu>; Tue, 30 Apr 91 08:24:34 CDT
+Received: from cu-arpa.cs.cornell.edu by karazm.math.uh.edu id <AA23555@karazm.math.uh.edu>; Tue, 30 Apr 91 08:24:19 CDT
+Received: from RAY.GRAPHICS.CORNELL.EDU by cu-arpa.cs.cornell.edu (5.65/I-1.98N+)
+	id AA00362; Tue, 30 Apr 91 09:23:28 -0400
+Message-Id: <9104301323.AA00362@cu-arpa.cs.cornell.edu>
+Received: by ray.graphics.cornell.edu
+	(15.11/15.6) id AA13456; Tue, 30 Apr 91 09:23:21 edt
+From: Hurf Sheldon <hurf@ray.graphics.cornell.edu>
+Subject: 928 key problem
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 30 Apr 91 9:23:20 EDT
+Mailer: Elm [revision: 64.9]
+
+I have a '79 928 that the key was lost for (don't even speculate)
+and after sending in the Serial number to Stoddard I got back two
+keys that don't fit. The previous owner had gotten a key from the
+(now defunct) local dealer who had set to FRG for one and it did
+fit. I have been told that there may be numbers on the door lock
+mech that can be used to grind a key. 
+Any info would be appreciated. Dumb suggestions like 'don't lose
+the key' are within my abilities to self construct(barely)the key' are within my abilities to self construct(barely)
+
+Thanks,
+hurf
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr 30 10:14:34 1991
+Received: by karazm.math.uh.edu id <AA24595@karazm.math.uh.edu>; Tue, 30 Apr 91 10:14:35 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA24526@karazm.math.uh.edu>; Tue, 30 Apr 91 10:06:03 CDT
+Date: Tue, 30 Apr 91 11:04:20 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA29364; Tue, 30 Apr 91 11:04:20 EDT
+Message-Id: <9104301504.AA29364@sirius.cs.rpi.edu>
+To: Stefan.Fielding-Isaacs@corp.sun.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: S. Fielding-Isaacs [Wordsmith - Intercon Eng]'s message of Mon, 29 Apr 91 10:01:34 PDT <9104291701.AA00232@formula1.Corp.Sun.COM>
+Subject: ATE calipers
+
+
+    The alloy calipers are rather nice - unibody 
+    construction, very large dimensions but very light.
+
+Be careful of these if you're building a track car.  They flex
+a lot, giving the pedal a very spongy feel.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr 30 10:34:34 1991
+Received: by karazm.math.uh.edu id <AA24786@karazm.math.uh.edu>; Tue, 30 Apr 91 10:34:35 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA24730@karazm.math.uh.edu>; Tue, 30 Apr 91 10:27:49 CDT
+Date: Tue, 30 Apr 91 11:26:24 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA29632; Tue, 30 Apr 91 11:26:24 EDT
+Message-Id: <9104301526.AA29632@sirius.cs.rpi.edu>
+To: hurf@ray.graphics.cornell.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Hurf Sheldon's message of Tue, 30 Apr 91 9:23:20 EDT <9104301323.AA00362@cu-arpa.cs.cornell.edu>
+Subject: 928 key problem
+
+
+You might try PCNA, although I suspect if Stoddard sent you the wrong
+key that the core has been changed.  Does the key they sent you not
+fit both the door and ignition (and glove box, and trunk)?  
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr 30 20:04:38 1991
+Received: by karazm.math.uh.edu id <AA07329@karazm.math.uh.edu>; Tue, 30 Apr 91 20:04:39 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA07274@karazm.math.uh.edu>; Tue, 30 Apr 91 19:59:55 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af17302;
+          30 Apr 91 20:49 EDT
+Date: Wed, 1 May 91 00:35 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Chris Welty <weltyc@sirius.cs.rpi.edu>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Hydraulic Clutch Failure ('87 944S)
+Message-Id: <51910501003515/0004056890NB4EM@mcimail.com>
+
+    You probably have one of two problems.  The first is that you got
+    air in your clutch, which is a bear to get out because of the angle
+    of the master clutch cylinder.  It is unlikely to have snuck in
+    unless you tried bleeding it.
+
+  If there is air in there, he would still be able to feel some
+  pressure, and should be able to pump it up.
+
+Alas, this ain't so.  When I got air in mine, it went to the floor and stayed
+there.  I could pull the pedal back up and repeat the experiment with absolute
+repeatability.  Because of the slant of the cylinder, air which is in it stays
+there and compresses - pumping won't help.  You feel a bit of pressure as the
+pedal goes down, but then it "thunks" to the floor.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Tue Apr 30 20:34:38 1991
+Received: by karazm.math.uh.edu id <AA07622@karazm.math.uh.edu>; Tue, 30 Apr 91 20:34:39 CDT
+Received: from cmcl2.NYU.EDU (nyu.edu) by karazm.math.uh.edu id <AA07559@karazm.math.uh.edu>; Tue, 30 Apr 91 20:28:28 CDT
+Received: by cmcl2.NYU.EDU (5.61/1.34)
+	id AA10708; Tue, 30 Apr 91 21:27:40 -0400
+From: tester@cmcl2.NYU.EDU (L Testerville)
+Message-Id: <9105010127.AA10708@cmcl2.NYU.EDU>
+Subject: Re: Hydraulic Clutch Failure ('87 944S)
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 30 Apr 91 21:27:38 EDT
+X-Mailer: ELM [version 2.3 PL11]
+
+>     You probably have one of two problems.  The first is that you got
+>     air in your clutch, which is a bear to get out because of the angle
+>     of the master clutch cylinder.  It is unlikely to have snuck in
+>     unless you tried bleeding it.
+> 
+>   If there is air in there, he would still be able to feel some
+>   pressure, and should be able to pump it up.
+> 
+> Alas, this ain't so.  When I got air in mine, it went to the floor and stayed
+> there.  I could pull the pedal back up and repeat the experiment with absolute
+> repeatability.  Because of the slant of the cylinder, air which is in it stays
+> there and compresses - pumping won't help.  You feel a bit of pressure as the
+> pedal goes down, but then it "thunks" to the floor.
+
+  Apparently, there is a large spring aft of the firewall and connected
+to the clutch pedal that causes the initial slight pressure.
+(creates an effect not unlike that found on a compound bow)
+
+  I've tried repeatedly moving the pedal to and fro at high speed to
+no avail.  Looking under the bell housing where the slave (master?)
+cylinder is, I see an cylindrical opening where a small rubber knob-like
+protuberance moves slightly when the pedal is exercised.  This, in
+addition to a general lack of spilt fluids in the immediate vicinity
+gives credence to seal failure (ala Welty) or possibly trapped air (ala
+Gross).  Although I've never had the occasion to fool with either clutch
+hydraulic cylinders...
+
+  Thank you, guys.  I've determined that, right now, my time is a bit
+more valuable than parts and exploratory surgery by my trusty teutonic
+paisan - so off to the shop she goes   :-(
+
+  I hope this never happens to you!
+
+   Lee Chen
+
+From stan  Tue Apr 30 21:54:39 1991
+Received: by karazm.math.uh.edu id <AA08440@karazm.math.uh.edu>; Tue, 30 Apr 91 21:54:40 CDT
+Received: by karazm.math.uh.edu id <AA08353@karazm.math.uh.edu>; Tue, 30 Apr 91 21:50:10 CDT
+Date: Tue, 30 Apr 91 21:50:10 CDT
+From: Stan Hanks (bcm) <stan>
+To: hurf@ray.graphics.cornell.edu, porschephiles@karazm.math.uh.edu
+Subject: Re:  928 key problem
+
+Call any competent locksmith. It's a pretty easy, although somewhat
+expensive (~$100) job to pull the lock, read the numbers and code-cut a 
+new set of keys. 
+
+I've had to replace various keyed items (door handles, targa top releases,etc)
+on my cars over time, and usually trot  right down to have the new piece
+re-keyed to fit the old keys. It makes life *so* much simpler...
+
+Stan
+

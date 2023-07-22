@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: VDO CHT Gauge</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="jrb@autoweb.net, guitarsmith@juno.com">
+  <META NAME="MsgPropFrom" CONTENT="entropy@hughes.net">
+  <META NAME="MsgPropSubject" CONTENT="Re: VDO CHT Gauge">
+  <META NAME="MsgPropDate" CONTENT="Fri, 11 Jul 97 04:24:06 GMT">
+  <META NAME="MsgPropcc" CONTENT="914@Porschefans.com (914 Porsche Fans)">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">jrb@autoweb.net, guitarsmith@juno.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">entropy@hughes.net</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: VDO CHT Gauge</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Fri, 11 Jul 97 04:24:06 GMT</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">914@Porschefans.com (914 Porsche Fans)</td></tr>
+</table>
+<pre>
+Greetings, 914-er's!
+
+  I find that I must respectfully disagree with Jerry Brady's description of the VDO 
+CHT gauge technology.
+
+  Jerry writes:
+
+> It's a feature.  The CHT sender is a termisitor which is attached to
+> chassis ground (by screwing into the head) and its signal wire. 
+
+  This is simply not correct, at least, not with my VDO gauge.  The sensor is a 
+bi-metallic junction, NOT a thermistor.   The difference is, a thermistor is a resistor 
+that changes it's resistance with temperature.  To use such a device to operate a 
+temperature gauge, an external source of regulated DC voltage is required.  This 
+voltage source is connected to one side of the meter movement in the gauge, and 
+the other side of the gauge then returns to ground through the thermistor which is 
+attached to the engine, a suitable ground.  The varying resistance of the thermistor 
+controls the current through the meter movement (gauge) which then deflects 
+according to the applied current.   This system requires that vehicle power be 
+supplied to the gauge, which must contain a voltage regulator chip internally to 
+prevent changes in the car's electrical system voltage from showing up as 
+changes in engine temperature.   Only a single wire is needed to connect to the 
+sensor, but the internal regulator in the gauge housing requires both switched +12 
+volts and ground for proper operation.  This is exactly the scheme used with the 
+VDO oil pressure gauge, except that it has a PRESSURE dependent resistor 
+instead of a TEMPERATURE dependent resistor.
+
+  The VDO CHT gauge, however, operates on a different principle.  The sensor 
+contains a bi-metallic junction.  This junction is the equivalent of the "thermocouple" 
+that is found in the common gas water heater.   In the case of the water heater, the 
+junction is positioned in the pilot flame, and the electrical current that it generates is 
+used to hold open a solenoid operated valve in the main gas line.  Should the pilot 
+light go out, the junction cools off, no current is generated, and the solenoid valve 
+closes, preventing natural gas from being dumped into the house.
+   The VDO sensor operates on exactly the same principle;  it is a VOLTAGE 
+SOURCE, not a temperature dependent resistor.  It therefore requires two wires to 
+form a complete circuit to the gauge, and these wires are crimped into the ring 
+terminal of the sensor in such a way that that they are normally coupled only 
+thermally, NOT electrically, to the cylinder head.   In a normally operating VDO 
+system, the CHT can be read with the ignition off, and all vehicle power removed 
+from the gauge... at least mine can.   This would be impossible with a thermistor 
+type system, because the thermistor can only control the flow of an externally 
+supplied current; not generate it's own.
+
+>  The resistance can be measured by attaching a multimeter to the signal wire 
+> and any place on the car you can find a good ground.  Check it with the car warm. 
+>  The resistance should go down as the tempurature goes up.
+  
+  There should be, as I said, TWO wires, not just one.  There may be continuity 
+between one of these wires and ground, but you should get some extremely 
+strange readings if you go across both wires.  Most ohmmeters don't like to be 
+connected to voltage sources; if you do, the reading will be meaningless.
+  A better check would be to use a good low range (millivolt) meter and look for 
+voltage that is proportional to the temperature of the sensor.   This voltage should 
+be measured across the two wires comming from the sensor, and NOT with 
+respect to ground.
+
+   I hope that this clears things up
+
+                                        Regards,
+                                        Jim T.
+
+.
+</pre>
+</BODY></HTML>

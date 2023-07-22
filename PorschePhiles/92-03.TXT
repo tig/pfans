@@ -1,0 +1,3607 @@
+From porschephiles-request Sat Mar  1 08:27:00 1992
+Received: by karazm.math.UH.EDU id AA06619
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 29 Feb 1992 12:27:42 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA06615
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Sat, 29 Feb 1992 12:27:39 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 5074; Sat, 29 Feb 92 13:27:21 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 3343; Sat, 29 Feb 92 13:27:20 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NthY$0EE
+Date:         Sat, 29 Feb 92 13:27-0500
+X400-Trace:   CA* *QueensU.CA; arrival Sat, 29 Feb 92 13:27-0500 action Relayed
+Message-Id:   <1370*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      Door lever help?
+
+Kevin's Door lever.
+----------------------------------------------------------------------
+P1-Message-Id: CA* *QueensU.CA;QueensU:NthY$0EE
+Date:         Sat, 29 Feb 92 13:27-0500
+X400-Trace:   CA* *QueensU.CA; arrival Sat, 29 Feb 92 13:27-0500 action Relayed
+Message-Id:   <1368*Ken.Stanton@QueensU.CA>
+From:         Ken.Stanton@QueensU.CA
+To:           kevinh@hasler.ascom.hasler
+In-Reply-To:  <9202281433.AA21285@libra.hasler.ascom.CH>
+Subject:      Door lever help?
+
+Kevin. Sounds like a problem I've experienced before in which case you won't
+need to touch the handle itself. There is very likely a ball and socket set up
+in the linkage which needs to be adjusted to shorten the linkage. Access is
+gained by removing the inside door panel. Newer versions have a neoprene
+socket which is threaded onto the end of the linkage and can be readily
+popped off the ball for adjustment. When the neoprene ages, the threads become
+ghosts of their former selves making replacement essential. Anyway, once the
+door panel is off it's an easy job. Cheers. Ken.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From stan Sun Mar  1 15:00:58 1992
+Received: by karazm.math.UH.EDU id AA01096
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 1 Mar 1992 21:00:58 -0600
+Received: by karazm.math.UH.EDU id AA01092
+  (5.65c/IDA-1.4.4 for porschephiles@karazm.math.uh.edu); Sun, 1 Mar 1992 21:00:58 -0600
+Date: Sun, 1 Mar 1992 21:00:58 -0600
+From: Stan Hanks <stan>
+Message-Id: <199203020300.AA01092@karazm.math.UH.EDU>
+To: porschephiles@karazm.math.uh.edu
+Subject: Who's Who, March 1992
+
+To post to Porschephiles, send mail to:
+	porschephiles@karazm.math.uh.edu
+
+Your list administrators is:
+	Stan Hanks <porschephiles-request@karazm.math.uh.edu>
+
+This list is also available in a digest format. Mail to porschephiles-request 
+for more info.  Archives are kept, but not readily available. If someone wants
+to volunteer to maintain them on-line, let me know.
+
+Current distribution by car type:
+
+Total membership is 131 ; Who's Who list is  89 ;  67 % participation
+
+No Porsche	  10
+356		   3
+911		  17
+912		   4
+914		  15
+914-6		   2
+924		   3
+928		   5
+930		   4
+931		   4
+944		  14
+951		  14
+
+Legend: 356, 911, 912, 914, 914-6, 924, 928, and 944 counts  all non-
+turbo models. 930 == 911 Turbo, 931 == 924 Turbo, 951 == 944 Turbo.
+
+Porschephiles members who have told me what they drive as of this date.
+Porsches owned/driven are listed, other cars are not. This may change
+if enough people bitch about it.  And, if you have any corrections, tell me!
+
+Brad Bass                TX '68 912                bass@convex.com
+George Beuselinck        NY '83 944                gb@vnet.ibm.com
+James Bober              VA '89 928 GT             JBOBER@FATVAX.IDA.ORG
+George Bono              CA '62 356 B Cabriolet    BONO_GEORGE/HP4500_MP@sr.hp.com
+Paul Booth               NY '81 931                paul@eye.com
+Toufic Boubez            NJ '71 914 1.7L           boubez@cesl.rutgers.edu
+Michael Brodesky            '73 914 1.7            MBRODESKY@SC9.intel.com
+David Brown              CA '74 914 1.8            dab@esl.com
+Corky Cartwright         TX '89 951 S              cork@cs.rice.edu
+Queguiner Charles        FR '85.5 944              Charles.Queguiner@irisa.fr
+Lee Chen                 NY '87 944 S, '86 928 S   thx1138@nyu.edu
+Richard Cole             UK '72 911 E              colers@prl.philips.co.uk
+Gary Cook                CA '81 931                gary.cook@sun.com
+Carlos Costa             CA '75 911 Carrera        carlos.costa@corp.sun.com
+Donald Day               MI '80 928                don@cimage.com
+Carl DeSousa             CA '86 951, '80 931       desousa@cisco.com
+Nancy Dorighi            CA '74 914 2.0            dorighi@eos.arc.nasa.gov
+Milo Dorr                CA '86 951                dorr@hyperion.llnl.gov
+Ralph Droms              PA                        droms@bucknell.edu
+Dave Erickson            CA '64 356 SC coupe       erickson@taurus.cs.nps.navy.mil
+Doug Fields              CT '88 951 S              fields-doug@CS.YALE.EDU
+James Fuerstenberg       IL '79 911 SC Targa       xgg2356@dcmdc.dla.mil
+Stuart Galt              WA '77 911 S, '74 914 2.0 sag5004@yak.boeing.com
+Bdale Garbee             CO                        bdale@col.hp.com
+Pete Gayde               IL '87 924 S              iwcs!gayde@att.att.com
+Jon Glickman             CA '83 911 SC Targa       jong@sjc.mentorg.com
+Jane Gonyea              IL '83 911 Targa          janeg@ihlpb.att.com
+Pete Gregory             CA '69 912                pete@wvus.org
+Greg Grohoski            TX '88 951                grohoski@futserv.austin.ibm.com
+Kevin Gross              MA '87 944 S              0004056890@mcimail.com
+Tom Haapanen             ON '74 914 2.0            tomh@wes.on.ca
+Shel Hall                GA                        76701.103@CompuServe.Com
+Stan Hanks               TX '81 911 SC Targa, '74 914 1.8L stan@casc.math.uh.edu
+Mike Hearn               CO '86 930                hearn@druco.att.com
+Devon Heron              CA                        devonh@sol.metaware.com
+Greg Hill                CA '80 911 SC             hill@spectra.com
+Violet Jen               CA '89 951 S              violet@mips.com
+Michael Jorgensen        NE '73 914 2.0            dsndata!mike@sparky.IMD.Sterling.COM
+Chris Kantarjiev(Kent)   CA                        kent@parc.xerox.com
+Dan Kasha                CT '66 912                kasha@twolf.ce.yale.edu
+Philip Katz              UK '85 944 Lux            katz_p_m@bt-web.bt.co.uk
+Frank Kerfoot            NJ '87 944 S              fwk@homxc.att.com
+Dave Kissel              CO '77 930                damiki@druco.att.com
+Mark Kosten              OZ '83 944                ccmk@latrobe.edu.au
+Alfred Kwan              NJ '70 914-6              alfred@nyquist.bellcore.com
+Soren LaForce            CA '80 911 sc coupe       LAFORCE@xenon.arc.nasa.gov
+Cliff Lasser             MA                        cal@think.com
+Bart Locanthi            OR '89 951 S              bart@teni.cse.ogi.edu
+Dick Lucas               CA '62 356 B S90          dick@hpcdcel.cdc.hp.com
+John Lupien              MA '73 914                lupienj@hpwarq.wal.hp.com
+Tassos Markas            NC '87 951                am@cs.duke.edu
+Robert Merithew          CA '74 914 2.0            merithew@jessica.stanford.edu
+Jeff Moersch             NY '73 914 2.0L           AGJEM@ACVAX.INRE.ASU.EDU
+Bob Mohr                 VA '87 924 S              mohr_bob@po.gis.prc.com
+Tim Mueller              UT '72 911 T              mueller%velo@cs.utah.edu
+Ken Neff                 TX '73 914 2.0            kneff@tivoli.com
+Steven Neighorn          OR '84 944                neighorn@qiclab.scn.rain.com
+Fred Orndorff            PA                        fo07+@andrew.cmu.edu
+Fred Pack                NJ '89 944 S2             fhp@unipress.com
+Gordon Patterson         NJ                        gordonp@icarus.montclair.edu
+Bob Pentecost            ID '83 944                bpenteco@hpbs987.boi.hp.com
+John Pezaris             MA '70 914-6              pz@mit.edu
+Bruce Pigozzi            MS '84 944                22107BWP@msu.edu
+Scott Presnell           CA '72 911 T Targa        srp@cgl.ucsf.EDU
+Robert Rogers            CA '78 930, '79 930       brogers@auspex.com
+M Seibert                MA '79 924                seibert@xn.ll.mit.edu
+Hurf Sheldon             NY '79 928                hurf@love.graphics.cornell.edu
+Jeff Shorey              NC '73 911 S              js@aixservr.egr.duke.edu
+Josh Sirota              CA                        Josh.Sirota@Eng.Sun.COM
+Mark Sirota              NY '73 914 2.0            msirota@ee.rochester.edu
+Drew Spencer             UT '82 911 SC             drew_spencer@npd.Novell.COM
+Ken Stanton             CDN '81 931                Ken.Stanton@QueensU.CA
+Bert Still               CA '80 928                bert@athena.llnl.gov
+Blaine Stine             CA '85.5 944              stine@sdbio2.UCSD.EDU
+Mark Sundt               NJ '86 951                sundt@athens.cc.bellcore.com
+Steve TImmins            DE '86 951                timmins@brahms.udel.edu
+Walt Thode               CA '72 911 T              thode@nprdc.navy.mil
+Mike Todd                NY '70 911 T              miketodd@cs.cornell.edu
+Steve Tynor              GA '87 951, '74 914 2L    tynor@prism.gatech.edu
+Ilsa VanHook             CA '71 914 1.7L           ilsa@netcom.netcom.com
+Alan Vayda               MI '83 944                vayda@erim.org
+Keith Watson             OR '81 911 SC Targa       kwatson@ws.MENTORG.COM
+John Weiler              GA                        gt7734a@prism.gatech.edu
+RJ White                 ON '68 912                rjwhite@watmath.waterloo.edu
+Joe Wiesenfeld           MA '89 944 S2             jwiesenf@dg-webo.webo.dg.com 
+Jay Wilkinson            MA '86 951                jcw@ksr.com
+Patty Winter             CA '86 951                winter@apple.com
+Bob Wittick              MI '88 911 Coupe          rwittick@convex.cl.msu.edu
+Robert Yen               IL '88 951                rsyen@rtsg.mot.com
+
+
+-----
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0336
+
+From stan Sun Mar  1 14:59:27 1992
+Received: by karazm.math.UH.EDU id AA00998
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 1 Mar 1992 20:59:28 -0600
+Received: by karazm.math.UH.EDU id AA00994
+  (5.65c/IDA-1.4.4 for porschephiles@karazm.math.uh.edu); Sun, 1 Mar 1992 20:59:27 -0600
+Date: Sun, 1 Mar 1992 20:59:27 -0600
+From: Stan Hanks <stan>
+Message-Id: <199203020259.AA00994@karazm.math.UH.EDU>
+To: porschephiles@karazm.math.uh.edu
+Subject: Monthly Note From Your Moderator
+
+March 1992
+Monthly Notices for the Porschephiles mailing list. 
+PLEASE READ THIS WHOLE MESSAGE!!
+
+With spring coming and autox season well underway by this point, consider 
+this an official note of encouragement to get involved in driving your car
+the way it was meant to be driven! You'll like it. Trust me.
+If you need details, don't be afraid to post your questions.
+
+As I got the USA-centricity inherent in my posting of the PCA office info
+last month pointed out to me, I will also include the info for joining
+any other national Porsche Club. Just mail it to me.
+
+Porsche Club of Americia.
+Does take non-US membership.
++1 703 922-9300, roughly 9:00 to 5:00 EST (GMT - 6).  Dues are $36/year.
+Have your Visa/MC number *AND* your VIN number handy, if you own a car.
+
+Porsche Club of Great Britain
+Ayton House
+West End
+Northleach
+Gloucestershire
+England GL54 3HG
+Telephone : +44 451 60792
+
+This list is still being run as a mail reflector, which sends incoming
+mail to the whole list at once. The participants include people with a 
+variety of backgrounds, some technical, some race/autocross/performance 
+drivers, some owners, some just admirers.  
+
+To send a message to the whole list, mail to
+
+		porschephiles@karazm.math.uh.edu
+
+To send mail regarding distribution problems, or other administrative issues,
+send mail to
+
+		porschephiles-request@karazm.math.uh.edu
+
+
+The list is also available as a digest, where you get a compilataion of
+the day's messages once per day, rather than getting all of the individual
+messages. This seems to be a win for people with slow mail links or who
+are just too busy to stay current. If you want to convert to (or from)
+the digest, send mail to the porschephiles-request address above.
+
+PLEASE NOTE A FEW ITEMS:
+
+1) There are about 125 members of the list. It's small enough to be effective,
+   and large enough to have a number of diverse opinions and sets of
+   experience. Remember that before you decide to not ask a question, or
+   if you get flamed for asking an "obvious" question. Diversity -- it's
+   a *feature*....
+
+2) The list is maintained irregularly. If I'm in town or can reach the
+   host system from wherever I am and I have the time to deal with it,
+   I *try* to handle changes on a real-time basis. However, as a consultant
+   I travel extensively and from time to time, changes will be batched
+   on a weekly basis.
+
+3) Please try to send all administrative mail to the "porschephiles-request"
+   address, or to me directly. And, as some members have discovered,
+   you can also reach me by phone (sometimes).
+
+4) In the same vein, if you use a "pure" System V mail system, please pay
+   attention to your replies. The default will send the reply to 
+   the "porschephiles-request" address, as it is the UUCP "From "
+   address. Such messages are discarded.
+
+5) If your mailer starts screwing up *you will be dropped from the list*
+   Should you notice that you aren't getting the list any more, send me
+   mail and I'll figure out why not...
+
+Enjoy the list! If I can be of assistance, please don't hesitate to drop
+me a note.
+
+Regards From Your Moderator,
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0633
+
+'81 Euro 911SC Targa (daily driver), '74 914 (SCCA DP autox weapon)
+'70 914 1.7 (in prep to a SCCA GT-3 weapon) (yes, this is a new car!)
+
+From porschephiles-request Mon Mar  2 08:29:10 1992
+Received: by karazm.math.UH.EDU id AA03208
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 08:29:17 -0600
+Received: from dcmdc.dla.mil ([131.67.1.1]) by karazm.math.UH.EDU with SMTP id AA03204
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 08:29:10 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA15511; Mon, 2 Mar 92 08:25:44 -0600
+Message-Id: <9203021425.AA15511@dcmdc.dla.mil>
+Date: Mon Mar 2 08:25:41 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: sandblasted911hood
+To: porschephiles@karazm.math.uh.edu
+
+Has anybody seen the 1/2 hour commercials for this color coded car wax...
+chromacolor 2000 or some such name.  They take a backpack sandblaster to the
+hood of a 911 and then use the wax to bring back the shine.  Pretty impressive
+if it works.
+
+Jim
+
+From porschephiles-request Mon Mar  2 04:49:03 1992
+Received: by karazm.math.UH.EDU id AA03279
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 08:45:55 -0600
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.UH.EDU with SMTP id AA03275
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 08:45:52 -0600
+Received: by aixservr.egr.duke.edu (5.61-AIX-1.2/1.0)
+	id AA1101473 (for porschephiles@karazm.math.uh.edu, from js/js@aixservr.egr.duke.edu); Mon, 2 Mar 92 09:49:03 -0500
+Date: Mon, 2 Mar 92 09:49:03 -0500
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9203021449.AA1101473@aixservr.egr.duke.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:sandblasted 911 hood
+
+  I bet it's a bunch of crap - what they're selling is just a glazing or rubbing
+compound with some food coloring in it.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request Sun Mar  1 22:44:29 1992
+Received: by karazm.math.UH.EDU id AA03465
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:17:08 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03461
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:17:06 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24588; Mon, 2 Mar 92 10:18:38 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19411; Mon, 2 Mar 92 03:44:30 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA16983; Mon, 2 Mar 92 03:44:29 EST
+Date: Mon, 2 Mar 92 03:44:29 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020844.AA16983@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1992 911 Carrera 2 
+
+
+Specifications  911 CARRERA 2
+
+
+Engine Design:          Air-cooled, lightweight aluminum alloy
+						horizontally opposed 6-cylinder,
+						crossflow, hemisphierical combustion
+						chambers, 2 valve-per-cylinder, dual
+						resonant induction, rear mounted
+                        ---------------------------------------
+DISPLACEMENT            3.6 liters
+                        ---------------------------------------
+HORSEPOWER              247 @ 6,100 rpm
+                        ---------------------------------------
+TORQUE                  228 lb-ft @ 4,800 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       11.3 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    Electronic fuel injected, DME controlled,
+                        with twin plug ignition dual knock 
+						sensors 5-speed manual
+                        ---------------------------------------
+TRANSMISSION            5-speed manual transaxle
+
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent MacPherson struts
+                        aluminum alloy lower control arms,
+                        stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy semi-
+                        trailing arms, coil springs with toe
+						correction, stabilizer bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 5.5 seconds
+                        ---------------------------------------
+TOP TRACK SPEED         162 mph
+
+---------------------------------------------------------------
+WHEELBASE               89.4"
+                        ---------------------------------------
+OVERALL LENGTH          168.3"
+                        ---------------------------------------
+WIDTH                   65.0"
+                        ---------------------------------------
+HEIGHT                  51.6"
+                        ---------------------------------------
+TRACK-FRONT/REAR        54.3"/54.1"
+                        ---------------------------------------
+GROUND CLEARANCE        4.5"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,031
+                        ---------------------------------------
+FRONT HEADROOM          37.5"
+                        ---------------------------------------
+FRONT LEGROOM           43.0"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   7.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** 17
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** 25
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+From porschephiles-request Sun Mar  1 22:45:55 1992
+Received: by karazm.math.UH.EDU id AA03484
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:17:29 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03480
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:17:28 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24609; Mon, 2 Mar 92 10:19:05 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19464; Mon, 2 Mar 92 03:45:55 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA17004; Mon, 2 Mar 92 03:45:55 EST
+Date: Mon, 2 Mar 92 03:45:55 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020845.AA17004@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1992 911 Turbo
+
+
+Specifications  911 TURBO
+
+
+Engine Design:          Air-cooled, lightweight aluminum alloy
+						horizontally opposed 6-cylinder,
+						crossflow, hemisphierical combustion
+						chambers, 2 valve-per-cylinder, dual
+						resonant induction, rear mounted
+                        ---------------------------------------
+DISPLACEMENT            3.3 liters
+                        ---------------------------------------
+HORSEPOWER              315 @ 5,750 rpm
+                        ---------------------------------------
+TORQUE                  332 lb-ft @ 4,500 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       7.0 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    K Jetronic fuel injected, KKK
+						turbocharger, with high flow air-to-air
+						intercooler, EZF controlled ignition
+                        ---------------------------------------
+TRANSMISSION            5-apeed manual
+
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent MacPherson struts
+                        aluminum alloy lower control arms,
+                        stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy semi-
+                        trailing arms, coil springs with toe
+						correction, stabilizer bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented cross-drilled discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 4.8 seconds
+                        ---------------------------------------
+TOP TRACK SPEED         168 mph
+---------------------------------------------------------------
+WHEELBASE               89.4"
+                        ---------------------------------------
+OVERALL LENGTH          168.3"
+                        ---------------------------------------
+WIDTH                   69.9
+                        ---------------------------------------
+HEIGHT                  51.6"
+                        ---------------------------------------
+TRACK-FRONT/REAR        56.5"/58.8"
+                        ---------------------------------------
+GROUND CLEARANCE        4.5"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,274
+                        ---------------------------------------
+FRONT HEADROOM          37.5"
+                        ---------------------------------------
+FRONT LEGROOM           43.0"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   7.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** 13
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** 21
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+From porschephiles-request Sun Mar  1 22:45:05 1992
+Received: by karazm.math.UH.EDU id AA03471
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:17:17 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03467
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:17:15 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24601; Mon, 2 Mar 92 10:18:53 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19446; Mon, 2 Mar 92 03:45:06 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA16990; Mon, 2 Mar 92 03:45:05 EST
+Date: Mon, 2 Mar 92 03:45:05 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020845.AA16990@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1992 911 Carrera 2 Tiptronic
+
+
+Specifications  911 CARRERA 2 TIPTRONIC
+
+
+Engine Design:          Air-cooled, lightweight aluminum alloy
+						horizontally opposed 6-cylinder,
+						crossflow, hemisphierical combustion
+						chambers, 2 valve-per-cylinder, dual
+						resonant induction, rear mounted
+                        ---------------------------------------
+DISPLACEMENT            3.6 liters
+                        ---------------------------------------
+HORSEPOWER              247 @ 6,100 rpm
+                        ---------------------------------------
+TORQUE                  228 lb-ft @ 4,800 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       11.3 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    Electronic fuel injected, DME controlled,
+                        with twin plug ignition dual knock 
+						sensors
+                        ---------------------------------------
+TRANSMISSION            Tiptronic Dual Function
+
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent MacPherson struts
+                        aluminum alloy lower control arms,
+                        stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy semi-
+                        trailing arms, coil springs with toe
+						correction, stabilizer bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 6.4 seconds
+                        ---------------------------------------
+TOP TRACK SPEED         159 mph
+
+---------------------------------------------------------------
+WHEELBASE               89.4"
+                        ---------------------------------------
+OVERALL LENGTH          168.3"
+                        ---------------------------------------
+WIDTH                   65.0"
+                        ---------------------------------------
+HEIGHT                  51.6"
+                        ---------------------------------------
+TRACK-FRONT/REAR        54.3"/54.1"
+                        ---------------------------------------
+GROUND CLEARANCE        4.5"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,097
+                        ---------------------------------------
+FRONT HEADROOM          37.5"
+                        ---------------------------------------
+FRONT LEGROOM           43.0"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   7.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** 16
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** 23
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+From porschephiles-request Sun Mar  1 22:45:32 1992
+Received: by karazm.math.UH.EDU id AA03478
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:17:22 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03474
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:17:21 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24604; Mon, 2 Mar 92 10:18:58 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19457; Mon, 2 Mar 92 03:45:33 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA16997; Mon, 2 Mar 92 03:45:32 EST
+Date: Mon, 2 Mar 92 03:45:32 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020845.AA16997@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1992 911 Carrera 4 
+
+
+Specifications  911 CARRERA 4
+
+
+Engine Design:          Air-cooled, lightweight aluminum alloy
+						horizontally opposed 6-cylinder,
+						crossflow, hemisphierical combustion
+						chambers, 2 valve-per-cylinder, dual
+						resonant induction, rear mounted
+                        ---------------------------------------
+DISPLACEMENT            3.6 liters
+                        ---------------------------------------
+HORSEPOWER              247 @ 6,100 rpm
+                        ---------------------------------------
+TORQUE                  228 lb-ft @ 4,800 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       11.3 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    Electronic fuel injected, DME controlled,
+                        with twin plug ignition dual knock 
+						sensors 5-speed manual
+                        ---------------------------------------
+TRANSMISSION            5-speed manual transaxle
+
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent MacPherson struts
+                        aluminum alloy lower control arms,
+                        stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy semi-
+                        trailing arms, coil springs with toe
+						correction, stabilizer bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 5.5 seconds
+                        ---------------------------------------
+TOP TRACK SPEED         162 mph
+
+---------------------------------------------------------------
+WHEELBASE               89.4"
+                        ---------------------------------------
+OVERALL LENGTH          168.3"
+                        ---------------------------------------
+WIDTH                   65.0"
+                        ---------------------------------------
+HEIGHT                  51.6"
+                        ---------------------------------------
+TRACK-FRONT/REAR        54.3"/54.1"
+                        ---------------------------------------
+GROUND CLEARANCE        4.5"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,252
+                        ---------------------------------------
+FRONT HEADROOM          37.5"
+                        ---------------------------------------
+FRONT LEGROOM           43.0"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   7.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** 15
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** 23
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+From porschephiles-request Sun Mar  1 22:47:12 1992
+Received: by karazm.math.UH.EDU id AA03510
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:18:21 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03506
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:18:19 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24649; Mon, 2 Mar 92 10:19:46 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19481; Mon, 2 Mar 92 03:47:13 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA17025; Mon, 2 Mar 92 03:47:12 EST
+Date: Mon, 2 Mar 92 03:47:12 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020847.AA17025@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1992 968 Tiptronic
+
+
+Specifications  968 TIPTRONIC
+
+
+Engine Design:          Liquid-cooled, lightweight aluminum
+                        alloy 4 cylinder engine, 4 valve-per-
+                        cylinder, dual balance shafts, external
+                        oil cooler, dual resonant induction,
+                        front mounted
+                        ---------------------------------------
+DISPLACEMENT            3.0 liters
+                        ---------------------------------------
+HORSEPOWER              236 @ 6,200 rpm
+                        ---------------------------------------
+TORQUE                  225 lb-ft @ 4,100 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       11.0 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    Electronic fuel injected, DME controlled,
+                        dual knock sensors
+                        ---------------------------------------
+TRANSMISSION            Tiptronic Dual Function
+
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent MacPherson struts
+                        aluminum alloy lower control arms,
+                        stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy semi-
+                        trailing arms with one torsion bar per
+                        wheel, stablilizer bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 7.7 seconds
+                        ---------------------------------------
+TOP TRACK SPEED         153 mph
+
+---------------------------------------------------------------
+WHEELBASE               94.5"
+                        ---------------------------------------
+OVERALL LENGTH          170.9"
+                        ---------------------------------------
+WIDTH                   68.3"
+                        ---------------------------------------
+HEIGHT                  50.2"
+                        ---------------------------------------
+TRACK-FRONT/REAR        58.2"/57.1"
+                        ---------------------------------------
+GROUND CLEARANCE        4.9"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,152 (3,306 Cabriolet)
+                        ---------------------------------------
+FRONT HEADROOM          38.0"
+                        ---------------------------------------
+FRONT LEGROOM           44.5"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   9.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** 17
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** 24
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+From porschephiles-request Sun Mar  1 22:46:47 1992
+Received: by karazm.math.UH.EDU id AA03503
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:18:03 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03499
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:18:00 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24618; Mon, 2 Mar 92 10:19:31 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19475; Mon, 2 Mar 92 03:46:48 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA17018; Mon, 2 Mar 92 03:46:47 EST
+Date: Mon, 2 Mar 92 03:46:47 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020846.AA17018@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1992 968
+
+
+Specifications  968
+
+
+Engine Design:          Liquid-cooled, lightweight aluminum
+                        alloy 4 cylinder engine, 4 valve-per-
+                        cylinder, dual balance shafts, external
+                        oil cooler, dual resonant induction,
+                        front mounted
+                        ---------------------------------------
+DISPLACEMENT            3.0 liters
+                        ---------------------------------------
+HORSEPOWER              236 @ 6,200 rpm
+                        ---------------------------------------
+TORQUE                  225 lb-ft @ 4,100 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       11.0 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    Electronic fuel injected, DME controlled,
+                        dual knock sensors
+                        ---------------------------------------
+TRANSMISSION            6-speed manual transaxle
+
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent MacPherson struts
+                        aluminum alloy lower control arms,
+                        stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy semi-
+                        trailing arms with one torsion bar per
+                        wheel, stablilizer bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 6.3 seconds
+                        ---------------------------------------
+TOP TRACK SPEED         156 mph
+
+---------------------------------------------------------------
+WHEELBASE               94.5"
+                        ---------------------------------------
+OVERALL LENGTH          170.9"
+                        ---------------------------------------
+WIDTH                   68.3"
+                        ---------------------------------------
+HEIGHT                  50.2"
+                        ---------------------------------------
+TRACK-FRONT/REAR        58.2"/57.1"
+                        ---------------------------------------
+GROUND CLEARANCE        4.9"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,086 (3,240 Cabriolet)
+                        ---------------------------------------
+FRONT HEADROOM          38.0"
+                        ---------------------------------------
+FRONT LEGROOM           44.5"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   9.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** 17
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** 25
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+From porschephiles-request Sun Mar  1 22:46:25 1992
+Received: by karazm.math.UH.EDU id AA03490
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 09:17:35 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA03486
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 09:17:33 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA24614; Mon, 2 Mar 92 10:19:12 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA19470; Mon, 2 Mar 92 03:46:26 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA17011; Mon, 2 Mar 92 03:46:25 EST
+Date: Mon, 2 Mar 92 03:46:25 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9203020846.AA17011@acad.YP.noname>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1993 928 GTS
+
+
+Specifications  928 GTS 1993
+
+
+Engine Design:          Liquid-cooled, lightweight aluminum
+                        alloy V8, DOHC, external oil cooler, dual
+						resonant induction, 4 valve-per-cylinder,
+						front mounted
+                        ---------------------------------------
+DISPLACEMENT            5.4 liters
+                        ---------------------------------------
+HORSEPOWER              345 @ 5,700 rpm
+                        ---------------------------------------
+TORQUE                  369 lb-ft @ 4,250 rpm
+                        ---------------------------------------
+COMPRESSION RATIO       10.4 : 1
+                        ---------------------------------------
+FUEL/IGNITION SYSTEM    EZK-LH fuel/ignition system, dual
+                        knock sensors
+                        ---------------------------------------
+TRANSMISSION            5-speed manual rear transaxle (4-speed
+						automatic
+---------------------------------------------------------------
+
+SUSPENSION, FRONT       Independent double aluminum alloy
+						A-arms, coil springs, stablilizer bar
+                        ---------------------------------------
+SUSPENSION, REAR        Independent aluminum alloy Weissach
+						design, toe correcting, stablizier bar
+                        ---------------------------------------
+BRAKE SYSTEM            4-wheel power-assisted, 4-piston
+                        aluminum alloy fixed caliper, internally
+                        vented discs, ABS
+                        ---------------------------------------
+STEERING                Rack & Pinion, force sensitive
+                        hydraulically assisted
+---------------------------------------------------------------
+ACCELERATION            0-60 in 5.5 seconds (5.6 Automatic)
+                        ---------------------------------------
+TOP TRACK SPEED         171 mph
+
+---------------------------------------------------------------
+WHEELBASE               98.4"
+                        ---------------------------------------
+OVERALL LENGTH          178.1"
+                        ---------------------------------------
+WIDTH                   74.4"
+                        ---------------------------------------
+HEIGHT                  50.5"
+                        ---------------------------------------
+TRACK-FRONT/REAR        61.1"/63.6"
+                        ---------------------------------------
+GROUND CLEARANCE        4.5"
+                        ---------------------------------------
+CURB WEIGHT (LBS.)      3,593 (3,638 Automatic)
+                        ---------------------------------------
+FRONT HEADROOM          36.5"
+                        ---------------------------------------
+FRONT LEGROOM           43.5"
+                        ---------------------------------------
+SEAT TRACK ADJUSTMENT   7.0"
+---------------------------------------------------------------
+FUEL CONSUMPTION CITY** Manual 13 est., Auto 15 est.
+                        ---------------------------------------
+FUEL CONSUMPTION HIGHWAY** Manual 19 est., Auto 19 est.
+---------------------------------------------------------------
+DRIVER-SIDE AIRBAG      Standard
+                        ---------------------------------------
+PASSENGER AIRBAG        Standard
+---------------------------------------------------------------
+**1992 EPA estimates.  Compare these estimates to the 
+"estimated mpg" of other cars.  Your actual mileage will vary with
+speed, weather and trip lengths.
+
+
+
+
+
+
+
+
+
+
+
+
+From porschephiles-request Mon Mar  2 01:15:15 1992
+Received: by karazm.math.UH.EDU id AA04120
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 11:21:44 -0600
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA04115
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 11:21:41 -0600
+Received: from Corp.Sun.COM (lemay.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA16169; Mon, 2 Mar 92 09:21:27 PST
+Received: from northbeach.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA06965; Mon, 2 Mar 92 09:21:25 PST
+Received: by northbeach.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA00988; Mon, 2 Mar 92 09:15:15 PST
+Date: Mon, 2 Mar 92 09:15:15 PST
+From: Volney.Spalding@Corp.Sun.COM (Volney Spalding)
+Message-Id: <9203021715.AA00988@northbeach.Corp.Sun.COM>
+To: Porsche@northbeach.Corp.Sun.COM
+Subject: Bay Area Porsche Repair
+
+Are there any Bay Area Porschephiles who can recommend a repair
+facility on the Penninsula?  Specifically I am looking for a place
+to have a 911 or 912 checked out prior to purchase.
+
+Also, general guidelines on what to look for/what to avoid on pre-
+1970's 911-912 would be helpful (besides the obvious service records,
+etc.)  I'm sure there are books available; can anyone recommend one in 
+particular?
+
+Thanks,
+
+Vol
+
+From porschephiles-request Mon Mar  2 03:05:28 1992
+Received: by karazm.math.UH.EDU id AA04879
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 13:10:45 -0600
+Received: from trout.nosc.mil by karazm.math.UH.EDU with SMTP id AA04875
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 13:10:42 -0600
+Received: by trout.nosc.mil (5.59/1.27)
+	id AA25053; Mon, 2 Mar 92 11:10:39 PST
+From: hill@spectra.com
+Message-Id: <9203021910.AA25053@trout.nosc.mil>
+Date: Mon, 2 Mar 92 11:05:28 -0800
+To: "nosc!porschephiles@karazm.math.uh.edu"@trout.nosc.mil
+Subject: Used car buying guide
+
+
+ Porsche 911 Performance Handbook, by Bruce Anderson has
+one chapter on buying used Porsche 911s with some useful
+information on serial numbers and what they mean. I
+recommend it specially if you eventually want to increase
+the performance of your car. I found it at B Dalton
+bookstore for $18.95.
+
+Greg
+
+ucsd!nosc!spectr!vax4000::hill
+
+From porschephiles-request Mon Mar  2 08:09:27 1992
+Received: by karazm.math.UH.EDU id AA00359
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 2 Mar 1992 18:09:36 -0600
+Received: from mx.nsi.nasa.gov by karazm.math.UH.EDU with SMTP id AA00355
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 2 Mar 1992 18:09:34 -0600
+Received: Mon, 2 Mar 92 16:09:00 PST from XEN.dnet by mx.nsi.nasa.gov (4.1/1.2)
+Message-Id: <9203030009.AA24415@mx.nsi.nasa.gov>
+Received: from XEN.dnet by AMES.dnet with MAIL-11
+          (utk-mail11d v1.7); Mon, 2 Mar 92 16:09:27 PST
+Date: Mon, 2 Mar 92 16:09:27 PST
+From: LAFORCE@xenon.arc.nasa.gov
+X-To: @PORSCHEPHILES.ADR
+Subject: Bay Area Porsche shops
+To: porschephiles@karazm.math.uh.edu
+
+
+>Are there any Bay Area Porschephiles who can recommend a repair
+>facility on the Penninsula?  Specifically I am looking for a place
+>to have a 911 or 912 checked out prior to purchase.
+
+I had pre-purchase inspections done at both Garretson's and BW's, both
+in Mountain View (not on the same car!).
+
+I felt that Garretson's probably did a more thorough job, but you didn't
+get to speak with the mechanic directly.  The receptionist gives you the
+mechanic's report.  The receptionist is very good, but it's not the same.
+
+I think BW's spends less time on the inspection, but on one car I brought 
+in they found soooo many things I'd missed that I wasn't too worried.
+
+BW's did the inspection on the car that I bought.  So far, nothing major
+has gone wrong in 2 years and about 24k miles.
+
+However...
+
+They did miss that something happened to my car.  I can't find any sign
+of crash repair, but the hood (at least) has been repainted and the 
+windshield was broken at one time (glass is not Sekurit, I found broken
+glass under the floor mat, and the starting instruction decal has a 
+928 part number).  So I don't know what happened, just that something
+did!
+
+Ken's Sportech has been recommended for an auto-x allignment and seems to 
+have a good rep with the local pca region.  I have not done business with
+them.
+
+
+--Soren            laforce@xenon.arc.nasa.gov
+
+p.s.
+
+I also recommend the "911 Performance Handbook" by Bruce Anderson.
+
+I believe that you cannot update the cam chain tensioners on the '65
+to '67 911's.
+
+Watch out for rust, check the headlight buckets and behind the tail lights.
+
+I have a feeling that Garretsons may have gone out of business, but I'm 
+not sure.
+
+
+
+--Soren            laforce@xenon.arc.nasa.gov
+
+From porschephiles-request Wed Mar  4 08:19:00 1992
+Received: by karazm.math.UH.EDU id AA10523
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 4 Mar 1992 12:20:07 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA10519
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Wed, 4 Mar 1992 12:20:03 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 9595; Wed, 04 Mar 92 13:19:34 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 4991; Wed, 04 Mar 92 13:19:33 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NtB3TBMT
+Date:         Wed, 4 Mar 92 13:19-0500
+X400-Trace:   CA* *QueensU.CA; arrival Wed, 4 Mar 92 13:19-0500 action Relayed
+Message-Id:   <1401*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      <HOT> 931
+
+After driving home at a relaxed pace, no heavy turbo action or high speeds,
+I popped open the hood of the 924 Turbo while the thing was still running
+at idle. It was dark out and I immediately noticed an orange glow. The entire
+exhaust manifold was cherry red. Surely this is not normal even for the 931.
+I don't make a habit of looking under the hood in the dark, so I don't know
+if it always gets this hot or if it just thought this up recently. Can
+anyone cast any light on this? I hate to think of the temperatures upstream
+from the manifold if it can do this at idle.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From porschephiles-request Wed Mar  4 03:15:58 1992
+Received: by karazm.math.UH.EDU id AA10838
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 4 Mar 1992 13:16:01 -0600
+Received: from stout.cisco.com by karazm.math.UH.EDU with SMTP id AA10834
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 4 Mar 1992 13:16:00 -0600
+Received: from localhost.cisco.com by stout.cisco.com with TCP; Wed, 4 Mar 92 11:15:59 -0800
+Message-Id: <9203041915.AA11136@stout.cisco.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: [Ken.Stanton@queensu.ca: <HOT> 931]
+Date: Wed, 04 Mar 92 11:15:58 PST
+From: desousa@cisco.com
+
+Ken,
+	I doubt if the glowing exhaust manifold is normal on 931's.
+But I am no expert on the car itself.  If you have any sort of exhaust
+leak, extra oxygen is introduced into to the hot exhaust stream and
+the surrounding cast manifold.  The leak will create a hot spot that
+will dissipate through the manifold and cause it to glow.  I have
+experienced it before on cars that I added turbo kits to, and were 
+notoriouse for poorly designed exhaust plumbing that leaked.  
+Even a small exhaust leak, that may barely be heard, may be causing
+the abnormal manifold heat.  But then many race cars have this as
+a normal condition.  Did Porsche design the car that way?
+Perhaps someone with more knowledge of this model can set me straight?
+
+Carl DeSousa
+
+------- Forwarded Message
+
+Return-Path: porschephiles-request@karazm.math.UH.EDU
+Received: from wolf.cisco.com by stout.cisco.com with TCP; Wed, 4 Mar 92 10:50:26 -0800
+Received: from Menudo.UH.EDU by wolf.cisco.com with TCP; Wed, 4 Mar 92 10:50:20 -0800
+Received: from Karazm.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA04603
+  (5.65c+/IDA-1.4.4 for <desousa@cisco.com>); Wed, 4 Mar 1992 12:41:14 -0600
+Received: by karazm.math.UH.EDU id AA10523
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 4 Mar 1992 12:20:07 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA10519
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Wed, 4 Mar 1992 12:20:03 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 9595; Wed, 04 Mar 92 13:19:34 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 4991; Wed, 04 Mar 92 13:19:33 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NtB3TBMT
+Date:         Wed, 4 Mar 92 13:19-0500
+X400-Trace:   CA* *QueensU.CA; arrival Wed, 4 Mar 92 13:19-0500 action Relayed
+Message-Id:   <1401*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@queensu.ca
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      <HOT> 931
+
+After driving home at a relaxed pace, no heavy turbo action or high speeds,
+I popped open the hood of the 924 Turbo while the thing was still running
+at idle. It was dark out and I immediately noticed an orange glow. The entire
+exhaust manifold was cherry red. Surely this is not normal even for the 931.
+I don't make a habit of looking under the hood in the dark, so I don't know
+if it always gets this hot or if it just thought this up recently. Can
+anyone cast any light on this? I hate to think of the temperatures upstream
+from the manifold if it can do this at idle.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+------- End of Forwarded Message
+
+
+From porschephiles-request Thu Mar  5 06:56:00 1992
+Received: by karazm.math.UH.EDU id AA15952
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 5 Mar 1992 10:56:45 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA15948
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Thu, 5 Mar 1992 10:56:36 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 1078; Thu, 05 Mar 92 11:56:07 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 2101; Thu, 05 Mar 92 11:56:05 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NtGM6VQg
+Date:         Thu, 5 Mar 92 11:56-0500
+X400-Trace:   CA* *QueensU.CA; arrival Thu, 5 Mar 92 11:56-0500 action Relayed
+Message-Id:   <1407*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      Oil press. guage solved!
+
+Here's one to stash away in the file of weird electrical faults. I was
+experiencing problems with an erratic oil pressure guage in the 931. Those of
+you familiar with this machine will be familiar with the designer's penchant
+for locating a ton of stuff in that virtually inaccessible spot under the
+ignition coil and up against the firewall. Tucked away in that tiny spot we
+find the warm up regulator, the heater control valve,... AND the sending unit
+for the oil pressure guage/warning light! The terminals of the sending unit
+were pressed into/hidden by the insulation on the firewall. Since the
+insulation has a foil covering and constantly rubbed against the terminals for
+the sending unit, it eventually grounded out causing the guage to flicker
+BUT  ONLY DURING ACCELERATION INTO A LEFT TURN!! Even though I was well
+convinced all the time that there was an electrical problem with the guage
+it was a relief to remove all doubt about the possibility that the guage
+might have been telling the truth and the repair was cheap!   :-)
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From porschephiles-request Thu Mar  5 02:08:56 1992
+Received: by karazm.math.UH.EDU id AA16492
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 5 Mar 1992 12:16:14 -0600
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA16488
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 5 Mar 1992 12:16:12 -0600
+Received: from Corp.Sun.COM (lemay.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA29691; Thu, 5 Mar 92 10:16:10 PST
+Received: from wineglass.Corp.Sun.COM by Corp.Sun.COM (4.1/SMI-4.1)
+	id AA12124; Thu, 5 Mar 92 10:16:08 PST
+Received: by wineglass.Corp.Sun.COM (4.1/SMI-4.1)
+	id AA05339; Thu, 5 Mar 92 10:08:56 PST
+Date: Thu, 5 Mar 92 10:08:56 PST
+From: Gary.Cook@Corp.Sun.COM (Gary Cook - CS Mgr - Latin America)
+Message-Id: <9203051808.AA05339@wineglass.Corp.Sun.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: HOT 931
+
+
+Ken,
+
+I saw this once...  Exactly as you described, in my '80 924 Turbo.  The
+timing was too advanced, if I remember correctly.  Knowing about the
+modifications that they did to your ignition system, I would suspect
+something something like this.
+
+
+
+Gary W. Cook, C.S. Mgr, Latin America / Caribbean * Sun Microsystems, Inc.
+2550 Garcia Ave.  MS MPK2-1		Mountain View, Ca  94303-1100
+Tel: 415-688-9371			Fax: 415-688-9477 
+Email: gary.cook@Sun.COM
+
+
+
+
+
+
+From porschephiles-request Fri Mar  6 13:41:48 1992
+Received: by karazm.math.UH.EDU id AA24356
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 6 Mar 1992 17:41:53 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA24352
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 6 Mar 1992 17:41:51 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA25893; Fri, 6 Mar 92 18:41:48 -0500
+Date: Fri, 6 Mar 92 18:41:48 -0500
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9203062341.AA25893@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Wierd clutch problem
+
+'87 951
+
+Yesterday morning, after letting the car sit for a day, I tried to start
+the car and found that I was unable to select a gear with the engine
+running.  Apparently my clutch fused to the pressure plate and flywheel.
+After consulting with my mechanic, I put the car in reverse (with the
+engine off) set the parking brake stepped on the brakes and started the
+car a dozen times.  No luck. So I did the same thing but let the car
+move 4 or 5 feet, then jumped on the brakes and stalled the engine.
+After a few tries, it broke free. I now have my car back.
+
+My mechanic opined that I might have been hot rodding the car, heating
+up the clutch, and hit a puddle of water and shock cooled the clutch.
+This doesn't make sense, though.  I drove the car home at my normal
+(spirited, but no abuse of the clutch) pace; idled it in neutral while I
+opened the garage door; and drove it into the garage -- no sign of any
+problem with the clutch. A day later and it's fused tight.
+
+I'm concerned that this may be an omen of immenent clutch failure -- I
+have a track event coming up next weekend -- should I be worried? My
+current theory is that the clutch is slipping and causing the clutch
+disk to overheat.
+
+Has anyone else ever had such an experience? What's the going rate for a
+clutch job these days? The Haynes manual says that the exhaust system
+and transmission must be removed... I seem to remember figures in the
+$900 dollar range being batted about a few months ago: say it ain't
+so...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Never put off until tomorrow what you can avoid altogether.   
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request Fri Mar  6 08:12:46 1992
+Received: by karazm.math.UH.EDU id AA24482
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 6 Mar 1992 18:14:10 -0600
+Received: from mips.com by karazm.math.UH.EDU with SMTP id AA24478
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 6 Mar 1992 18:14:09 -0600
+Received: from ralph.mips.com by mips.com (5.61.15/2.9) id AA05647; 
+	Fri, 6 Mar 92 16:14:03 -0800 
+Received: by ralph.mips.com (5.61/Relay-2.11) 
+	id AA13184; Fri, 6 Mar 92 16:12:47 -0800
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9203070012.AA13184@ralph.mips.com>
+Subject: Re: Wierd clutch problem
+To: tynor@prism.gatech.edu (Steve Tynor)
+Date: Fri, 6 Mar 92 16:12:46 PST
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9203062341.AA25893@prism.gatech.edu>; from "Steve Tynor" at Mar 6, 92 6:41 pm
+X-Mailer: ELM [version 2.3 PL11]
+
+My '89 951S, is in the shop for a similar intermittent problem.
+The mechanic told me that the transimission spring broke and was caught
+in between the pressure plate and fixed part (please pardon me, I'm
+totally car mechanic ignorant), so the plate can not move away for my
+clutch to go in.  He estimated 10 hours of labor, so that's $800, plus
+parts.  However, he just called 10 minutes ago; he got Porsche to pay
+for it although my car is out of the 2 year factory warranty.   This must be
+a fairly common fairlure in 951's.  He also discovered that the engine
+heat valve (again sorry if I'm not remember the term right), has some
+prolem with leaking coolant onto the clutch.  Was this discussed not
+so long ago?  That's a couple hundred dollars there.  Anyway, I'm happy
+with the free fix, so I'm spending the money on 30K service (the car has
+28000 on it).
+
+		Violet
+> 
+> '87 951
+> 
+> Yesterday morning, after letting the car sit for a day, I tried to start
+> the car and found that I was unable to select a gear with the engine
+> running.  Apparently my clutch fused to the pressure plate and flywheel.
+> After consulting with my mechanic, I put the car in reverse (with the
+> engine off) set the parking brake stepped on the brakes and started the
+> car a dozen times.  No luck. So I did the same thing but let the car
+> move 4 or 5 feet, then jumped on the brakes and stalled the engine.
+> After a few tries, it broke free. I now have my car back.
+> 
+> My mechanic opined that I might have been hot rodding the car, heating
+> up the clutch, and hit a puddle of water and shock cooled the clutch.
+> This doesn't make sense, though.  I drove the car home at my normal
+> (spirited, but no abuse of the clutch) pace; idled it in neutral while I
+> opened the garage door; and drove it into the garage -- no sign of any
+> problem with the clutch. A day later and it's fused tight.
+> 
+> I'm concerned that this may be an omen of immenent clutch failure -- I
+> have a track event coming up next weekend -- should I be worried? My
+> current theory is that the clutch is slipping and causing the clutch
+> disk to overheat.
+> 
+> Has anyone else ever had such an experience? What's the going rate for a
+> clutch job these days? The Haynes manual says that the exhaust system
+> and transmission must be removed... I seem to remember figures in the
+> $900 dollar range being batted about a few months ago: say it ain't
+> so...
+> 
+> =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+> Never put off until tomorrow what you can avoid altogether.   
+>                      
+>     Steve Tynor
+>     Georgia Tech Research Institute
+>     tynor@prism.gatech.edu
+> 
+
+
+From porschephiles-request Thu Mar  6 21:47:03 1992
+Received: by karazm.math.UH.EDU id AA27304
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 7 Mar 1992 02:08:06 -0600
+Received: from ihc.compuserve.com by karazm.math.UH.EDU with SMTP id AA27300
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 7 Mar 1992 02:08:02 -0600
+Received: by ihc.compuserve.com (5.65/5.910516)
+	id AA08213; Sat, 7 Mar 92 03:07:35 -0500
+Date: 07 Mar 92 02:47:03 EST
+From: Shel Hall <76701.103@CompuServe.COM>
+To: <porschephiles@karazm.math.uh.edu>
+Subject: RE: (not-so-) Weird Clutch Problem
+Message-Id: <920307074703_76701.103_EHB12-1@CompuServe.COM>
+
+Folks-
+ 
+On Fri, 6 Mar 92 at 18:41:48, tynor@prism.gatech.edu (Steve Tynor)
+writes (in part) on the subject of "Wierd clutch problem" ...
+ 
+>>> Yesterday morning, after letting the car sit for a day, I tried to
+start the car and found that I was unable to select a gear with the
+engine running.  Apparently my clutch fused to the pressure plate and
+flywheel....<<<
+ 
+Actually, this isn't all that rare a happening; I've had it happen at
+least once to every manual-transmission car I've had for any period of
+time, except the Volvo.  It used to happen with one of my Sprites every
+time it sat out overnight in high humidity (i.e. "condensing")
+conditions.  Oddly enough, it almost never happened to my other three
+Sprites.
+ 
+It's always been attributed to "rust" but I'll be damned if I'm going
+to oil my clutch to prevent it!
+ 
+More importantly, I've never known it as a presage of clutch failure.
+ 
+Usually, you can break it loose with the starter by putting the car in
+top (not first) gear, setting the parking brake, pushing in the clutch
+pedal, and twisting the key.  I put my "gas" foot on the real brakes,
+too.
+ 
+Naturally, if your car has a hydraulic clutch release mechanism, check
+the fluid first ...
+ 
+In particularly pernicious cases, you may have to drive the car around
+the block in gear but with the clutch pedal pressed.
+ 
+"How do I get it in gear?" 
+ 
+Point it in an appropriate direction, and, with the engine off, put it
+in first gear.  Then crank it up and let it drive itself away.  The
+starter will move the car on level ground as well as start it.  Just
+don't overdo it with the starter motor, as the bugger will get overly
+hot and unhappy.  I usually warm up the car before doing the "start in
+gear" drill.
+ 
+I've never known the above methods to fail, but if the clutch absolutely
+won't come loose you can still drive the car, you just have to crank it
+in gear and be really careful about matching revs when changing gears.
+ 
+Isn't a "951" a/k/a a "944 Turbo?"  If so, I've heard that the magic
+number on a clutch job is $1,800, since you have to remove the exhaust
+system, the rear axle/transaxle, and the torque tube before you can
+remove the bellhousing to get to the clutch.  There was a pretty
+humorous story about doing just that here on Porschephiles a few months
+ago.
+ 
+BTW, a friend of mine has opened a new garage here in Atlanta; he's not
+a Porsche specialist, but he's a real craftsman.  Neil Estes is his
+name, and his phone is 523-4847.  His shop is off Highland Ave, near
+Inman Park.
+ 
+-Shel
+
+
+From porschephiles-request Sat Mar  7 02:57:23 1992
+Received: by karazm.math.UH.EDU id AA29415
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 7 Mar 1992 12:56:29 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA29411
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 7 Mar 1992 12:56:27 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA01772; Sat, 7 Mar 92 10:57:23 PST
+Date: Sat, 7 Mar 92 10:57:23 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9203071857.AA01772@hyperion.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: Wierd clutch problem
+
+[Steve]:
+>Yesterday morning, after letting the car sit for a day, I tried to start
+>the car and found that I was unable to select a gear with the engine
+>running.  Apparently my clutch fused to the pressure plate and flywheel.
+
+[Violet]:
+>The mechanic told me that the transimission spring broke and was caught
+>in between the pressure plate and fixed part (please pardon me, I'm
+
+Well, all of this sure sounds painfully familiar to me after spending
+(with my friend Bert) a significant part of my Christmas holiday
+replacing the clutch in my '86 951.  For about a week, I had been
+experiencing an occasional "grind" during a shift, which I
+optimistically attributed to sloppy pedal work (while at the same time
+realizing that the frequency of these "misses" was far greater than
+normal) and thought that moving the seat up might help.  It became
+clear that something was wrong mechanically when, like Steve and
+Violet, one evening I was unable to select any gear with the engine
+running and the car stationary.  I hauled out the trusty jack stands,
+and Bert and I went to work.
+
+On the clutch disc, there are some big springs and some little springs
+(I presume the "transmission springs" Violet's mechanic described).
+One of the little springs had broken in two places, and a small piece
+had lodged itself between two of the spokes in the pressure plate
+spring.  The piece was jammed in there nice and tight, and I presume
+was enough to keep the clutch from releasing.  It had probably been
+bouncing around in there for while, occasionally sticking somewhere
+and impeding the clutch release, resulting in the occassional missed
+shifts.
+
+Even though the pressure plate was probably reusable, we replaced
+everything that moved in there (including the pilot bearing and the
+bearings that the release fork rides on).  I do not want to do that
+job again anytime soon, since it is very labor intensive, as has been
+reported in many other postings.  Curiously, the parts I thought were
+going to be hard (dropping the transaxle and moving the torque tube)
+weren't that bad.  It was having to remove and replace a 10mm ground
+strap bolt!  This bolt is on top of the clutch bell housing, and
+grounds the DME harness and negative battery terminal.  I did not want
+to make a mess by removing the heater valve, but it's position over
+the bell housing (and the minimal slack in the rat's nest of cables,
+hoses, etc. in that area) made it very difficult to deal with this
+little bolt.  I would be interested to know how others have dealt with
+that one.
+
+As for the broken clutch disc, I was very annoyed at having had to
+replace it because of a mechanical failure rather than normal wear.
+There was still plenty of lining on it, and it should have lasted me
+many more miles.  I do not believe that I am hard on the clutch, and
+in fact I am pretty diligent about matching the engine speed to the
+vehicle speed so that those damn little springs don't have to work so
+hard.  I have been tempted to pack up the old disc and mail it off to
+Fichtel & Sachs, but there would be no real way to prove that the disc
+hadn't been used to practice Formula One or Pro Stock standing starts.
+
+-Milo
+
+
+
+
+From porschephiles-request Sat Mar  7 14:35:00 1992
+Received: by karazm.math.UH.EDU id AA01046
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 7 Mar 1992 18:37:06 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA01041
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Sat, 7 Mar 1992 18:36:12 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 4264; Sat, 07 Mar 92 19:35:37 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 6922; Sat, 07 Mar 92 19:35:36 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NtSrwRzD
+Date:         Sat, 7 Mar 92 19:35-0500
+X400-Trace:   CA* *QueensU.CA; arrival Sat, 7 Mar 92 19:35-0500 action Relayed
+Message-Id:   <1435*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      Weird clutch problem
+
+
+You wrote on Sat, 07 Mar 1992 14:04:00:
+> [Milo]:
+>
+> Even though the pressure plate was probably reusable, we replaced
+> everything that moved in there (including the pilot bearing and the
+> bearings that the release fork rides on).  I do not want to do that
+> job again anytime soon, since it is very labor intensive, as has been
+> reported in many other postings.  Curiously, the parts I thought were
+
+Here's another oddball occurrence: I once had the pilot bearing, which in this
+case was a roller bearing, come apart and wedge the shafts together making the
+clutch irrelevant. It was sufficiently jammed to make removal of the drive
+shaft real tough too. Driving without a clutch gets really annoying in traffic
+in a very short time.    ;-)
+
+> weren't that bad.  It was having to remove and replace a 10mm ground
+> strap bolt!  This bolt is on top of the clutch bell housing, and
+> grounds the DME harness and negative battery terminal.  I did not want
+> to make a mess by removing the heater valve, but it's position over
+> the bell housing (and the minimal slack in the rat's nest of cables,
+> hoses, etc. in that area) made it very difficult to deal with this
+> little bolt.  I would be interested to know how others have dealt with
+> that one.
+
+There simply can't be very many parts of the machine left that they didn't
+try to jam into that spot. Try for example replacement of the heater hoses
+going to the heater control valve. Yikes!
+>
+> hard.  I have been tempted to pack up the old disc and mail it off to
+> Fichtel & Sachs, but there would be no real way to prove that the disc
+> hadn't been used to practice Formula One or Pro Stock standing starts.
+
+Never underestimate you're ability to get a manufacturer to stand behind
+something that really shouldn't have broken. I once got a major equipment
+company to not only pay for major engine work on a twelve year old machine,
+but also to pick up the tab for 3 similar major repairs which I had already
+paid for over the preceeding ten years or so. It really only took a few well
+placed phone calls and good support from a dealer. It's always worth a shot.
+>
+>
+Cheers. Ken.
+>
+>
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From porschephiles-request Mon Mar  9 01:50:00 1992
+Received: by karazm.math.UH.EDU id AA04943
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 8 Mar 1992 19:57:31 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA04939
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sun, 8 Mar 1992 19:57:29 -0600
+Received: from mcimail.com by NRI.Reston.VA.US id ab14460; 8 Mar 92 20:52 EST
+Date: Mon, 9 Mar 92 01:50 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Wierd clutch problem
+Message-Id: <40920309015004/0004056890NA4EM@mcimail.com>
+
+Violet writes:
+
+> He also discovered that the engine heat valve (again sorry if I'm not
+> remember the term right), has some problem with leaking coolant onto the
+> clutch.  Was this discussed not so long ago?
+
+This is a chronic problem in 944-series cars.  The heater valve was relocated
+from the back of the engine to the front in the 944S and 944S2.  The rubber hose
+running from the water pump to the heater pipe is replaced by two shorter hoses
+and the valve spliced in there.  Two advantages:
+
+  1. Leaks don't go into the clutch,
+  2. They do go onto the oil filter, and the dried splotches are very visible,
+     making problem determination very easy.
+
+I am not 100% certain that the 944S hoses can be retrofitted to make the valve
+fit here on eight-valve cars; only about 98% certain.  It is certainly worth a
+try and I think it would be a very sensible update.  The valve itself is the
+same (checked an '87 951 recently), and the hoses are not expensive.
+
+Milo writes:
+
+> As for the broken clutch disc, I was very annoyed at having had to
+> replace it because of a mechanical failure rather than normal wear.
+
+I hear you.  I'm not familiar with broken/popped springs as a problem in 951
+clutches.  There was a problem with rivet failures in the original clutch.  It
+was addressed by bonding the friction material to the disk with some adhesive, I
+believe, as well as riveting it.  I think the new part showed up around the time
+of the Turbo S.
+
+Plenty of people had this problem.  After fixing a bunch of autocrossers'
+clutches, PCNA wised up and started looking for signs of what they feel is
+abuse.  Specifically, they look for any bluing of the metal.  They started
+refusing to cover such cases.  I know that a friend locally got turned down, as
+did a writer for Excellence who published his disappointment!
+
+There are a number of other tech bulletins related to 944-series clutches.  One
+describes pictorially what to look for in rubber-centred clutch failures -
+basically whether to hand the bill to the customer or not.  There were updates
+to the clutch release bearing and to the pedal spring.  There is a more recent
+bulletin which basically says that, hey, if you've worn away enough friction
+material to start wearing the rivet heads, it's time to replace it.
+
+I haven't myself heard cases of overnight freezing of the clutch.  I have heard
+of this as a long-term 911, etc., storage disease.  The cure is as other folks
+have described.  If this were to happen to me over night, I'd like to know why. 
+Specifically, I'd try to figure out if there's not some coolant or whatnot
+invading and corroding.
+
+Finally, make sure the clutch bell is sealed and isn't missing any plugs.  There
+is a large rubber plug in an inspection port on the bottom, which tends to fall
+off anywhere except in your driveway.  After losing mine, I now secure it with a
+smear of liquid silicone gasket.
+
+Kevin
+
+From porschephiles-request Mon Mar  9 09:07:10 1992
+Received: by karazm.math.UH.EDU id AA07635
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 09:07:20 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA07631
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 09:07:10 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA15378; Mon, 9 Mar 92 08:58:38 -0600
+Message-Id: <9203091458.AA15378@dcmdc.dla.mil>
+Date: Mon Mar 9 08:58:33 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: stuckclutch
+To: porschephiles@karazm.math.uh.edu
+
+RE: clutch sticking
+
+
+I used to have the problem pretty regularly on a Jensen-Healey I owned, two
+Porsches ago.  I usually was able to unstick it by putting it in second and
+letting it roll down the driveway to build up speed and letting the clutch
+out.
+
+Once I had to back it up my slightly hilly street about half a block and then
+do the rolling clutch dump.  Clutch was new and never seemed any worse for the
+wear from this mild abuse.  
+
+I have never had this problem on my 911 or late 914-6.
+
+
+jim fuerstenberg		
+
+
+			186,000 miles per second, it's not just a good idea
+			it's the law!
+						
+						
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+
+
+
+From porschephiles-request Mon Mar  9 01:50:00 1992
+Received: by karazm.math.UH.EDU id AA08438
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 11:50:36 -0600
+Received: from qiclab.scn.rain.com by karazm.math.UH.EDU with SMTP id AA08434
+  (5.65c/IDA-1.4.4 for <porschephiles@Karazm.Math.UH.EDU>); Mon, 9 Mar 1992 11:50:31 -0600
+Received: by qiclab.scn.rain.com (/\==/\ Smail3.1.24.1 #24.5)
+	id <m0lNoUT-000UNWC@qiclab.scn.rain.com>; Mon, 9 Mar 92 09:50 PST
+Message-Id: <m0lNoUT-000UNWC@qiclab.scn.rain.com>
+Date: Mon, 9 Mar 92 09:50 PST
+From: neighorn@qiclab.scn.rain.com (Steven C. Neighorn)
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: porschephiles@karazm.math.uh.edu
+Subject: messed up wheel...
+X-Face: -JmgJVqr;*Jy3;Dc5i08i&)O17S_P)ytle'pH|zmdR::(+S+5dW^|F^TXz]jCK|N:y&
+	qgpDv<%;{Wce2B1;?eA=)IR-sARCtM*w!#*Z,\^9t2"\]2}KhwFo;]#HcsXouNQo{Zn
+	6e1^Z*TcB6<#B%$I(Xa+Rz$K^OJrb*&yQ\$r7ayS@Q6y|-TTByg;4T:8#o~OTau!XL9
+	!,Ip%sz%rA+w\BDul"N[Oly<j^@hJ[B?h]Nldvq?b%myp<[V0iKMDm5an(Z61h-uovx
+	ZE<!X$R
+
+Stupid move of the week:
+
+I cut a corner too close yesterday, and put my passenger-side rear wheel
+into the curb. Now the rim (these are epsilon 3 piece 8.5" wheels) has
+about a 2-3" spot where the outer rim is torn up (bent back). These wheels
+were in perfect condition before, and now this :-(
+
+Does anyone know of any way such a thing can be fixed? Is it just something
+to live with and learn from?
+
+Any ideas would be appreciated... Thanks in advance.
+
+-- 
+Steven C. Neighorn        neighorn@qiclab.scn.rain.com/neighorn@cse.ogi.edu
+SCN Research              "Where we train the Star Fighters who defend the
+10635 S.W. 127th Court       frontier against Xur and the Ko-dan Armada"
+Tigard, Oregon 97223-1964               home: (503) 524-7348
+
+From porschephiles-request Mon Mar  9 06:18:23 1992
+Received: by karazm.math.UH.EDU id AA09298
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 12:18:29 -0600
+Received: from cs.rice.edu by karazm.math.UH.EDU with SMTP id AA09294
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 12:18:28 -0600
+Received: from enceladus.cs.rice.edu by cs.rice.edu (AA07481); Mon, 9 Mar 92 12:18:25 CST
+Received: by enceladus.cs.rice.edu (AA12298); Mon, 9 Mar 92 12:18:23 CST
+Date: Mon, 9 Mar 92 12:18:23 CST
+From: cork@cs.rice.edu (Corky Cartwright)
+Message-Id: <9203091818.AA12298@enceladus.cs.rice.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Broken clutch springs in 951's
+
+
+Last May, I experienced exactly the same problem with my '89 951 as Milo did
+with his '86.  Fortunately, the car was still under warranty (but only
+three weeks away from expiration).  My clutch failed at the end of a trip
+to Palo Alto, CA, so I had the car repaired at Carlsen Porsche-Audi in
+Palo Alto.  The service representative admitted that clutch springs tend
+to break in 951's.  I hope the problem doesn't recur.  Does anyone know
+if Porsche has improved the design of the clutch disk?  Or is the disk
+that Carlsen installed in my car exactly the same as the one that broke?
+
+-- Corky Cartwright
+
+From porschephiles-request Mon Mar  9 02:46:22 1992
+Received: by karazm.math.UH.EDU id AA09403
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 12:46:27 -0600
+Received: from spim.mips.com by karazm.math.UH.EDU with SMTP id AA09399
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 12:46:26 -0600
+Received: from ralph.mips.com by spim.mips.com via SMTP (5.61.15/2.9)
+	id AA01203; Mon, 9 Mar 92 10:46:24 -0800
+Received: by ralph.mips.com (5.61/Relay-2.11) 
+	id AA02278; Mon, 9 Mar 92 10:46:23 -0800
+From: violet@mips.com (Violet K. Jen)
+Message-Id: <9203091846.AA02278@ralph.mips.com>
+Subject: Re: Wierd clutch problem
+To: 0004056890@mcimail.com (Kevin C. Gross)
+Date: Mon, 9 Mar 92 10:46:22 PST
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <40920309015004/0004056890NA4EM@mcimail.com>; from "Kevin C. Gross" at Mar 9, 92 1:50 am
+X-Mailer: ELM [version 2.3 PL11]
+
+> This is a chronic problem in 944-series cars.  The heater valve was relocated
+> from the back of the engine to the front in the 944S and 944S2.  The rubber hose
+> running from the water pump to the heater pipe is replaced by two shorter hoses
+> and the valve spliced in there.  Two advantages:
+> ...
+> 
+> I hear you.  I'm not familiar with broken/popped springs as a problem in 951
+> clutches.  There was a problem with rivet failures in the original clutch.  It
+> was addressed by bonding the friction material to the disk with some adhesive, I
+> believe, as well as riveting it.  I think the new part showed up around the time
+> of the Turbo S.
+> ...
+Just a quick questin -- My car is a '89 951.  I was told that it is the
+equivalent of earlier 944 Turbo S.  Is it really true?  Does it have all
+the improvements you mentioned above?  Thanks.
+
+Violet
+
+From porschephiles-request Mon Mar  9 09:55:40 1992
+Received: by karazm.math.UH.EDU id AA09856
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 13:55:05 -0600
+Received: from tbird.cc.bellcore.com by karazm.math.UH.EDU with SMTP id AA09852
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Mon, 9 Mar 1992 13:55:03 -0600
+Received: by tbird.cc.bellcore.com id AA04329
+  (5.65c/IDA-1.4.4 for karazm.math.UH.EDU!porschephiles); Mon, 9 Mar 1992 14:55:40 -0500
+Date: Mon, 9 Mar 1992 14:55:40 -0500
+From: sundt@athens.cc.bellcore.com
+Message-Id: <199203091955.AA04329@tbird.cc.bellcore.com>
+To: porschephiles@karazm.math.UH.EDU
+Subject: Re:  Wierd clutch problem
+
+I've just completed replacing the clutch on my '86 Turbo (almost completed,
+anyways) and have a few things to add to the discussion. The old clutch
+was original (Sachs, dated 11/85) and did not have these little springs
+at the center of the disk, as people are mentioning. Apparently these
+springs were added later in the model year to reduce some harmonic
+vibrations that were causing the gears to rattle in neutral. The
+clutch was further modified for the 951S. Six of these little springs
+were used instead of three.
+
+I replaced the clutch on my car because it was very difficult to engage
+first gear smoothly. The four large springs at the center of the disk
+had become "hammered" and were loose. Compounding this was the "early-style"
+throwout bearing which was too small in inside diameter (this was
+discussed in a Porsche technical bulletin). The bearing was binding
+on the shaft in the bellhousing. With the new clutch (but without
+driving the car) the action is much smoother. One other thing to note
+here is that the white paste lubricant mentioned in the factory manual
+is no longer being used because it dries out and stops lubricating. All
+points inside the bellhousing should use a Moly-type lubricant. Dealers
+sell a little tube of this stuff for ~$13. I know you can get Moly grease
+for much less but wasn't sure enough of myself to second guess it.
+
+The new clutch I installed is a Sachs (OE-type), bought from PAR for $489
+including pressure plate and bearing. Curiously, it does not have the
+little inside springs, only the four large outer springs. There is only
+one clutch for the 951 and 951S whether you buy it from Porsche or
+from Sachs directly. I think the one from Porsche has the 6 little springs.
+Can anyone confirm this?? My new Sachs clutch has a slightly different
+part number than the original Sachs that I removed. The difference is in
+the last digit. It's a bigger number. Hopefully that means they have
+improved the life of the big springs. Everything else looks the same
+as the old clutch. The new throwout bearing is the correct larger variety.
+The wear on the old one was pretty severe. Doubt if it would have lasted
+more than 50-60K miles total. The car has 37K miles. I'm the second owner.
+
+As mentioned before, the job is labor intensive. But noone here has
+explained the "extra" steps needed for the 1986 cars. In 1986 the
+crossover pipe from the headers to wastegate to turbo was one piece.
+This pipe needs to be removed to pull the bellhousing. In order to
+remove this pipe you have to access the turbo. This requires removing
+the intake manifold as well as the heat shield for the master cylinder.
+Of course removing the intake manifold requires removing the fuel rail,
+many vacuum connections, the distributor cap and wires ... You get the idea.
+
+The difficult part of the job for me was the bellhousing bolts, the
+crossover pipe bolts at the turbo end and the proctective tube for
+the shift lever as it runs through the transmission. The manual says
+press this tube in with a screwdriver and slide it out of the way.
+The tube must be 1/8" thick and very stiff. After finally getting it
+and destroying the tube I figured out that it wasn't necessary to do
+this at all. Just be careful when you separate the transmission from
+the torque tube and you should be all right.
+
+The ground bolt at the top of the bellhousing was no problem for me
+because I had to remove the intake manifold and everything else in the
+way. The manual says to replace the bolt with a stud/nut. Not sure if
+that would make it any easier the next time, though.
+
+I also replaced the coolant hose at the back of the block that everyone
+is talking about. This is the only hose I've ever seen that looked as
+if it was ready to burst. I remember a service technician telling me last
+summer to check this hose because many cars had had it fail. I now know
+what he meant.
+
+Good luck.
+
+Mark Sundt
+sundt@athens.cc.bellcore.com
+(908) 758-3134 days
+
+From porschephiles-request Mon Mar  9 11:47:13 1992
+Received: by karazm.math.UH.EDU id AA10593
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 15:46:39 -0600
+Received: from tbird.cc.bellcore.com by karazm.math.UH.EDU with SMTP id AA10589
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Mon, 9 Mar 1992 15:46:34 -0600
+Received: by tbird.cc.bellcore.com id AA13481
+  (5.65c/IDA-1.4.4 for karazm.math.UH.EDU!porschephiles); Mon, 9 Mar 1992 16:47:13 -0500
+Date: Mon, 9 Mar 1992 16:47:13 -0500
+From: sundt@athens.cc.bellcore.com
+Message-Id: <199203092147.AA13481@tbird.cc.bellcore.com>
+To: porschephiles@karazm.math.UH.EDU
+Subject: Re:  Wierd clutch problem
+
+>From: bart@teni.cse.ogi.edu
+>>The difficult part of the job for me was the bellhousing bolts, the
+>
+>are these the "cheesehead" screws timmins talked about re his
+>clutch job of a year ago?
+
+No they aren't. I didn't have any problems with the cheesehead bolts.
+In fact I ended up reusing the old ones because the dealer had given
+me the wrong set of new ones and it was the weekend I was assembling
+everything. The manual doesn't say to replace them, but since the
+dealer stocks the bolts it's probably safe to say they replace them.
+The 9 new ones cost a total of about $5.
+
+There are four bellhousing bolts that hold the bellhousing (covering
+the clutch) to the engine. These are the only bolts that the manual
+specifically says to put anti-seize lubricant on. The difficulty, though,
+comes in getting a good u-joint socket wrench on them.  Anyone know
+if there is something better than the Craftsman-type? Something that
+acts more like a constant velocity joint and doesn't twist sideways
+all the time?
+
+Mark Sundt
+sundt@athens.cc.bellcore.com
+(908) 758-3134 days
+
+From porschephiles-request Mon Mar  9 10:46:54 1992
+Received: by karazm.math.UH.EDU id AA10900
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 16:47:04 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA10896
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 16:47:02 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA22413
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 16:46:59 -0600
+Message-Id: <199203092246.AA22413@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA20933@casc.math.uh.edu>; Mon, 9 Mar 92 16:46:55 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+Subject: Re: Broken clutch springs in 951's
+To: cork@cs.rice.edu (Corky Cartwright)
+Date: Mon, 9 Mar 92 16:46:54 CST
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9203091818.AA12298@enceladus.cs.rice.edu>; from "Corky Cartwright" at Mar 9, 92 12:18 pm
+X-Mailer: ELM [version 2.3 PL11]
+
+> The service representative admitted that clutch springs tend
+> to break in 951's.  I hope the problem doesn't recur.  Does anyone know
+> if Porsche has improved the design of the clutch disk?  Or is the disk
+> that Carlsen installed in my car exactly the same as the one that broke?
+
+Being hyrdophobic (I avoid water-cooled cars every chance I get) I don't
+know that this is absolutely true, but it makes sense: Autothority is
+*supposed* to have a kit that lets you use a late 911 clutch on 944/951s.
+
+It's supposed to the be hot trick part for performance driving, as it's
+much lighter and has stronger parts. It's also -- including the clutch
+and pressure plate -- supposed to be several hundred $$ cheaper than 
+regular 944/51 stuff. Or so sez a friend who's running a 944 as an ITA
+racer.
+
+Stan
+
+From porschephiles-request Tue Mar 10 01:09:00 1992
+Received: by karazm.math.UH.EDU id AA13023
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 19:24:09 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA13019
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 19:24:07 -0600
+Received: from mcimail.com by NRI.Reston.VA.US id ag23921; 9 Mar 92 20:12 EST
+Date: Tue, 10 Mar 92 01:09 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: sundt <sundt@athens.cc.bellcore.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re:  Wierd clutch problem
+Message-Id: <95920310010959/0004056890NA2EM@mcimail.com>
+
+>The difficulty, though,
+>comes in getting a good u-joint socket wrench on them.  Anyone know
+>if there is something better than the Craftsman-type? Something that
+>acts more like a constant velocity joint and doesn't twist sideways
+>all the time?
+
+Snap-On sells a flexible driver, p/n FX62A in the 3/8" size.  Its shaft is a
+spring.
+
+Kevin
+
+From porschephiles-request Tue Mar 10 01:26:00 1992
+Received: by karazm.math.UH.EDU id AA13123
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 9 Mar 1992 19:51:36 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA13119
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 9 Mar 1992 19:51:35 -0600
+Received: from mcimail.com by NRI.Reston.VA.US id aq24456; 9 Mar 92 20:35 EST
+Date: Tue, 10 Mar 92 01:26 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: "Violet K. Jen" <violet@mips.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Wierd clutch problem
+Message-Id: <05920310012650/0004056890NA1EM@mcimail.com>
+
+Violet -
+
+Yes, you've got it all.  The car was called a 944 Turbo S in MY 88, and was
+technically an option package on the 944 Turbo (often referred to by its factory
+project number: 951).  In MY 89, the "package" became standard on the 944 Turbo,
+and so there was really no 944 Turbo S.
+
+Kevin
+
+From porschephiles-request Mon Mar  9 15:13:59 1992
+Received: by karazm.math.UH.EDU id AA16339
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 10 Mar 1992 01:12:44 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA16335
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 10 Mar 1992 01:12:42 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA11592; Mon, 9 Mar 92 23:13:59 PST
+Date: Mon, 9 Mar 92 23:13:59 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9203100713.AA11592@hyperion.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: Weird clutch problem
+Cc: sundt@athens.cc.bellcore.com
+
+>[Mark Sundt]:
+>As mentioned before, the job is labor intensive. But noone here has
+>explained the "extra" steps needed for the 1986 cars. In 1986 the
+>crossover pipe from the headers to wastegate to turbo was one piece.
+>This pipe needs to be removed to pull the bellhousing. In order to
+
+Mark, I suspect that the reason no one has mentioned this extra step is
+the fact that many of us '86 owners had the one piece crossover
+replaced at the same time the (crack prone) original exhaust manifolds
+were replaced with the bellows-equipped version.  I have no idea what
+it would cost, but you might consider this upgrade (perhaps with
+recycled parts) in case you ever have to do that job again.  I am sure
+it was a royal pain to have to deal with the intake manifold, etc.,
+and I'm really glad I didn't have to deal with that extra hassle.
+
+>The ground bolt at the top of the bellhousing was no problem for me
+>because I had to remove the intake manifold and everything else in the
+>way. The manual says to replace the bolt with a stud/nut. Not sure if
+>that would make it any easier the next time, though.
+
+At least your cloud (having to remove all the top end stuff) had a
+silver lining!  I saw the manual recommendation to replace the bolt
+with a stud, but I ignored it since I could not see how that would
+help much.  You still have to get the two ground wires on the stud and
+thread a nut on it.  The real solution would have been to relocate the
+connection to someplace you can actually reach without removing a lot
+of stuff.
+
+>No they aren't. I didn't have any problems with the cheesehead bolts.
+>In fact I ended up reusing the old ones because the dealer had given
+
+I didn't have any problem with mine either.  They were in perfectly
+good shape after removal, so I had no reservations about reusing them.
+
+>[Stan]:
+>Being hydrophobic (I avoid water-cooled cars every chance I get) I don't
+>know that this is absolutely true, but it makes sense: Autothority is
+>*supposed* to have a kit that lets you use a late 911 clutch on 944/951s.
+
+The guys I bought my clutch package from (Automechanika) seemed to
+think that my 951 clutch was the same one as used on a 930 (perhaps
+with a different number).
+
+-Milo
+
+
+
+
+From porschephiles-request Tue Mar 10 11:19:08 1992
+Received: by karazm.math.UH.EDU id AA23147
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 10 Mar 1992 15:18:34 -0600
+Received: from tbird.cc.bellcore.com by karazm.math.UH.EDU with SMTP id AA23143
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 10 Mar 1992 15:18:31 -0600
+Received: by tbird.cc.bellcore.com id AA20250
+  (5.65c/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Tue, 10 Mar 1992 16:19:08 -0500
+Date: Tue, 10 Mar 1992 16:19:08 -0500
+From: sundt@athens.cc.bellcore.com
+Message-Id: <199203102119.AA20250@tbird.cc.bellcore.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  Weird clutch problem
+
+>>[Mark Sundt]:
+>>As mentioned before, the job is labor intensive. But noone here has
+>>explained the "extra" steps needed for the 1986 cars. In 1986 the
+>>crossover pipe from the headers to wastegate to turbo was one piece.
+>>This pipe needs to be removed to pull the bellhousing. In order to
+>
+>[Milo Dorr]:
+>Mark, I suspect that the reason no one has mentioned this extra step is
+>the fact that many of us '86 owners had the one piece crossover
+>replaced at the same time the (crack prone) original exhaust manifolds
+>were replaced with the bellows-equipped version.  I have no idea what
+>it would cost, but you might consider this upgrade (perhaps with
+>recycled parts) in case you ever have to do that job again.  I am sure
+>it was a royal pain to have to deal with the intake manifold, etc.,
+>and I'm really glad I didn't have to deal with that extra hassle.
+
+I've been trying to do just for the last month or so. After talking with
+PCNA Customer Relations I wrote a letter asking them to replace the
+crossover peice. The reasoning I used was that almost every other car
+with the manifold replacement has had the crossover piece replaced.
+Mine didn't. They seemed optimistic over the phone. They're supposed
+to get back to me this week. Apparently there are several other claims
+in addition to mine.
+
+Guess how much a new one costs. ~$1000 the last I checked. Yes, that's
+three zeros! Neither PAR nor Aase Bros. has a used one or were even
+encouraging about finding one. Past dealings with Kempton Bros. will
+keep me from calling them. If PCNA falls through, I'll try one of our
+local shops that seems to have a good supply of parts. Otherwise I guess
+I'll have all that much more to look forward to in my next clutch job.
+
+Mark
+
+From porschephiles-request Wed Mar 11 11:16:25 1992
+Received: by karazm.math.UH.EDU id AA00619
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 11 Mar 1992 11:16:27 -0600
+Received: from mwunix.mitre.org by karazm.math.UH.EDU with SMTP id AA00615
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 11 Mar 1992 11:16:25 -0600
+Return-Path: <M11928@mwvm.mitre.org>
+Received: from mwvm.mitre.org by mwunix.mitre.org (5.61/SMI-2.2)
+	id AA01837; Wed, 11 Mar 92 12:14:39 -0500
+Message-Id: <9203111714.AA01837@mwunix.mitre.org>
+Received: from MWVM by mwvm.mitre.org (IBM VM SMTP V2R1) with BSMTP id 4994;
+   Wed, 11 Mar 92 12:16:17 EST
+Date: Wednesday, 11 Mar 1992 12:16:16 EST
+From: m11928@mwvm.mitre.org (Emil Blassic)
+To: porschephiles@karazm.math.uh.edu
+Subject: 951 Clutch Replacement
+
+I also have done a clutch job on my '86 944 Turbo.  I was and still consider
+myself to be a lousy and lazy mechanic.  So when I was faced with the problem
+of the one piece crossover pipe, I just didn't remove it.  I'm not saying it
+was easy to remove the bellhousing and I don't remember the details (this was
+done in 1988) but I did replace the clutch, flywheel, and release bearing
+without removing the pipe.  So when you get to this point during disassembly,
+give it a try.
+*
+*        Emil
+
+From porschephiles-request Thu Mar 12 17:37:56 1992
+Received: by karazm.math.UH.EDU id AA19943
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 12 Mar 1992 23:46:12 -0600
+Received: from Menudo.UH.EDU by karazm.math.uh.edu id <AA19839@karazm.math.uh.edu>; Thu, 12 Mar 1992 23:38:01 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA22480
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 12 Mar 1992 23:37:58 -0600
+Message-Id: <199203130537.AA22480@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA01674@casc.math.uh.edu>; Thu, 12 Mar 92 23:37:56 CST
+Date: Thu, 12 Mar 92 23:37:56 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Administrivia
+
+Someone asked to be dropped from the  list today. I sent a "Done"
+message and then deleted your mail. I have no idea who you were and
+as a result, you're not deleted. Please e-mail me and I'll fix it
+this time....
+
+Stan
+
+From porschephiles-request Fri Mar 13 05:07:48 1992
+Received: by karazm.math.UH.EDU id AA22143
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 13 Mar 1992 09:16:14 -0600
+Received: from BCM.TMC.EDU by karazm.math.uh.edu id <AA22102@karazm.math.uh.edu>; Fri, 13 Mar 1992 09:08:41 -0600
+Received: from TMC.EDU by bcm.tmc.edu (AA09763); Fri, 13 Mar 92 09:08:39 -0600
+Received: from chopin.udel.edu by tmc.edu (AA04436); Fri, 13 Mar 92 09:08:37 -0600
+Received: by chopin.udel.edu
+	(5.65c/IDA-1.2.8) id AA10764; Fri, 13 Mar 1992 10:07:48 -0500
+Message-Id: <199203131507.AA10764@chopin.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Fri, 13 Mar 1992 10:07:48 EST
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Crossover on CLutch Replacement
+
+As may or may not be obvious or even already said, the crossover pipe
+was part of the 86 factory "free replacement" of the exhaust manifold,
+turbocharger and wastegate plumbing.  The original assy did not have the
+three-nut coupling to the wastegate pipe and made it nearly impossible
+to replace the clutch without removing the crossover (8 hours right
+there at least).
+
+The clutch is still a bitch, but the worst part IMHO is sliding back the
+torque tube far enough to get the bellhousing off.
+
+Tricks:  Buy a set of craftsman flex sockets and use the 19 (I think) to
+remove ALL the bellhousing bolds from below, with the aide of a 2'
+extension and a long flex-handled ratchet.
+
+Fun fun fun!
+
+        Steve
+
+-- 
+
+From porschephiles-request Fri Mar 13 05:16:13 1992
+Received: by karazm.math.UH.EDU id AA24999
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 13 Mar 1992 12:47:41 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA24992
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 13 Mar 1992 12:47:36 -0600
+Received: by Menudo.UH.EDU with UUCP id AA05089
+  (5.65c+/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Fri, 13 Mar 1992 12:47:32 -0600
+Received: by limbic.ssdl.com id AA22093
+  (5.65c/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Fri, 13 Mar 1992 12:39:33 -0600
+Received: from gatech.UUCP by ames.arc.nasa.gov (5.65c/1.21)
+	with UUCP id AA04922 for limbic!uhnix1!karazm.math.uh.edu!porschephiles
+	on Fri, 13 Mar 1992 07:38:17 -0800
+Received: from gatech.UUCP (uucp.gatech.edu) by gatech.edu (4.1/Gatech-9.1)
+	id AA12986 for limbic!uhnix1!karazm.math.uh.edu!porschephiles; Fri, 13 Mar 92 10:32:00 EST
+Received: from ncratl.UUCP by gatech.UUCP (4.1/SMI-4.1)
+	id AA27878; Fri, 13 Mar 92 08:48:36 EST
+Received: by ncratl.AtlantaGA.NCR.COM; 13 Mar 92 10:26:03 EST
+Received: by ncrcol.ncr.com ( 5.52 (84)/BSD4.3)
+	id AA16803; Fri, 13 Mar 92 10:16:17 EST
+Message-Id: <9203131516.AA16803@ncrcol.ncr.com>
+Subject: Re: Solo radar detectors (Damark)
+To: porschephiles@karazm.math.uh.edu
+Date: Fri, 13 Mar 92 10:16:13 EST
+From: Terrence (Terry) A. Bygate <bygate@ncrcol.columbiasc.ncr.com>
+Reply-To: Terrence.Bygate@columbiasc.ncr.com
+In-Reply-To:  
+From: Terrence.Bygate@columbiasc.ncr.com
+Reply-To: Terrence.Bygate@columbiasc.ncr.com
+X-Mailer: ELM [version 2.3 PL11]
+
+> Subject: Solo radar detectors (Damark)
+> To: porschephiles@karazm.math.uh.edu
+> 
+>    From: dorr@hyperion.llnl.gov (Milo Dorr)
+> 
+>    I got a catalog from an outfit called Damark that is advertizing
+>    Cincinnati Microwave Solo radar detectors (a 9-volt battery-powered
+>    detector from the same folks that make the industry standard Escort
+>    and Passport detectors) for $189+S&H.  This compares to the list price
+>    of $345 I paid some time ago.  These are evidently refurbished units,
+>    ...
+>    but a call to their number 1-800-729-9000 ...
+
+How do the Solo's compare to the Escort and Passport?  I am seriously 
+considering the purchase of a Solo from Damark or Cinn. Microwave (I think
+I saw some ad's for ~$250 US for the Solo from CM).  Is the full size 
+Escort better than the Solo (i.e. - is it worth the extra size, money, 
+etc.)?  How does the Passport compare?  I has been a while since I have 
+seen a test report on these different radar detectors.
+
+Thanks,
+Terry
+-- 
+
+From porschephiles-request Fri Mar 13 04:22:26 1992
+Received: by karazm.math.UH.EDU id AA26062
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 13 Mar 1992 14:23:04 -0600
+Received: from anise.Stanford.EDU by karazm.math.UH.EDU with SMTP id AA26058
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 13 Mar 1992 14:23:01 -0600
+Received: by anise.Stanford.EDU (AIX 3.1/UCB 5.61/4.03)
+          id AA13832; Fri, 13 Mar 92 12:22:27 -0800
+From: merithew@anise.Stanford.EDU (Robert Merithew)
+Message-Id: <9203132022.AA13832@anise.Stanford.EDU>
+Subject: Help!  914 CV joint/axle-stub installation
+To: porschephiles@karazm.math.uh.edu (PorschePhiles Mailing List)
+Date: Fri, 13 Mar 92 12:22:26 PST
+X-Mailer: ELM [version 2.3 PL11]
+
+I need advice on how to install the axle-stub/CV-joint assembly on my
+'74 914 2.0:
+
+I figure I can either
+  
+  * First assemble the CV joint (and driveshaft) to the axle stub,
+    driving in the spiral pins and bolting the joint together, and
+    second try to drive the whole assembly into the wheel hub
+    (What do I hammer on?  Certainly not the other end of the 
+    driveshaft!)
+
+or
+  * First drive the axle stub into the wheel hub, and second try to
+    assemble the CV joint to the hub, trying to work in the cramped
+    space of the trailing arm...
+
+I'm not convinced I can do it either way, but I haven't thought of any
+alternatives.  Has anyone done this?  Can you offer any helpful hints?
+
+The engine & transmission are out of the car, so I do have some
+working room.
+
+Thanks,
+-- 
+  Robert Merithew                              _______________    __o
+  L&IR, Stanford University                _________________     -\<,
+  merithew@jessica.stanford.edu                            ......O/ O
+
+From porschephiles-request Fri Mar 13 09:30:56 1992
+Received: by karazm.math.UH.EDU id AA27215
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 13 Mar 1992 15:31:03 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA27211
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 13 Mar 1992 15:31:02 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA16276
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 13 Mar 1992 15:30:59 -0600
+Message-Id: <199203132130.AA16276@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA03465@casc.math.uh.edu>; Fri, 13 Mar 92 15:30:56 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+Subject: Re: Help!  914 CV joint/axle-stub installation
+To: merithew@anise.Stanford.EDU (Robert Merithew)
+Date: Fri, 13 Mar 92 15:30:56 CST
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9203132022.AA13832@anise.Stanford.EDU>; from "Robert Merithew" at Mar 13, 92 12:22 pm
+X-Mailer: ELM [version 2.3 PL11]
+
+> I figure I can either
+>   
+>   * First assemble the CV joint (and driveshaft) to the axle stub,
+> ...
+> or
+>   * First drive the axle stub into the wheel hub, and second try to
+> ...
+
+Do it the second way. Get the stub axel into the trailing arm first (you
+may need to replace the bearings -- this should be checked!). Then get the
+engine into the car. Then bolt up the CVs and half shafts.
+
+
+Stan
+
+From porschephiles-request Sat Mar 14 03:09:00 1992
+Received: by karazm.math.UH.EDU id AA28741
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 13 Mar 1992 21:18:54 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA28737
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 13 Mar 1992 21:18:52 -0600
+Received: from mcimail.com by NRI.Reston.VA.US id ak11518; 13 Mar 92 22:14 EST
+Date: Sat, 14 Mar 92 03:09 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Robert Merithew <merithew@anise.stanford.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Help!  914 CV joint/axle-stub installation
+Message-Id: <55920314030955/0004056890NA2EM@mcimail.com>
+
+As Stan says, getting the trailing arm all put together (stub axle/spindle) and
+then fastening in the CV's-on-the-half-shaft is the right way to do it.  You
+definitely do not want to be whacking the half-shaft/CV assembly as part of
+getting things back together.
+
+In fact, with a lot of cars you have to be pretty careful not to let a shaft,
+disconnected at one end, droop too far, twisting the CV joint at the
+still-fastened end.  I forget the exact reason, but I think it has to do with
+the fact that doing so may cause the CV to separate.
+
+Kevin
+
+From porschephiles-request Sat Mar 14 14:29:35 1992
+Received: by karazm.math.UH.EDU id AA02510
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 14 Mar 1992 18:57:56 -0600
+Received: from crdgw1.GE.COM by karazm.math.UH.EDU with SMTP id AA02506
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 14 Mar 1992 18:57:50 -0600
+Received:  by crdgw1.ge.com (5.57/GE 1.123)
+	 id AA13621; Sat, 14 Mar 92 19:29:41 -0500
+Received: from spyder.crd.Ge.Com by moose.crd.Ge.Com (4.1/SMI-4.0/GE-CRD @(#)sun4.ease	1.13 4/13/89)
+	id AA11303; Sat, 14 Mar 92 19:29:35 EST
+Date: Sat, 14 Mar 92 19:29:35 EST
+From: montnaro@moose.crd.ge.com (Skip Montanaro)
+Message-Id: <9203150029.AA11303@moose.crd.Ge.Com>
+Received: by spyder.crd.Ge.Com (4.1/SMI-4.0/GE-CRD @(#)sun4.ease	1.13 4/13/89)
+	id AA07215; Sat, 14 Mar 92 19:29:35 EST
+To: porschephiles@karazm.math.uh.edu
+Subject: Feedback on '68 912 wanted
+Reply-To: montanaro%crd@crdgw1.GE.COM (Skip Montanaro)
+
+
+I saw a '68 912 for sale this morning and am looking for a little feedback
+on it. I've been out of the Porsche circle for about five years and haven't
+kept in touch with the market at all.
+
+The car looks mostly original. There is some rust bubbling through the body
+in places, but nothing too serious. In most places the paint appears
+original (it's the factory orange - not as garish as the gearheads like),
+although other places have a little overspray reminiscent of some
+not-so-good touch-up. The floor under/near the rocker panels on both sides
+needs replacing. I haven't gotten it up on a rack yet to see how much other
+rust there is. As I recall, the front pan on early the 911/912 cars had a
+bad reputation for rusting out.  The battery box looked pretty solid, though.
+
+The engine was rebuilt not long ago and is dry as a bone. The flap boxes
+look a bit cheesy and have been painted a hideous silver color, as has the
+muffler. From my days as a 356 hack, that certainly seems non-original. The
+engine seems to idle a bit roughly, but that may be because the Zeniths were
+replaced by Webers and still need some sorting out. The original pistons,
+cylinders and Zenith setup come with the car. The (5-speed) transmission
+linkage seems a little mysterious. When in neutral, the car tended to still
+engage when the clutch was released.
+
+The car has Fuchs wheels and thinnish Goodyear GT 185/70HR-14 tires,
+definitely not original equipment.
+
+The interior is in excellent shape. The front dash panel appears to have
+been reupholstered, but the dash top is still intact. There is no vinyl rot
+around the speaker grille. Although not installed, the original AM/FM/SW
+radio comes with the car. The only apparent problem with the interior seemed
+to be some deterioration in the wood floorboards.
+
+The owner is not a Porsche person. Actually, he's heavily into a beautiful
+'65 Vette roadster, so he is serious about nice cars. He got the Porsche in
+a swap with a car dealer friend for a '56 Chevy. Definitely a more
+marketable car in the Schenectady, NY area. He's asking $6500 for the car.
+
+I plan to get it to my mechanic this week. I haven't driven it yet, because
+it's not registered, but should be able to scrounge some dealer plates for
+the trip to the shop.
+
+I'd appreciate any feedback or advice people might be able to give me about
+the car. I'm especially curious about the transmission symptoms. My one and
+only 911 had a good transmission, so I've no experience with the problems I
+described above.
+
+Thanks,
+
+Skip (montanaro@crd.ge.com)
+
+From porschephiles-request Sat Mar 14 16:30:26 1992
+Received: by karazm.math.UH.EDU id AA03016
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 14 Mar 1992 22:30:31 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA03012
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 14 Mar 1992 22:30:30 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA17820
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 14 Mar 1992 22:30:28 -0600
+Message-Id: <199203150430.AA17820@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA06301@casc.math.uh.edu>; Sat, 14 Mar 92 22:30:26 CST
+Date: Sat, 14 Mar 92 22:30:26 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 912 for sale
+
+The posting about the 912 made me remember that a racing partner of
+mine has a '68 912 for sale. It's mostly original, modulo that fact
+that it's set up for autox and has a *ghastly* solid rubber fake
+Turbo Carrera tail on it...
+
+He's a professional mechanic, who's been building Porsche race stuff
+for oh, about 20 years. He built this to be his car, and then went off
+and got Racing Fever in a big way. The resulting $$ drain is causing him
+to sell the car. It's the standard orange color with black leather 
+interior in case anyone cares about that...
+
+He wants $5000 for it, and has said he'll take less if it's going to
+a good home. Note that this does not mean he'll give it way. Shoot me
+a note if you want more details and/or his phone number.
+
+Stan
+
+From porschephiles-request Sat Mar 14 15:11:08 1992
+Received: by karazm.math.UH.EDU id AA03880
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 15 Mar 1992 01:09:06 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA03876
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sun, 15 Mar 1992 01:09:04 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA03139; Sat, 14 Mar 92 23:11:08 PST
+Date: Sat, 14 Mar 92 23:11:08 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9203150711.AA03139@hyperion.llnl.gov>
+To: Terrence.Bygate@columbiasc.ncr.com
+Subject: Solo radar detectors
+Cc: porschephiles@karazm.math.uh.edu
+
+Terry,
+
+I have no hard data about how the Solo compares to the Passport and
+Escort models from the performance standpoint, but my impression is
+that you don't give up much, if anything, for the battery-powered
+feature of the Solo (which is what sold me, along with CM's
+reputation).  Nevertheless, even if the Escort or Passport models do
+have some performance advantage, it would probably be wasted on me
+since my Solo has always given me plenty of warning.  In my area, the
+threat is hand-held K-band radar guns, which my Solo picks up very
+well.  I have never encountered X-band police radar here in northern
+CA.  In fact, I wish I could disable the X-band detection on my Solo,
+since the only thing it detects is automatic door openers and alarm
+systems.
+
+-Milo
+
+
+
+From porschephiles-request Sun Mar 15 06:46:30 1992
+Received: by karazm.math.UH.EDU id AA04932
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 15 Mar 1992 10:43:52 -0600
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.UH.EDU with SMTP id AA04928
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sun, 15 Mar 1992 10:43:51 -0600
+Received: by aixservr.egr.duke.edu (5.61-AIX-1.2/1.0)
+	id AA1144960 (for porschephiles@karazm.math.uh.edu, from js/js@aixservr.egr.duke.edu); Sun, 15 Mar 92 11:46:30 -0500
+Date: Sun, 15 Mar 92 11:46:30 -0500
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9203151646.AA1144960@aixservr.egr.duke.edu>
+To: 0004056890@mcimail.com, merithew@anise.stanford.edu
+Subject: Re: Help!  914 CV joint/axle-stub installation
+Cc: <porschephiles@karazm.math.uh.edu>, mcimail.porschephiles@com.egr.duke.edu
+
+  It's ok to let the driveshaft droop, but don't apply any extra pressure on 
+it or you will bend the flange between the CV joint and the boot out of shape.
+This leads to the flange biting into the inside of the boot, leading to a
+premature crack in the boot.  Just a couple of weekends ago I had to reform
+a flange on my car where the boot was busted and it looked like the driveshaft
+had been "over-drooped" in 3 or 4 placed...bet my neighbors were wondering what
+I was doing to my driveshaft with a hammer.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request Tue Mar 17 05:20:41 1992
+Received: by karazm.math.UH.EDU id AA25764
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 17 Mar 1992 09:23:02 -0600
+Received: from mailgate.ericsson.se by karazm.math.UH.EDU with SMTP id AA25759
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 17 Mar 1992 09:22:06 -0600
+Received: from ericom.ericsson.se by mailgate.ericsson.se (4.1/SMI-4.1-MAILGATE1.10)
+	id AA24264; Tue, 17 Mar 92 16:21:41 +0100
+Received: from noah.ericsson.se ([136.225.104.22]) by ericom.ericsson.se (4.1/SMI-4.0-ERICOM1.8)
+	id AA16761; Tue, 17 Mar 92 16:21:36 +0100
+Received: from grizzly.lmc.ericsson.com by noah.ericsson.se (4.1/SMI-4.0)
+	id AA05222; Tue, 17 Mar 92 10:20:41 EST
+Date: Tue, 17 Mar 92 10:20:41 EST
+From: lmcsugi@noah.ericsson.se (David Sugirtharaj)
+Message-Id: <9203171520.AA05222@noah.ericsson.se>
+To: porschephiles@karazm.math.uh.edu
+Subject: Oil Change
+
+Hi,
+	My 79 911SC is coming out of winter storage in a couple of
+weeks. For the first time, I am planning to change the oil myself
+and also use Mobil 1 15W-50 (previously used Castrol XLR 20W-50).
+My question is that do I add all of the 11L of oil to the tank and then
+start the motor or do I have to add say 5L and then start the motor and then
+add the rest? Since the oil is drained from the motor and the oil tank,
+how is the oil transfered from the oil tank to the motor when the new oil
+is added?
+
+Thanks for your response.
+
+Sugi
+
+From porschephiles-request Tue Mar 17 00:44:37 1992
+Received: by karazm.math.UH.EDU id AA27125
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 17 Mar 1992 10:44:41 -0600
+Received: from mx.nsi.nasa.gov by karazm.math.UH.EDU with SMTP id AA27121
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 17 Mar 1992 10:44:39 -0600
+Received: Tue, 17 Mar 92 08:44:20 PST from XEN.dnet by mx.nsi.nasa.gov (4.1/1.2)
+Message-Id: <9203171644.AA01708@mx.nsi.nasa.gov>
+Received: from XEN.dnet by AMES.dnet with MAIL-11
+          (utk-mail11d v1.7); Tue, 17 Mar 92 08:44:37 PST
+Date: Tue, 17 Mar 92 08:44:37 PST
+From: LAFORCE@xenon.arc.nasa.gov
+X-To: @PORSCHEPHILES.ADR
+Subject: oil changes (mobil 1)
+To: porschephiles@karazm.math.uh.edu
+
+From:	AMES::"lmcsugi@noah.ericsson.se" "David Sugirtharaj" 17-MAR-1992 07:40:15.01
+
+Hi,
+	My 79 911SC is coming out of winter storage in a couple of
+weeks. For the first time, I am planning to change the oil myself
+and also use Mobil 1 15W-50 (previously used Castrol XLR 20W-50).
+My question is that do I add all of the 11L of oil to the tank and then
+start the motor or do I have to add say 5L and then start the motor and then
+add the rest? Since the oil is drained from the motor and the oil tank,
+how is the oil transfered from the oil tank to the motor when the new oil
+is added?
+
+Thanks for your response.
+
+Sugi
+
+****************************************************************************
+
+I usually put in 10 qts then start the engine.
+
+A 911 has two oil pumps.  First is a high volume, low pressure scavange
+pump the moves oil from the crankcase to the oil tank.  I believe that the 
+oil goes to the cooler before getting to the tank.  Second is a low 
+volume high pressure pump the sends the cooled oil to the engine for 
+lubrication.
+
+Since the new oil is added to the tank, it just goes to the engine in the 
+normal fashion.
+
+Regarding your switch to Mobil 1, I beleive that a 911 holds about 13 
+quarts (I'll check my spec book if you are interested).  I consistantly
+add 11 qts when I do an oil change.  This means (to me) that there are still
+2 qts left in the oil system, which does go all the way to the front right
+fender and back.
+
+Is it okay to mix the Mobil 1 with the non-synthetic?
+
+I've been using Kendall (10-40) since I can get it locally for $1.59/qt.
+I change it about every 3500 miles.
+
+
+--Soren            laforce@xenon.arc.nasa.gov
+
+From porschephiles-request Tue Mar 17 23:27:33 1992
+Received: by karazm.math.UH.EDU id AA03222
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 18 Mar 1992 09:27:53 -0600
+Received: from atc.boeing.com by karazm.math.UH.EDU with SMTP id AA03217
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 18 Mar 1992 09:27:50 -0600
+Received: by atc.boeing.com on Wed, 18 Mar 92 07:23:26 PST
+Received: from yak.ca.boeing.com by bcstec.ca.boeing.com 
+	id AA19653; Wed, 18 Mar 92 07:26:13 PST
+Received: by yak.ca.boeing.com (5.57/Ultrix3.0-C)
+	id AA03222; Wed, 18 Mar 92 07:27:33 -0800
+Date: Wed, 18 Mar 92 07:27:33 -0800
+From: sag5004@yak.boeing.com (Ford Prefect)
+Message-Id: <9203181527.AA03222@yak.ca.boeing.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: 71 911 Questions (What are those factory swear words?)
+
+
+Hello-
+
+I have a couple of quick questions...
+
+Last weekend my brother and I set out to replace the trailing arms on
+his 71 911.  It took us lots longer than expected (we only got one side
+done).  Later that evening, we heard that on the pre '73 models you
+need to drop transmission/engine  Is there some handy trick/secret
+factory-porsche swear word/(insert here) that would let you do this
+without droping the eingine?
+
+Also since this car (body) was originally purchaed on a pallet we knew
+that it was not a pristine always in the garage and never dirven in the
+rain  kind of car  :-)  We recently noticed that the rear hubs do not
+seem to be the same distance from the center line of the car.  Further
+inspection reveals that some bozon had welded in a new torsion tube
+(and did it off center!)
+
+By now you can see that I don't need the answer to the first question
+because last night we dropped the engine just enough to ge access to
+the tube.  We are going to cut the tube out and figure out some way to
+align things up, and weld it back in.  gawd I love welding under a car
+on jack stands :-)
+
+Once we get it put back together what would be a good way to measure
+the suspension geometry?  Can we sort of copy my 77 911?  We started
+getting into this project because he is going to paint the car.  We
+started by puting on factory steel *turbo* flairs because the
+fiberglass ones were really ugly.  We also removed a very thick layer
+of bondo that seemed to completely cover the car.  He wanted to avoid
+droping the engine because that would open up the possibility of
+painting a different color (it black now).  I think if he goes with a
+new color, orange or baby blue, he was thinking red or teal.
+
+Sorry about rambln' on, but any relevant info would be appreciated.
+
+stuart galt                          boeing computer services
+sag5004@yak.boeing.com               seattle washington
+(206) 865-3764                       or home (206) 361-0190
+
+
+From porschephiles-request Wed Mar 18 05:43:59 1992
+Received: by karazm.math.UH.EDU id AA03280
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 18 Mar 1992 09:43:39 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA03276
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 18 Mar 1992 09:43:36 -0600
+Date: Wed, 18 Mar 92 10:43:59 EST
+From: weltyc@cs.rpi.edu (Chris Welty)
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA02033; Wed, 18 Mar 92 10:43:59 EST
+Message-Id: <9203181543.AA02033@cs.rpi.edu>
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA21142; Wed, 18 Mar 92 10:43:58 EST
+To: sag5004@yak.boeing.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Ford Prefect's message of Wed, 18 Mar 92 07:27:33 -0800 <9203181527.AA03222@yak.ca.boeing.com>
+Subject: 71 911 Questions (What are those factory swear words?)
+
+It's been a while...
+
+   Last weekend my brother and I set out to replace the trailing arms on
+   his 71 911.  It took us lots longer than expected (we only got one side
+   done).  Later that evening, we heard that on the pre '73 models you
+   need to drop transmission/engine  Is there some handy trick/secret
+   factory-porsche swear word/(insert here) that would let you do this
+   without droping the eingine?
+
+You just need to drop the transmission end enough that you can get the
+bolt out (ie not the engine end, too)  You are only supposed to be
+able to remove this bolt with the tranny lowered so that in case the
+nut comes off the bolt wont fall out and you lose a trailing arm while
+driving. 
+
+   Once we get it put back together what would be a good way to measure
+   the suspension geometry?  Can we sort of copy my 77 911? 
+
+You can't copy the 77, the geometries are different.  There is a
+procedure in the 911 performance handbook for measuring the geometry,
+which as I recall involves measuring the diagonal distances from each
+end of the tube to points on the opposite side of the car.  Rather
+than give numbers, all the matching measurements should be the same.
+remember that 911 were hand-built, and as a result the geometries on
+all 911s were slightly asymetric, so don't go for perfection.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Wed Mar 18 06:22:29 1992
+Received: by karazm.math.UH.EDU id AA11865
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 18 Mar 1992 16:23:15 -0600
+Received: from anise.Stanford.EDU by karazm.math.UH.EDU with SMTP id AA11861
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 18 Mar 1992 16:23:13 -0600
+Received: by anise.Stanford.EDU (AIX 3.1/UCB 5.61/4.03)
+          id AA14437; Wed, 18 Mar 92 14:22:29 -0800
+From: merithew@anise.Stanford.EDU (Robert Merithew)
+Message-Id: <9203182222.AA14437@anise.Stanford.EDU>
+Subject: Cloth-Covered Fuel Line?
+To: porschephiles@karazm.math.uh.edu (PorschePhiles Mailing List)
+Date: Wed, 18 Mar 92 14:22:29 PST
+X-Mailer: ELM [version 2.3 PL11]
+
+Hi.  I have the engine from my '74 914 2.0 out and (largely at Stan
+Hanks' suggestion) am replacing all the rubber bits I can think of.  I
+went to a VW shop and bought most of the stuff, including fuel line for
+the fuel ring (the hose that hops from injector to injector).  The hose
+they sold me is rubber with a cloth cover, but the hose on the car is
+rubber with no cloth.  I've heard mixed opinions on the wisdom of
+cloth-covered hose for this.  What say y'all?
+
+Also, here's the list of engine stuff I'm replacing.  Anyone notice
+anything important that I and Stan have forgotten?
+
+  * oil cooler seals
+  * injector rings (all 8)
+  * intake manifold gaskets (are there 2 or 4 ?)
+  * oil pressure switch
+  * fuel ring hose
+  * short hoses from intake manifold pipes to air distributor (4)
+  * muffler-to-heat-exchanger gaskets (2)
+  * engine-to-heat-exchanger rings (4)
+  * most of the little screws that hold things like the engine
+    sheetmetal on (I didn't realize I could get those cheaply!)
+  * alternator belt
+
+-- 
+  Robert Merithew                              _______________    __o
+  L&IR, Stanford University                _________________     -\<,
+  merithew@jessica.stanford.edu                            ......O/ O
+
+From porschephiles-request Thu Mar 19 03:48:44 1992
+Received: by karazm.math.UH.EDU id AA22985
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 19 Mar 1992 07:46:14 -0600
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.UH.EDU with SMTP id AA22981
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 19 Mar 1992 07:46:13 -0600
+Received: by aixservr.egr.duke.edu (5.61-AIX-1.2/1.0)
+	id AA1148965 (for porschephiles@karazm.math.uh.edu, from js/js@aixservr.egr.duke.edu); Thu, 19 Mar 92 08:48:44 -0500
+Date: Thu, 19 Mar 92 08:48:44 -0500
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9203191348.AA1148965@aixservr.egr.duke.edu>
+To: merithew@anise.Stanford.EDU, porschephiles@karazm.math.uh.edu
+Subject: Re:  Cloth-Covered Fuel Line?
+
+I believe the cloth-covered fuel line is the original stuff on the 914.  My
+suggestion is to actually cut off the metal fittings from the end of all the
+injectors where the fuel lines come in and replace them with hose clamps.  If
+all your fuel lines are rubber, it sounds like someone already did that for
+you.  The first place leaks start is at the sharp bend in the fuel line right
+after the fitting...
+
+Be careful with the rubber stuff to allow enough slack in the line for bends.
+I remember having a bend clamp off the fuel supply to half of the engine on my
+old 914 with 40IDF webers after going home from the mechanic and getting the
+engine warm.  I don't know if this is a problem with the cloth lines.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request Thu Mar 19 04:36:02 1992
+Received: by karazm.math.UH.EDU id AA24805
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 19 Mar 1992 15:43:46 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA24798
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 19 Mar 1992 15:43:31 -0600
+Received: by Menudo.UH.EDU with UUCP id AA05320
+  (5.65c+/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Thu, 19 Mar 1992 15:43:29 -0600
+Received: by limbic.ssdl.com id AA06512
+  (5.65c/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Thu, 19 Mar 1992 15:25:39 -0600
+Received: from gatech.UUCP by ames.arc.nasa.gov (5.65c/1.21)
+	with UUCP id AA28011 for limbic!uhnix1!karazm.math.uh.edu!porschephiles
+	on Thu, 19 Mar 1992 07:59:00 -0800
+Received: from gatech.UUCP (uucp.gatech.edu) by gatech.edu (4.1/Gatech-9.1)
+	id AA21899 for limbic!uhnix1!karazm.math.uh.edu!porschephiles; Thu, 19 Mar 92 10:53:46 EST
+Received: from ncratl.UUCP by gatech.UUCP (4.1/SMI-4.1)
+	id AA06612; Thu, 19 Mar 92 10:53:38 EST
+Received: by ncratl.AtlantaGA.NCR.COM; 19 Mar 92 09:40:55 EST
+Received: by ncrcol.ncr.com ( 5.52 (84)/BSD4.3)
+	id AA07833; Thu, 19 Mar 92 09:36:06 EST
+Message-Id: <9203191436.AA07833@ncrcol.ncr.com>
+Subject: Re: Oil Change
+To: porschephiles@karazm.math.uh.edu
+Date: Thu, 19 Mar 92 9:36:02 EST
+From: Terrence (Terry) A. Bygate <bygate@ncrcol.columbiasc.ncr.com>
+Reply-To: Terrence.Bygate@columbiasc.ncr.com
+In-Reply-To: <9203171520.AA05222@noah.ericsson.se>; from "David Sugirtharaj" at Mar 17, 92 10:20 am
+From: Terrence.Bygate@columbiasc.ncr.com
+Reply-To: Terrence.Bygate@columbiasc.ncr.com
+X-Mailer: ELM [version 2.3 PL11]
+
+> For the first time, I am planning to change the oil myself
+> and also use Mobil 1 15W-50 (previously used Castrol XLR 20W-50).
+> 
+> Sugi
+
+I am not familiar with Castrol XLR.  Is it a synthetic oil?  If not and your
+engine has high mileage, I would think twice about switching to a synthetic
+oil.  I seem to remember previous postings (or articles in rec.autos.tech)
+about switching to synthetic oil in high mileage autos.  Others will probably
+have to help me out with the details, but I believe the problem is related
+to various seals in your engine.  The nature oil causes the seals to expand
+and seat properly.  When you switch to a synthetic oil, the synthetic oil is
+not soaked up by the seals in the same manner.  Thus the seals will loosen 
+some, and in older engine, this can cause problems.  I am not sure what happens
+on newer engines.
+
+I have included an article from the BMW mailing list as a reference.  The
+author mixed in a quart of Teflon oil and started having problems (maybe his
+problem was related to mixing the oil, I do not know).  I am not positive 
+that Teflon is a synthetic oil, but that was my initial impression.  I hope 
+this is helpful.
+
+Terry.
+
+>Date: Mon, 16 Mar 92 07:47:35 -0500
+>From: Larry Schuette <schuette@roadkill.nrl.navy.mil>
+>To: bmw@balltown.cma.com
+>Subject: 83 528e valve guide seals
+>
+>Hi,
+>	Well after autofest friday, I thought I'd report back my findings
+>on repairing my 83 528e.
+>	I bought the car with 92K miles, and then made the mistake of
+>putting a quart of Teflon oil in with the oil change.  This loosened up
+>the seals, and the car started blowing oil bad enough to make me look further.
+>Having decided that it was "hopefully" just the valve guide seals, I took
+>the valve cover off, hoping to do a "head on" guide seal change.  Alas,
+>the bmw manual is correct, you have to pull the head.  There is about an 1/8"
+>to little clearance to slide the rockers to one side  (you can do this
+>on any air cooled porsche), so I yanked the head off.  Pulling the head
+>is about a 6 hour operation.  It is straight forward, just remove and 
+>label (a white ink pen and a black felt tip work great) everything.
+>I took the head (yes, it's off, might as well get the valves ground) down
+>to J & F engineering for the $200.00 special (new seals (mine). and exhaust
+>guides (mine) pressed in).
+>	I ordered the "head removal" gasket and nut set from Maximillians.
+>This includes head gasket, intake and exhaust and thermostat gaskets, and
+>exhaust nuts.  Should be reassembling on Tuesday...  details to follow.
+>
+>Larry
+>    ----------------------------------------------------------------------
+>     "In my opinion the aggressive spirit is everything"  BM v. Richthofen
+>
+>Lawrence C. Schuette			  schuette@roadkill.nrl.navy.mil
+>Code 5133				  (202)767-2739  
+>Naval Research Laboratory		  	
+>Washington D.C.	20375-5000
+
+-- 
+Terrence A. Bygate    803-791-6492        |
+NCR E&M Columbia- 3500 Module Development |After all, even a fool may be thought
+<Terry.Bygate@ColumbiaSC.NCR.COM>         | wise and intelligent if he stays 
+<...uunet!ncrlnk!ncrcae!terry.bygate>     | quiet and keeps his mouth shut.
+
+From porschephiles-request Fri Mar 20 01:31:00 1992
+Received: by karazm.math.UH.EDU id AA26030
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 19 Mar 1992 19:49:33 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA26026
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 19 Mar 1992 19:49:30 -0600
+Received: from mcimail.com by NRI.Reston.VA.US id aa01194; 19 Mar 92 20:45 EST
+Date: Fri, 20 Mar 92 01:31 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Early 911 question
+Message-Id: <32920320013123/0004056890NA3EM@mcimail.com>
+
+Kevin Hasler again has a question he has asked me to relay to the list.  He no
+longer has list access, although anyone with an answer can e-mail him at
+kevinh@hasler.ascom.ch.
+
+Kevin Gross
+______________________________________________________________________________
+
+I've finally got my 911T 2.4 Coupe past the Swiss vehicle test, can you believe
+they failed it because it was sitting too low! Putting on some borrowed winter
+tyres solved that :-) :-)
+
+Anyway, I can finally drive the car on the road, for the first time really, and
+maybe I have a problem. One of the few modifications to the car (that I know
+about anyway) is an ANSA exhaust, basically a free flow exhaust with four outlet
+pipes, and when I drive along, unless i`m using a reasonably hard throttle
+(speeding ticket here I come!), I get a popping/farting noise fairly frequently
+(at random). 
+
+The Porsche garage insist that it's due to the exhaust - lack of back pressure
+to the engine etc. What I want to know is if this is detrimental to my engine in
+any way?? I will certainly replace it at some point, but hopefully not
+immediately. The engine has passed an emissions test and has generally been
+checked over with electrical analysis equipment, and is in goodish condition.
+
+Incidentally, it doesn't half go. I can't believe it only has 140 PS, seems more
+like around 170. It pulls like a train from around 3000 in 5th gear. I have
+driven 944S2 and 3.0SC and this certainly seems quicker than the SC, the 944S2
+was a totally different feeling - much quieter and less effort so it's difficult
+to judge accurately. Bloody noisy though (ANSA exhaust doesn't help that!) but
+together with engine noise/transmission wind, well - it's different to the BMW!!
+
+Thanks
+
+Kevin (kevinh@hasler.ascom.ch)
+
+
+From porschephiles-request Fri Mar 20 08:25:25 1992
+Received: by karazm.math.UH.EDU id AA28309
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 20 Mar 1992 08:25:34 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA28305
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 20 Mar 1992 08:25:25 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA11788; Fri, 20 Mar 92 07:59:40 -0600
+Message-Id: <9203201359.AA11788@dcmdc.dla.mil>
+Date: Fri Mar 20 07:59:35 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: 2.4T [54~
+To: kevin@hasler.ascom.ch
+Cc: porschephiles@karazm.math.uh.edu
+
+Kevin,
+
+If your 2.4T has been converted to Webers, you may have junk in your idle
+circuits.  At steady highway speeds below say 80, you are still on the idle
+circuits.  I had this problem when I had my 914/6, and the carbs had to 
+be disassembled and cleaned.
+
+I could also be that the idle jets are too small.
+
+
+BTW, everything I have read seems to suggest that you would be better off
+with the Porsche sport muffler.  some of the aftermarket exhausts actually 
+have less power than a stock system.
+
+
+jim fuerstenberg		
+
+
+			186,000 miles per second, it's not just a good idea
+			it's the law!
+						
+						
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+
+From porschephiles-request Thu Mar 19 23:54:22 1992
+Received: by karazm.math.UH.EDU id AA28913
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 20 Mar 1992 11:53:37 -0600
+Received: from ncrcom.DaytonOH.NCR.COM by karazm.math.UH.EDU with SMTP id AA28909
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 20 Mar 1992 11:53:23 -0600
+Received: from ncrspks by ncrcom.DaytonOH.NCR.COM id ac25251;
+          20 Mar 92 12:49 EST
+Subject: 944 Ignition System Problem
+To: porschephile <porschephiles@karazm.math.uh.edu>
+Date: Fri, 20 Mar 92 7:54:22 PST
+From: Karl Held <karl@ncrspks.sparksnv.NCR.COM>
+X-Mailer: ELM [version 2.3 PL8]
+Message-Id:  <9203201249.ac25251@ncrcom.DaytonOH.NCR.COM>
+
+
+I have an '84 Porsche 944 with 50K miles which occasionally has a starting 
+problem. It tends to occur on especially cold days, even with the car in the 
+garage. The engine will crank over, but never start. I CAN get it started 100%
+of the time when this problem occurs by using a hair dryer to heat up the area
+behind the engine just in front of the middle of the firewall!! This is the
+area in which the flywheel reluctor is located. What I think is happening is
+that the reluctor may have an an intermittent open in its winding, which
+becomes solid when the engine gets very cold. When I use the hair dryer for
+about 30 seconds, the temperature increase apparently closes this open,
+allowing the engine control module to see its timing pulses, and therefore
+starting the car. Is there any way to verify this theory with test equipment
+before I spend the $200 on this reluctor part (what a rip-off!!) which of
+course is non-returnable? Of course, I could be out in left field with this 
+theory. And yes, I know a 12VDC hair dryer is a lot cheaper, especially since 
+the problem only occurs maybe half a dozen times a year, but I'm considering
+selling the car to a friend and don't want him to get stuck with the problem.
+
+-- 
+Karl Held - N7ITN  NCR SPARKS FESC ISS  \
+405 Edison Way, Reno, Nevada 89502 USA  ) \
+TEL: 702-786-1832    FAX: 702-786-6473  )___\  
+VP:270-1000 Karl.Held@SparksNv.NCR.COM  .-----
+
+From porschephiles-request Fri Mar 20 08:54:00 1992
+Received: by karazm.math.UH.EDU id AA29090
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 20 Mar 1992 12:55:46 -0600
+Received: from att.att.com (att-out.att.com) by karazm.math.UH.EDU with SMTP id AA29086
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Fri, 20 Mar 1992 12:55:43 -0600
+Message-Id: <199203201855.AA29086@karazm.math.UH.EDU>
+From: fwk@homxc.att.com
+Date: Fri, 20 Mar 92 13:54 EST
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: porschephiles@karazm.math.UH.EDU
+Cc: Karl Held <karl@ncrspks.sparksnv.ncr.com>
+Subject: Re: 944 Ignition System Problem
+
+>about 30 seconds, the temperature increase apparently closes this open,
+>allowing the engine control module to see its timing pulses, and therefore
+>starting the car. Is there any way to verify this theory with test equipment
+>before I spend the $200 on this reluctor part (what a rip-off!!) which of
+>
+The shop manual shows a test of the pulse generators on the flywheel which
+uses an ignition analyzer. For those of us who don't own commercial
+shops, it is possible to examine the output of the sensors with a general
+purpose oscilloscope, if that is any easier for you to find than an
+ignition analyzer. The waveform will look slightly different than the
+picture in the book, since (I believe) the ignition analyzers are not
+DC coupled, but the pulse magnitudes should be similar. On my 1987 944S, 
+the pulse amplitudes were much larger than those in the book. Although
+it is somewhat hard to find in the shop manual, the values shown are
+for the engine cranking prior to starting, which should be just right
+for tracing your problem.
+
+If you don't have access to a shop manual but you can get an oscilloscope
+and you want to try this test, I can look up the specs for you in my
+manual at home.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request Fri Mar 20 10:23:38 1992
+Received: by karazm.math.UH.EDU id AA29594
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 20 Mar 1992 14:28:02 -0600
+Received: from vnet.ibm.com by karazm.math.UH.EDU with SMTP id AA29590
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 20 Mar 1992 14:28:00 -0600
+Message-Id: <199203202028.AA29590@karazm.math.UH.EDU>
+Received: from KGNVMY by vnet.ibm.com (IBM VM SMTP V2R2) with BSMTP id 2887;
+   Fri, 20 Mar 92 15:27:23 EST
+Date: Fri, 20 Mar 92 15:23:38 EST
+From: "George Beuselinck, CAEDS Development Support" <gb@vnet.ibm.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: 84 944 Cold Start Problem
+
+>>
+>>I have an '84 Porsche 944 with 50K miles which occasionally has a starting
+>>problem. It tends to occur on especially cold days, even with the car in the
+>>garage. The engine will crank over, but never start. I CAN get it started 100%
+>>of the time when this problem occurs by using a hair dryer to heat up the area
+>>behind the engine just in front of the middle of the firewall!! This is the
+I think that the more interesting question is, "How did you think to
+use a hairdryer for a diagnosis?"  :-)
+
+But seriously, there are two sensors in that area above the bellhousing.
+One is to mark the TDC, the other senses RPMs.
+
+Take the car to a dealer with the proper diagnosis equipment.  Easter-
+egging those parts can get very expensive, very quickly, especially
+considering the "no-return policy" on electronic parts...
+
+George Beuselinck ('83 944 - absolutely stock!)
+
+From porschephiles-request Fri Mar 20 14:24:00 1992
+Received: by karazm.math.UH.EDU id AA00408
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 20 Mar 1992 18:24:47 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA00404
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Fri, 20 Mar 1992 18:24:42 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 2808; Fri, 20 Mar 92 19:24:15 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 9581; Fri, 20 Mar 92 19:24:14 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NuTNd3LF
+Date:         Fri, 20 Mar 92 19:24-0500
+X400-Trace:   CA* *QueensU.CA; arrival Fri, 20 Mar 92 19:24-0500 action Relayed
+Message-Id:   <1529*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      Canadian Prices
+
+Just one more horror story about Canadian dealers trying to rip us off:
+I needed injector seats for my 931.   That's the little plastic bushing
+that screws into the head and into which the injector nozzle is pressed.
+I called Downtown Fine Cars in Toronto and found that if I would FAX
+them all of the credit card info, they would ship the parts at $32 (Canadian)
+per seat.   The same part for an Audi 5000, which is different only on the
+inside, ie. it has a hexagon shape rather than splined inside but otherwise
+identical, costs less than $2. The parts man said he would have to order
+them for me. I responded by saying that I wasn't surprised that he didn't
+stock them without a vault and armed guard.
+Anyhow, I called Syracuse New York and they agreed to ship them for less
+than $10 each and I wouldn't have to go to the expense of Faxing them and
+jerking around. EVEN if I have to pay import duty and taxes, that's a
+ridiculous price differential. The moral of the story is, don't ever
+even think about having your car fixed on this side of the border without
+double checking the price of each and every item. The parts man doesn't
+care about my ranting and raving over this one of course. He just works
+there.  How do we get through to these thieves??  If you ever pass by
+Downtown Fine Cars during business hours, stop by and tell them why they
+don't deserve any business.   (My revenge   :-)   )
+Ken.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From porschephiles-request Mon Mar 23 01:41:58 1992
+Received: by karazm.math.UH.EDU id AA08369
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 23 Mar 1992 14:13:19 -0600
+Received: from trout.nosc.mil by karazm.math.UH.EDU with SMTP id AA08360
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 23 Mar 1992 14:13:11 -0600
+Received: by trout.nosc.mil (5.59/1.27)
+	id AA27274; Mon, 23 Mar 92 09:50:11 PST
+From: hill@spectra.com
+Message-Id: <9203231750.AA27274@trout.nosc.mil>
+Date: Mon, 23 Mar 92 09:41:58 -0800
+To: "nosc!porschephiles@karazm.math.uh.edu"@trout.nosc.mil
+Subject: CIS injection
+
+
+ I was wondering if anyone understands how the bosch fuel injection
+works on a 80 911SC?
+
+I have a limited knowledge of the system and was
+wondering if someone could expand on it. I know it is a 
+continuous injection system. I think it works like this;
+the injectors atomize the fuel in the intake track behind the
+intake valve. The plate attached to the fuel distributor measures
+the volume of air and distributes the correct amount of fuel
+for the correct mixture. The 02 sensor reads the 02 content in
+the exhaust and fine tunes the mixture in a close loop system,
+of course thats after the sensor warms up. The warm up regulator
+richens up the mixture when the engine is cold.
+
+Besides what is obvious from the description what do these parts do?
+
+    fuel pressure accumulater
+    Allen screw on the fuel distributor, CO mixture?
+    control pressure regulator
+    auxiliary air device.
+
+Also, any recommendations on books about the CIS system.
+
+Thanks
+
+Greg			        	ucsd!nosc!spectra!vax4000::hill
+
+
+
+From porschephiles-request Mon Mar 23 10:50:00 1992
+Received: by karazm.math.UH.EDU id AA08571
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 23 Mar 1992 14:50:57 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA08567
+  (5.65c/IDA-1.4.4 for <Porschephiles@karazm.math.uh.EDU>); Mon, 23 Mar 1992 14:50:49 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 5241; Mon, 23 Mar 92 15:50:14 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 9736; Mon, 23 Mar 92 15:50:13 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:Nu780z0L
+Date:         Mon, 23 Mar 92 15:50-0500
+X400-Trace:   CA* *QueensU.CA; arrival Mon, 23 Mar 92 15:50-0500 action Relayed
+Message-Id:   <1544*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: Porschephiles@karazm.math.uh.EDU
+In-Reply-To:  <9203231750.AA27274@trout.nosc.MIL>
+Subject:      CIS injection
+
+You wrote on Mon, 23 Mar 1992 15:39:00:
+>
+>  I was wondering if anyone understands how the bosch fuel injection
+> works on a 80 911SC?
+>
+
+While we're on the topic, perhaps someone could give a rundown of the
+931 (924 Turbo) system as well.
+>
+>     fuel pressure accumulater
+>     Allen screw on the fuel distributor, CO mixture?
+>     control pressure regulator
+>     auxiliary air device.
+>
+> Also, any recommendations on books about the CIS system.
+>
+> Thanks
+>
+> Greg                       ucsd!nosc!spectra!vax4000::hill
+>
+>
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From porschephiles-request Tue Mar 24 02:01:00 1992
+Received: by karazm.math.UH.EDU id AA15554
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 23 Mar 1992 20:15:46 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA15550
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 23 Mar 1992 20:15:44 -0600
+Received: from mcimail.com by NRI.Reston.VA.US id ab26495; 23 Mar 92 21:06 EST
+Date: Tue, 24 Mar 92 02:01 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: hill <hill@spectra.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: CIS injection: 80 911SC and 931
+Message-Id: <92920324020129/0004056890NA3EM@mcimail.com>
+
+There are three books I would recommend:
+
+  Charles O. Probst, "Bosch Fuel Injection & Engine Management," pub. Robt.
+   Bentley, available from just about all the mail order places or from
+   Bentley, about $28.
+
+    Terrific survey of Bosch electronic FI systems, not marque- or model-
+    specific; but the cover's claim that it "includes high performance
+    tuning" is BS.  Covers both theory and troubleshooting of CIS and
+    pulsed systems.
+
+  Bosch, "Automotive Electric/Electronic Systems, pub. SAE, available from
+   them at 412 776 4970, about $32.
+
+    Very good theory, no troubleshooting, no marque- or model-specific
+    info.  Dry, often repetitive.  Printed on heavy, high-gloss bond and
+    ideal for winging at misbehaving cats.
+
+  Volkswagen GTI, Golf, Jetta Service Manual, 1985..1990 incl 16V.  Available
+   from Bentley, your VW dealer, mail order, maybe about $40?
+
+    I could probably recommend their Audi or BMW manuals for the same reasons,
+    but have never seen them.  In as much as Bosch underpins all the car's
+    engines, the manuals are reasonable sources of generic theory and terrific
+    sources of troubleshooting info.  Lots of great novice tips, like how
+    to build a test lamp from an LED and a resistor, what tools you'll need,
+    how to check and test the FI system.
+
+Kevin
+
+From porschephiles-request Mon Mar 23 18:01:04 1992
+Received: by karazm.math.UH.EDU id AA16410
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 24 Mar 1992 00:01:17 -0600
+Received: from trout.nosc.mil by karazm.math.UH.EDU with SMTP id AA16406
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 24 Mar 1992 00:01:15 -0600
+Received: from Menudo.UH.EDU by trout.nosc.mil (5.59/1.27)
+	id AA26813; Mon, 23 Mar 92 22:01:12 PST
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA27365
+  (5.65c+/IDA-1.4.4 for <nosc!porschephiles%karazm.math.uh.edu@trout.nosc.mil>); Tue, 24 Mar 1992 00:01:07 -0600
+Message-Id: <199203240601.AA27365@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA12159@casc.math.uh.edu>; Tue, 24 Mar 92 00:01:05 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+Subject: Re: CIS injection
+To: hill@spectra.com
+Date: Tue, 24 Mar 92 0:01:04 CST
+Cc: "nosc!porschephiles%karazm.math.uh.edu"@trout.nosc.mil
+In-Reply-To: <9203231750.AA27274@trout.nosc.mil>; from "hill@spectra.com" at Mar 23, 92 9:41 am
+X-Mailer: ELM [version 2.3 PL11]
+
+>  I was wondering if anyone understands how the bosch fuel injection
+> works on a 80 911SC?
+
+Where's Welty when you need him anyway.... 8{)
+
+> I have a limited knowledge of the system and was
+> wondering if someone could expand on it. I know it is a 
+> continuous injection system. I think it works like this;
+> the injectors atomize the fuel in the intake track behind the
+> intake valve. The plate attached to the fuel distributor measures
+> the volume of air and distributes the correct amount of fuel
+> for the correct mixture. The 02 sensor reads the 02 content in
+> the exhaust and fine tunes the mixture in a close loop system,
+> of course thats after the sensor warms up. The warm up regulator
+> richens up the mixture when the engine is cold.
+
+In a nutshell, that's it.
+
+> Besides what is obvious from the description what do these parts do?
+> 
+>     fuel pressure accumulater
+
+Giant capacitor for fuel. Prevents those nasty "voltage spikes". Also
+allows you to have enough pressure to start the car, cold. Saved from
+the last time you drove it, natch.
+
+>     Allen screw on the fuel distributor, CO mixture?
+
+Basic ratio of air to fuel.
+
+>     control pressure regulator
+
+You increase fuel flow to cylinders by increasing pressure. This device
+uses engine vacuum to decide that you're accelerating and give more
+gas *before* there's enogh airflow to justify it. BTW, the hot trick for
+boosting performance on CIS cars is to replace that with a "rising rate"
+regulator, which gives even more gas.
+
+>     auxiliary air device.
+
+Adds extra air in conditions of low vacuum (ok, ok "manifold pressure" --
+gimme a break already...) I forget why. They fail with more frequency
+than other parts. May be a Bosch revenue generating trick....
+
+> Also, any recommendations on books about the CIS system.
+
+As someone else noted, the Bosch Engine Mangement book is spectacular.
+I have some tech notes from HALTECH somewhere that might be useful too,
+but will have to find them. And I hear there is a similar series from
+Electromotive too (their system is much better than HALTECH -- how did
+I *EVER* decide that HALTECH was a good idea... oh well,that's another
+story....)
+
+Stan
+
+From porschephiles-request Tue Mar 24 04:36:31 1992
+Received: by karazm.math.UH.EDU id AA17770
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 24 Mar 1992 08:35:52 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA17766
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 24 Mar 1992 08:35:51 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA24107; Tue, 24 Mar 92 09:36:32 EST
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA28356; Tue, 24 Mar 92 09:36:31 EST
+Date: Tue, 24 Mar 92 09:36:31 EST
+From: weltyc@cs.rpi.edu
+Message-Id: <9203241436.AA28356@porsche.cs.rpi.edu>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: Stan Hanks's message of Tue, 24 Mar 92 0:01:04 CST <199203240601.AA27365@Menudo.UH.EDU>
+Subject: CIS injection
+
+
+   X-Mailer: ELM [version 2.3 PL11]
+
+   >  I was wondering if anyone understands how the bosch fuel injection
+   > works on a 80 911SC?
+
+   Where's Welty when you need him anyway.... 8{)
+
+What do you need me for, you got it!
+
+Just two minor things to add:
+
+   >     auxiliary air device.
+
+   Adds extra air in conditions of low vacuum (ok, ok "manifold pressure" --
+   gimme a break already...) I forget why. They fail with more frequency
+   than other parts. May be a Bosch revenue generating trick....
+
+It's for emissions.  Leans out the exhaust so the cat will last the
+requisite 50K miles.   
+
+   > Also, any recommendations on books about the CIS system.
+
+   As someone else noted, the Bosch Engine Mangement book is spectacular.
+
+There's also a book from Bosch on the K-Jetronic.  I'm pretty sure
+performance products sells it.  Something like "Bosch Technical
+Instructions for the K-Jetronic".  Its mainly for maintenance, doesn't
+do that much explaining the way Probst does.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Tue Mar 24 06:16:03 1992
+Received: by karazm.math.UH.EDU id AA18152
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 24 Mar 1992 10:17:57 -0600
+Received: from mailgate.ericsson.se by karazm.math.UH.EDU with SMTP id AA18146
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 24 Mar 1992 10:17:35 -0600
+Received: from ericom.ericsson.se by mailgate.ericsson.se (4.1/SMI-4.1-MAILGATE1.10)
+	id AA15853; Tue, 24 Mar 92 17:17:29 +0100
+Received: from noah.ericsson.se ([136.225.104.22]) by ericom.ericsson.se (4.1/SMI-4.0-ERICOM1.8)
+	id AA15807; Tue, 24 Mar 92 17:17:23 +0100
+Received: from grizzly.lmc.ericsson.com by noah.ericsson.se (4.1/SMI-4.0)
+	id AA10734; Tue, 24 Mar 92 11:16:04 EST
+Date: Tue, 24 Mar 92 11:16:03 EST
+From: lmcsugi@noah.ericsson.se (David Sugirtharaj)
+Message-Id: <9203241616.AA10734@noah.ericsson.se>
+To: lmcsugi@noah.ericsson.se, porschephiles@karazm.math.uh.edu
+Subject: Starting Problem
+
+Hi,
+	I have a 79 911SC with the CIS injection without oxygen
+sensor. I am experiencing a starting problem when the engine is cold.
+It happens like this: crank the motor for the first time, it catches
+for about 1 second and then it stalls. When I restart the motor, it
+starts fine and idles properly. The car has 90,000 km and a new warm-up
+regulator. Also, if I start the car for the first time and immediately give
+throttle, there is a backfire (intake, I think) and the engine idles
+eratically for a few seconds. Could it be the thremoswitch or the cold
+start valve?
+
+Any comments would be appreciated.
+
+Sugi
+
+Ericsson, Montreal
+
+From porschephiles-request Tue Mar 24 09:15:39 1992
+Received: by karazm.math.UH.EDU id AA18785
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 24 Mar 1992 13:16:34 -0600
+Received: from mailbox.syr.EDU by karazm.math.UH.EDU with SMTP id AA18781
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 24 Mar 1992 13:16:31 -0600
+From: edudley@mailbox.syr.edu (Eliot W Dudley)
+Received: from rodan.acs.syr.edu by mailbox.syr.edu (4.1/CNS)
+	id AA13112; Tue, 24 Mar 92 14:17:02 EST
+Received: by rodan.acs.syr.edu (4.1/Spike-2.0)
+	id AA14800; Tue, 24 Mar 92 14:15:39 EST
+Date: Tue, 24 Mar 92 14:15:39 EST
+Message-Id: <9203241915.AA14800@rodan.acs.syr.edu>
+To: edudley@mailbox.syr.edu, porschephiles@karazm.math.uh.edu
+Subject: 1980 cis
+
+
+>>     Allen screw on the fuel distributor, CO mixture?
+>Basic ratio of air to fuel.
+
+If you're refering to a Lambda system, closed loop with O2 sensor and
+frequency valve, then the allen screw adusts the basic idle mixture to
+get it within a range that the Lambda  can fine tune.
+
+>>     control pressure regulator
+>
+>You increase fuel flow to cylinders by increasing pressure. This device
+>uses engine vacuum to decide that you're accelerating and give more
+>gas *before* there's enogh airflow to justify it. BTW, the hot trick for
+>boosting performance on CIS cars is to replace that with a "rising rate"
+>regulator, which gives even more gas.
+
+Depending on the particular CIS system this may or may not be true, I
+doubt this is the case for the 1980 SC in question.  On non-turbo CIS
+systems of this vintage the normal case would be that the control pressure
+regulator bleeds off control pressure at startup to provide enrichment,
+thereafter the regulator pinches off this bleed-off flow until it shuts 
+off entirely at full warmup.  Once the car is warmed up the control
+pressure regulator is a closed valve.
+
+In turbo applications (circa 1980) the control pressure regulator does 
+sense manifold pressure and does decrease control pressure as manifold 
+pressure increases.  In this case it is a true control pressure regulator
+as a function of manifold pressure as opposed to a warmup control pressure
+regulator that drops out of the picture once the thing warms up and shuts
+off.
+
+>
+>>     auxiliary air device.
+>
+>Adds extra air in conditions of low vacuum (ok, ok "manifold pressure" --
+>gimme a break already...) I forget why. They fail with more frequency
+>than other parts. May be a Bosch revenue generating trick....
+
+If you mean "auxilliary air regulator" this is a thermally controlled air
+valve that bypasses the throttle butterfly during warmup, no different
+in effect than stepping on the throttle a little during warmup to keep
+it from stalling.  Here again, once the system is warmed up this component
+acts as a closed valve.  Both this and the control pressure regulator
+are ultimately controlled by bimetalic strips that are resistivly heated
+and close off the valves after five minutes or so.  The initial temperature
+of these valves determines how far open they are at startup, but they will
+close.  
+
+If you mean air injection system, it's a normal air pump to add air to
+the exhaust gasses to promote complete burning  in the exhaust.
+
+Not mentioned yet is the frequency valve, which is a valve that controls 
+the fuel pressure to the injectors my supplying varying amounts of pressure
+to a diaphram pressure regulator, as with the screw on your oxyacetylene
+regulators.  They call it a frequency valve because it is either on or
+off at a certain frequency, the duty cycle being dermined by the feedback
+from the O2 sensor to the ECU.
+
+Eliot
+
+From porschephiles-request Fri Mar 27 19:45:49 1992
+Received: by karazm.math.UH.EDU id AA13777
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 28 Mar 1992 01:45:58 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA13773
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 28 Mar 1992 01:45:56 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA14339
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 28 Mar 1992 01:45:53 -0600
+Message-Id: <199203280745.AA14339@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA26618@casc.math.uh.edu>; Sat, 28 Mar 92 01:45:49 CST
+Date: Sat, 28 Mar 92 01:45:49 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Testing, testing....
+
+Just seeing if we still have a group or if everything is massively
+broken... (boy, leave town for a few days.....)
+
+Stan
+
+From porschephiles-request Sat Mar 28 09:12:00 1992
+Received: by karazm.math.UH.EDU id AA15441
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 28 Mar 1992 13:12:53 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA15437
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Sat, 28 Mar 1992 13:12:48 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 2173; Sat, 28 Mar 92 14:12:11 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 0115; Sat, 28 Mar 92 14:12:10 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NvuWoFkM
+Date:         Sat, 28 Mar 92 14:12-0500
+X400-Trace:   CA* *QueensU.CA; arrival Sat, 28 Mar 92 14:12-0500 action Relayed
+Message-Id:   <1571*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      Testing, testing....
+
+..
+----------------------------------------------------------------------
+P1-Message-Id: CA* *QueensU.CA;QueensU:NvuWoFkM
+Date:         Sat, 28 Mar 92 14:12-0500
+X400-Trace:   CA* *QueensU.CA; arrival Sat, 28 Mar 92 14:12-0500 action Relayed
+Message-Id:   <1570*Ken.Stanton@QueensU.CA>
+From:         Ken.Stanton@QueensU.CA
+To:           Stan Hanks <stan@casc.math.uh.EDU>
+In-Reply-To:  <199203280745.AA14339@Menudo.UH.EDU>
+Subject:      Testing, testing....
+
+Yo!  We're still here. But I think the NET is haunted. Gary Cook and I both
+own 931's and we regularly exchange horror stories. His car popped the main
+fuel pump a few days ago. I think my car had never previously thought up
+such a failure. I had to walk home from the video store last night. :-(
+You guessed it. No fuel pump activity. I have been hearing some VERY unusual
+sounds emanating from that notorious area up by the firewall which sem related
+to the fuel problem. Anyway, to make a long story short, I expect it is either
+the fuel pump itself or the relay. Gary tells me he fixed the relay problem
+by spending the $75 to just carry one along in the glove box. No need to
+install it. Just carry it along and that's enough to keep the car happy. ;-)
+I'm almost afraid to post to the NET for fear that my 931 is listening in
+for ideas on new failures. ;-)  Sounds like the Twilight Zone theme music
+should fade in here somewhere.
+Ken.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+

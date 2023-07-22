@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: What's up with this listserver ? </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="Ross Parker <rpark@dev.hcsd.hac.ca>">
+  <META NAME="MsgPropFrom" CONTENT="patrick@namesecure.com">
+  <META NAME="MsgPropSubject" CONTENT="Re: What's up with this listserver ?">
+  <META NAME="MsgPropDate" CONTENT="Tue, 22 Jul 1997 12:27:06 -0700 (PDT)">
+  <META NAME="MsgPropcc" CONTENT="Chris Cope <chrisc@flatland.dimensional.com>, 911@porschefans.com">
+  <META NAME="MsgPropReply-To" CONTENT="patrick@namesecure.com">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Ross Parker &lt;rpark@dev.hcsd.hac.ca&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">patrick@namesecure.com</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: What's up with this listserver ?</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 22 Jul 1997 12:27:06 -0700 (PDT)</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">Chris Cope &lt;chrisc@flatland.dimensional.com&gt;, 911@porschefans.com</td></tr>
+</table>
+<pre>
+On Tue, 22 Jul 1997, Ross Parker wrote:
+
+> > What's up with this thing ?  Is there anything that can be done to make it
+> > better ?
+> 
+> 
+> Hmmm - I'll put forward an explanation of what I *believe* is happening,
+> though of course I'm not there so can't tell for sure!
+> 
+> First, Internet email works on what's called a "store-and-forward" system.
+> I.e., mail being sent from one system to another first gets stored in
+> a spool area, then forwarded on to the next system. Mail will sometimes
+> have to get stored and forwarded by 6 or 7 different systems (or more) across
+> the net in order to reach your mailbox. Once the message has been successfully
+> forwarded down the line, it is removed from the spool area on the
+> forwarding system.
+
+10 or 15 years ago this was much more prevelant(UUCP), however this is
+definitely *not* the most common method of mail delivery today(SMTP.)
+Barring firewalls, or large companies that redirect mail internally, there
+is generally only one other machine(besides the originating machine) your
+mail may be stored on if the mail is unable to be delivered and that is
+the secondary mail-exchanger listed for your domain. It goes like
+this(again barring firewalls, secure sites, or really primitive setups):
+
+1) You send a message to someone@example.com:
+
+	a) A query is sent to the DNS server for example.com to find
+	   out who is the primary mail exchanger for that domain.
+	   An attempt to contact and send the mail directly to the
+	   primary mail exchanger is made. If sucessful the primary
+           exchanger processes for local delivery(or forwards it, or
+           whatever.)If this fails then we move to:
+
+	b) A query is sent to the DNS server for example.com to find
+	   out who(if at all) the secondary mail exchanger for that
+	   domain. An attempt to contact the secondary mail server
+	   and send the mail to it is made. If this is sucessful,
+	   the secondary server holds the mail in the queue, processing
+	   the queue at regular intervals, attempting to send the mail
+	   to the primary exchanger. If this fails, depending on the
+	   configuration of your system, you will generally get a
+	   "mail is undeliverable" message, and a "will try to resend,"
+	   and the mail is queued on *your* box for however long is
+           specified in the config files.
+	    
+> In the event of a failure in the "forward" part of that, the forwarding
+> system just hangs on to it and after some predetermined amount of time
+> (usually 1/2 hour or 1 hour) it will go through stored messages again and
+> try to reforward what it's got.
+
+There shouldn't be any "re-forwarding." Once a message is delivered to
+primary or secondary MX, it is deleted from the local queue(or at least it
+*should* be.) The possiblity for looping does exist when the primary
+thinks the secondary is the final destination, and the secondary thinks
+the primary is. It gets real ugly real fast...
+
+> The KEY thing is that upon failure of any kind, the receiving system should
+> NOT try to forward the message on to the next hop, but should instead just
+> remove it from it's spool area (the system upstream will send it again).
+
+This is incorrect. Unless there is a failure to deliver to both primary
+and secondary MX, there won't be any mail for the system upstream to send
+again. The upstream doesn't care if it got Primary or Secondary MX, as
+long as it got one of them...
+
+Sorry for the non-Porsche related post, but this mis-information really
+bugged me...
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+Patrick Greenwell				         (800) 299-1288
+			   Systems Administrator	 
+	                         Namesecure		     
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+
+
+
+.
+</pre>
+</BODY></HTML>

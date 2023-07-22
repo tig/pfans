@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  RE: 2.0L distributor (FI) (fwd)</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'Michael Nugent, Ph.D.' <M-D-Nugent@msn.com>">
+  <META NAME="MsgPropFrom" CONTENT="'Andrew Warren' <fastfwd@ix.netcom.com>">
+  <META NAME="MsgPropSubject" CONTENT="RE: 2.0L distributor (FI) (fwd)">
+  <META NAME="MsgPropDate" CONTENT="Wed, 23 Apr 1997 12:00:50 -0800">
+  <META NAME="MsgPropCC" CONTENT="914@porschefans.com">
+  <META NAME="MsgPropOrganization" CONTENT="Fast Forward Engineering">
+  <META NAME="MsgPropIn-reply-to" CONTENT="<UPMAIL06.199704220619280107@msn.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Michael Nugent, Ph.D. &lt;M-D-Nugent@msn.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Andrew Warren &lt;fastfwd@ix.netcom.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">RE: 2.0L distributor (FI) (fwd)</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Wed, 23 Apr 1997 12:00:50 -0800</td></tr>
+<tr><td class="HeaderItemLabel">CC:</td><td class="HeaderItemContent">914@porschefans.com</td></tr>
+</table>
+<pre>
+Michael Nugent, Ph.D. <M-D-Nugent@msn.com> wrote:
+
+> What are your thoughts regarding the way the Crane HI-6
+> accomplishes rev-limiting?
+
+and I replied:
+
+> I'm not too familiar with the method that Crane uses (although I
+> know the guy who wrote their software, so I guess I could ask
+> him)... If you give me some more information, I'll offer an opinion.
+
+Michael was kind enough to forward the following to me:
+
+> (From the installation instructions)
+> "The HI-6 rev limiter utilizes an automatic sequence selection
+> program that learns the optimum firing sequence for your engine,
+> based on your engine's response. . . .  When the engine reaches the
+> rev limit, . . . only 1 pulse is fired for every 7 trigger signals.
+> . . . If engine RPM continues to increase and exceeds 103% of the
+> set rev limit, the HI-6 will decrease the firing to 1 of 9.  The
+> HI-6 will continue to decrease firing sequence in odd steps (1 of
+> 11, 1 of 13, 1 of 15, etc.) until engine RPM drops back below 103%
+> of the rev limit.  Within a few revolutions, engine RPM will
+> stabilize between 100% and 103% of the set rev limit.  Whenever
+> engine RPM drops below 100% of the rev limit, the HI-6 will increase
+> the firing sequence stored in memory."
+
+    Mike:
+
+    I like it... It sounds as though Chris Schroeder (Crane Cams'
+    software guy) did a good job on that one.
+
+> In autocrossing, it sounds like the rev limiter can be used when
+> you hit redline a short space before a corner - not enough time for
+> an upshift - you could safely keep the accelerator floored until
+> you actually need to back off for the corner, right?
+
+    Yeah, more or less... The only problem is that even with this
+    "soft" limit, there are still some rather abrupt transitions
+    between the on- and off-limit states.  You'd have to try it and
+    see whether the car gets unbalanced as the engine comes on and
+    off the limiter.
+
+    One way to do an even SOFTER limit is to progressively retard
+    the timing as you approach the limit... That may make for a
+    smoother transition.
+
+> I most like the adjustable rev limit (two rotary switches that can
+> be set from 600 to 9900 RPM in 100 RPM increments without use of any
+> extra cost "pills" like MSD uses) which claims an accuracy of +/-30
+> RPM.
+
+    The method I use in my software is better (in my opinion)... You
+    rev the engine to exactly one-half of your desired rev limit,
+    then hit a button to set the rev-limit to twice the current
+    engine speed.  In the last ignition controller I did (which
+    actually had TWO rev-limits -- for drag racers) this was
+    accurate to +/- 1 RPM at 10,000 RPM.
+
+    -Andy
+
+=== Andrew Warren - fastfwd@ix.netcom.com
+=== Fast Forward Engineering, Vista, California
+=== http://www.geocities.com/SiliconValley/2499
+.
+</pre>
+</BODY></HTML>

@@ -1,0 +1,3273 @@
+From porschephiles-request Sun Feb  2 20:01:01 1992
+Received: by karazm.math.UH.EDU id AA05570
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 00:07:34 -0600
+Received: from SUNED.ZOO.CS.YALE.EDU (ZOO-GW.CS.YALE.EDU) by karazm.math.UH.EDU with SMTP id AA05565
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 00:07:33 -0600
+Received: by SUNED.ZOO.CS.YALE.EDU; Mon, 3 Feb 92 01:01:01 EST
+Date: Mon, 3 Feb 92 01:01:01 EST
+From: Doug Fields <fields-doug@CS.YALE.EDU>
+Message-Id: <9202030601.AA05461@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (minerva) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Mon Feb  3 01:03:08
+To: porschephiles@karazm.math.uh.edu
+Subject: Questions related to preparing car for track season
+
+
+Well, come March 20, I'll be heading up to Lime Rock for the first time this
+season. I figure last year I learned enough to get myself in trouble
+pretty bad, without the experience to get out. The solution is of course
+to get into trouble at autocrosses instead. :)
+
+No, but really, I'm going to put harnesses into my car this season.
+I have an '88 951S. My questions are of course:
+
+1) What kind of harness (beyond the 'H', 5-pt model) should I get? In
+terms of buckle, straps, etc.
+
+2) What kind of mounting should I get? Who should I get to install it?
+(I'm in the New Haven, CT area) It should be noted that I would like
+to retain the car as "stock" as possible. I've heard cons about using
+the factory bolt-in for the shoulder straps.
+
+3) How much is this going to run me? This is a year where money is a
+bit more scarce. Where would you recommend I buy the equipment.
+
+Okay; that's my safety plug for the year. Now is my tires question. I
+know this has been belted over and over. I have Bridgestone RE71's, but
+their street tires (and damn good ones) which I had the misfortune to
+wreck a set of last year at the track. I'd like good (and inexpensive)
+tires... And the place where I can get them inexpensively.
+
+Finally, I'd like to know where I can get DS-11 (or similar) pads for
+my car, inexpensively. I figure my current set has one or two more
+weekends at the track before needing replacement. Having paid $300 for
+'em last time I figure I got ripped.
+
+Well, PorschePeople, thanks for the time and I'd appreciate all the
+grossly in depth information you can supply.
+
+Thanks,
+
+Doug
+CVR member, Metro wannabe ;)
+
+
+From porschephiles-request Sun Feb  2 20:14:06 1992
+Received: by karazm.math.UH.EDU id AA06401
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 02:14:41 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA06397
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 02:14:40 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA13922
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 02:08:10 -0600
+Message-Id: <199202030808.AA13922@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA07910@casc.math.uh.edu>; Mon, 3 Feb 92 02:14:06 CST
+Date: Mon, 3 Feb 92 02:14:06 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Monthly Update
+
+
+February 1992
+Monthly Notices for the Porschephiles mailing list. 
+PLEASE READ THIS WHOLE MESSAGE!!
+
+As racing and autox season is upon us, expect heavy traffic on the list
+from people trying to get their cars ready. Don't feel inferior if you
+don't know what they talking about. However, conside this an official
+note of encouragement to contact your local PCA or SCCA chapter and get
+involved. You'll like it. Trust me.
+
+If you haven't joined PCA, please consider doing so. To join, call
+(703) 922-9300, roughly 9:00 to 5:00 EST. Have your Visa/MC number *AND*
+your VIN number handy, if you own a car. Dues are $36/year. They'll be
+happy to sign you up. There are other ways to join, but I figure you're
+all instant gratification type people so...
+
+This list is still being run as a mail reflector, which sends incoming
+mail to the whole list at once. The participants include people with a 
+variety of backgrounds, some technical, some race/autocross/performance 
+drivers, some owners, some just admirers.  
+
+To send a message to the whole list, mail to
+
+		porschephiles@karazm.math.uh.edu
+
+To send mail regarding distribution problems, or other administrative issues,
+send mail to
+
+		porschephiles-request@karazm.math.uh.edu
+
+
+The list is also available as a digest, where you get a compilataion of
+the day's messages once per day, rather than getting all of the individual
+messages. This seems to be a win for people with slow mail links or who
+are just too busy to stay current. If you want to convert to (or from)
+the digest, send mail to the porschephiles-request address above.
+
+PLEASE NOTE A FEW ITEMS:
+
+1) There are about 125 members of the list. It's small enough to be effective,
+   and large enough to have a number of diverse opinions and sets of
+   experience. Remember that before you decide to not ask a question, or
+   if you get flamed for asking an "obvious" question. Diversity -- it's
+   a *feature*....
+
+2) The list is maintained irregularly. If I'm in town or can reach the
+   host system from wherever I am and I have the time to deal with it,
+   I *try* to handle changes on a real-time basis. However, as a consultant
+   I travel extensively and from time to time, changes will be batched
+   on a weekly basis.
+
+3) Please try to send all administrative mail to the "porschephiles-request"
+   address, or to me directly. And, as some members have discovered,
+   you can also reach me by phone (sometimes).
+
+4) In the same vein, if you use a "pure" System V mail system, please pay
+   attention to your replies. The default will send the reply to 
+   the "porschephiles-request" address, as it is the UUCP "From "
+   address. Such messages are discarded.
+
+5) If your mailer starts screwing up *you will be dropped from the list*
+   Should you notice that you aren't getting the list any more, send me
+   mail and I'll figure out why not...
+
+Enjoy the list! If I can be of assistance, please don't hesitate to drop
+me a note.
+
+Regards From Your Moderator,
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0633
+
+'81 Euro 911SC Targa (daily driver), '74 914 (in prep to a SCCA GT-3 weapon)
+
+From porschephiles-request Sun Feb  2 20:20:46 1992
+Received: by karazm.math.UH.EDU id AA06419
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 02:21:21 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA06415
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 02:21:20 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA14106
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 02:14:50 -0600
+Message-Id: <199202030814.AA14106@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA07915@casc.math.uh.edu>; Mon, 3 Feb 92 02:20:46 CST
+Date: Mon, 3 Feb 92 02:20:46 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: request for info (about *you*, singly and severally)
+
+Geeze, I know I'm going to regret this, just before another trip and
+all, but hey...
+
+I've decided that I want to try one more time to compile a list of what
+everyone drives. So, if you could send me a one-liner, with your name,
+where you live (like "Houston, TX" or "Outer Snowshoe, NE" or whatever),
+and what you drive (like "'81 911SC" or "'74 Vega" or "nothing").
+And, if you have multiples, particularly multiple P-cars, list 'em all.
+
+I'll post the results. I may even do this every month like the autox
+guys do. Who knows where it could all lead....
+
+Stan
+
+P.S. BTW, this came about as I was trying to help someone figure out who
+else drove what they did, figuring that it could be easier to extract
+info from a few people than the whole list, particularly as this wasn't
+very interesting. So this isn't just idle curiosity, it could be useful
+next time you need to know where to get a 3rd undersize main bearing
+for a Carrera GS or something...
+
+From porschephiles-request Mon Feb  3 03:30:48 1992
+Received: by karazm.math.UH.EDU id AA07055
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 08:01:25 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA07051
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 08:01:22 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA13944; Mon, 3 Feb 92 08:55:54 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA23682; Mon, 3 Feb 92 08:30:49 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA02764; Mon, 3 Feb 92 08:30:48 EST
+Date: Mon, 3 Feb 92 08:30:48 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9202031330.AA02764@acad.YP.noname>
+To: kcgross@mcimail.com
+Subject: Re:NAAS
+Cc: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu
+
+
+
+Kevin Gross Writes:
+-------------------
+>Soapbox alert...
+
+Donald Day Writes:
+------------------
+>>Also if we are talking about Flagships I'll think you'll have to
+>>agree that Porsches' Flagship is the 911 Turbo, better known as
+>>the 930 (I think you know where I am heading).
+
+>Uh, well, I guess I would define "flagship" a bit differently.  Many
+>people were more than a little disappointed when Porsche shoved an
+>"old" 3.3 litre CIS engine into the "new" Carrera body+suspension, and
+>asked 100 big ones for the privilege.  
+
+The old 3.3 L was used because Porsche thought that a Turboed
+version of the 3.6 would have too much torque and destory itself.
+
+>I guess given all the press its
+>getting, and its raw sexiness, perhaps it could be labelled
+>"flagship."  I had more the four-valvers in mind: 3.6 Carreras, 944S,
+>S2, 928S4 and GT, and 968, all Motronics, the latter three with
+>hotwire air sensors, the last with its vario-cam.
+
+And the 944 Motronic system (Yours included) is known to leave carbon 
+deposits on the intake valves.  Of course Porsche casually suggests
+removing the heads and blasting the valves with Walnut shells.
+Ref:Pano or Excellence Technical articles.
+
+>  Which brings up the whole point of Bosches' scam:
+> blah, blah
+
+
+>Well, since you mention IBM (commodity marketing), I might well
+>counter with Apple's Mac (intellectual property).  Sun flipped from
+>one approach to the other in the last couple of years.  It is also
+>the case that, whereas the average mechanic can and will replace
+>waterpumps, there's no way he has the training to do component-level
+>testing and replacement in DME's.  Nor would it be cost-effective.
+>Computer manufacturers do the same thing.  If we have a bad PC in the
+>office, we see the motherboard (or whatnot) replaced in toto.
+
+Kevin, I looked up the price for a remanufactured Corvette 
+ECU and it's 110.00 list (You Figure).
+
+(BTW I really enjoyed Chris's post from C&D)
+
+
+Donald Day Writes:
+-----------------
+>>BTW Kevin, I believe it was you that was vehemently opposed to
+>>stainless steel brake lines, do you still hold that opinion?
+
+Kevin Writes:
+-------------
+>Yes.  Still waiting to be convinced otherwise, always an open mind.
+
+Well Kevin Here Goes
+
+Disclaimer: The remaining text is only for those wishing a higher
+understanding of braking systems, the original thread is from a
+few months ago.  If your still interested please read on as I
+believe the original thread contained much misinformation IMHO.
+_______________________________________________________________
+
+The first 2 Excerpts are from Panorama (The Porsche Club of Americas'
+monthly rag, The respondent is Bruce Anderson highly regarded
+"certified Porsche person").  The last excerpt is from "Prepare to
+Win" written by Carroll Smith "certified racing person")
+
+-------- Excerpt From Panorama 12/83 ----------------------- 
+914 OWNER: Braided steel brake lines: I recently installed braided steel
+brake lines on a 914 I have owned for several years and I feel that
+the brake pedal is more spongy now than it was befor I made the
+change.  I have bled the brake several times and the pedal still feels
+spongy.  What is my problem?  
+
+Bruce Anderson Replies: 
+I also have experienced similar problems and have done some
+investigation to termine the cause.  I feel that the spongy brake
+pedal is cause by the fact that sometimes we are not getting the
+proper braided steel teflon brake lines for the job.  The diameter of
+the braided steel teflon hose is too larg and the braid is not a tight
+enough weave.  I have compared some of these aftermarket braided steel
+brake lines with those that we get from Porsche factory for the
+Porsche 935 race cars and find them to be much different.  The factory
+lines are a very small diameter wiht a high quality tightly woven
+outer housing.  You can get the parts to assemble similar high quality
+lines but the preassembled samples I have examined do not seem to be
+up to the job
+
+	The teflon braided steel hoses that these brake lines are made
+from come in dash sizes.  Most of the manufacturers of these
+replacement brake lines use a dash for size hose, when dash three
+would be a better [four] [when I was at Averill racing supply asking
+about hoses he told me that -4 is too big and that -3 was the ticket.
+-4, he said, would be too spongey]
+
+solution.  The dash four hos has too much surface area and allows the
+hose to flex as much and possibly more than the stock lines.  The
+reason for this is that this large diameter hose presents too much
+surface area to the hydraulic pressure which cause the lines to flex
+resulting in a spongy brake pedal.
+
+	Another problem that I have experienced with some of the
+preassemgbled brake lines is inconsistent lengths which can cause
+broken brake lines if they err to the short side.  Also with age, old
+lines will take a set and get stiff and the working of the suspension
+can loosen the fittings causing leakage.  Some manufacturers of these
+braided steel brake lines go on to recommend that the brak lines be
+installled only by professionals who can be sure that they are
+installed properly.
+
+---- Bruce Anderson followes up from Pano 10/84
+
+Braided steel brake lines revisited: In the December 1983 issue I
+discussed the problems that I have seen with aftermarket braided steel
+brake lines and my thoughts on the probable causes.  One of the major
+suppliers of braided steel brake lines has contacted me to let me know
+the latest on commercially available braided steel brake lines and
+some of the history behind some of the problems we as users have
+experienced.  First, the -3 size hose is now available which satisfies
+my main objection to the previsouly available -4 braided steel brake
+lines.  There have been some additional problems whith some of the
+braided lines on the market.  About a year ago some inferior thin-wall
+teflon hose got onto the market.  The problem was caught but not until
+some of the thin-wall hose was sold and used.  This thin-wall hose
+also aggravated the soft pedal problem I mentioned in my December
+column.  An additional problem has been caused by some discounters
+selling a commercial grade, tin-plated steel line which is also of
+inferior quality.
+	The supplier also provided some background on the "recommended for
+competition only" tag that appears on most of these aftermarket
+braided steel brake lines.  In 1966-67 the U.S. government was
+considering legislation to define requirements for brake line
+manufacturers.  Rather than worry about the legislation the
+manufacturers chose to put these tags on their brake lines indicating
+that the brake lines are not recommended for street use.  It turned
+out that there never was any legislation governing the manufacture of
+passenger car brake lines.  One of the leading manufacturers says that
+they have had prototype hoses tested to the DOT recommendations and
+their hoses exceeded the recommendations in all categories.  They do
+go on to warn users that they should not install the hose kits
+themselves.  They recommend having a professional mechanic install
+them and having the mechanic check to be sure that there can be no
+combination of wheel travel that can cause stretching or crimping of
+the hoses.
+	In conclusion, let me say that there is nothing wrong with braided
+steel brake lines.  All of the successful race cars in the world use
+them.  However, if you get inferior braided steel brake lines or they
+are improperly installed you may have created a worse problem for
+yourself than the one you thought you were solving.  One of the car
+world's most frightening experiences is having the brakes fail, right
+up there next to having the throttle jam wide open.
+
+
+------------Excerpt From PREPARE TO WIN by Carrol Smith------------------
+						   HYDRAULIC SYSTEMS
+
+	I have yet to see a new race car delivered with brake and clutch
+plumbing that is unsafe.  A noticeable functional improvement can and
+should be made by substituting Aeroquip 66000 series Teflon and
+stainless steel flexible pressure lines for the often supplied fabric
+and neoprene units. This eliminates line swelling under pressure,
+resulting in a firmer brake pedal, which in turn improves the
+drivers's feel and hence his control of the vehicle under braking.
+
+-----------------------------End of Excerpt------------------------------
+
+Well that's it, I know everyone can draw their own conclusions,
+but in one of Kevins original posts he stated something to the effect that
+<If your rubber line swells then it needs replacement>.
+
+Obviously you don't want to get stuck with inferior lines but C. Smith
+makes it very clear to use the Aeroquip lines PERIOD!
+
+(BTW Kevin I hope the references are good enough)
+
+Later don@cimage.com
+
+
+
+
+
+
+
+
+
+
+
+Donald Day (86 Vette ASP, 80 928 BS, 84 Mustang-GT ESP)
+
+From porschephiles-request Mon Feb  3 03:41:24 1992
+Received: by karazm.math.UH.EDU id AA07061
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 08:01:34 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA07057
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 08:01:30 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA13948; Mon, 3 Feb 92 08:56:03 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA23872; Mon, 3 Feb 92 08:41:25 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA02842; Mon, 3 Feb 92 08:41:24 EST
+Date: Mon, 3 Feb 92 08:41:24 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9202031341.AA02842@acad.YP.noname>
+To: kcgross@mcimail.com
+Subject: Re:NAAS
+Cc: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu
+
+
+Kevin Gross Writes:
+-------------------
+>Soapbox alert...
+
+Donald Day Writes:
+------------------
+>>Also if we are talking about Flagships I'll think you'll have to
+>>agree that Porsches' Flagship is the 911 Turbo, better known as
+>>the 930 (I think you know where I am heading).
+
+>Uh, well, I guess I would define "flagship" a bit differently.  Many
+>people were more than a little disappointed when Porsche shoved an
+>"old" 3.3 litre CIS engine into the "new" Carrera body+suspension, and
+>asked 100 big ones for the privilege.  
+
+The old 3.3 L was used because Porsche thought that a Turboed
+version of the 3.6 would have too much torque and destory itself.
+
+>I guess given all the press its
+>getting, and its raw sexiness, perhaps it could be labelled
+>"flagship."  I had more the four-valvers in mind: 3.6 Carreras, 944S,
+>S2, 928S4 and GT, and 968, all Motronics, the latter three with
+>hotwire air sensors, the last with its vario-cam.
+
+And the 944 Motronic system (Yours included) is known to leave carbon 
+deposits on the intake valves.  Of course Porsche casually suggests
+removing the heads and blasting the valves with Walnut shells.
+Ref:Pano or Excellence Technical articles.
+
+>  Which brings up the whole point of Bosches' scam:
+> blah, blah
+
+
+>Well, since you mention IBM (commodity marketing), I might well
+>counter with Apple's Mac (intellectual property).  Sun flipped from
+>one approach to the other in the last couple of years.  It is also
+>the case that, whereas the average mechanic can and will replace
+>waterpumps, there's no way he has the training to do component-level
+>testing and replacement in DME's.  Nor would it be cost-effective.
+>Computer manufacturers do the same thing.  If we have a bad PC in the
+>office, we see the motherboard (or whatnot) replaced in toto.
+
+Kevin, I looked up the price for a remanufactured Corvette 
+ECU and it's 110.00 list (You Figure).
+
+(BTW I really enjoyed Chris's post from C&D)
+
+
+Donald Day Writes:
+-----------------
+>>BTW Kevin, I believe it was you that was vehemently opposed to
+>>stainless steel brake lines, do you still hold that opinion?
+
+Kevin Writes:
+-------------
+>Yes.  Still waiting to be convinced otherwise, always an open mind.
+
+Well Kevin Here Goes
+
+Disclaimer: The remaining text is only for those wishing a higher
+understanding of braking systems, the original thread is from a
+few months ago.  If your still interested please read on as I
+believe the original thread contained much misinformation IMHO.
+_______________________________________________________________
+
+The first 2 Excerpts are from Panorama (The Porsche Club of Americas'
+monthly rag, The respondent is Bruce Anderson highly regarded
+"certified Porsche person").  The last excerpt is from "Prepare to
+Win" written by Carroll Smith "certified racing person")
+
+-------- Excerpt From Panorama 12/83 ----------------------- 
+914 OWNER: Braided steel brake lines: I recently installed braided steel
+brake lines on a 914 I have owned for several years and I feel that
+the brake pedal is more spongy now than it was befor I made the
+change.  I have bled the brake several times and the pedal still feels
+spongy.  What is my problem?  
+
+Bruce Anderson Replies: 
+I also have experienced similar problems and have done some
+investigation to termine the cause.  I feel that the spongy brake
+pedal is cause by the fact that sometimes we are not getting the
+proper braided steel teflon brake lines for the job.  The diameter of
+the braided steel teflon hose is too larg and the braid is not a tight
+enough weave.  I have compared some of these aftermarket braided steel
+brake lines with those that we get from Porsche factory for the
+Porsche 935 race cars and find them to be much different.  The factory
+lines are a very small diameter wiht a high quality tightly woven
+outer housing.  You can get the parts to assemble similar high quality
+lines but the preassembled samples I have examined do not seem to be
+up to the job
+
+	The teflon braided steel hoses that these brake lines are made
+from come in dash sizes.  Most of the manufacturers of these
+replacement brake lines use a dash for size hose, when dash three
+would be a better [four] [when I was at Averill racing supply asking
+about hoses he told me that -4 is too big and that -3 was the ticket.
+-4, he said, would be too spongey]
+
+solution.  The dash four hos has too much surface area and allows the
+hose to flex as much and possibly more than the stock lines.  The
+reason for this is that this large diameter hose presents too much
+surface area to the hydraulic pressure which cause the lines to flex
+resulting in a spongy brake pedal.
+
+	Another problem that I have experienced with some of the
+preassemgbled brake lines is inconsistent lengths which can cause
+broken brake lines if they err to the short side.  Also with age, old
+lines will take a set and get stiff and the working of the suspension
+can loosen the fittings causing leakage.  Some manufacturers of these
+braided steel brake lines go on to recommend that the brak lines be
+installled only by professionals who can be sure that they are
+installed properly.
+
+---- Bruce Anderson followes up from Pano 10/84
+
+Braided steel brake lines revisited: In the December 1983 issue I
+discussed the problems that I have seen with aftermarket braided steel
+brake lines and my thoughts on the probable causes.  One of the major
+suppliers of braided steel brake lines has contacted me to let me know
+the latest on commercially available braided steel brake lines and
+some of the history behind some of the problems we as users have
+experienced.  First, the -3 size hose is now available which satisfies
+my main objection to the previsouly available -4 braided steel brake
+lines.  There have been some additional problems whith some of the
+braided lines on the market.  About a year ago some inferior thin-wall
+teflon hose got onto the market.  The problem was caught but not until
+some of the thin-wall hose was sold and used.  This thin-wall hose
+also aggravated the soft pedal problem I mentioned in my December
+column.  An additional problem has been caused by some discounters
+selling a commercial grade, tin-plated steel line which is also of
+inferior quality.
+	The supplier also provided some background on the "recommended for
+competition only" tag that appears on most of these aftermarket
+braided steel brake lines.  In 1966-67 the U.S. government was
+considering legislation to define requirements for brake line
+manufacturers.  Rather than worry about the legislation the
+manufacturers chose to put these tags on their brake lines indicating
+that the brake lines are not recommended for street use.  It turned
+out that there never was any legislation governing the manufacture of
+passenger car brake lines.  One of the leading manufacturers says that
+they have had prototype hoses tested to the DOT recommendations and
+their hoses exceeded the recommendations in all categories.  They do
+go on to warn users that they should not install the hose kits
+themselves.  They recommend having a professional mechanic install
+them and having the mechanic check to be sure that there can be no
+combination of wheel travel that can cause stretching or crimping of
+the hoses.
+	In conclusion, let me say that there is nothing wrong with braided
+steel brake lines.  All of the successful race cars in the world use
+them.  However, if you get inferior braided steel brake lines or they
+are improperly installed you may have created a worse problem for
+yourself than the one you thought you were solving.  One of the car
+world's most frightening experiences is having the brakes fail, right
+up there next to having the throttle jam wide open.
+
+
+------------Excerpt From PREPARE TO WIN by Carrol Smith------------------
+						   HYDRAULIC SYSTEMS
+
+	I have yet to see a new race car delivered with brake and clutch
+plumbing that is unsafe.  A noticeable functional improvement can and
+should be made by substituting Aeroquip 66000 series Teflon and
+stainless steel flexible pressure lines for the often supplied fabric
+and neoprene units. This eliminates line swelling under pressure,
+resulting in a firmer brake pedal, which in turn improves the
+drivers's feel and hence his control of the vehicle under braking.
+
+-----------------------------End of Excerpt------------------------------
+
+Well that's it, I know everyone can draw their own conclusions,
+but in one of Kevins original posts he stated something to the effect that
+<If your rubber line swells then it needs replacement>.
+
+Obviously you don't want to get stuck with inferior lines but C. Smith
+makes it very clear to use the Aeroquip lines PERIOD!
+
+(BTW Kevin I hope the references are good enough)
+
+Later don@cimage.com
+
+
+
+
+
+
+
+
+
+
+
+Donald Day (86 Vette ASP, 80 928 BS, 84 Mustang-GT ESP)
+
+From porschephiles-request Mon Feb  3 06:00:09 1992
+Received: by karazm.math.UH.EDU id AA07561
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 10:19:46 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA07550
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 10:19:41 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA18881; Mon, 3 Feb 92 11:08:13 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA27004; Mon, 3 Feb 92 11:00:10 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA03166; Mon, 3 Feb 92 11:00:09 EST
+Date: Mon, 3 Feb 92 11:00:09 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9202031600.AA03166@acad.YP.noname>
+To: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu, school@cma.com,
+        dgsi!vettes@sharkey.cc.umich.edu, wheeltowheel@abingdon.Eng.Sun.COM
+Subject: Mid-Ohio 92
+
+
+
+
+Hello fellow racers/autoxers/vettiers/porschephiles and schoolers,
+(Next breath)
+
+The following is the Mid-Ohio schedule for 1992.
+
+If more info is needed Mid-Ohio's address & Phone #
+
+Mailing Address:
+	PO Box 3108
+	Lexington, OH 44904
+	419-884-2295
+	
+Track Address:
+	Steam Corners Rd.
+	Lexington, OH 44904
+
+I also have infor for Mid-Ohio concerning
+Motels, blah, blah from Carroll Smithes: Racer's Travel Guide.
+
+Enjoy!
+
+
+April	
+-------------------------------------------------
+	11-12	Allegheny Porsche Club
+			Ed Boozel 412 - 645 - 7862
+
+	18-19 	Ohio Valley Porsche Club
+			Jerry Wolf 513 -777 - 7911
+	
+	25-26  	Bobby Rahal Track Time
+			Jack Layne 216 - 793 - 1159
+			(Didya really think it would be Bobby?)
+
+May
+---------------------------------------------------
+	1-3		Dart Kart
+			Doug Baldi 216 - 779 - 6945
+
+	8-10	BMW Club
+			See Note (1)
+
+	16-17	Northern Ohio Porsche Club
+			Sam Hunter 216 - 237 - 2377
+
+	23-24	Mid-Ohio Porsche Club
+			John Mason 614 - 621 - 3673
+		
+	29-31	IMSA - Nissan Grand Prix of Ohio
+			(If your more than a spectator, you
+			 already know who to call)
+
+June
+----------------------------------------------------
+	5-7		Skip Barber
+			(No Phone # given)
+
+	13-14	O.V.R. - SCCA Regional
+
+	19-21	Dart Kart
+			See above
+
+	26-28	SVRA - United Telephone Vintage Grand Prix
+	
+July
+------------------------------------------------------
+	4-5		O.V.R. / Cincinnati - SCCA National
+
+	10-12	Northern New Jersey Porsche Club
+			Ken Geiger 201 - 337 - 3883
+
+	18-19	Ft. Wayne - SCCA Regional
+
+	25-26	Neohio - SCCA National
+
+Aug
+-----------------------------------------------------
+	1-2	 	AMA - Camel Super Cycle Weekend
+
+	8-9		Bobby Rahal Track Time
+			(See Above)
+
+	15-16	Tiretown Corvette Club
+			Deb Murphy	216 - 384 - 7124
+
+	22-23	O.V.R. - SCCA Regional
+
+	28-30	Historic Sports Car Racing
+
+September
+--------------------------------------------------------------- 
+	4-6		Skip Barber
+
+	11-13	CART - Pioneer Electronics 200 (Who has the loudest Stereo?)
+
+	19-20 	BMW Club
+			See Note (1) 
+
+	25-27	Potomac Porsche Club
+			Paul Weston 215 - 973 - 2600
+
+October
+------------------------------------------------------- 	
+	3-4		W.O.R. - SCCA Regional
+
+	9-11	Dart Kart
+			See Above
+
+	17-18	Maumee Porsche Club
+			Pat Kjoller 313 856 - 2245
+
+	24-25	Allegheny Porsche Club
+			Ed Boozel	412 - 645 - 7862
+
+--------------------------------------------------------
+Oct 31 - Nov 1 	BMW Club
+			See Note(1)
+
+
+NOTE 1:
+	The Schedule did not indicate which BMW club
+	would be using the track for any of the given
+	listing, there is however (2) #s to contact
+	relating to the BMW clubs:
+	1.) Buckeye BMW Jeff Lutes 513 - 252 - 9658
+	2.) Northern Ohio BMW	Mike Becker 216 - 343 - 3046
+
+
+Later don@cimage.com
+
+	
+
+
+
+
+
+
+Donald Day (86 Vette ASP, 80 928 BS, 84 Mustang-GT ESP)
+
+From porschephiles-request Mon Feb  3 06:47:11 1992
+Received: by karazm.math.UH.EDU id AA08227
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 10:54:13 -0600
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA08223
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 10:54:11 -0600
+Received: from snail.Sun.COM (snail.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA29140; Mon, 3 Feb 92 08:47:28 PST
+Received: from Canada.Sun.COM (suncan) by snail.Sun.COM (4.1/SMI-4.1)
+	id AA26088; Mon, 3 Feb 92 08:47:20 PST
+Received: from sunoffice.Canada.Sun.Com by Canada.Sun.COM (4.1/SMI-4.1)
+	id AA20576; Mon, 3 Feb 92 11:47:12 EST
+Received: from seahag.Canada.Sun.Com by sunoffice.Canada.Sun.Com (4.1/SMI-4.1)
+	id AA04499; Mon, 3 Feb 92 11:47:11 EST
+Date: Mon, 3 Feb 92 11:47:11 EST
+From: Jaime.Dalisay@Canada.Sun.COM (Jaime Dalisay  -  Systems Administrator Sun Toronto)
+Message-Id: <9202031647.AA04499@sunoffice.Canada.Sun.Com>
+To: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu
+Subject: Re: Please take me off this alias.
+Cc: Jaime.Dalisay@Canada.Sun.COM, randy@sunoffice.Canada.Sun.COM,
+        dgsi!vettes@sharkey.cc.umich.edu
+
+
+Sorry for posting this to everyone, but I have no idea where to send alias
+requests for this group.
+
+	Could the Admin please remove Randy.Finbow@Canada.Sun.COM
+	from this list.
+
+Thanks,
+
+
+      /\ 	
+     \\ \	Jaime M. Dalisay
+    \ \\ /  	Systems Administrator
+   / \/ / /	Sun Microsystems of Canada Inc. 
+  / /   \//\	100 Renfrew Drive
+  \//\   / /	Markham, Ontario
+   / / /\ /	Canada   L3R 9R6
+    / \\ \	Voice (416) 477-6745   FAX (416) 477-9423
+     \ \\ 	
+      \/        Email:	Internet - Jaime.Dalisay@Canada.Sun.Com
+			    UUCP - ...!sun!suncan!jaime
+		   
+
+
+----- Begin Included Message -----
+
+From randy@suncan Mon Feb  3 11:32:59 1992
+To: jaime@suncan
+Subject: Please take me off this alias.
+
+
+----- Begin Included Message -----
+
+>From dgsi!acad!don@sharkey.cc.umich.edu Mon Feb  3 11:10:41 1992
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+To: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu,
+        school%cma.com@uu.psi.com, dgsi!vettes@sharkey.cc.umich.edu,
+        abingdon!wheeltowheel
+Subject: Mid-Ohio 92
+
+
+
+
+Hello fellow racers/autoxers/vettiers/porschephiles and schoolers,
+(Next breath)
+
+The following is the Mid-Ohio schedule for 1992.
+
+If more info is needed Mid-Ohio's address & Phone #
+
+Mailing Address:
+	PO Box 3108
+	Lexington, OH 44904
+	419-884-2295
+	
+Track Address:
+	Steam Corners Rd.
+	Lexington, OH 44904
+
+I also have infor for Mid-Ohio concerning
+Motels, blah, blah from Carroll Smithes: Racer's Travel Guide.
+
+Enjoy!
+
+
+April	
+-------------------------------------------------
+	11-12	Allegheny Porsche Club
+			Ed Boozel 412 - 645 - 7862
+
+	18-19 	Ohio Valley Porsche Club
+			Jerry Wolf 513 -777 - 7911
+	
+	25-26  	Bobby Rahal Track Time
+			Jack Layne 216 - 793 - 1159
+			(Didya really think it would be Bobby?)
+
+May
+---------------------------------------------------
+	1-3		Dart Kart
+			Doug Baldi 216 - 779 - 6945
+
+	8-10	BMW Club
+			See Note (1)
+
+	16-17	Northern Ohio Porsche Club
+			Sam Hunter 216 - 237 - 2377
+
+	23-24	Mid-Ohio Porsche Club
+			John Mason 614 - 621 - 3673
+		
+	29-31	IMSA - Nissan Grand Prix of Ohio
+			(If your more than a spectator, you
+			 already know who to call)
+
+June
+----------------------------------------------------
+	5-7		Skip Barber
+			(No Phone # given)
+
+	13-14	O.V.R. - SCCA Regional
+
+	19-21	Dart Kart
+			See above
+
+	26-28	SVRA - United Telephone Vintage Grand Prix
+	
+July
+------------------------------------------------------
+	4-5		O.V.R. / Cincinnati - SCCA National
+
+	10-12	Northern New Jersey Porsche Club
+			Ken Geiger 201 - 337 - 3883
+
+	18-19	Ft. Wayne - SCCA Regional
+
+	25-26	Neohio - SCCA National
+
+Aug
+-----------------------------------------------------
+	1-2	 	AMA - Camel Super Cycle Weekend
+
+	8-9		Bobby Rahal Track Time
+			(See Above)
+
+	15-16	Tiretown Corvette Club
+			Deb Murphy	216 - 384 - 7124
+
+	22-23	O.V.R. - SCCA Regional
+
+	28-30	Historic Sports Car Racing
+
+September
+--------------------------------------------------------------- 
+	4-6		Skip Barber
+
+	11-13	CART - Pioneer Electronics 200 (Who has the loudest Stereo?)
+
+	19-20 	BMW Club
+			See Note (1) 
+
+	25-27	Potomac Porsche Club
+			Paul Weston 215 - 973 - 2600
+
+October
+------------------------------------------------------- 	
+	3-4		W.O.R. - SCCA Regional
+
+	9-11	Dart Kart
+			See Above
+
+	17-18	Maumee Porsche Club
+			Pat Kjoller 313 856 - 2245
+
+	24-25	Allegheny Porsche Club
+			Ed Boozel	412 - 645 - 7862
+
+--------------------------------------------------------
+Oct 31 - Nov 1 	BMW Club
+			See Note(1)
+
+
+NOTE 1:
+	The Schedule did not indicate which BMW club
+	would be using the track for any of the given
+	listing, there is however (2) #s to contact
+	relating to the BMW clubs:
+	1.) Buckeye BMW Jeff Lutes 513 - 252 - 9658
+	2.) Northern Ohio BMW	Mike Becker 216 - 343 - 3046
+
+
+Later don@cimage.com
+
+	
+
+
+
+
+
+
+Donald Day (86 Vette ASP, 80 928 BS, 84 Mustang-GT ESP)
+
+
+----- End Included Message -----
+
+
+
+----- End Included Message -----
+
+
+From porschephiles-request Mon Feb  3 01:43:38 1992
+Received: by karazm.math.UH.EDU id AA09404
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 11:50:11 -0600
+Received: from mx.nsi.nasa.gov by karazm.math.UH.EDU with SMTP id AA09400
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 11:50:09 -0600
+Received: Mon, 3 Feb 92 09:43:32 PST from XEN.dnet by mx.nsi.nasa.gov (4.1/1.2)
+Message-Id: <9202031743.AA28107@mx.nsi.nasa.gov>
+Received: from XEN.dnet by AMES.dnet with MAIL-11
+          (utk-mail11d v1.7); Mon, 3 Feb 92 09:43:38 PST
+Date: Mon, 3 Feb 92 09:43:38 PST
+From: LAFORCE@xenon.arc.nasa.gov
+X-To: @PORSCHEPHILES.ADR
+Subject: SS brake lines
+To: porschephiles@karazm.math.uh.edu
+
+Just my 2 cents about braided steel brake lines.
+
+I bought a set from imparts ($46) about 8 months ago.  After I installed the
+lines (and flushed and bled the brake system with the nifty little vacuum
+thingy) the car had the hardest brake pedal I've ever felt.
+
+About a week later, I drove an autocross where they checked the pedal feel
+during tech.  The inspecter mentioned that my car had the first hard pedal
+he'd seen that day.
+
+Unfortunately, I don't know if the lines are aeroequip (?) or not, or 
+whether they are -3 or -4.
+
+I don't think I'll ever go back to rubber lines tho'...
+
+
+--Soren            laforce@xenon.arc.nasa.gov
+
+From porschephiles-request Mon Feb  3 01:46:53 1992
+Received: by karazm.math.UH.EDU id AA09457
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 11:53:28 -0600
+Received: from mx.nsi.nasa.gov by karazm.math.UH.EDU with SMTP id AA09447
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 11:53:23 -0600
+Received: Mon, 3 Feb 92 09:46:35 PST from XEN.dnet by mx.nsi.nasa.gov (4.1/1.2)
+Message-Id: <9202031746.AA28204@mx.nsi.nasa.gov>
+Received: from XEN.dnet by AMES.dnet with MAIL-11
+          (utk-mail11d v1.7); Mon, 3 Feb 92 09:46:53 PST
+Date: Mon, 3 Feb 92 09:46:53 PST
+From: LAFORCE@xenon.arc.nasa.gov
+X-To: @PORSCHEPHILES.ADR
+Subject: car info (-req address bounced)
+To: porschephiles@karazm.math.uh.edu
+
+Stan,
+
+Soren LaForce
+Mountain View, CA.
+
+1980 911sc coupe 
+      Mostly stock with:
+      SS brake lines
+      Weltmeister front shock tower brace
+      16x6&7 street wheels
+      15x7&8 auto-x wheels
+      Factory anti-sway bars front and rear
+      Billstein struts and shocks
+      Soon to have updated tensioners
+
+I've included the details to help facilitate your information search and 
+referals.
+
+
+--Soren            laforce@xenon.arc.nasa.gov
+
+From porschephiles-request Mon Feb  3 05:49:38 1992
+Received: by karazm.math.UH.EDU id AA09483
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 11:56:08 -0600
+Received: from futserv.austin.ibm.com by karazm.math.UH.EDU with SMTP id AA09479
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 11:56:07 -0600
+Received: by futserv.austin.ibm.com (AIX 3.1/UCB 5.61/4.03)
+          id AA24059; Mon, 3 Feb 92 11:49:38 -0600
+Date: Mon, 3 Feb 92 11:49:38 -0600
+From: grohoski@futserv.austin.ibm.com (Greg grohoski)
+Message-Id: <9202031749.AA24059@futserv.austin.ibm.com>
+To: porschephiles@karazm.math.uh.edu, stan@casc.math.uh.edu
+Subject: Re:  request for info (about *you*, singly and severally)
+
+Greg Grohoski, Austin, TX,  88 944 turbo 
+
+From porschephiles-request Mon Feb  3 08:11:22 1992
+Received: by karazm.math.UH.EDU id AA09634
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 12:18:42 -0600
+Received: from nyquist.bellcore.com by karazm.math.UH.EDU with SMTP id AA09630
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 12:18:40 -0600
+Return-Path: <alfred@nyquist.bellcore.com>
+Received: by nyquist.bellcore.com (5.57/Ultrix3.1B)
+	id AA06531; Mon, 3 Feb 92 13:11:22 EST
+Date: Mon, 3 Feb 92 13:11:22 EST
+From: alfred@nyquist.bellcore.com (Alfred Kwan 21342)
+Message-Id: <9202031811.AA06531@nyquist.bellcore.com>
+To: LAFORCE@xenon.arc.nasa.gov, porschephiles@karazm.math.uh.edu
+Subject: Re:  car info (-req address bounced)
+Cc: alfred@nyquist.bellcore.com
+
+Stan:
+
+Alfred Kwan
+Old Bridge, NJ
+
+1970 914/6
+      Mostly stock-
+      rebuilt 2.2 engine, E spec
+      updated tensioners
+      911S front brake/vented rear brake
+      updated side shifter(73 and later)
+      chassis kit in the rear
+      added factory sway bars front and rear(73 and later)
+      Bilstein front and rear
+      5 1/2 X 15 Mahle wheels
+
+Alfred
+
+PS - plagiarized the format from Soren
+
+From porschephiles-request Mon Feb  3 09:33:00 1992
+Received: by karazm.math.UH.EDU id AA10598
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 13:46:24 -0600
+Received: from tbird.cc.bellcore.com by karazm.math.UH.EDU with SMTP id AA10594
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 13:46:21 -0600
+Received: by tbird.cc.bellcore.com id AA01850
+  (5.65c/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Mon, 3 Feb 1992 14:38:10 -0500
+Message-Id: <199202031938.AA01850@tbird.cc.bellcore.com>
+From: sundt@athens.cc.bellcore.com (Mark R. Sundt +1 908 758 3134)
+To: autox@tbird.cc.bellcore.com, porsche@tbird.cc.bellcore.com
+Date:  3 Feb 1992  14:33 EST
+Subject: EFI Diagnostic equipment
+
+I am looking to buy some diagnostic equipment to tune and
+troubleshoot my Electronic Fuel Injection system (Bosch Motronic
+in particular). Anyone out there have experience with this???
+
+I'd like to be able to check out oxygen sensors and do some
+open loop fuel mixture adjustments. Some articles I've read
+say that a scope is needed to look at an oxygen sensor.
+Apparently the voltages at an oxygen sensor should display
+sharp peaks and valleys. When it has started to decay it will
+still make corrections but not as "assertively" (for lack of
+a better word). Has anyone used a scope for this or a DMM???
+
+Also has anyone adjusted the open loop fuel mixture (with the oxygen
+sensor disabled)??? Is it possible to use a DMM on the disconnected
+oxygen sensor to check the mixture instead of buying an exhaust gas
+analyzer?
+
+What about these ~$400 Fluke 80 series DMM's? Are they worth the
+money for this type of work? Will I still need a scope? Is anyone
+still listening to these questions... ?
+
+
+Thanks in advance.
+
+Mark Sundt
+sundt@athens.cc.bellcore.com
+(908) 758-3134 days
+
+From porschephiles-request Mon Feb  3 09:50:18 1992
+Received: by karazm.math.UH.EDU id AA10969
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 14:20:40 -0600
+Received: from sharkey.cc.umich.edu by karazm.math.UH.EDU with SMTP id AA10965
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 14:20:37 -0600
+Received: by sharkey.cc.umich.edu (5.65/1123-1.0)
+	id AA27724; Mon, 3 Feb 92 15:13:25 -0500
+Received: from acad.YP.noname by cimage.com (4.1/SMI-4.1)
+	id AA02916; Mon, 3 Feb 92 14:50:19 EST
+Received: by acad.YP.noname (4.1/SMI-4.1)
+	id AA03694; Mon, 3 Feb 92 14:50:18 EST
+Date: Mon, 3 Feb 92 14:50:18 EST
+From: dgsi!acad!don@sharkey.cc.umich.edu (0)
+Message-Id: <9202031950.AA03694@acad.YP.noname>
+To: autox@hoosier.utah.edu, porschephiles@karazm.math.uh.edu,
+        dgsi!vettes@sharkey.cc.umich.edu, wheeltowheel@abingdon.Eng.Sun.COM
+Subject: Car Trailer
+Cc: acad!don@sharkey.cc.umich.edu
+
+
+Hello fellow netters,
+
+I've been waiting for all Winter looking to buy a double-axle trailer
+for the Corvette, no luck.
+
+So this is what I am looking for:
+
+Absolute Requirements:
+	Double Axle, 
+	NO! Gooseneck trailers,
+	4000 lb min.
+
+Would be nice:
+	Electric brakes,
+	Electric / Manual wench.
+	Tire Rack.
+
+I will be using a BB Suburban to haul with, hence the 
+"NO! Gooseneck" req.
+
+I know what I can have one built for, but I figured I should
+be able to get a decent deal, considering the time of year,
+and the economy.
+
+BTW I am located in Ann Arbor MI, so location is another consideration
+(The closer the better).
+
+Thanks in advance 
+
+don@cimage.com
+
+Sorry If you receive this post X times.
+
+Donald Day (86 Vette ASP, 80 928 BS, 84 Mustang-GT ESP)
+
+
+From porschephiles-request Mon Feb  3 10:32:44 1992
+Received: by karazm.math.UH.EDU id AA11414
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 14:39:44 -0600
+Received: from relay.hp.com by karazm.math.UH.EDU with SMTP id AA11410
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Mon, 3 Feb 1992 14:39:41 -0600
+Received: from hpwala.wal.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA13202; Mon, 3 Feb 92 12:33:08 -0800
+Received: from hpwarq.wal.hp.com by hpwala.wal.hp.com with SMTP
+	(15.11/15.5+IOS 3.22) id AA29936; Mon, 3 Feb 92 15:34:47 est
+Received: by hpwarq.HP.COM; Mon, 3 Feb 92 15:32:54 est
+Message-Id: <9202032032.AA17798@hpwarq.HP.COM>
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Date: Mon, 3 Feb 92 15:32:44 EST
+X-Mailer: Mail User's Shell (6.5.6 6/30/89)
+To: dgsi!acad!don@sharkey.cc.umich.edu (0), autox@hoosier.utah.edu,
+        porschephiles@karazm.math.UH.EDU, dgsi!vettes@sharkey.cc.umich.edu,
+        wheeltowheel@abingdon.eng.sun.com
+Subject: Re: Car Trailer
+Cc: acad!don@sharkey.cc.umich.edu
+
+> 	Electric / Manual wench.
+
+Would you like an electric cooled pony harness with your wench?
+
+
+-- 
+---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+From porschephiles-request Mon Feb  3 06:47:06 1992
+Received: by karazm.math.UH.EDU id AA13237
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 16:51:04 -0600
+Received: from relay.hp.com by karazm.math.UH.EDU with SMTP id AA13224
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Mon, 3 Feb 1992 16:50:56 -0600
+Received: from hpamsh4.ptp.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA18330; Mon, 3 Feb 92 14:44:26 -0800
+Message-Id: <9202032244.AA18330@relay.hp.com>
+Received: by hpamsh4.ptp.hp.com
+	(16.6/16.2) id AA00623; Mon, 3 Feb 92 14:47:07 -0800
+From: John Schubert <jes@hpamsh4.ptp.hp.com>
+Subject: Re: Car Trailer
+To: lupienj@hpwarq.wal.hp.com
+Date: Mon, 3 Feb 92 14:47:06 PST
+Cc: dgsi!acad!don@sharkey.cc.umich.edu, autox@hoosier.utah.edu,
+        porschephiles@karazm.math.UH.EDU, dgsi!vettes@sharkey.cc.umich.edu,
+        wheeltowheel@abingdon.Eng.Sun.COM
+In-Reply-To: <9202032032.AA17798@hpwarq.HP.COM>; from "John Lupien" at Feb 3, 92 3:32 pm
+Mailer: Elm [revision: 66.25]
+
+# 
+# >     Electric / Manual wench.
+# 
+# Would you like an electric cooled pony harness with your wench?
+Oh come on, give him a break. Maybe he just needs a wench who is skilled in
+electric and hand tools to be the head mechanic for his pit crew...  :-)
+
+From porschephiles-request Mon Feb  3 07:25:21 1992
+Received: by karazm.math.UH.EDU id AA00576
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 18:20:32 -0600
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA00571
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Mon, 3 Feb 1992 18:20:21 -0600
+Received: from Eng.Sun.COM (zigzag-bb.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA05821; Mon, 3 Feb 92 15:29:45 PST
+Received: from dobbs.Eng.Sun.COM by Eng.Sun.COM (4.1/SMI-4.1)
+	id AA26427; Mon, 3 Feb 92 15:25:32 PST
+Received: from magnette.Eng.Sun.COM by dobbs.Eng.Sun.COM (4.1/SMI-4.1)
+	id AA24208; Mon, 3 Feb 92 15:25:21 PST
+Date: Mon, 3 Feb 92 15:25:21 PST
+From: stej@dobbs.Eng.Sun.COM (Judith Stephens)
+Message-Id: <9202032325.AA24208@dobbs.Eng.Sun.COM>
+To: lupienj@hpwarq.wal.hp.com, jes@hpamsh4.ptp.hp.com
+Subject: Re: Car Trailer
+Cc: dgsi!acad!don@sharkey.cc.umich.edu, autox@hoosier.utah.edu,
+        porschephiles@karazm.math.UH.EDU, dgsi!vettes@sharkey.cc.umich.edu,
+        wheeltowheel@abingdon.Eng.Sun.COM
+
+
+Only manual wenches in my shop.  The electric ones are TOO tricky.
+
+Judith
+
+From porschephiles-request Mon Feb  3 08:31:11 1992
+Received: by karazm.math.UH.EDU id AA00611
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 18:39:43 -0600
+Received: from inet-gw-1.pa.dec.com by karazm.math.UH.EDU with SMTP id AA00607
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 18:39:41 -0600
+Received: by inet-gw-1.pa.dec.com; id AA06051; Mon, 3 Feb 92 16:31:32 -0800
+Received: by gilroy.pa.dec.com (5.57/4.7.34)
+	id AA06942; Mon, 3 Feb 92 16:31:04 PST
+Received: by barstow.pa.dec.com (5.57/4.7.34)
+	id AA18917; Mon, 3 Feb 92 16:31:13 -0800
+Message-Id: <9202040031.AA18917@barstow.pa.dec.com>
+To: stej@dobbs.eng.sun.com (Judith Stephens)
+Cc: lupienj@hpwarq.wal.hp.com, jes@hpamsh4.ptp.hp.com,
+        dgsi!acad!don@sharkey.cc.umich.edu, autox@hoosier.utah.edu,
+        porschephiles@karazm.math.uh.edu, dgsi!vettes@sharkey.cc.umich.edu,
+        wheeltowheel@abingdon.eng.sun.com, sfisher@Pa.dec.com
+Subject: Re: Car Trailer 
+In-Reply-To: Your message of Mon, 03 Feb 92 15:25:21 -0800.
+             <9202032325.AA24208@dobbs.Eng.Sun.COM> 
+Date: Mon, 03 Feb 92 16:31:11 PST
+From: sfisher@wsl.dec.com
+
+    
+    Only manual wenches in my shop.  The electric ones are TOO tricky.
+
+    Judith
+
+Oh, come on, Judith!  Electric wenches are the Fizzball way!  You
+leave them on a shelf all day while they get charged up, and then
+when you need to use them, you press a button and they let you
+screw for hours.  It's much better than getting your wrists tired
+out twisting and twisting by hand.  You just have to remember to
+lubricate the studs from time to time or the nuts can get too hot
+from continued screwing with an electric wench.  A long extension 
+and a couple of deep sockets and you're set.
+
+--Scott "I laugh at your spelling checker, monkey boy" Fisher
+
+From porschephiles-request Mon Feb  3 08:37:10 1992
+Received: by karazm.math.UH.EDU id AA00625
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 18:43:38 -0600
+Received: from mx.nsi.nasa.gov by karazm.math.UH.EDU with SMTP id AA00621
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 3 Feb 1992 18:43:36 -0600
+Received: Mon, 3 Feb 92 16:36:55 PST from XEN.dnet by mx.nsi.nasa.gov (4.1/1.2)
+Message-Id: <9202040036.AA05142@mx.nsi.nasa.gov>
+Received: from XEN.dnet by AMES.dnet with MAIL-11
+          (utk-mail11d v1.7); Mon, 3 Feb 92 16:37:10 PST
+Date: Mon, 3 Feb 92 16:37:10 PST
+From: LAFORCE@xenon.arc.nasa.gov
+X-To: @PORSCHEPHILES.ADR
+Subject: re: vacuum brake bleeder
+To: porschephiles@karazm.math.uh.edu
+
+
+I wrote:
+
+> Just my 2 cents about braided steel brake lines.
+> 
+> I bought a set from imparts ($46) about 8 months ago.  After I installed the
+> lines (and flushed and bled the brake system with the nifty little vacuum
+> thingy) the car had the hardest brake pedal I've ever felt.
+
+Robert wrote:
+
+I'm just curious:  What vacuum thingy did you use?  Just a hand pump
+operated at the bleeder screw?  I bought one last year and don't like it
+very well.  I've been considering making a pressure bleeder from a cheap
+air compressor.
+
+What car are you bleeding?
+
+and I wrote:
+
+Yes, the hand pump at the bleeder screw.  Some air appears to get sucked
+along the threads, but this does not affect the functionality.  I could 
+use a larger trap, hmmm...
+
+I also considered building a pressure bleeder from an extra reservior cap,
+but never got around to it.  Anyway, I am happy with the vacuum pump.
+
+I was bleeding a 1980 911sc.  Maybe one day I will get around to the '79
+subaru (a WATER cooled boxer, pretty weird huh?).
+
+--Soren            laforce@xenon.arc.nasa.gov
+
+From porschephiles-request Mon Feb  3 17:49:08 1992
+Received: by karazm.math.UH.EDU id AA01552
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 3 Feb 1992 21:56:19 -0600
+Received: from ZERMATT.LCS.MIT.EDU by karazm.math.UH.EDU with SMTP id AA01548
+  (5.65c/IDA-1.4.4 for <porschephiles@KARAZM.MATH.UH.EDU>); Mon, 3 Feb 1992 21:56:16 -0600
+Received: from RTS-23.LCS.MIT.EDU by ZERMATT.LCS.MIT.EDU via CHAOS with SMTP id 147364; 3 Feb 1992 22:49:28-0500
+Message-Id: <2906164148-10645575@RTS-23>
+Sender: pz%RTS-23@ZERMATT.LCS.MIT.EDU
+Date: Mon, 3 Feb 92  22:49:08 EST
+From: pz@mit.edu (John S. Pezaris)
+To: porschephiles@karazm.math.uh.edu
+Subject: re: vacuum brake bleeder
+In-Reply-To: Msg of Mon, 3 Feb 92 16:37:10 PST from LAFORCE@xenon.arc.nasa.gov
+
+   Date: Mon, 3 Feb 92 16:37:10 PST
+   From: LAFORCE@xenon.arc.nasa.gov
+   
+   Yes, the hand pump at the bleeder screw.  Some air appears to get sucked
+   along the threads, but this does not affect the functionality. 
+
+A spot of grease around the base of the nipple (sealing the threads), works
+wonders.  Be sure to remove the grease once done, don't want it melting onto
+your brakes.
+
+
+	- pz.
+
+
+===============================================================================
+John Pezaris                                                         pz@mit.edu
+-------------------------------------------------------------------------------
+Computer Architecture Group                                 Another random walk 
+MIT Lab for Computer Science                                across my keyboard.
+===============================================================================
+
+From porschephiles-request Tue Feb  4 03:01:00 1992
+Received: by karazm.math.UH.EDU id AA04739
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 08:06:14 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA04735
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 08:06:12 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id at05890; 4 Feb 92 8:52 EST
+Date: Tue, 4 Feb 92 03:01 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: don <dgsi!acad!don@sharkey.cc.umich.edu>
+Cc: autox <autox@hoosier.utah.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: S/S brake hoses: Die Unendliche Geschichte
+Message-Id: <50920204030105/0004056890NA4EM@mcimail.com>
+
+Don -
+
+Excellent research!  I was unaware of Bruce Anderson's prior musings, and have
+not read Smith's book.  It is only fair that I in turn, despite my miserable
+typing skills, pass along the latest from Bruce on this subject, which appeared
+in the Dec '91 Excellence.  As long as I am filtching from them, I might as well
+point out that this is a really neat magazine devoted to Porsches.
+_________________________________________________________________________
+
+"A Word of Caution About Replacement Brake Hoses
+
+"Stock rubber hoses are fine for a street car.  In fact, I prefer them.  They
+are a low maintenance item and very seldom fail.  Their most common failure mode
+is swelling from old age or contaminated brake fluid.
+
+"The Teflon braided hoses are designed for race cars where they will receive
+heavy maintenance and frequent inspections.  All of the successful race cars in
+the world use these braided steel hoses.  However, if you get an inferior
+product, or if they are improperly installed, you can create a worse problem for
+yourslef than the one you think you are solving.  There is probably no more
+frightening experience than having brakes fail, so be very careful and check out
+the fit of your aftermarket brake lines very carefully.  If one fails, the
+results can be tragic.
+
+"I know, I know, a lot of people use steel lines for their street cars.  If you
+feel you must switch to the Teflon braided steel lines, be sure that they are
+dash three size hoses.  The dash for size that was some common a few years ago
+on the aftermarket actually causes a spongy brake pedal.  When you install
+stainless steel brake lines, make sure they match the same position and folow
+the same lay that the original rubber lines did.  Lower the car after you are
+done to inspect the lines making sure that none of them are in a binding
+situation.  There should be some slack in the brake line in every condition.  If
+there isn't slack, reposition the line until there is some.  Recheck the brakes
+lines after you have run the car for a while to make sure the lines are free and
+not kinked.
+
+"The problem that I have seen with these brake lines over time is that they
+become stiff and try to loosen themselves up and cause a leak or become brittle
+and break where the fittings are swaged on.  I have seen and/or heard of quite a
+few of these braided steel Teflon brake lines failing over the years and I only
+remember seeing one stock rubber line thathad failed so I have to recommend
+against steel lines for street use.  For a race car they are fine because race
+cars receive a very high level of maintenance."
+_________________________________________________________________________
+
+I would add that you should check the lines from lock to lock, on the ground, at
+at least try to imagine addition slack needed as a corner would be loaded out on
+the track.  Have a friend double-check.  (A friend and I did his one day, mine
+the next.)
+
+If you secure the front s/s hoses to the strut with cable ties, be sure to first
+wrap the s/s hose with, say, a section of slit fuel hose.  The edges of some
+cable ties are very sharp and will wear quickly through the steel and Teflon.
+
+Kevin
+
+From porschephiles-request Tue Feb  4 03:15:00 1992
+Received: by karazm.math.UH.EDU id AA04752
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 08:07:02 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA04748
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 08:07:00 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac06018; 4 Feb 92 8:53 EST
+Date: Tue, 4 Feb 92 03:15 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Doug Fields <fields-doug@cs.yale.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Questions related to preparing car for track season
+Message-Id: <20920204031502/0004056890NA3EM@mcimail.com>
+
+Doug -
+
+>Finally, I'd like to know where I can get DS-11 (or similar) pads for
+>my car, inexpensively. I figure my current set has one or two more
+>weekends at the track before needing replacement. Having paid $300 for
+>'em last time I figure I got ripped.
+
+I have been told that the 944 Turbo S takes the same dimension pad as the 962,
+except that it must be ground to 18 or 19 mm instead of 25 mm.  That being the
+case, Pegasus has them as item FRP304-DS11, $130 a set.  414 782 0880.  If they
+can't supply them, let me know and I'll ask someone I know has used them from
+some source or another.
+
+You should also probably check into available carbon metallic pads.  I am not
+familiar with the differences between "black," "blue," and "red" variants of
+same.  My mechanic recently told me that he has a line on a new twist on these:
+apparently the pads come with a thermally insulating backing plate, which
+reduces the heat flow to the calliper quite a bit.  If interested, give Jerry
+Pellgrino a call at 508 651 1316.
+
+I assume you saw my description of my harness set-up in mail at some point over
+the last few months, and won't repeat it here!
+
+Kevin
+
+From porschephiles-request Tue Feb  4 03:51:35 1992
+Received: by karazm.math.UH.EDU id AA04731
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 08:01:57 -0600
+Received: from Sun.COM by karazm.math.UH.EDU with SMTP id AA04727
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Tue, 4 Feb 1992 08:01:50 -0600
+Received: from snail.Sun.COM (snail.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA02207; Tue, 4 Feb 92 05:53:00 PST
+Received: from Canada.Sun.COM (suncan) by snail.Sun.COM (4.1/SMI-4.1)
+	id AA15563; Tue, 4 Feb 92 05:52:37 PST
+Received: from popeye.Canada.Sun.Com by Canada.Sun.COM (4.1/SMI-4.1)
+	id AA06567; Tue, 4 Feb 92 08:51:35 EST
+Date: Tue, 4 Feb 92 08:51:35 EST
+From: randy@Canada.Sun.COM (Randy Finbow   Sun Canada Collections Manager)
+Message-Id: <9202041351.AA06567@Canada.Sun.COM>
+To: aliases@sun.Canada.Sun.COM, jes@hpamsh4.ptp.hp.com,
+        lupienj@hpwarq.wal.hp.com, requests@sun.Canada.Sun.COM,
+        stej@dobbs.Eng.Sun.COM
+Subject: Re: Car Trailer
+Cc: abingdon!wheeltowheel@dobbs.Eng.Sun.COM, autox@hoosier.utah.edu,
+        dgsi!acad!don@sharkey.cc.umich.edu, dgsi!vettes@sharkey.cc.umich.edu,
+        porschephiles@karazm.math.UH.EDU
+
+
+
+Hi,
+
+Could you please take me OFF this "car stuff" group.
+
+FINBOW, RANDY             randy.finbow@Canada         C077 416-477-6745
+
+Thanks,
+
+Randy
+
+
+
+From porschephiles-request Tue Feb  4 04:14:28 1992
+Received: by karazm.math.UH.EDU id AA04822
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 08:19:14 -0600
+Received: from hamby.tx.ncsu.edu by karazm.math.UH.EDU with SMTP id AA04818
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 08:19:10 -0600
+Received: by hamby.tx.ncsu.edu (5.65b/SAM 12-13-90 16:56:22)
+	id AA20020; Tue, 4 Feb 92 09:14:28 -0500
+Date: Tue, 4 Feb 92 09:14:28 -0500
+Posted-Date: Tue, 4 Feb 92 09:14:28 -0500
+Message-Id: <9202041414.AA20020@hamby.tx.ncsu.edu>
+To: "KevinC.Gross"<0004056890@mcimail.com>
+Cc: porschephiles<porschephiles@karazm.math.uh.edu>
+From: davison@unity.ncsu.edu (John Davison)
+Subject: Re:  Re: S/S brake hoses: Die Unendliche Geschichte
+X-Mailer: (Go Browns!) CEM Mailer Version 3.1beta
+
+["Kevin C. Gross" <0004056890@mcimail.com>] Writes:
+> 
+> Don -
+> 
+> Excellent research!  I was unaware of Bruce Anderson's prior musings, and have
+....
+> "The problem that I have seen with these brake lines over time is that they
+> become stiff and try to loosen themselves up and cause a leak or become brittle
+> and break where the fittings are swaged on.  I have seen and/or heard of quite a
+> few of these braided steel Teflon brake lines failing over the years and I only
+> remember seeing one stock rubber line thathad failed so I have to recommend
+> against steel lines for street use.  For a race car they are fine because race
+> cars receive a very high level of maintenance."
+A real hazard to SS braided lines is that a nicked wire can lead to a ballooning
+of the tube, and possibly its rupture. For street use, Aeroquip and maybe
+some others, have rubber-coated SS braided lines that protect the braid from the
+hazards associated with street use. They don't look neat, but work just as well.
+(And are impossible to tell from stock, if you get the right ends!)
+----------------------------------------------------------------------------
+ John_Davison@ncsu.edu   | "Give me six lines written by the most honorable
+NCSU College of Textiles |  of men and I will find in them an excuse
+ Student Computing Lab   |  to hang him." -- Cardinal Richelieu
+    DoD # 0476           |
+----------------------------------------------------------------------------
+
+From porschephiles-request Tue Feb  4 08:19:24 1992
+Received: by karazm.math.UH.EDU id AA04828
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 08:19:32 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA04824
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 08:19:24 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA14159; Tue, 4 Feb 92 08:10:03 -0600
+Message-Id: <9202041410.AA14159@dcmdc.dla.mil>
+Date: Tue Feb 4 08:09:57 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: survey and SS lines.
+To: porschephiles@karazm.math.uh.edu
+
+For the survey:
+
+
+1979 911SC Targa
+mostly stock, except
+strut bar
+holbert brake cools
+SS brake lines
+no cat converter or air pump.
+16x7s and 16x8s
+
+
+One more note on SS lines.   I put the lines on almost five years ago and
+the brake pedal is hard as a rock.  Do SS lines require periodic replacement,
+it is hard to tell just looking at the lines??
+
+
+jim fuerstenberg		
+
+
+			"No matter where you go, there you are"
+						
+							Buckaroo Banzai
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+
+From porschephiles-request Tue Feb  4 04:40:49 1992
+Received: by karazm.math.UH.EDU id AA04891
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 08:48:33 -0600
+Received: from umail.umd.edu by karazm.math.UH.EDU with SMTP id AA04887
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 08:48:30 -0600
+Received: by umail.UMD.EDU (5.57/Ultrix3.0-C)
+	id AA18680; Tue, 4 Feb 92 09:43:43 EST
+Received: from cc:Mail by COMB3.COMB.UMD.EDU (1.20/SMTPLink)
+	id A01457; Tue, 04 Feb 92 09:40:49 EST
+Date: Tue, 04 Feb 92 09:40:49 EST
+From: Peter Griffith <griffith@comb3.comb.umd.edu>
+Message-Id: <9202040940.A01457@COMB3.COMB.UMD.EDU>
+To: porschephiles@karazm.math.uh.edu, school@cma.com,
+        wheeltowheel@abingdon.eng.sun.com
+Subject: Re: Mid-Ohio 92
+
+Anyone on the list have an estimate for driving time from Baltimore to Mid-Ohio, 
+at moderately illegal speeds (ie 65-70).
+
+Thanks,
+Peter
+
+
+From porschephiles-request Tue Feb  4 07:10:08 1992
+Received: by karazm.math.UH.EDU id AA06076
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 11:14:51 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA06070
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 11:14:41 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA18399; Tue, 4 Feb 92 12:10:08 -0500
+Date: Tue, 4 Feb 92 12:10:08 -0500
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9202041710.AA18399@prism.gatech.edu>
+To: Doug Fields <fields-doug@CS.YALE.EDU>
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9202030601.AA05461@SUNED.ZOO.CS.YALE.EDU>
+Subject: Questions related to preparing car for track season
+
+| 1) What kind of harness (beyond the 'H', 5-pt model) should I get? In
+| terms of buckle, straps, etc.
+
+I bought the old 'aircraft' style harness - it's a lot cheaper than the
+new 'cam-lock' style (about 1/2 the price), but a lot more of a hassle
+getting strapped in at race-time. I got a 6-point model since it was
+easier to mount the crotch straps that way. I only had to drill two
+holes for the sholder straps -- the lap belts use the existing mounts.
+The crotch straps bolt into pre-existing holes in the bottom of the
+seat.
+
+| 2) What kind of mounting should I get? Who should I get to install it?
+| (I'm in the New Haven, CT area) It should be noted that I would like
+| to retain the car as "stock" as possible. I've heard cons about using
+| the factory bolt-in for the shoulder straps.
+
+Make sure you use grade-8 nuts and bolts. Don't try to use the rear
+seat-belt mounting points for the sholder belts -- you'll compress your
+spine - the angle is all wrong. In my '87 951, there are two little
+dimples in the sheet metal on the rear deck just behind the fuel tank
+(as if the factory had anticipated people installing harnesses) -- I
+just drilled holes using those dimples as guides and put a 2"x5" steel
+plate underneath the car to reinforce the deck (NOTE: don't take my word
+that the dimples provide the optimal position for the harness! Be very
+careful when drilling back there!)
+
+| 3) How much is this going to run me? This is a year where money is a
+| bit more scarce. Where would you recommend I buy the equipment.
+
+I bought my stuff at Racer's Wholesale (they have an 800 number, but I
+don't have their catalog handy at the moment - try 800-555-1212) a few
+months ago for about $80. I've heard from fellow track junkies that
+these guys are generally the cheapest around.
+
+| Okay; that's my safety plug for the year. Now is my tires question. I
+| know this has been belted over and over. I have Bridgestone RE71's, but
+| their street tires (and damn good ones) which I had the misfortune to
+| wreck a set of last year at the track. I'd like good (and inexpensive)
+| tires... And the place where I can get them inexpensively.
+
+I did the same thing with my street RE71's (the chunking was pretty
+dramatic!). I now track on Yokohama 008rs ~$130/tire from Tire Rack
+(another 800 number you'll have to find for yourself). Not only do they
+hold up better than the RE71's, but the stick is absolutely incredible!
+The Comp T/A R1's are also very popular (and some think better), but
+they're another $20-30 extra per-tire.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Look out! There are llamas!
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request Tue Feb  4 11:18:43 1992
+Received: by karazm.math.UH.EDU id AA09520
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 15:23:03 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA09516
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 15:22:58 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA28202; Tue, 4 Feb 92 16:18:43 -0500
+Date: Tue, 4 Feb 92 16:18:43 -0500
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9202042118.AA28202@prism.gatech.edu>
+To: Doug Fields <fields-doug@CS.YALE.EDU>
+In-Reply-To: <9202042101.AA17420@SUNED.ZOO.CS.YALE.EDU>
+Subject: Re:  Questions related to preparing car for track season
+Cc: porschephiles@karazm.math.uh.edu
+
+| Thanks for the information about the harnesses. Just one more question.
+| Can you mount the passenger harness the same way as the driver harness?
+
+Probably - there are no dimples in the rear deck on that side, and the
+fuel tank extends further to the rear, though (as I remember). You may
+have to mount the passenger harness more forward than the driver's side.
+I have a second-hand second harness and have been thinking about
+installing it, but haven't made the attempt yet.
+
+Good luck,
+Steve
+
+[and just to reiterate: on older 944's, the rear deck mounting positions
+are in a very different location than on my '87. It wouldn't surprise me
+if the factory changed things again for '88.  I spent about an hour
+sticking my head up above the muffler trying to convince myself that I
+wouldn't hit the gas tank when I drilled (not to mention agonizing about
+actually drilling a hole in my baby...) 'Twas well worth it though. The
+harness really improves your ability to control your car. Between it,
+the yokohamas and an 88 951S front suspension upgrade, I bettered my
+time by about 4 seconds at Rd. Atlanta (I attribute another 4 to some
+great instruction and practice, practice, practice).]
+
+From porschephiles-request Tue Feb  4 15:52:53 1992
+Received: by karazm.math.UH.EDU id AA10341
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 15:52:59 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA10331
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 15:52:53 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA27564; Tue, 4 Feb 92 15:33:25 -0600
+Message-Id: <9202042133.AA27564@dcmdc.dla.mil>
+Date: Tue Feb 4 15:33:23 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: more cars
+To: porschephiles@karazm.math.uh.edu
+
+In listing my cars, I stopped after the Porsche for some unaccountable reason.
+
+
+To pick up where I left off...
+
+79 911SC Targa
+
+67 Morris Cooper S (Australian version) vintage race car.
+
+84 Ford LTD Country Squire station wagon tow car.
+
+trailer for Mini.
+
+There are other cars of friends alternately in my garage being worked on, some
+longer than others, but none have yet been there long enough for me to acquire
+title.
+
+
+
+
+
+jim fuerstenberg		
+
+looking forward to the next Grand Prix of Gibraltar...
+
+		
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+
+From porschephiles-request Tue Feb  4 12:02:41 1992
+Received: by karazm.math.UH.EDU id AA11565
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 16:07:17 -0600
+Received: from valhalla.ee.rochester.edu by karazm.math.UH.EDU with SMTP id AA11561
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 4 Feb 1992 16:07:12 -0600
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.5ee) id AA02151; Tue, 4 Feb 92 17:03:12 EST
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA14721; Tue, 4 Feb 92 17:02:41 EST
+Date: Tue, 4 Feb 92 17:02:41 EST
+Message-Id: <9202042202.AA14721@socrates.ee.rochester.edu>
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: Team dot Net <autox@autox.team.net>,
+        Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: Shock places
+
+I'm ready to get new struts for the 914...  I'm leaning towards Koni because
+they have a contingency program for Solo II.  Is that correct?  How much do
+they pay for Solo II Tour and National events?  Do any other shock companies
+have contingency programs?  If so, do they make a 914 competition strut?
+
+I remember someone (Doug, maybe?) had a connection with the Shock Warehouse...
+Does anyone have a phone number (800 numbers are much preferred)?  Any other
+recommendations on where to get struts cheap is quite welcome.
+
+I'm really interested mostly in Koni, 'cause I know they're good.  I'd also
+consider Bilstein.  I am not interested in Boge, KYB, Sachs, Tokico, or
+Monroe unless someone can convince me that they have a contingency program
+or have other redeeming features other than price.  I'd also consider GAB if
+they have struts for my application.  Phone numbers, please.
+
+Thanks for any suggestions!
+
+Mark
+
+From porschephiles-request Tue Feb  4 08:26:28 1992
+Received: by karazm.math.UH.EDU id AA12243
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 4 Feb 1992 16:30:41 -0600
+Received: from relay.hp.com by karazm.math.UH.EDU with SMTP id AA12239
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.UH.EDU>); Tue, 4 Feb 1992 16:30:39 -0600
+Received: from hpdmd48.boi.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA18197; Tue, 4 Feb 92 14:26:12 -0800
+Received: from hpbs987.boi.hp.com by hpdmd48.boi.hp.com with SMTP
+	(15.11/15.5+IOS 3.21+OM) id AA01940; Tue, 4 Feb 92 15:28:33 mst
+Received: by hpbs987.boi.hp.com
+	(16.6/15.5+IOS 3.12) id AA22629; Tue, 4 Feb 92 15:26:28 -0700
+Date: Tue, 4 Feb 92 15:26:28 -0700
+From: Bob_Pentecost <bpenteco@hpbs987.boi.hp.com>
+Message-Id: <9202042226.AA22629@hpbs987.boi.hp.com>
+To: porschephiles@karazm.math.UH.EDU
+Subject: WANTED: Phone Dial Wheels
+
+
+This is for a friend who says he has exhausted all other sources for
+reasonably priced wheels. Can anyone help him out?
+
+Call him directly or I can forward e-mail to him.
+
+Thanks.
+
+Bob Pentecost
+bpenteco@hpbs987.boi.hp.com
+====================================================================
+
+WANTED TO BUY   Set of 4 7X15 phone dial wheels to fit 87+ 944.
+                (pn 944.362.104.00)  I'm planning to refinish
+                so appearance is negotiable.  Mike Billings
+                (208) 342-8478.
+
+
+From porschephiles-request Wed Feb  5 09:17:49 1992
+Received: by karazm.math.UH.EDU id AA17939
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 5 Feb 1992 09:17:55 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA17928
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 5 Feb 1992 09:17:49 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA24337; Wed, 5 Feb 92 09:00:11 -0600
+Message-Id: <9202051500.AA24337@dcmdc.dla.mil>
+Date: Wed Feb 5 08:59:50 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: replacement SS lines
+To: porschephiles@karazm.math.uh.edu
+
+So...with all this talk about brakelines, what is a good reasonably priced
+source of replacement SS brake lines?
+
+
+
+
+jim fuerstenberg		
+
+
+			"No matter where you go, there you are"
+						
+							Buckaroo Banzai
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+The opinions stated herein are solely my own and not those of my employer.
+
+From porschephiles-request Wed Feb  5 06:12:00 1992
+Received: by karazm.math.UH.EDU id AA18130
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 5 Feb 1992 10:12:39 -0600
+Received: from QUCDN.QueensU.CA by karazm.math.UH.EDU with SMTP id AA18126
+  (5.65c/IDA-1.4.4 for <PORSCHEPHILES@karazm.math.uh.edu>); Wed, 5 Feb 1992 10:12:33 -0600
+Received: from QUCDN.QueensU.CA by QUCDN.QueensU.CA (IBM VM SMTP V2R1)
+   with BSMTP id 2770; Wed, 05 Feb 92 11:12:40 EST
+Received: from QueensU.CA by QUCDN.QueensU.CA (Mailer R2.08) with BSMTP id
+ 6529; Wed, 05 Feb 92 11:12:39 EST
+P1-Message-Id: CA* *QueensU.CA;QueensU:NroNhyzi
+Date:         Wed, 5 Feb 92 11:12-0500
+X400-Trace:   CA* *QueensU.CA; arrival Wed, 5 Feb 92 11:12-0500 action Relayed
+Message-Id:   <1235*Ken.Stanton@QueensU.CA>
+From: Ken.Stanton@QueensU.CA
+To: PORSCHEPHILES@karazm.math.uh.edu
+Subject:      Fingers Crossed
+
+Wish me luck gang! I am putting a lot of faith in the 924 T-FH (Turbo From
+Hell) this weekend. I leave Kingston Ontario on Friday afternoon and ram
+through to Rochester NY. The next part of the trip is where I need the luck
+given the "reliability" level of this car. I am leaving late Saturday afternoon
+for Toronto Ontario and I have to be there by 6 a.m. Sunday or I forfeit a
+great whopping bit of airfare. Given it will be Saturday Night with a lot of
+miles through the middle of nowhere, I can't depend on finding a rental car
+if the little brute lets me down. Sure hope I don't have to call on you guys
+to bring that trailer you've been talking about.  ;-)
+I really hope I don't have any horror stories for you when I get back.
+Hope I get a chance to fix up that waste gate before we leave!
+vvvrrrrrrrrrooooooooooooooommmmmm...                 BOOM!!!
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+From porschephiles-request Wed Feb  5 02:38:00 1992
+Received: by karazm.math.UH.EDU id AA19297
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 5 Feb 1992 12:09:09 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA19293
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 5 Feb 1992 12:09:06 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id au19373;
+          5 Feb 92 13:05 EST
+Date: Wed, 5 Feb 92 02:38 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: "Mark R. Sundt +1 908 758 3134" <sundt@athens.cc.bellcore.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: autox <autox@hoosier.utah.edu>
+To: Rocky Entriken <0003006623@mcimail.com>
+To: Gerald Terranova <0003939837@mcimail.com>
+Subject: Re: EFI Diagnostic equipment
+Message-Id: <51920205023815/0004056890NA1EM@mcimail.com>
+
+Mark -
+
+I don't have a direct answer to your questions.  I would recommend picking up a
+copy of Probst's book: Bosch Fuel Injection and Engine Management, pub. Robt
+Bentley.  It covers theory and trouble-shooting Bosch systems pretty well.
+
+And since you drive a 951, the factory workshop manuals are helpful.  Check out
+chapter 28 in both Volume 1 of the main series and in the 944 Turbo manual. 
+Update #21, which came out in 1989, added a chapter which gives a detailed plan
+of attack to diagnosing the 944S and 944S2 DME (pp. D 24/28-1 through -33). 
+Although written for these models, and assuming in part you have the 9288 or
+9268 tool, lot of the information and test procedures are nonetheless generic.
+
+Happy hunting!
+
+Kevin
+
+From porschephiles-request Wed Feb  5 15:13:00 1992
+Received: by karazm.math.UH.EDU id AA23215
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 5 Feb 1992 19:38:07 -0600
+Received: from tbird.cc.bellcore.com by karazm.math.UH.EDU with SMTP id AA23207
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 5 Feb 1992 19:37:57 -0600
+Received: by tbird.cc.bellcore.com id AA09330
+  (5.65c/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Wed, 5 Feb 1992 20:35:58 -0500
+Message-Id: <199202060135.AA09330@tbird.cc.bellcore.com>
+From: sundt@athens.cc.bellcore.com (Mark R. Sundt +1 908 758 3134)
+To: autox@tbird.cc.bellcore.com, porsche@tbird.cc.bellcore.com
+Date:  5 Feb 1992  20:13 EST
+Subject: RE: EFI
+
+Kevin,
+        Actually it's the manuals that started me off thinking
+about all of this. Specifically these service information booklets:
+
+        WKD-491-321     1985 944 Turbo Service Information
+        WKD-453-920     1985 944 Turbo DME/KLR Service Info.
+
+The first one is about 80 pages and costs $1.22. The second is about
+40 pages and costs $5.94. They explain the car and fuel injection systems
+very well, with voltages and and other specifications, though certainly
+not everything I would want. I don't have a copy of the Bentley book
+you talk about, but I've been meaning to get one.
+
+There are also special service information booklets on the 944 Turbo S,
+ABS brakes, and Air Bags. They also cost ~$6.00 each. I can get the
+numbers if anyone would like.
+
+Apparently the European/ROW DME unit is the same as the American one
+except for an altitude compensator (US) and some other "coding plug"
+connection to the DME left open. The specification for open loop CO
+adjustment is 0.6+/-0.2 %CO on the US car and 1.0+/-0.5%CO on the
+European/ROW car. Assuming the European car did not have a CAT
+(I'm pretty sure about this), would it hurt the CAT or cause it
+to run too hot if I bumped up the CO adjustment to 1% or even 1.5%?
+As I understand it when your foot is heavy on the gas (throttle valve
+gap of 65 degrees or more) a "full load" contact is triggered and
+the computer ignores the oxygen sensor anyway. So the computer really
+only regulates emissions at part throttle and idle. This is one
+reason why the wastegate dumps directly into the exhaust downstream
+of the CAT. Anyone know what it takes to damage or destroy a CAT,
+short of dumping raw gas into it???
+
+Everyone, please no flames about tampering with emissions. I have no
+intention of taking off the catalytic converter or doing anything
+seriously bad. I would just like to understand the car a little more
+and optimize it.
+
+Thanks.
+
+
+Mark Sundt
+sundt@athens.cc.bellcore.com
+(908) 758-3134 days
+
+From porschephiles-request Thu Feb  6 07:32:31 1992
+Received: by karazm.math.UH.EDU id AA27469
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 6 Feb 1992 11:32:44 -0600
+Received: from valhalla.ee.rochester.edu by karazm.math.UH.EDU with SMTP id AA27465
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 11:32:39 -0600
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.5ee) id AA04857; Thu, 6 Feb 92 12:33:04 EST
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA18321; Thu, 6 Feb 92 12:32:31 EST
+Date: Thu, 6 Feb 92 12:32:31 EST
+Message-Id: <9202061732.AA18321@socrates.ee.rochester.edu>
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: Weltmeister tubular torsion bars
+
+Weltmeister has a new type of torsion bar which is tubular instead of solid.
+They say they're a little lighter, and are stronger so they have longer
+lifetimes than the solid bars.  They're also a little more expensive than the
+solid bars.
+
+Anyone have any opinion about this?  I will be ordering something this weekend
+at the latest, so any feedback is welcome.  I'm leaning towards the tubular
+bars, on the theory that newer is probably better and lighter is definitely
+better (for a race car).
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+From porschephiles-request Thu Feb  6 07:53:29 1992
+Received: by karazm.math.UH.EDU id AA27903
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 6 Feb 1992 12:13:44 -0600
+Received: from ihb.compuserve.com by karazm.math.UH.EDU with SMTP id AA27899
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 12:13:36 -0600
+Received: by ihb.compuserve.com (5.65/5.910516)
+	id AA09187; Thu, 6 Feb 92 13:13:24 -0500
+Date: 06 Feb 92 12:53:29 EST
+From: Shel Hall <76701.103@CompuServe.COM>
+To: <porschephiles@karazm.math.uh.edu>
+Subject: Car delivery offered
+Message-Id: <920206175329_76701.103_EHB85-7@CompuServe.COM>
+
+Folks-
+ 
+I'll be making a rather long transcontinental trip in late March, and
+I'll be happy to deliver a drivable car to or from almost any point on
+the way.
+ 
+In general, my route will be:
+ 
+Atlanta, GA
+Salt Lake City, UT
+Bakersfield, CA
+Santa Maria, CA (on the coast between SF and LA)
+Bakersfield, CA
+Palo Alto, CA (tentative)
+Salt Lake City, UT
+Scottsdale, AZ (tentative)
+Chicago, IL (tentative)
+Atlanta, GA
+ 
+As you can see, this takes in much of the USA outside the Northeast, and
+I'm willing to make diversions from the most direct route; I could just
+as easily go through, say, Huntsville, AL, and Amarillo, TX (on the
+Atlanta/Salt Lake leg) as I could through Nashville, TN, and St.Louis,
+MO.
+ 
+My schedule is somewhat flexible, and I'll be travelling alone for most
+of the distance, so any type of car is all right.  I'm a sympathetic
+driver and a good mechanic, too, if it comes to that.
+ 
+I'll fly if no one needs a car moved, but it would be more fun to meet
+a few netters and help someone out if I can.
+ 
+This isn't really a "net" subject, so if you have a car you need moved
+along this (approximate) route, contact me directly.  Please accept my
+apology if you see this on more than one car-oriented list.
+ 
+-Shel Hall - 76701.103@CompuServe.Com
+ 404-351-8478
+
+
+From porschephiles-request Thu Feb  6 02:05:29 1992
+Received: by karazm.math.UH.EDU id AA28118
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 6 Feb 1992 13:02:37 -0600
+Received: from netcomsv.netcom.com by karazm.math.UH.EDU with SMTP id AA28114
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 13:02:34 -0600
+Received: from netcom.netcom.com by netcomsv.netcom.com (4.1/SMI-4.1)
+	id AA10783; Thu, 6 Feb 92 11:03:00 PST
+Received: by netcom.netcom.com (4.1/SMI-4.1)
+	id AA15225; Thu, 6 Feb 92 10:05:29 PST
+From: ilsa@netcom.netcom.com (Ilsa VanHook)
+Message-Id: <9202061805.AA15225@netcom.netcom.com>
+Subject: Re: request for info (about *you*, singly and severally)
+To: stan@casc.math.uh.edu
+Date: Thu, 6 Feb 92 10:05:29 PST
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <199202030814.AA14106@Menudo.UH.EDU>; from "Stan Hanks" at Feb 3, 92 2:20 am
+X-Mailer: ELM [version 2.3 PL11]
+
+Ilsa VanHook, San Francisco - '71 914 (1.7L)
+
+From porschephiles-request Thu Feb  6 10:20:12 1992
+Received: by karazm.math.UH.EDU id AA28779
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 6 Feb 1992 14:21:00 -0600
+Received: from PO5.ANDREW.CMU.EDU by karazm.math.UH.EDU with SMTP id AA28775
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 14:20:58 -0600
+Received: by po5.andrew.cmu.edu (5.54/3.15) id <AA13488> for porschephiles@karazm.math.uh.edu; Thu, 6 Feb 92 15:20:54 EST
+Received: via switchmail; Thu,  6 Feb 1992 15:20:53 -0500 (EST)
+Received: from pcs7.andrew.cmu.edu via qmail
+          ID </afs/andrew.cmu.edu/service/mailqs/q003/QF.UdYNVzm00WBLQ0b5tu>;
+          Thu,  6 Feb 1992 15:20:16 -0500 (EST)
+Received: from pcs7.andrew.cmu.edu via qmail
+          ID </afs/andrew.cmu.edu/usr10/fo07/.Outgoing/QF.0dYNVwq00WBLQ4XIZM>;
+          Thu,  6 Feb 1992 15:20:13 -0500 (EST)
+Received: from mms.0.1.873.MacMail.0.9.CUILIB.3.45.SNAP.NOT.LINKED.pcs7.andrew.cmu.edu.pmax.ul4
+          via MS.5.6.pcs7.andrew.cmu.edu.pmax_ul4;
+          Thu,  6 Feb 1992 15:20:12 -0500 (EST)
+Message-Id: <gdYNVwi00WBLA4XIRd@andrew.cmu.edu>
+Date: Thu,  6 Feb 1992 15:20:12 -0500 (EST)
+From: "Frederick R. Orndorff" <fo07+@andrew.cmu.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 914 FI->carbs
+Cc: 
+
+
+Hey,
+
+In my recent 914 information quest, the subject of replacing the fuel
+injection w/ dual webers/dell's/etc.has come up several times. However,
+whenever this is mentioned, people say that there is a good amount of
+power increase, and it's generally a good idea- IF DONE CORRECTLY.
+
+My question is- How is this done correctly?  Or, how can I tell if it
+has been done corectly if I buy a car which already has this
+modification?
+
+As it stands now, I plan on looking for a car with this mod., or doing
+it myself after buying the car.  Are there any warnings, etc. or
+encouragements/advice anyone has to offer?
+
+thanks,
+ . . . fred.
+
+
+From porschephiles-request Thu Feb  6 09:04:35 1992
+Received: by karazm.math.UH.EDU id AA29857
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 6 Feb 1992 17:04:49 -0600
+Received: from npd.Novell.COM by karazm.math.UH.EDU with SMTP id AA29853
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 17:04:47 -0600
+Received: from ithaca.slc.npd.novell.com by npd.Novell.COM (4.1/SMI-4.1)
+	id AA22728; Thu, 6 Feb 92 14:46:04 MST
+Received: from bucket.slc.npd.novell.com by ithaca.slc.npd.novell.com (4.1/SMI-4.1)
+	id AA12690; Thu, 6 Feb 92 16:04:36 MST
+Date: Thu, 6 Feb 92 16:04:35 MST
+From: drew_spencer@npd.Novell.COM (Drew Spencer)
+Message-Id: <9202062304.AA12690@ithaca.slc.npd.novell.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  914 FI->carbs
+
+
+Fred Orndorff writes...
+----- Begin Included Message -----
+
+Hey,
+
+In my recent 914 information quest, the subject of replacing the fuel
+injection w/ dual webers/dell's/etc.has come up several times. However,
+whenever this is mentioned, people say that there is a good amount of
+power increase, and it's generally a good idea- IF DONE CORRECTLY.
+
+My question is- How is this done correctly?  Or, how can I tell if it
+has been done corectly if I buy a car which already has this
+modification?
+
+As it stands now, I plan on looking for a car with this mod., or doing
+it myself after buying the car.  Are there any warnings, etc. or
+encouragements/advice anyone has to offer?
+
+thanks,
+ . . . fred.
+
+
+----- End Included Message -----
+
+If your state tracks emissions like they do here (Utah, home of mountain snow and 
+valley smog) the conversion of FI to carbs is ILLEGAL for street use.  I believe 
+that Automotion sells these types of kits, and that they state in bolded letters
+that the carb conversion is for offroad use only.  
+
+Drew
+
+From porschephiles-request Thu Feb  6 14:42:13 1992
+Received: by karazm.math.UH.EDU id AA00629
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 6 Feb 1992 20:42:21 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA00625
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 20:42:20 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA25147
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 6 Feb 1992 20:42:15 -0600
+Message-Id: <199202070242.AA25147@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA18261@casc.math.uh.edu>; Thu, 6 Feb 92 20:42:13 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+Subject: Re: Weltmeister tubular torsion bars
+To: msirota@ee.rochester.edu (Mark Sirota)
+Date: Thu, 6 Feb 92 20:42:13 CST
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: <9202061732.AA18321@socrates.ee.rochester.edu>; from "Mark Sirota" at Feb 6, 92 12:32 pm
+X-Mailer: ELM [version 2.3 PL11]
+
+> Weltmeister has a new type of torsion bar which is tubular instead of solid.
+> They say they're a little lighter, and are stronger so they have longer
+> lifetimes than the solid bars.  They're also a little more expensive than the
+> solid bars.
+
+Nothing new here. George Stephens at RadTechRacing has been making these
+for a long time. I think I recall seeing them from other sources too starting
+about 3 years ago. 
+
+> Anyone have any opinion about this?  I will be ordering something this weekend
+> at the latest, so any feedback is welcome.  I'm leaning towards the tubular
+> bars, on the theory that newer is probably better and lighter is definitely
+> better (for a race car).
+
+So long as you get the right spring constant, lighter should be better, as
+in theory it will give you "quicker" spring response. The other "ligher
+is better" part isn't that critical -- it's only a few pounds of *sprung*
+weight, in (for you) about a 2000 pound car. You'd do better chopping out
+your dash or something... 8{)
+
+My problem is that given constant metal properties, I know how much additional
+stiffness I get going from 17.9mm to 21mm bars. However, when one bar is
+made of Brand X metal, and the other is Brand Y and is gun-drilled, I no 
+longer know what the relative stiffness is. Any mech-eng or materials
+guys out there?
+
+Stan
+
+From stan  Sat Feb  8 10:44:47 1992
+Received: by casc.math.uh.edu id <AA22398@casc.math.uh.edu>; Sat, 8 Feb 92 10:44:47 CST
+Received: by casc.math.uh.edu id <AA22384@casc.math.uh.edu>; Sat, 8 Feb 92 10:38:08 CST
+Date: Sat, 8 Feb 92 10:38:08 CST
+From: Stan Hanks <stan>
+To: porschephiles@casc.math.uh.edu
+Subject: Important Announcement, and Missing Messages
+
+Failed Message Digest: A Collection of Mail That Didn't Make It....
+
+List Members:
+
+The mail software is massively broken right now. It's a long story,
+but you can lay much of the blame on Sun's NIS... Anyway, the executive
+summary is: *DON'T MAIL TO THE LIST UNTIL YOU SEE AN ALL-CLEAR MESSAGE
+FROM ME*.
+
+I'm working with the sysadmin for this cluster of systems to get things
+worked out, hopefully without too much pain and keeping within his
+policy guidelines. Expect a fix later in the weekend.
+
+Now, stop reading mail and go off and play!
+
+Stan
+
+--------------------------
+
+Date: Fri, 7 Feb 92 15:21:11 EST
+From: weltyc@cs.rpi.edu
+To: porschephiles@karazm.math.uh.edu
+Subject: PCA CLub Racing
+
+
+For those that haven't heard, Alan Friedman has announced three dates
+for the first PCA Club Racing series:
+
+JUN   6-7   PCA Racing     Rocky Mtn Region Club Racing   
+                           Second Creek Raceway, CO
+
+JUN   12-14 PCA Racing     Potomac Region Club Racing
+                           Summit Point Raceway, W. Va
+
+JUL   10-11 PCA Racing     Riesentoter Region Club Racing
+                           Watkins Glen, NY
+
+Chicago is planning one for late July, CVR&Metro are planning a Lime
+Rock event in September.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+--------------------------
+
+Date: 07 Feb 92 16:33:28 EST
+From: Shel Hall <76701.103@CompuServe.COM>
+To: <porschephiles@karazm.math.uh.edu>
+Subject: Technology Marches On
+
+Folks-
+ 
+Technology marches onwards ....
+ 
+In today's Atlanta newspaper, someone is offering a 1974 Porsche 911
+Targa Carrera for $19,000.  "Whoopie," I hear you say.  But wait,
+there's more.  The ad says the car has
+ 
+        "new built steam shocks"
+ 
+and, no, I haven't called the guy to ask him where he gets the steam in
+an air-cooled car ....
+ 
+-Shel
+
+
+--------------------------
+
+Date: Sat, 8 Feb 92 01:41 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: sundt <sundt@athens.cc.bellcore.com>
+Cc: autox <autox@hoosier.utah.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: EFI Diagnostic equipment
+
+Mark -
+
+>There are also special service information booklets on the 944 Turbo S,
+>ABS brakes, and Air Bags. They also cost ~$6.00 each. I can get the
+>numbers if anyone would like.
+
+Thanks for the numbers.  Yes, I would appreciate getting the others as well.  
+The ABS manual is WKD.493.710.
+
+>Apparently the European/ROW DME unit is the same as the American one
+>except for an altitude compensator (US) and some other "coding plug"
+>connection to the DME left open. The specification for open loop CO
+>adjustment is 0.6+/-0.2 %CO on the US car and 1.0+/-0.5%CO on the
+>European/ROW car. Assuming the European car did not have a CAT
+>(I'm pretty sure about this), would it hurt the CAT or cause it
+>to run too hot if I bumped up the CO adjustment to 1% or even 1.5%?
+>As I understand it when your foot is heavy on the gas (throttle valve
+>gap of 65 degrees or more) a "full load" contact is triggered and
+>the computer ignores the oxygen sensor anyway. So the computer really
+>only regulates emissions at part throttle and idle. This is one
+>reason why the wastegate dumps directly into the exhaust downstream
+>of the CAT. Anyone know what it takes to damage or destroy a CAT,
+>short of dumping raw gas into it???
+
+I don't know what performance difference you would see by bumping the CO to 1%. 
+I know a friend whose mechanic gooses the CO a tad on an '80 928 for just this
+reason.  I dunno if it makes any difference in reality.  The different emissions
+numbers reflect cat/no cat.
+
+As you point out, the throttle body has two limit switches: one for idle and one
+for "wide open throttle".  When the WOT switch closes, the mixture is enriched
+and runs at lambda in the range of .85 to .95.  The ignition timing is also
+advanced for more power, subject to air temp and knocking.  I don't know that it
+runs truly open loop wrt the lambda sensor; there doesn't seem to be any reason
+to.
+
+There are a number of ways to hose your cat.  If you run chronically much too
+rich, the unburnt hydrocarbons will combust in the cat, getting it real hot. 
+Apparently temperatures above 800 degrees C will cause the platinum and rhodium
+coatings to sinter.  Misfiring also raises the temperature in the cat.  And you
+can poison the cat with either leaded fuel, or with engine oil in the exhaust.
+
+I don't know exactly what the DME coding plugs do.  I would guess that they
+indicate what country-specific equipment you have in the car.  In the US, the
+944 and 951 (but not the 944S or S2) have the altitude switch.  In Japan, there
+is a temp sensor in the cat.  Etc.
+
+Kevin
+
+--------------------------
+
+End of Digest
+
+From stan  Sun Feb  9 23:05:02 1992
+Received: by casc.math.uh.edu id <AA24888@casc.math.uh.edu>; Sun, 9 Feb 92 23:05:02 CST
+Received: by casc.math.uh.edu id <AA24870@casc.math.uh.edu>; Sun, 9 Feb 92 23:04:07 CST
+Date: Sun, 9 Feb 92 23:04:07 CST
+From: Stan Hanks <stan>
+To: porschephiles@casc.math.uh.edu
+Subject: Status Update
+
+Listmembers:
+
+We're still down, but getting better. I anticipate getting everything
+all fixed by sometime tomorrow. Until then, don't post!!!
+
+Regards,
+
+Stan
+
+From porschephiles-request Mon Feb 10 07:14:10 1992
+Received: by karazm.math.UH.EDU id AA22352
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 10 Feb 1992 13:14:20 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA22348
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 10 Feb 1992 13:14:16 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA22287
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 10 Feb 1992 13:14:12 -0600
+Message-Id: <199202101914.AA22287@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA26165@casc.math.uh.edu>; Mon, 10 Feb 92 13:14:10 CST
+Date: Mon, 10 Feb 92 13:14:10 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Test again
+
+
+This is a test. Ignore this message.
+
+Stan
+
+From porschephiles-request Mon Feb 10 07:22:39 1992
+Received: by karazm.math.UH.EDU id AA22430
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 10 Feb 1992 13:22:47 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA22426
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 10 Feb 1992 13:22:45 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA23066
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 10 Feb 1992 13:22:42 -0600
+Message-Id: <199202101922.AA23066@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA26243@casc.math.uh.edu>; Mon, 10 Feb 92 13:22:39 CST
+Date: Mon, 10 Feb 92 13:22:39 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Back On Line
+
+The List is back on line!!! After a Lost Weekend of re-configuring a
+server and several client machines, all the moving parts are once again
+back in their places and life can continue to be wonderful.
+
+Please, if you notice any annomolous behaviour, let me know by direct
+mail to stan@karazm.math.uh.edu
+
+Thanks,
+
+Stan
+
+From porschephiles-request Tue Feb 11 01:40:00 1992
+Received: by karazm.math.UH.EDU id AA27112
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 10 Feb 1992 19:49:19 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA27108
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 10 Feb 1992 19:49:17 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac29775;
+          10 Feb 92 20:44 EST
+Date: Tue, 11 Feb 92 01:40 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: 968 M030 NLA
+Message-Id: <60920211014006/0004056890NA4EM@mcimail.com>
+
+...which means that PCNA has decided not to supply customers with the M030 sport
+package on 968's.  Sad but true.  Apparently they could not justify it given
+projected volume.
+
+Kevin
+
+From porschephiles-request Tue Feb 11 01:59:00 1992
+Received: by karazm.math.UH.EDU id AA27198
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 10 Feb 1992 20:08:10 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA27194
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 10 Feb 1992 20:08:07 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab00493;
+          10 Feb 92 21:03 EST
+Date: Tue, 11 Feb 92 01:59 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: sundt <sundt@athens.cc.bellcore.com>
+Cc: autox <autox@hoosier.utah.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: EFI Diagnostic equipment
+Message-Id: <13920211015931/0004056890NA3EM@mcimail.com>
+
+Mark -
+
+I passed along your questions to my friend the mechanic (MFTM).  He said that to
+really get the CO number up, you have to disconnect the lambda sensor in
+addition to making the adjustment at the air flow sensor.  Otherwise, the DME
+will just try to bring the CO back down to spec.
+
+He suggested that a better approach to this might be to replace the air flow
+sensor's damping spring with a lighter one.  You'd get the faster response
+you're looking for.
+
+He also cautioned against running the engine much too rich.  The excess fuel can
+wash the oil off the cylinder wall, leading to greatly accelerated wall wear and
+contamination of the oil with gas.
+
+Kevin
+
+From porschephiles-request Tue Feb 11 18:13:21 1992
+Received: by karazm.math.UH.EDU id AA13175
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 12 Feb 1992 00:13:26 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA13171
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 00:13:25 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA02302
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 00:13:23 -0600
+Message-Id: <199202120613.AA02302@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA00767@casc.math.uh.edu>; Wed, 12 Feb 92 00:13:21 CST
+Date: Wed, 12 Feb 92 00:13:21 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: The Long Awaited Who's Who on Porschephiles
+
+To post to Porschephiles, send mail to:
+	porschephiles@karazm.math.uh.edu
+
+Your list administrators is:
+	Stan Hanks <porschephiles-request@karazm.math.uh.edu>
+
+This list is also available in a digest format. Mail to porschephiles-request 
+for more info.  Archives are kept, but not readily available. If someone wants
+to volunteer to maintain them on-line, let me know.
+
+Porschephiles members as of this date.
+New members are marked with a '*' next to the state.
+Porsches owned/driven are listed, other cars are not. This may change
+if enough people bitch about it.  And, if you have any corrections, tell me!
+
+
+Brad Bass                TX '68 912                bass@convex.com
+George Beuselinck        NY '83 944                gb@vnet.ibm.com
+James Bober              VA '89 928-GT             JBOBER@FATVAX.IDA.ORG
+George Bono              CA '62 356B Cabriolet     BONO_GEORGE/HP4500_MP@sr.hp.com
+Paul Booth               NY '81 924 Turbo          paul@eye.com
+Michael Brodesky            '73 914 1.7            MBRODESKY@SC9.intel.com
+Corky Cartwright         TX '89 951S               cork@cs.rice.edu
+Queguiner Charles        FR '85.5 944              Charles.Queguiner@irisa.fr
+Lee Chen                 NY '87 944S '86 928S      thx1138@nyu.edu
+Carlos Costa             CA '75 Carrera           
+Donald Day               MI '80 928                don@cimage.com
+Carl DeSousa             CA '86 951, '80 931       desousa@cisco.com
+Milo Dorr                CA '86 944 Turbo          dorr@hyperion.llnl.gov
+Ralph Droms              PA                        droms@bucknell.edu
+Dave Erickson            CA '64 356 SC coupe       erickson@taurus.cs.nps.navy.mil
+Doug Fields              CT '88 944 Turbo S        fields-doug@CS.YALE.EDU
+James Fuerstenberg       ?? '79 911SC Targa        xgg2356@dcmdc.dla.mil
+Stuart Galt              WA '77 911S '74, 914 2.0  sag5004@yak.boeing.com
+Pete Gayde               IL '87 924S               iwcs!gayde@att.att.com
+Jon Glickman             CA '83 911SC Targa        jong@sjc.mentorg.com
+Greg Grohoski            TX '88 944 turbo          grohoski@futserv.austin.ibm.com
+Kevin Gross              MA '87 944S               0004056890@mcimail.com
+Stan Hanks               TX '81 911SC, '74 914     stan@karazm.math.uh.edu
+Mike Hearn               CO '86 911 Turbo          hearn@druco.att.com
+Devon Heron              CA                        devonh@sol.metaware.com
+Violet Jen               CA '89 944 Turbo S        violet@mips.com
+Chris Kantarjiev(Kent)   CA                        kent@parc.xerox.com
+Dan Kasha                CT '66 912                kasha@twolf.ce.yale.edu
+Philip Katz              UK '85 944 Lux            katz_p_m@bt-web.bt.co.uk
+Dave Kissel              CO '77 930                damiki@druco.att.com
+Alfred Kwan              NJ '70 914/6              alfred@nyquist.bellcore.com
+Soren LaForce            CA '80 911sc coupe        LAFORCE@xenon.arc.nasa.gov
+Bart Locanthi            OR '89 951S               bart@teni.cse.ogi.edu
+Dick Lucas               ?? '62 356B-90            dick@hpcdcel.cdc.hp.com
+John Lupien              MA '73 914                lupienj@hpwarq.wal.hp.com
+Tassos Markas            NC '87 944 Turbo          am@cs.duke.edu
+Robert Merithew          CA '74 914 2.0            merithew@jessica.stanford.edu
+Jeff Moersch             NY '73 914 2.0L           AGJEM@ACVAX.INRE.ASU.EDU
+Tim Mueller              UT '72 911T               mueller%velo@cs.utah.edu
+Ken Neff                 TX '73 914 2.0            kneff@tivoli.com
+Steven Neighorn          OR '84 944                neighorn@cse.ogi.edu
+Fred Orndorff            PA                        fo07+@andrew.cmu.edu
+Gordon Patterson         NJ                        gordonp@icarus.montclair.edu
+Bob Pentecost            ID '83 944                bpenteco@hpbs987.boi.hp.com
+John Pezaris             MA '70 914-6              pz@mit.edu
+Scott Presnell           CA '72 911T Targa         srp@cgl.ucsf.EDU
+M Seibert                MA '79 924                seibert@xn.ll.mit.edu
+Hurf Sheldon             NY '79 928                hurf@love.graphics.cornell.edu
+Jeff Shorey              NC '73 911S               js@aixservr.egr.duke.edu
+Josh Sirota              CA                        Josh.Sirota@Eng.Sun.COM
+Drew Spencer             UT '82 911SC              drew_spencer@npd.Novell.COM
+Ken Stanton             CDN '81 924 Turbo          Ken.Stanton@QueensU.CA
+Bert Still               CA '80 928                bert@athena.llnl.gov
+Blaine Stine             CA '85.5 944              stine@sdbio2.UCSD.EDU
+Mark Sundt               NJ '86 944 Turbo          sundt@athens.cc.bellcore.com
+Steve TImmins            DE '86 951                timmins@brahms.udel.edu
+Walt Thode               CA '72 911T               thode@nprdc.navy.mil
+Mike Todd                NY '70 911T               miketodd@cs.cornell.edu
+Steve Tynor              GA '87 951, '74 914 2L    tynor@prism.gatech.edu
+Ilsa VanHook             CA '71 914 1.7L           ilsa@netcom.netcom.com
+Alan Vayda               MI '83 944                vayda@erim.org
+Keith Watson             OR '81 911SC Targa        kwatson@ws.MENTORG.COM
+John Weiler              GA                        gt7734a@prism.gatech.edu
+Joe Wiesenfeld           MA '89 944-S2             jwiesenf@dg-webo.webo.dg.com 
+Jay Wilkinson            MA '86 951                jcw@ksr.com
+Patty Winter             CA '86 951                winter@apple.com
+Bob Wittick              MI '88 911 Coupe          rwittick@convex.cl.msu.edu
+
+-----
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0336
+
+From porschephiles-request Wed Feb 12 08:32:49 1992
+Received: by karazm.math.UH.EDU id AA13787
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 12 Feb 1992 04:09:46 -0600
+Received: from eros.uknet.ac.uk by karazm.math.UH.EDU with SMTP id AA13783
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 04:09:40 -0600
+Received: from prl.philips.co.uk by eros.uknet.ac.uk with UUCP 
+          id <20059-0@eros.uknet.ac.uk>; Wed, 12 Feb 1992 10:05:39 +0000
+Received: from prsun11l by prlhp1.prl.philips.co.uk; Wed, 12 Feb 92 08:32:09 gmt
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Wed, 12 Feb 92 08:32:49 GMT
+Message-Id: <1235.9202120832@prsun11l.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: request for info (about *you*, singly and severally)
+
+
+
+Stan, here's the info ...
+
+Richard Cole, Surrey, England, 1972 911 E 2.4 (and a 1967 Morris Mini !)
+
+Now for a question ... I am going to try my hand at hillclimbing this year,
+as this is my first foray into any form of motorsport has anyone any hints
+and tips re car preparation (I don't have an F1 style budget :-( ).
+
+        __
+       /__) .  _  /_   _   _  _ /
+      / \  / /_  /  / /_| /  /_/
+
+colers@prl.philips.co.uk
+
+
+From porschephiles-request Wed Feb 12 06:03:28 1992
+Received: by karazm.math.UH.EDU id AA16135
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 12 Feb 1992 10:03:39 -0600
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA16131
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 10:03:38 -0600
+Received: from brahms.udel.edu by bcm.tmc.edu (AA02318); Wed, 12 Feb 92 10:03:30 CST
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA04412; Wed, 12 Feb 92 11:03:29 -0500
+Message-Id: <9202121603.AA04412@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Wed, 12 Feb 1992 11:03:28 EST
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Shock Warehouse?
+
+Does anyone have a number for this?
+
+I need shocks for my honda Civic SI ASAP.
+
+Any other recommendations also appreciated.
+
+Steve
+
+-- 
+
+From porschephiles-request Wed Feb 12 02:10:18 1992
+Received: by karazm.math.UH.EDU id AA19682
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 12 Feb 1992 12:10:24 -0600
+Received: from AUSPEX-GW.AUSPEX.COM by karazm.math.UH.EDU with SMTP id AA19677
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 12:10:22 -0600
+Received: from auspex.com (auspex.auspex.com) by auspex-gw.Auspex.COM (4.1/SMI-4.1)
+	id AA27260; Wed, 12 Feb 92 10:10:19 PST
+Received: by auspex.com (4.1/SMI-4.1)
+	id AA02552; Wed, 12 Feb 92 10:10:18 PST
+Date: Wed, 12 Feb 92 10:10:18 PST
+From: brogers@auspex.com (Bob Rogers)
+Message-Id: <9202121810.AA02552@auspex.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Request for Information
+
+
+Information for the WW:
+
+Robert Rogers San Jose, Ca, 1978 930 (modified) , and 1979 930 (stock).
+
+brogers@auspex.com or uunet!auspex!brogers     (408) 492-0900
+USPS: Bob Rogers/ Auspex Systems/ 2952 Bunker Hill Lane/ Santa Clara, CA 95054
+
+From porschephiles-request Tue Feb 11 23:39:36 1992
+Received: by karazm.math.UH.EDU id AA20238
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 12 Feb 1992 13:09:25 -0600
+Received: from trout.nosc.mil by karazm.math.UH.EDU with SMTP id AA20234
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 13:09:16 -0600
+Received: by trout.nosc.mil (5.59/1.27)
+	id AA07627; Wed, 12 Feb 92 11:09:14 PST
+From: hill@spectra.com
+Message-Id: <9202121909.AA07627@trout.nosc.mil>
+Date: Wed, 12 Feb 92 07:39:36 -0800
+To: "nosc!porschephiles@karazm.math.uh.edu"@trout.nosc.mil
+Subject: ADD ME TO THE LIST
+
+
+
+HI,
+Can I please be added to the list.
+
+Thanks 
+Greg Hill      80 911SC
+
+ucsd!nosc!spectra!vax4000::hill
+
+From porschephiles-request Wed Feb 12 20:01:50 1992
+Received: by karazm.math.UH.EDU id AA20602
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 12 Feb 1992 14:02:08 -0600
+Received: from salmon.maths.tcd.ie by karazm.math.UH.EDU with SMTP id AA20592
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 12 Feb 1992 14:01:57 -0600
+Received: from salmon.maths.tcd.ie by salmon.maths.tcd.ie
+           Local Delivery (salmon) id aa28724; 12 Feb 92 20:01 GMT
+To: porschephiles@karazm.math.uh.edu
+Subject: subcribe
+Date: Wed, 12 Feb 92 20:01:50 GMT
+From: Mark <madmax@maths.tcd.ie>
+Message-Id:  <9202122001.aa28724@salmon.maths.tcd.ie>
+
+
+Please put me on the Porsche mailing list. Thank you.
+
+Mark Taylor 
+
+madmax@maths.tcd.ie - Dept. of Maths, Trinity College, Dublin.
+
+From porschephiles-request Wed Feb 12 13:08:44 1992
+Received: by karazm.math.UH.EDU id AA04048
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 13 Feb 1992 12:18:23 -0600
+Received: from tbird.cc.bellcore.com by karazm.math.UH.EDU with SMTP id AA04044
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 13 Feb 1992 12:18:19 -0600
+Received: by tbird.cc.bellcore.com id AA25114
+  (5.65c/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Wed, 12 Feb 1992 18:08:44 -0500
+Date: Wed, 12 Feb 1992 18:08:44 -0500
+From: sundt@athens.cc.bellcore.com
+Message-Id: <199202122308.AA25114@tbird.cc.bellcore.com>
+To: 0004056890@mcimail.com
+Subject: Re: EFI Diagnostic equipment
+Cc: autox@autox.team.net, porschephiles@karazm.math.uh.edu
+
+Kevin,
+
+I'd really like to start off by doing a basic adjustment of
+the open-loop fuel mixture on my stock Bosch DME system. I'm
+not looking to dramatically alter to CO number. Unfortunately,
+I'm getting the idea that noone has done this. Thanks for your
+help anyway. I'll let you know what I find out.
+	
+Mark 
+
+From porschephiles-request Thu Feb 13 05:05:19 1992
+Received: by karazm.math.UH.EDU id AA04093
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 13 Feb 1992 12:24:46 -0600
+Received: from eye.com by karazm.math.UH.EDU with SMTP id AA04089
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 13 Feb 1992 12:24:42 -0600
+Received: from acacia.eye.com by eye.com with SMTP
+	(16.6/16.2) id AA13886; Thu, 13 Feb 92 10:05:23 -0500
+Received: by acacia
+	(16.6/15.6) id AA21565; Thu, 13 Feb 92 10:05:21 -0500
+From: Paul B. Booth <paul@eye.com>
+Message-Id: <9202131505.AA21565@acacia>
+Subject: Winter Tires?
+To: porschephiles@karazm.math.uh.edu (Porsche Mailing List)
+Date: Thu, 13 Feb 92 10:05:19 EST
+Mailer: Elm [revision: 66.25]
+
+Hi-
+
+Doubtless, this is a FAQ, so apologies in advance, but dammit I don't want to
+wait until summer to finally try out the 924t I got last month.  The Dunlops
+(16" D40/M2's) on it now should be great in May, but ought to be outlawed
+between November and April.  I can't even get out of my driveway!
+
+So, what would you all recommend for winter use here in snowy, hilly, slippery
+Upstate NY?  I have 1 strong recommendation for Yokohama AVS U+4's, and beyond
+that, no clue.  Any other thoughts?
+
+Thanks!
+--
+Paul B. Booth  (paul@eye.com)
+-------------------------------------------------------------------------------
+3D/EYE, Inc., 2359 N. Triphammer Rd., Ithaca, NY  14850    voice: (607)257-1381
+                                                             fax: (607)257-7335
+
+From porschephiles-request Thu Feb 13 07:18:46 1992
+Received: by karazm.math.UH.EDU id AA04134
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 13 Feb 1992 12:29:00 -0600
+Received: from ihb.compuserve.com by karazm.math.UH.EDU with SMTP id AA04130
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 13 Feb 1992 12:28:54 -0600
+Received: by ihb.compuserve.com (5.65/5.910516)
+	id AA19709; Thu, 13 Feb 92 12:33:06 -0500
+Date: 13 Feb 92 12:18:46 EST
+From: Shel Hall <76701.103@CompuServe.COM>
+To: <porschephiles@karazm.math.uh.edu>
+Subject: Cars for sale/delivery offered
+Message-Id: <920213171845_76701.103_EHB73-6@CompuServe.COM>
+
+Folks-
+ 
+There are some interesting cars listed for sale in the Atlanta papers,
+although not all of them are in Atlanta ...
+ 
+Datsun 240Z         1973 great cond                $1,350 404-634-0166
+Mercedes 6.9        1979                           22,000 404-266-2169
+MGB                                                 1,500 205-826-6637
+Mustang Convertible 1972 exc.cond.                  6,500 912-452-8739
+Porsche 911T Targa  1973                            7,500 404-457-5858
+Porsche 911T        1969 needs some work            5,000 404-876-3050
+Porsche 914                    Parts or project car   900 404-985-2942
+Saab Sonnett        1973 No rust                    3,500 404-426-4587
+Triumph TR-3a                                       2,500 205-826-6637
+Triumph TR-4                                        3,500 205-826-6637
+Volvo P-1800 ES     1972 Special Edition Exc.cond.  4,500 615-687-1925
+Volvo 122s          1967 + 1967 parts car           3,500 404-377-9524
+ 
+Please don't call me about these cars, 'cause they aren't mine!  I will
+be happy to help you check them out if you are seriously interested in
+one of them, although I am no expert on any of the makes involved.
+ 
+FYI, area code 404 is North Georgia (including Atlanta), 912 is South
+Georgia, 205 is Alabama, and 615 is Tennessee.
+ 
+I'm still planning on making my Atlanta-to-California trip in mid-late
+March, and, although I have had one nibble on delivering a car to 
+California, my travel plans are still open and still flexible, and I 
+can deliver a drivable car to/from any point enroute.
+ 
+-Shel Hall
+ 76701.103@ CompuServe.Com
+ 404-351-3433
+
+
+From porschephiles-request Fri Feb 14 21:07:00 1992
+Received: by karazm.math.UH.EDU id AA02902
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 14 Feb 1992 04:08:15 -0600
+Received: from luga.latrobe.edu.au by karazm.math.UH.EDU with SMTP id AA02898
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 14 Feb 1992 04:08:10 -0600
+Received: from lure.latrobe.edu.au by luga.latrobe.edu.au with SMTP id AA00784
+  (5.65+/IDA-1.3.5/LTU-1.0 for porschephiles@karazm.math.uh.edu); Fri, 14 Feb 92 21:08:05 +1100
+Received: from lure.latrobe.edu.au by lure.latrobe.edu.au (PMDF #12402) id
+ <01GGIUH3ABDS8Y5QO9@lure.latrobe.edu.au>; Fri, 14 Feb 1992 21:07 GMT+1000
+Date: Fri, 14 Feb 1992 21:07 GMT+1000
+From: "Mark Kosten - Computer Centre, La Trobe Uni." <M.Kosten@latrobe.edu.au>
+Subject: Re: Cars for sale/delivery offered
+To: porschephiles@karazm.math.uh.edu
+Message-Id: <01GGIUH3ABDS8Y5QO9@lure.latrobe.edu.au>
+X-Envelope-To: porschephiles@karazm.math.uh.edu
+X-Vms-To: IN%"porschephiles@karazm.math.uh.edu"
+
+From: Shel Hall <76701.103@compuserve.com>
+>There are some interesting cars listed for sale in the Atlanta papers,
+>although not all of them are in Atlanta ...
+... various painful prices deleted...
+
+I can't resist letting people know that Australian readers will
+be extremely pained by the prices quoted in the original article
+(I couldn't possibly repeat them).  You could easily quadruple
+them to get a picture of what equivalents would be here in Oz,
+although more so for the German machinery than the English or
+Swedish toys :-).
+
+Some interesting news from here: The oldest Porsche dealer in the
+world outside of Germany has more or less collapsed.  Hamilton's
+Porsche dealership of Melbourne (distributor of Porsche cars for
+Australia since the early fifties) has been sold to Porsche Germany
+to keep it afloat.  The poor economy, high prices and low volume
+has taken their toll.  Unfortunately I missed the official release
+of the 968 where all the details were made known, but that is the
+gist.
+
+This must be sad for the Hamilton family, who, from father to son,
+has raced and sold Porsches since almost from day one.  However, I am
+glad it is Porsche itself that are keeping the dealership going.
+Perhaps in the future control will once again return to local hands.
+
+Mark Kosten
+(ccmk@latrobe.edu.au)
+
+From porschephiles-request Fri Feb 14 04:18:12 1992
+Received: by karazm.math.UH.EDU id AA03417
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 14 Feb 1992 08:43:26 -0600
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA03413
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 14 Feb 1992 08:43:21 -0600
+Received: from remus.rutgers.edu by bcm.tmc.edu (AA12015); Fri, 14 Feb 92 08:43:18 CST
+Received: from unipress-link.rutgers.edu by remus.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+	id AA11825; Fri, 14 Feb 92 09:43:13 EST
+Received: from erika.UUCP by repo.unipress.com (4.1/SMI-4.1/UniPress121291.1)
+	id AA07952; Fri, 14 Feb 92 09:43:10 EST via UUCP
+Received: from sparc.bighouse by erika.bighouse.unipress.com (4.0/SMI-4.0)
+	id AA13784; Fri, 14 Feb 92 09:18:44 EST
+Received: by sparc.bighouse (4.1/SMI-4.1)
+	id AA11744; Fri, 14 Feb 92 09:18:12 EST
+Date: Fri, 14 Feb 92 09:18:12 EST
+From: sparc!fhp@erika.bighouse.unipress.com (Fred Pack)
+Message-Id: <9202141418.AA11744@sparc.bighouse>
+To: porschephiles@bcm.tmc.edu
+Subject: survey  and brakes
+
+Date: 10 Feb -- I sent this a few days ago -- it must have gotten lostin the
+ether.
+
+I can strongly recommend VCI in Dover NJ as a supplier of brakes.  Doug Arnao,
+the owner, even holds the lap record for his class (I think in a 914) at Lime
+Rock.  201-366-7800.  He helped me when I needed track brakes pads for my
+944S2 (which seem to be in no catalogs) by realizing that this is the same pad
+size as in the 930, for which there are Ferodos.
+
+
+For the survey:
+
+
+1989 944S2
+Pirelli P700Z
+stock, except
+nifty removable Pioneer CD/radio
+aforementioned 930 Ferodo pads
+5-point belts
+
+From porschephiles-request Fri Feb 14 00:18:42 1992
+Received: by karazm.math.UH.EDU id AA03788
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 14 Feb 1992 10:14:39 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA03784
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 14 Feb 1992 10:14:37 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA00322; Fri, 14 Feb 92 08:18:42 PST
+Date: Fri, 14 Feb 92 08:18:42 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9202141618.AA00322@hyperion.llnl.gov>
+To: sundt@athens.cc.bellcore.com
+Subject: EFI Diagnostic equipment
+Cc: porschephiles@karazm.math.uh.edu
+
+
+>I'd really like to start off by doing a basic adjustment of
+>the open-loop fuel mixture on my stock Bosch DME system. I'm
+>not looking to dramatically alter to CO number. Unfortunately,
+>I'm getting the idea that noone has done this.
+
+Mark,
+
+I once attempted to adjust the idle mixture on my 951 by following the
+procedure in the factory manual and Probst's FI book.  As you probably
+know, this procedure amounts to reading the voltage from the oxygen
+sensor while you turn the screw in the air flow meter.  Supposedly,
+the voltage at the ideal setting (lambda = 1) is the average of the
+high and low voltages seem by turning the screw one way then the other
+(as I recall, clockwise richens the mixture and increases the sensor
+voltage).  This reading should be about 0.5V.  The procedure is to be
+performed with the engine at operating temperature and with the idle
+speed control disabled as described in the manual.  I did not have the
+oil temperature sensor that the manual recommends, so I had to guess
+the operating temperature.  Unfortunately, at this temperature
+(whatever it was) I was not able to see much difference in the sensor
+reading as I turned the screw.  As the engine warmed up from a cold
+start, the sensor voltage just steadily increased to a maximum voltage
+of 0.8V and remained there regardless of the air flow meter setting.
+I eventually gave up and decided to wait until I needed to go in for my
+CA smog certificate and have an expert look at it.
+
+-Milo
+
+
+
+From porschephiles-request Fri Feb 14 17:31:00 1992
+Received: by karazm.math.UH.EDU id AA04413
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 14 Feb 1992 12:04:52 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA04405
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 14 Feb 1992 12:04:47 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id bm16467;
+          14 Feb 92 12:46 EST
+Date: Fri, 14 Feb 92 17:31 GMT
+From: KEVIN <KEVIN+la+rBEYOND%Beyond+c_Inc+p@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+To: Milo Dorr <dorr@hyperion.llnl.gov>
+To: sundt <sundt@athens.cc.bellcore.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: re: EFI Diagnostic equipment
+Message-Id: <92920214173129/0004124339NA2EM@mcimail.com>
+
+MHS:   Source date is:     14-Feb-92 12:34 EDT
+
+Form: Reply
+Use OEM Field: true
+Text: (6 lines follow)
+Milo -
+
+Did you disconnect the lambda sensor?
+
+Kevin
+
+Original text: (33 lines follow)
+>From DORR @ MCIMAIL (Milo Dorr) { NAME: Milo Dorr | EMS: INTERNET | MBX:
+dorr@hyperion.llnl.gov }, on 2-14-92 8:18 AM:
+>I'd really like to start off by doing a basic adjustment of
+>the open-loop fuel mixture on my stock Bosch DME system. I'm
+>not looking to dramatically alter to CO number. Unfortunately,
+>I'm getting the idea that noone has done this.
+
+Mark,
+
+I once attempted to adjust the idle mixture on my 951 by following the
+procedure in the factory manual and Probst's FI book.  As you probably
+know, this procedure amounts to reading the voltage from the oxygen
+sensor while you turn the screw in the air flow meter.  Supposedly,
+the voltage at the ideal setting (lambda = 1) is the average of the
+high and low voltages seem by turning the screw one way then the other
+(as I recall, clockwise richens the mixture and increases the sensor
+voltage).  This reading should be about 0.5V.  The procedure is to be
+performed with the engine at operating temperature and with the idle
+speed control disabled as described in the manual.  I did not have the
+oil temperature sensor that the manual recommends, so I had to guess
+the operating temperature.  Unfortunately, at this temperature
+(whatever it was) I was not able to see much difference in the sensor
+reading as I turned the screw.  As the engine warmed up from a cold
+start, the sensor voltage just steadily increased to a maximum voltage
+of 0.8V and remained there regardless of the air flow meter setting.
+I eventually gave up and decided to wait until I needed to go in for my
+CA smog certificate and have an expert look at it.
+
+-Milo
+
+
+
+
+Original to: kevin @ beyond,SUNDT @ MCIMAIL (sundt) { NAME: sundt | EMS:
+ INTERNET | MBX: sundt@athens.cc.bellcore.com }
+Original cc: PORSCHEP @ MCIMAIL (porschephiles) { NAME: porschephiles | EMS:
+ INTERNET | MBX: porschephiles@karazm.math.uh.edu }
+
+From porschephiles-request Fri Feb 14 03:41:00 1992
+Received: by karazm.math.UH.EDU id AA04754
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 14 Feb 1992 13:47:09 -0600
+Received: from comm.Tandem.com by karazm.math.UH.EDU with SMTP id AA04750
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 14 Feb 1992 13:47:06 -0600
+Received: by comm.Tandem.COM (5.52.1/2.D)
+        id AA22841; 14 Feb 92 11:47:49 -0800
+Date: 14 Feb 92 11:41:00 -0800
+From: NORRIS_ERIC@tandem.com
+Message-Id: <199202141147.AA22841@comm.Tandem.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: Porsche 917 info???
+
+Dear Gearheads:
+
+Are there any 917s being raced in vintage events?  I'm primarily interested
+in the coupe versions, but I'd also like to hear about any 917-10s or 917-30s
+being raced as Can-Am types (still legal as SCCA ASR, right?).  I read
+about a 917K converted for street use many years ago by some guy in LA.  I'd
+appreciate any information on the current whereabouts of 917s.
+
+Yes, at age 16 I saw the movie "Le Mans" 8 times....
+THANKS!
+Eric Norris
+
+SCCA SFR FV # 11, painted in the Gulf colors...
+
+From porschephiles-request Fri Feb 14 06:25:24 1992
+Received: by karazm.math.UH.EDU id AA05896
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 14 Feb 1992 16:21:25 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA05892
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 14 Feb 1992 16:21:23 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA00380; Fri, 14 Feb 92 14:25:24 PST
+Date: Fri, 14 Feb 92 14:25:24 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9202142225.AA00380@hyperion.llnl.gov>
+To: KEVIN+la+rBEYOND%Beyond+c_Inc+p@mcimail.com
+Subject: re: EFI Diagnostic equipment
+Cc: porschephiles@karazm.math.uh.edu
+
+>Did you disconnect the lambda sensor?
+>
+>Kevin
+
+Absolutely.  In fact, I think it would be sort of hard to measure the
+voltage on the sensor without unplugging it, except by penetrating the
+insulation somewhere or measuring the voltage at the DME box itself.
+
+-Milo
+
+P.S.: I should also add that the oxygen sensor was brand new at the
+time I undertook the adjustment, in case there are any concerns about
+the reliability of that part.  The thing that got me starting messing
+around with this was a stumbling on acceleration from idle problem.  I
+put my meter on the O2 sensor and got 0V.  Replacing the sensor solved
+my problem.  I then proceded to try to set the idle mixture with the
+new sensor and had the experience reported previously.
+
+
+From porschephiles-request Sun Feb 16 17:45:23 1992
+Received: by karazm.math.UH.EDU id AA10045
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sun, 16 Feb 1992 23:45:31 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA10041
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sun, 16 Feb 1992 23:45:29 -0600
+Received: from Casc.Math.UH.EDU by Menudo.UH.EDU with SMTP id AA03815
+  (5.65c+/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sun, 16 Feb 1992 23:45:25 -0600
+Message-Id: <199202170545.AA03815@Menudo.UH.EDU>
+Received: by casc.math.uh.edu id <AA08993@casc.math.uh.edu>; Sun, 16 Feb 92 23:45:23 CST
+Date: Sun, 16 Feb 92 23:45:23 CST
+From: Stan Hanks <stan@casc.math.uh.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: New Improved Who's Who...
+
+Due to the large number of "but you left *ME* off..." letters I've recently
+gotten, here's the new improved list. Note some changes in car model
+format to faciliate easy compilation of statistics about who's driving
+what out there...
+
+Following today, I'll only post this once a month, unless the other 40 people
+all send in their info before the end of the month.... 8{)
+
+-----------------
+To post to Porschephiles, send mail to:
+	porschephiles@karazm.math.uh.edu
+
+Your list administrators is:
+	Stan Hanks <porschephiles-request@karazm.math.uh.edu>
+
+This list is also available in a digest format. Mail to porschephiles-request 
+for more info.  Archives are kept, but not readily available. If someone wants
+to volunteer to maintain them on-line, let me know.
+
+Current distribution by car type:
+
+Total list membership is 124 with  81  on the Who's Who list
+
+No Porsche	   7
+356		   3
+911		  17
+912		   4
+914		  12
+914-6		   2
+924		   3
+928		   5
+930		   4
+931		   4
+944		  12
+951		  14
+
+Legend: 356, 911, 912, 914, 914-6, 924, 928, and 944 counts  all non-
+turbo models. 930 == 911 Turbo, 931 == 924 Turbo, 951 == 944 Turbo.
+
+Porschephiles members who have told me what they drive as of this date.
+Porsches owned/driven are listed, other cars are not. This may change
+if enough people bitch about it.  And, if you have any corrections, tell me!
+
+Brad Bass                TX '68 912                bass@convex.com
+George Beuselinck        NY '83 944                gb@vnet.ibm.com
+James Bober              VA '89 928 GT             JBOBER@FATVAX.IDA.ORG
+George Bono              CA '62 356 B Cabriolet    BONO_GEORGE/HP4500_MP@sr.hp.com
+Paul Booth               NY '81 931                paul@eye.com
+Toufic Boubez            NJ '71 914 1.7L           boubez@cesl.rutgers.edu
+Michael Brodesky            '73 914 1.7            MBRODESKY@SC9.intel.com
+David Brown              CA '74 914 1.8            dab@esl.com
+Corky Cartwright         TX '89 951 S              cork@cs.rice.edu
+Queguiner Charles        FR '85.5 944              Charles.Queguiner@irisa.fr
+Lee Chen                 NY '87 944 S, '86 928 S   thx1138@nyu.edu
+Richard Cole             UK '72 911 E              colers@prl.philips.co.uk
+Gary Cook                CA '81 931                gary.cook@sun.com
+Carlos Costa             CA '75 911 Carrera       
+Donald Day               MI '80 928                don@cimage.com
+Carl DeSousa             CA '86 951, '80 931       desousa@cisco.com
+Milo Dorr                CA '86 951                dorr@hyperion.llnl.gov
+Ralph Droms              PA                        droms@bucknell.edu
+Dave Erickson            CA '64 356 SC coupe       erickson@taurus.cs.nps.navy.mil
+Doug Fields              CT '88 951 S              fields-doug@CS.YALE.EDU
+James Fuerstenberg          '79 911 SC Targa       xgg2356@dcmdc.dla.mil
+Stuart Galt              WA '77 911 S, '74 914 2.0 sag5004@yak.boeing.com
+Pete Gayde               IL '87 924 S              iwcs!gayde@att.att.com
+Jon Glickman             CA '83 911 SC Targa       jong@sjc.mentorg.com
+Jane Gonyea              IL '83 911 Targa          janeg@ihlpb.att.com
+Pete Gregory             CA '69 912                pete@wvus.org
+Greg Grohoski            TX '88 951                grohoski@futserv.austin.ibm.com
+Kevin Gross              MA '87 944 S              0004056890@mcimail.com
+Stan Hanks               TX '81 911 SC Targa, '74 914 1.8L stan@casc.math.uh.edu
+Mike Hearn               CO '86 930                hearn@druco.att.com
+Devon Heron              CA                        devonh@sol.metaware.com
+Greg Hill                   '80 911 SC             hill@spectra.com
+Violet Jen               CA '89 951 S              violet@mips.com
+Michael Jorgensen        NE '73 914 2.0            dsndata!mike@sparky.IMD.Sterling.COM
+Chris Kantarjiev(Kent)   CA                        kent@parc.xerox.com
+Dan Kasha                CT '66 912                kasha@twolf.ce.yale.edu
+Philip Katz              UK '85 944 Lux            katz_p_m@bt-web.bt.co.uk
+Frank Kerfoot            NJ '87 944 S              fwk@homxc.att.com
+Dave Kissel              CO '77 930                damiki@druco.att.com
+Alfred Kwan              NJ '70 914-6              alfred@nyquist.bellcore.com
+Soren LaForce            CA '80 911 sc coupe       LAFORCE@xenon.arc.nasa.gov
+Bart Locanthi            OR '89 951 S              bart@teni.cse.ogi.edu
+Dick Lucas                  '62 356 B S90          dick@hpcdcel.cdc.hp.com
+John Lupien              MA '73 914                lupienj@hpwarq.wal.hp.com
+Tassos Markas            NC '87 951                am@cs.duke.edu
+Robert Merithew          CA '74 914 2.0            merithew@jessica.stanford.edu
+Jeff Moersch             NY '73 914 2.0L           AGJEM@ACVAX.INRE.ASU.EDU
+Bob Mohr                 VA '87 924 S              mohr_bob@po.gis.prc.com
+Tim Mueller              UT '72 911 T              mueller%velo@cs.utah.edu
+Ken Neff                 TX '73 914 2.0            kneff@tivoli.com
+Steven Neighorn          OR '84 944                neighorn@qiclab.scn.rain.com
+Fred Orndorff            PA                        fo07+@andrew.cmu.edu
+Fred Pack                NJ '89 944 S2             fhp@unipress.com
+Gordon Patterson         NJ                        gordonp@icarus.montclair.edu
+Bob Pentecost            ID '83 944                bpenteco@hpbs987.boi.hp.com
+John Pezaris             MA '70 914-6              pz@mit.edu
+Scott Presnell           CA '72 911 T Targa        srp@cgl.ucsf.EDU
+Robert Rogers            CA '78 930, '79 930       brogers@auspex.com
+M Seibert                MA '79 924                seibert@xn.ll.mit.edu
+Hurf Sheldon             NY '79 928                hurf@love.graphics.cornell.edu
+Jeff Shorey              NC '73 911 S              js@aixservr.egr.duke.edu
+Josh Sirota              CA                        Josh.Sirota@Eng.Sun.COM
+Drew Spencer             UT '82 911 SC             drew_spencer@npd.Novell.COM
+Ken Stanton              CDN '81 931                Ken.Stanton@QueensU.CA
+Bert Still               CA '80 928                bert@athena.llnl.gov
+Blaine Stine             CA '85.5 944              stine@sdbio2.UCSD.EDU
+Mark Sundt               NJ '86 951                sundt@athens.cc.bellcore.com
+Steve TImmins            DE '86 951                timmins@brahms.udel.edu
+Walt Thode               CA '72 911 T              thode@nprdc.navy.mil
+Mike Todd                NY '70 911 T              miketodd@cs.cornell.edu
+Steve Tynor              GA '87 951, '74 914 2L    tynor@prism.gatech.edu
+Ilsa VanHook             CA '71 914 1.7L           ilsa@netcom.netcom.com
+Alan Vayda               MI '83 944                vayda@erim.org
+Keith Watson             OR '81 911 SC Targa       kwatson@ws.MENTORG.COM
+John Weiler              GA                        gt7734a@prism.gatech.edu
+RJ White                 ON '68 912                rjwhite@watmath.waterloo.edu
+Joe Wiesenfeld           MA '89 944 S2             jwiesenf@dg-webo.webo.dg.com 
+Jay Wilkinson            MA '86 951                jcw@ksr.com
+Patty Winter             CA '86 951                winter@apple.com
+Bob Wittick              MI '88 911 Coupe          rwittick@convex.cl.msu.edu
+Robert Yen               IL '88 951                rsyen@rtsg.mot.com
+
+
+-----
+
+Stanley P. Hanks
+Principal Scientist,                            Technology Transfer Associates
+U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+FedEx/Shipping:    5303-F Glenmont, Houston     TX    77081
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 661-0336
+
+From porschephiles-request Mon Feb 17 04:35:29 1992
+Received: by karazm.math.UH.EDU id AA11262
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 17 Feb 1992 08:36:57 -0600
+Received: from dg-rtp.dg.com (dg-rtp.rtp.dg.com) by karazm.math.UH.EDU with SMTP id AA11258
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 17 Feb 1992 08:36:55 -0600
+Received: from dg-webo.webo.dg.com by dg-rtp.dg.com (5.4/dg-rtp-proto)
+	id AA16549; Mon, 17 Feb 1992 09:36:21 -0500
+Received: by dg-webo.webo.dg.com (5.4/dg-g01)
+	id AA04768; Mon, 17 Feb 1992 09:35:29 -0500 via SMTP
+Date: Mon, 17 Feb 1992 09:35:29 -0500
+From: jwiesenf@dg-webo.webo.dg.com (Joe Wiesenfeld-Network Services Group-USENET)
+Message-Id: <9202171435.AA04768@dg-webo.webo.dg.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Boston Area Dealers
+
+I just stopped by my friendly Porsche dealor on Saturday and found out that 
+they had been sold and no longer service Prosches.  I bought my car at Annis
+Porsche, Auid, VW on Route 9 in Natick.
+
+I would be interested in hearing about other readers of this list success
+with other Boston area dealerships or about private service operations.
+
+Thanks
+
+Joe Wieswenfeld
+
+From porschephiles-request Mon Feb 17 04:52:44

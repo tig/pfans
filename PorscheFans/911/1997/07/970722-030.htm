@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: What's up with this listserver ? </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="Chris Cope <chrisc@flatland.dimensional.com>">
+  <META NAME="MsgPropFrom" CONTENT="rpark@dev.hcsd.hac.ca (Ross Parker)">
+  <META NAME="MsgPropSubject" CONTENT="Re: What's up with this listserver ?">
+  <META NAME="MsgPropDate" CONTENT="Tue, 22 Jul 1997 09:08:52 -0700">
+  <META NAME="MsgPropCc" CONTENT="911@porschefans.com">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<199707221459.IAA19591@flatland.dimensional.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Chris Cope &lt;chrisc@flatland.dimensional.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">rpark@dev.hcsd.hac.ca (Ross Parker)</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: What's up with this listserver ?</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 22 Jul 1997 09:08:52 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">911@porschefans.com</td></tr>
+</table>
+<pre>
+Chris,
+
+> I don't mean to sound ungrateful, because I'm glad that we have this
+> list and I appreciate the job that is done.  But it does seem to 
+> malfunction more than any list I have seen, though I have only
+> seen a few others.  I've seen it multiple-post (like 100 times) someone's
+> single message three or four times, I've seen it drop everyone twice,
+> and I've seen it add people that never subscribed in the first place..
+> and I've only been on it 8 months.
+> 
+> What's up with this thing ?  Is there anything that can be done to make it
+> better ?
+
+
+Hmmm - I'll put forward an explanation of what I *believe* is happening,
+though of course I'm not there so can't tell for sure!
+
+First, Internet email works on what's called a "store-and-forward" system.
+I.e., mail being sent from one system to another first gets stored in
+a spool area, then forwarded on to the next system. Mail will sometimes
+have to get stored and forwarded by 6 or 7 different systems (or more) across
+the net in order to reach your mailbox. Once the message has been successfully
+forwarded down the line, it is removed from the spool area on the
+forwarding system.
+
+In the event of a failure in the "forward" part of that, the forwarding
+system just hangs on to it and after some predetermined amount of time
+(usually 1/2 hour or 1 hour) it will go through stored messages again and
+try to reforward what it's got.
+
+The KEY thing is that upon failure of any kind, the receiving system should
+NOT try to forward the message on to the next hop, but should instead just
+remove it from it's spool area (the system upstream will send it again).
+
+The PFans list server is not working quite properly in that it is receiving
+messages, storing them, AND forwarding them to the list, but is in a couple
+of occasions returning an error indication to the system that has forwarded
+the message. The message still gets sent out to at least part of the
+recipient list, but the system that had sent the message to PFans believes
+it needs to resend the message, and it does so after that 1/2 hour or 1 hour
+time period. And again. And again, and again, and again.
+
+This has happened in the past, and SEEMS to be associated with messages
+that get copied to ALL of the PFans lists. I don't know if the list software
+breaks down when there's a large number of recipients or if there's some
+other problem.
+
+Unfortunately, the only way to break OUT of the loop is to go to the
+admins of the site UPSTREAM of PFans and ask them to remove the messages
+from their mail spool. I've done this already, but system admins don't
+generally take kindly to requests from anonymous people to remove queued
+email.
+
+This is the kind of situation that needs active administration from the
+PFans site itself - if they would contact the upstream site (which in
+this case is at pacbell.net) and ask to remove the messages from the queue,
+this would stop.
+
+Sorry for the rant, and hope that helped!
+
+Ross
+--
+Ross Parker            |      UNIX Sys Admin, PERL and C toolsmithing,
+Senior Consultant      |     Networking and security, CGI applications.
+Parkridge Systems Inc. |
+                       | Words to live by:
+rpark@dev.hcsd.hac.ca  |   You're never too old to have a happy childhood!
+
+
+
+.
+</pre>
+</BODY></HTML>

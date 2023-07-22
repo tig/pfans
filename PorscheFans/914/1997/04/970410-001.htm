@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Starter Latch-Up</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="914@porschefans.com (Porschefans-914)">
+  <META NAME="MsgPropFrom" CONTENT="entropy@hughes.net">
+  <META NAME="MsgPropSubject" CONTENT="Starter Latch-Up">
+  <META NAME="MsgPropDate" CONTENT="Thu, 10 Apr 97 07:56:35 GMT">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">914@porschefans.com (Porschefans-914)</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">entropy@hughes.net</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Starter Latch-Up</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Thu, 10 Apr 97 07:56:35 GMT</td></tr>
+</table>
+<pre>
+Greetings 914-er's!
+
+  For Gerry O'Brien and other interested parties:
+
+Gerry writes:
+
+> I am putting a 73 1.7 together and the starter stays engaged after the key
+> is released. I replaced the ignition switch with out any change . It looks
+> like about 8 volt is left on the yellow wire to the starter after the key is
+> released. Any ideas would be appreciated. 
+
+  If no one has come up with an answer on this yet, I will venture one.   If you 
+take a look at the theoretical starter diagram (Fig. 9.5) on page 122 of the Haynes 
+manual, you will notice that the starter solenoid has two windings: a "pull-in" 
+winding, and a "holding" winding.  This is fairly common practice on large 
+industrial contactors where a large amount of energy is needed to move an armature, 
+but only a small amount is needed to hold it in place once it gets there.  To save 
+money, the "pull-in" coil is built to operate for only a short time, and would fry 
+if powered for more than a few seconds.  Fortunately, once it's job is done, the 
+"holding" coil can take over and maintain the contact closure.
+  In the case of the 914 starter, there are two current paths through the two 
+windings.  (I will use conventional current flow here.)  The first path is from the 
+key switch to terminal 50 on the starter, and thence through item 7 (pull-in coil) 
+through the motor windings (remember, when the key is first turned, the motor is 
+stalled, and so represents very low resistance) and on to ground.  The second path 
+is the same through terminal 50, and then diverges through item 6 (holding coil) 
+and directly to ground.
+  When the solenoid pulls in, note that the pull-in coil is effectively out of the 
+circuit (shorted out by the high current switch in the solenoid itself), leaving 
+the holding coil to keep things running.  
+  When the key is released, the two solenoid windings are suddenly placed in 
+series, with current flow in the pull-in coil opposite to what it was when the key 
+was turned.  (Current path is from terminal 30 through item 3, through item 7 past 
+terminal 50 [now not connected to anything because you let go of the key] through 
+item 6 and on to ground.)  This means that the magnetic field polarity in the 
+pull-in coil is also reversed, opposing that of the holding coil.  The result is a 
+quick collapse of the field holding the starter solenoid engaged, which causes the 
+drive unit to disengage smartly and the high-current switch to open, returning the 
+starter to a quiescent state; exactly as the designer intended.
+  Now, let us suppose hypothetically that the "pull-in" winding becomes partially 
+shorted.  The starter will probably still engage, because there are still a few 
+turns working on the pull-in coil, and the holding coil may be enough to do the job 
+anyway.  However, once the key is released, there is not much of a field in the 
+partially shorted pull-in coil to oppose that of the holding coil.  Further, the 
+holding coil is being supplied with more voltage than normal because of the reduced 
+resistance of a partially shorted pull-in coil.  The result is that the field 
+produced by the holding coil is sufficient to maintain operation of the starter.  
+In electronics, this is known as a "latching relay": a device that once engaged 
+cannot be dis-engaged except by removal of the power supply.
+  My bet is that you have a bad starter solenoid.  If you can borrow a known 
+working starter from someone else, try it and see if it fixes the problem.  If so, 
+buy a rebuilt starter.  If not, I am completely stumped.
+
+                                                  Good Luck,
+                                                  Jim T.
+
+
+.
+</pre>
+</BODY></HTML>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: SORRY </TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="ptong-nospam@928s4vr.com">
+  <META NAME="MsgPropFrom" CONTENT="dkelly@hiwaay.net">
+  <META NAME="MsgPropSubject" CONTENT="Re: SORRY">
+  <META NAME="MsgPropDate" CONTENT="Sun, 20 Jul 1997 13:36:58 -0500">
+  <META NAME="MsgPropcc" CONTENT="Matt Wesendunk <dunk@ricochet.net>, ''928@PorscheFans.com'' <928@porschefans.com>">
+  <META NAME="MsgPropIn-reply-to" CONTENT="Message from Phil Tong <ptong-nospam@928s4vr.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">ptong-nospam@928s4vr.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">dkelly@hiwaay.net</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: SORRY</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Sun, 20 Jul 1997 13:36:58 -0500</td></tr>
+<tr><td class="HeaderItemLabel">cc:</td><td class="HeaderItemContent">Matt Wesendunk &lt;dunk@ricochet.net&gt;, '928@PorscheFans.com' &lt;928@porschefans.com&gt;</td></tr>
+</table>
+<pre>
+ptong-nospam@928s4vr.com said:
+> Hope this doesn't loop also:
+> On some email programs, you can set up filters like this:
+> If email contains "sender@blahblah.net" then move to "trashcan".
+> See your Help section if it's not obvious how to set this up.
+>
+> Then check how frequently your email program empties the trashcan to
+> quickly eliminate piled up garbage. 
+
+Actually for this situation the solution should be even simpler. There is a 
+message ID header which looks something like this one (from Phil's message) 
+Message-id: <33D1A8AB.976E5A75@928s4vr.com>. A smart email filter will 
+maintain a database of message ID's and automatically delete the dupes. I 
+had 318 messages awaiting this morning which filtered down to 51.
+
+For the problem message, filter on its message ID.
+
+I run FreeBSD (genuine BSD can't-say-its-Unix anymore, 
+http://www.freebsd.org/) on my home system and use slocal (out of the Rand 
+MH package) to sort incoming email. The man page says to create 
+..maildelivery.dir and .maildelivery.pag files to enable automatic duplicate 
+deletetion, but because MH is distributed in source, and not all Un*x-like 
+systems have the same db functions in libc as the man page's author, I 
+eventually discovered ".maildelivery.db" was all I needed (should have 
+looked at my source code earlier).
+
+Its probable that most of us download our email from a Unix host. And its 
+likely most of us have a shell account at our ISP. And if mh is installed 
+on that system then you could filter upstream of your modem.
+
+My ISP has MH installed. I've not implemented same there as I have at home 
+(yet) until I resolve the issue of refiling mail (the stuff I want, minus 
+spam, minus dupes) back into the system mailbox. The issue is how to deal 
+with the case where multiple incoming messages arrive at the same time. One 
+has to lock the system mailbox on the first message, and wait until that 
+finishes before the next is allowed to write to that file. MH (actually 
+slocal) relies on an external program to actually place the message. 
+FreeBSD uses mail.local (even from sendmail) for this task. Sendmail on my 
+ISP uses /bin/mail for local delivery, but in a mode that non-root users 
+are not allowed.
+
+'83 928S
+(7) cats
+too many computers
+--
+David Kelly N4HHE, dkelly@hiwaay.net
+=====================================================================
+The human mind ordinarily operates at only ten percent of its
+capacity -- the rest is overhead for the operating system.
+
+
+.
+</pre>
+</BODY></HTML>
