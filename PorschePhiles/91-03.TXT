@@ -1,0 +1,1405 @@
+From porschephiles-request@karazm.math.uh.edu  Fri Mar  1 15:03:46 1991
+Received: by karazm.math.uh.edu id <AA01472@karazm.math.uh.edu>; Fri, 1 Mar 91 15:03:47 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA01456@karazm.math.uh.edu>; Fri, 1 Mar 91 15:02:32 CST
+Received: from eecs.nwu.edu (hub.eecs.nwu.edu) by bcm.tmc.edu (AA28307); Fri, 1 Mar 91 15:00:35 CST
+Date:     Fri, 1 Mar 91 15:01:01 CST
+From: John Ko <ko@eecs.nwu.edu>
+To: porschephiles@bcm.tmc.edu
+Subject:  928s engine overhaul???
+Message-Id:  <9103011501.aa05289@delta.eecs.nwu.edu>
+
+I have a Euro 928s and it went over 100k miles.
+I've heard 928 engines only last about 100k (of course
+that depends on how one drives), but does anyone out there
+have any idea how much and how difficult it is to do
+an engine job of this car; has anyone done it?
+
+Thanks.
+
+From porschephiles-request@karazm.math.uh.edu  Sat Mar  2 12:33:49 1991
+Received: by karazm.math.uh.edu id <AA13347@karazm.math.uh.edu>; Sat, 2 Mar 91 12:33:50 CST
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA13219@karazm.math.uh.edu>; Sat, 2 Mar 91 12:27:38 CST
+Received: from kestrel.ukc.ac.uk by mcsun.EU.net with SMTP;
+	id AA02247 (5.65a/CWI-2.75); Sat, 2 Mar 91 19:27:03 +0100
+Received: from prl.philips.co.uk by kestrel.Ukc.AC.UK   with UUCP  id aa25053;
+          2 Mar 91 12:03 GMT
+Received: from prsun5h.prl.philips.co.uk by prlhp1.prl.philips.co.uk; Fri, 1 Mar 91 13:41:10 gmt
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Fri, 1 Mar 91 13:40:08 GMT
+Message-Id: <19336.9103011340@prsun5h.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: air mail to UK
+
+Hi folks,
+  is there anyone on the list who has any experience with ordering parts from Stoddards for delivery to the UK (or anywhare outside the US really) ?  I ordered a parts book plus some other goodies a couple of weeks ago (by 'phone) and they were going to send them by air mail (all the bits were in stock).  As I have never done this before I have no idea how long they will take to come - should I panic yet ?  (yes I know I could have asked when I ordered but I never gave it a thought and I'd rather not waste
+ a trans Atlantic 'phone call if such orders always take this long).
+
+Thanks for any info
+
+        __
+       /__) .  _  /_   _   _  _ /
+      / \  / /_  /  / /_| /  /_/
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar  4 08:34:21 1991
+Received: by karazm.math.uh.edu id <AA11823@karazm.math.uh.edu>; Mon, 4 Mar 91 08:34:22 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA11808@karazm.math.uh.edu>; Mon, 4 Mar 91 08:32:52 CST
+Received: from Sun.COM by bcm.tmc.edu (AA21739); Mon, 4 Mar 91 08:32:18 CST
+Received: from snail.Sun.COM (snail.Corp.Sun.COM) by Sun.COM (4.1/SMI-4.1)
+	id AA28827; Mon, 4 Mar 91 06:32:11 PST
+Received: from East.Sun.COM by snail.Sun.COM (4.1/SMI-4.1)
+	id AA11970; Mon, 4 Mar 91 06:32:10 PST
+Received: from suneast.East.Sun.COM by East.Sun.COM (4.1/SMI-4.1)
+	id AA15710; Mon, 4 Mar 91 09:32:08 EST
+Received: from visibility.East.Sun.COM by suneast.East.Sun.COM (4.1/SMI-4.1)
+	id AA12739; Mon, 4 Mar 91 09:28:13 EST
+Received: by visibility.East.Sun.COM (4.1/SMI-4.1)
+	id AA00702; Mon, 4 Mar 91 09:32:04 EST
+Date: Mon, 4 Mar 91 09:32:04 EST
+From: pmoody@east.sun.com (Paul Moody - Sun BOS Software)
+Message-Id: <9103041432.AA00702@visibility.East.Sun.COM>
+To: ko@eecs.nwu.edu
+Subject: Re:  928s engine overhaul???
+Cc: porschephiles@bcm.tmc.edu
+
+
+I have spoken to my mechanic about it (my '80 has just hit 75,000), and they have done a 928s engine overhaul once. It cost about $9000.00. It was not too hard to do it (all parts are available, etc), it just took an ungodly amount of time and material. In all, $10,000 for another 100-200k miles is a lot cheaper than a new $75,000 928 :0
+
+He by the way, puts the life of 928 engine closer to 150,000 to 200,000. How often you change the oil and the length of each drive matter more than the number of miles. If you average drive is less than 30 miles long, he says you get close to the 150K life. Longer duration drives increase the overall life of the engine because the oil is cleaned of the gas and moisture that develop in the initial starting. Plus, the first few miles of each drive are the toughest on you engine (while the lubrication is incomplete). The fewer "first few miles" the better. If you have fewer drives of longer duration, that is better than a lot of shorter drives.
+
+Paul
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar  4 10:24:21 1991
+Received: by karazm.math.uh.edu id <AA13040@karazm.math.uh.edu>; Mon, 4 Mar 91 10:24:22 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA12974@karazm.math.uh.edu>; Mon, 4 Mar 91 10:17:19 CST
+Received: from libra.cs.nps.navy.mil by bcm.tmc.edu (AA23838); Mon, 4 Mar 91 10:16:43 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA19463; Mon, 4 Mar 91 08:15:36 PST
+Date: Mon, 4 Mar 91 08:15:36 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9103041615.AA19463@libra.cs.nps.navy.mil>
+To: porschephiles@bcm.tmc.edu
+Subject: porting & polishing
+
+I've got most of the parts to rebuild my engine ('65 356 SC), and am
+about to do the heads.  They have been "dipped" and are pretty clean,
+and it is apparent that they are original, never rebuilt (they came out
+of a car that had been sitting for 20 yrs).  The ports are close to
+matching the intake manifolds (the mismatch is <= 1/16").
+
+My question to all of you is this: what work should I do to the ports and
+combustion chambers?  I don't have access to a flow-bench, I don't intend 
+to race the car, but I would like to do the things that come under the 
+heading of "careful assembly".  After all, the labor is free :<).
+
+Should I bother match-porting the heads and manifolds?
+
+Should I polish the ports and combustion chambers and remove the surface 
+texture?
+
+What is the best tool for polishing: a flap sander followed by a small
+buffing wheel, or 600 grit wet-or-dry carborundum paper, or ...?
+
+-Dave Erickson
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar  4 19:04:31 1991
+Received: by karazm.math.uh.edu id <AA20628@karazm.math.uh.edu>; Mon, 4 Mar 91 19:04:32 CST
+Received: from SUNED.ZOO.CS.YALE.EDU ([128.36.0.19]) by karazm.math.uh.edu id <AA20534@karazm.math.uh.edu>; Mon, 4 Mar 91 19:00:31 CST
+Received: by SUNED.ZOO.CS.YALE.EDU; Mon, 4 Mar 91 19:59:53 EST
+From: Doug Fields <fields-doug@CS.YALE.EDU>
+Message-Id: <9103050059.AA20198@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (turtle) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Mon Mar  4 19:59:50
+To: vwp@cbnewsk.att.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Your message of "Thu, 28 Feb 91 07:37:47 EST."
+             <9102281303.AA26883@menudo.uh.edu> 
+Date: Mon, 04 Mar 91 19:59:46 -0500
+
+
+Speaking of leaks... I have one really annoying one in my 951S... It seems
+that water is getting in, during rain, and dropping on my left ankle
+as I am resting my foot on the rest right next to the clutch pedal. I'm
+taking the car in for the 15k mile tuneup soon, so hopefully they'll be
+able to fix it then. But for now, anybody have any ideas?
+
+Doug
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar  4 20:04:31 1991
+Received: by karazm.math.uh.edu id <AA21169@karazm.math.uh.edu>; Mon, 4 Mar 91 20:04:32 CST
+Received: from cameron.egr.duke.edu ([128.109.156.10]) by karazm.math.uh.edu id <AA21140@karazm.math.uh.edu>; Mon, 4 Mar 91 20:01:29 CST
+Received: from dukee.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA20294; Mon, 4 Mar 91 21:00:44 -0500
+Received: by dukee.egr.duke.edu (1.00/DUKEE/12-05-90)
+	id AA09066; Mon, 4 Mar 91 21:00:39 est
+Date: Mon, 4 Mar 91 21:00:39 est
+From: Jeffrey A. Shorey <js@egr.duke.edu>
+Message-Id: <9103050200.AA09066@dukee.egr.duke.edu>
+To: fields-doug@CS.YALE.EDU, vwp@cbnewsk.att.com
+Subject: Leaks
+Cc: porschephiles@karazm.math.uh.edu
+
+Doug writes:
+>Speaking of leaks... I have one really annoying one in my 951S... It seems
+>that water is getting in, during rain, and dropping on my left ankle
+>as I am resting my foot on the rest right next to the clutch pedal.
+
+Maybe this is like a genetic Porsche defect or something...my old 914 would
+somehow store water (about a pint or so it seemed) and as soon as the
+car started forward it would pour it in my left shoe.  My current 911
+just drips a few drops (annoying if you don't have socks on).
+
+My guess is that it leaks under the windshield seal and somehow stays on the
+dash or under it.  I can actually see it going between the seal and the glass
+on the right corner - apparently it get under the edge and pooled down in the
+slack of the groove for the glass.  This only happens during a hard rain.
+
+About the 914 targa leak - moving the angle of the door glass inward helps
+a little.  I think the only real cure is reaching deep into your pocket the
+replace the forward targa seal and the side seals.  Mine had a habit of
+dripping right in my face when I made a left hand turn...
+
+ - Jeff Shorey
+
+From stan  Mon Mar  4 22:54:41 1991
+Received: by karazm.math.uh.edu id <AA22776@karazm.math.uh.edu>; Mon, 4 Mar 91 22:54:41 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA22742@karazm.math.uh.edu>; Mon, 4 Mar 91 22:51:49 CST
+Received: from menudo.uh.edu by bcm.tmc.edu (AA05119); Mon, 4 Mar 91 22:51:13 CST
+Received: from karazm.math.uh.edu by menudo.uh.edu with SMTP id AA10696
+  (5.65a+/IDA-1.4.2 for porschephiles@bcm.tmc.edu); Mon, 4 Mar 91 22:51:07 -0600
+Message-Id: <9103050451.AA10696@menudo.uh.edu>
+Received: by karazm.math.uh.edu id <AA22731@karazm.math.uh.edu>; Mon, 4 Mar 91 22:51:37 CST
+Date: Mon, 4 Mar 91 22:51:37 CST
+From: Stan Hanks (bcm) <stan@karazm.math.uh.edu>
+To: erickson@libra.cs.nps.navy.mil, porschephiles@bcm.tmc.edu
+Subject: Re:  porting & polishing
+
+Don't touch the ports unless you're willing to replace the heads. I'm
+serious. 356 heads (exclusive of the OHC Carrera engines) are quite close
+to the VW air-cooled heads in basic design. You *could* buy VW heads at
+about $50 each to practice on, but then...
+
+There is this tendency to think that because you've read about porting
+and polishing that you can do it. Well, I'm going to tell you that you
+can't unless you make a career out of it. There are all sorts of issues
+to deal with, like air flow rate vs. air flow volume, and the condensation
+problems you get with "mirror finish" ports unless you're running a  racing
+engine (i.e. near max flow constantly), and a whold butt-load of potential
+problems you hit when you slip with that Dremel tool....
+
+I used to build Formula Vee engines, and pro-stock big-bore Ford engines.
+In both cases, there are a *VERY* small number of people in the US that
+can actually acheive a measurable improvement in performance by dicking
+around with the heads. After I turned several sets of heads into ugly 
+paper weights (actually, you can re-weld and re-machine them but....)
+I gave up and started sending them out.
+
+Finally, consider the Word of God. Bruce Anderson basicly says that on  911's
+it's not worth screwing with unless you're doing serious racing in which case
+you should send them out to someone who does serious racing heads for 911s.
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Tue Mar  5 10:54:49 1991
+Received: by karazm.math.uh.edu id <AA29122@karazm.math.uh.edu>; Tue, 5 Mar 91 10:54:50 CST
+Received: from hydra.gatech.edu ([128.61.6.11]) by karazm.math.uh.edu id <AA29084@karazm.math.uh.edu>; Tue, 5 Mar 91 10:52:24 CST
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA13652; Tue, 5 Mar 91 11:51:51 -0500
+Date: Tue, 5 Mar 91 11:51:51 -0500
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9103051651.AA13652@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Looking for a good 951 mechanic in NW Atlanta
+
+I'm looking for a good Porsche (I drive an '87 944 turbo) mechanic in
+the East Cobb/Marietta (Atlanta, GA) area.  I've been taking my car to
+First Atlanta (ex Brumos) since it was still covered by an extended
+warrenty, but like most dealers, I don't feel that I'm getting
+'excellent' service: they do whatever it says the book says they need to
+do and if the gauges read what the manuals say they're supposed to read
+- that's all they do. I'm looking for someone who will listen to the car
+and make it right, whether the manual says it's right or not. The
+warrenty has now expired, so I feel 'free' to find a better mechanic for
+my baby.
+
+I track the car at PCA driving events, but I'm not a fanatic (I'm not
+interested in chip mods or experimenting with the suspension). I want to
+keep the car stock, but in top running condition. 
+
+Galen Bridges has come highly recommended from several sources, but due
+to the nature of his shop, it's difficult to get an appointment to see
+him.  I've heard mixed reviews about Ryland Mills. Any suggestions?
+
+Steve
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar 11 13:33:49 1991
+Received: by karazm.math.uh.edu id <AA02171@karazm.math.uh.edu>; Mon, 11 Mar 91 13:33:50 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA02089@karazm.math.uh.edu>; Mon, 11 Mar 91 13:28:40 CST
+Received: from SGI.COM by bcm.tmc.edu (AA20414); Mon, 11 Mar 91 13:28:01 CST
+Received: from whizzer.wpd.sgi.com by SGI.COM via SMTP (5.65+bind 1.5+ida/910110.SGI)
+	for porschephiles@bcm.tmc.edu id AA03263; Mon, 11 Mar 91 11:27:58 -0800
+Received: from whizkid.wpd.sgi.com by whizzer.wpd.sgi.com via SMTP (5.65+bind 1.5+ida/900721.SGI)
+	for sgi.sgi.com!bcm.tmc.edu!porschephiles id AA05902; Mon, 11 Mar 91 11:27:55 -0800
+Received: by whizkid.wpd.sgi.com (5.52/900721.SGI)
+	for @whizzer.wpd.sgi.com:porschephiles@bcm.tmc.edu id AA03848; Mon, 11 Mar 91 11:27:53 PST
+Date: Mon, 11 Mar 91 11:27:53 PST
+From: zursch@whizkid.wpd.sgi.com (Big Daddy Kitty)
+Message-Id: <9103111927.AA03848@whizkid.wpd.sgi.com>
+To: porschephiles@bcm.tmc.edu
+Subject: FYI 912 for sale
+
+
+Well I really need to get off my duff and sell this car, because I haven't
+driven it in over a year.
+
+What is it?
+
+1968 Porsche 912 Coupe, Guards Red (license plate ZEHR ROT)
+
+   approx 10K miles on rebuilt engine
+   
+   Excellent shape - no rust, no dings.
+
+   Extras:
+        Dual Weber carbs
+        New tires, front brake rotors, shocks
+	Recaro seats
+	Nice stereo system with hookup for CD player.
+	Set of factory manuals and lots of misc parts
+	Cool personalized plate
+
+   Price:  $8000.00 (firm)
+
+It's a great car, but I don't drive any more so I'd really like to sell it.
+
+If you're interested, I'll be happy to show it to you during spring break
+(3/18-3/22).  If you want more information, you can call and leave a message
+at 415-493-4727 or, better yet, send me e-mail!
+
+Polly Siegel
+-------------
+Polly Siegel
+Center for Integrated Systems
+Stanford University
+(polly@grover.stanford.EDU)
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ 			"I hold the line" - Peter Gabriel 
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+
+
+
+
+From stan  Wed Mar 13 00:54:26 1991
+Received: by karazm.math.uh.edu id <AA29277@karazm.math.uh.edu>; Wed, 13 Mar 91 00:54:27 CST
+Received: by karazm.math.uh.edu id <AA29262@karazm.math.uh.edu>; Wed, 13 Mar 91 00:54:08 CST
+Date: Wed, 13 Mar 91 00:54:08 CST
+From: Stan Hanks (bcm) <stan>
+To: porschephiles@karazm.math.uh.edu
+Subject: Auto-X drivers school, in Houston
+
+So, if you're like on the other side of the world, you can ignore this.
+Texicans in the region might want to know however, so....
+
+The Lone Star Region of the PCA is having their third annual driving school
+to kick off the 1991 Auto-X series. This is on 24 March at the Houston
+Police Academy driver training facility up close to Intercontinental Airport.
+"All you can drive for $15" and it includes a box lunch. Bring your coolers
+and lawn chairs, but no  alcohol allowed!!! Registration starts at 9:00 AM
+and class starts at 10:30 AM.
+
+Shoot me mail for more info.
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Thu Mar 14 03:14:51 1991
+Received: by karazm.math.uh.edu id <AA23427@karazm.math.uh.edu>; Thu, 14 Mar 91 03:14:51 CST
+Received: from SUNED.ZOO.CS.YALE.EDU ([128.36.0.19]) by karazm.math.uh.edu id <AA23374@karazm.math.uh.edu>; Thu, 14 Mar 91 03:08:35 CST
+Received: by SUNED.ZOO.CS.YALE.EDU; Thu, 14 Mar 91 04:08:01 EST
+Date: Thu, 14 Mar 91 04:08:01 EST
+From: Doug Fields <fields-doug@CS.YALE.EDU>
+Message-Id: <9103140908.AA13786@SUNED.ZOO.CS.YALE.EDU>
+Received: by suned (suned) 
+          via WIMP-MAIL (Version 1.3/1.7) ; Thu Mar 14 04:07:59
+To: porschephiles@karazm.math.uh.edu, stan@karazm.math.uh.edu
+Subject: Re:  Auto-X drivers school, in Houston
+
+About drivers school... CVR (Connecticut Valley) is having their first
+track event right here in CT at Lime Rock the 21st to 23rd... Signups
+are over, but you might want to stop by and say hi to me... Bummer is that
+I got my first ticket in 2.5 years today... Not stopping at a stop sign.
+
+ ($60!!!)
+
+Doug
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 15 17:05:12 1991
+Received: by karazm.math.uh.edu id <AA23854@karazm.math.uh.edu>; Fri, 15 Mar 91 17:05:12 CST
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA23771@karazm.math.uh.edu>; Fri, 15 Mar 91 17:00:05 CST
+Received: Fri, 15 Mar 91 15:01:48 PST by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9103152301.AA06084@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Fri, 15 Mar 91 15:02:08 PST
+Date: Fri, 15 Mar 91 15:02:08 PST
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: I need your body PRINTshop
+To: porschephiles@karazm.math.uh.edu
+
+Anyone out there have a recommendation for a body shop?
+
+No, it's not the 911.  A buddy at work's truck got hit; he is not paying
+for the repair (they left a note!), so quality is a primary consideration!
+
+On the other hand, he does not want to hurt these people (they did leave a
+note, afterall...), but he does want the truck fixed (just bought it).
+
+As in real estate, location, location, location.
+
+      Mountain View, Ca., or thereabout.
+
+Any suggestions?
+
+
+Thanks, Soren            laforce@krypton.arc.nasa.gov
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 15 21:45:12 1991
+Received: by karazm.math.uh.edu id <AA26172@karazm.math.uh.edu>; Fri, 15 Mar 91 21:45:13 CST
+Received: from elroy.Jpl.Nasa.Gov by karazm.math.uh.edu id <AA26161@karazm.math.uh.edu>; Fri, 15 Mar 91 21:44:17 CST
+Received: from wciu.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA05260; Fri, 15 Mar 91 19:43:41 PST
+Received: by wciu.edu (5.51/smail2.5/06-01-89)
+	id AA01510; Fri, 15 Mar 91 22:38:14 EST
+Received: by wvus.wciu.edu (1.63/waf)
+	via UUCP; Thu, 14 Mar 91 16:48:36 PST
+	for porschephiles@karazm.math.uh.edu
+To: porsche@wvus.wciu.edu
+Subject: Kings Highway Auto Club
+From: pete@wvus.wciu.edu (Pete Gregory)
+Message-Id: <P4RTy1w163w@wvus.wciu.edu>
+Date: Thu, 14 Mar 91 16:48:36 PST
+Organization: World Vision U.S.
+
+Hi -
+
+Going through some of my dad's stuff (he passed away twelve years ago but
+mom still sends me stuff from time to time), I found a car badge (is that
+the right name? - you know, the little round metal badges people put on
+their grills and bumpers) that reads "King's Highway Auto Club"
+
+Some helpful background: this probably dates back to the 50's when my mom
+and dad had two XK-120 coupes.  In the 50's, they lived in Seattle, New York
+and Southern California.
+
+Can someone enlighten me with any info about KHAC??  Thanks...
+
+BTW, I've put the badge on my '69 912 - hope I'm not desecrating it  :-)
+ 
+Pete Gregory, UNIX SA  |  pete@wvus.wciu.edu                  |
+World Vision USA/ISD   |  wciu!wvus!pete                   ___|___
+919 W. Huntingon Dr.   |  Voice: 818/357-7979 x3347           |
+Monrovia, CA  91016    |  FAX:   818/303-6212                 |
+                                                              |
+Sponsor a hungry child for only $20/month.  1-800-423-4200
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 15 23:05:12 1991
+Received: by karazm.math.uh.edu id <AA26782@karazm.math.uh.edu>; Fri, 15 Mar 91 23:05:13 CST
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA26723@karazm.math.uh.edu>; Fri, 15 Mar 91 22:57:52 CST
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA07058; Fri, 15 Mar 91 20:57:18 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9103160457.AA07058@jessica.stanford.edu>
+Subject: seeking 914 grill letter 'H'
+To: porschephiles@karazm.math.uh.edu
+Date: Fri, 15 Mar 91 20:57:17 PST
+X-Mailer: ELM [version 2.3 PL8]
+
+My 914 is missing the letter 'H' from the engine cover grille.  If
+anyone happens to have an old one that they wouldn't mind parting with
+for cheap, I'd love to know...
+
+Maybe my 'friends' would stop mocking my car ('Robert drives a porsce!'
+pronounced PORS-KUH).  Actually, there is still plenty to mock about
+my car... ('It sounds like a sewing machine with a thyroid problem!'
+etc. etc. etc...)
+
+thanks,
+   -Robert Merithew
+    Dept. of Physics
+    Stanfurd U.
+
+
+From porschephiles-request@karazm.math.uh.edu  Sun Mar 17 22:26:48 1991
+Received: by karazm.math.uh.edu id <AA13368@karazm.math.uh.edu>; Sun, 17 Mar 91 22:26:48 CST
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA13331@karazm.math.uh.edu>; Sun, 17 Mar 91 22:25:01 CST
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA09662; Sun, 17 Mar 91 20:24:56 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9103180424.AA09662@jessica.stanford.edu>
+Subject: I'm stuck while replacing 914 throttle cable...
+To: porschephiles@karazm.math.uh.edu
+Date: Sun, 17 Mar 91 20:24:55 PST
+X-Mailer: ELM [version 2.3 PL8]
+
+
+Actually, *I'm* not stuck, the cable is.
+
+Those of you who have replaced a 914 throttle cable:
+   How did you get it out after it got stuck somewhere between the
+   console and the engine compartment?
+
+(I know. I know. When *you* did it, it didn't get stuck.  Great.  OK,
+ just pretend that it did.  What *would* you have done?  hmm?)
+
+I vainly removed the center console and armrest/storagething and the
+cute little access plate I found underneath the armrest/storagething,
+but could find no hint of the stuck cable.
+
+I even tied a string to the pedal end before pulling it out, and I can't
+see any of the string anywhere except where it disappears under the floor
+near the pedals...  I guess the cable must feed thru a tube or something.
+
+Ideas?  I can't budge it either direction (pulling on cable or pulling on
+string).  Of course, the string isn't that strong...
+
+Sigh.  I hope this doesn't keep me off the road during spring break. Rats.
+
+-Robert Merithew
+ Stanford University
+ merithew@jessica.stanford.edu
+
+From stan  Mon Mar 18 01:26:50 1991
+Received: by karazm.math.uh.edu id <AA15291@karazm.math.uh.edu>; Mon, 18 Mar 91 01:26:51 CST
+Received: by karazm.math.uh.edu id <AA15216@karazm.math.uh.edu>; Mon, 18 Mar 91 01:19:29 CST
+Date: Mon, 18 Mar 91 01:19:29 CST
+From: Stan Hanks (bcm) <stan>
+To: porschephiles@karazm.math.uh.edu
+Subject: If your mail address changes...
+
+I know you can't always do this (like if you're fired at gun-point)
+but whenever possible, if you  for any reason   change any   part
+of your address, or leave your job, or whatever, *PLEASE* let me know...
+
+This was the weekend of the bounced mail from hell....
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar 18 10:26:55 1991
+Received: by karazm.math.uh.edu id <AA20016@karazm.math.uh.edu>; Mon, 18 Mar 91 10:26:55 CST
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA19955@karazm.math.uh.edu>; Mon, 18 Mar 91 10:21:27 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA18010; Mon, 18 Mar 91 08:20:56 PST
+Date: Mon, 18 Mar 91 08:20:56 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9103181620.AA18010@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: 356 engine rebuilding
+
+I just reread the 356 Performance Handbook, by Duane Spencer, and 
+it has some interesting suggestions for getting extra h.p. without
+sacrificing reliability.  One such suggestion is to ceramic coat the
+piston tops, combustion chambers, and valve heads.  This will reduce
+heat transferred to those parts, and increase reliability. 
+
+Any opinions on the advisability of having this done?  Is it expensive?
+Who does it?  Will it last?  How does it affect the engine's
+tendency to ping or detonate?
+
+-Dave
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar 18 11:46:56 1991
+Received: by karazm.math.uh.edu id <AA21094@karazm.math.uh.edu>; Mon, 18 Mar 91 11:46:56 CST
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA21037@karazm.math.uh.edu>; Mon, 18 Mar 91 11:42:22 CST
+Received: from camplab.cmp.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA26134; Mon, 18 Mar 91 12:42:03 EST
+Date: Mon, 18 Mar 91 12:39:34 EST
+From: frank@camplab.cmp.rpi.edu (Karl Frank Hens)
+Received: by camplab.cmp.rpi.edu (4.0/1.2-RPI-CAMP-LAB)
+	id AA20155; Mon, 18 Mar 91 12:39:34 EST
+Message-Id: <9103181739.AA20155@camplab.cmp.rpi.edu>
+To: erickson@libra.cs.nps.navy.mil
+Subject: Re:  356 engine rebuilding
+Cc: porschephiles@karazm.math.uh.edu
+
+The ceramic coating that is mentioned is usually done by
+plasma spraying. Plasma spraying is a pretty high tech process
+land I can only recommend it if it is done really well. What
+typically happens is this: The ceramic on the metal and/or aluminum 
+looks good if applied right and parts are put into the engine.
+After a few hundred thermal cycles (heat ups and cool downs some
+pieces start to brake off and very hard and abrasive ceramic
+can ruin your engine. It is very difficult or impossible to
+do corners. Flat surfaces are not that difficult, as long as
+it is done right. If the bond (penetration of surface layer is
+good) holds, it can hold for a long time. But a small imperfection in 
+the bonding can be the start to disaster. Therefore, if you have it
+done, get it done by someone who knows how to do it right.
+Get some references from people that have had their engines coated
+a couple of years ago and call them.
+One place that will do ceramic coating of pistons, heads and valves
+is Porschasport. They often advertise in Pano - if you need the address.
+Personally - I would stay away from it for a while until it has been
+introduced for some quality production cars - say Porsches. It takes
+a lot of fatigue testing etc to prove reliability.
+Why don't you give the guys at Porschasport a call and see what they have
+to say.
+
+Frank
+
+From porschephiles-request@karazm.math.uh.edu  Tue Mar 19 10:25:24 1991
+Received: by karazm.math.uh.edu id <AA08172@karazm.math.uh.edu>; Tue, 19 Mar 91 10:25:24 CST
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA08046@karazm.math.uh.edu>; Tue, 19 Mar 91 10:16:41 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA21940; Tue, 19 Mar 91 08:15:56 PST
+Date: Tue, 19 Mar 91 08:15:56 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9103191615.AA21940@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: 356 engine rebuilding
+
+Thanks for the advice.  I called Vic Skirmants & Harry Pellow, and asked
+about ceramic coating.  Both cautioned me against doing it, since the data
+isn't in yet.  Vic said he had it done to one engine, and saw no difference
+in the way it ran.
+
+Regarding black anodizing the cylinders: I am using cast iron cylinders
+(NPR 86mm) rather than the biral cylinders (Mahle 83mm).  Some 356 models
+did use black anodizing on the heads and/or intake manifolds, however, so
+that is probably worth considering.  The 69 912s also had teflon coating
+on the inside of the intake manifolds, along with black anodizing on the
+outside, which allowed the factory to eliminate the infamous smog pump 
+used on the 68's.  Anybody have a spare set of '69 Solex manifolds they
+would care to part with?
+
+-Dave
+
+From jet  Wed Mar 20 05:15:25 1991
+Received: by karazm.math.uh.edu id <AA21170@karazm.math.uh.edu>; Wed, 20 Mar 91 05:15:25 CST
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA21089@karazm.math.uh.edu>; Wed, 20 Mar 91 05:11:34 CST
+Received: from kestrel.ukc.ac.uk by mcsun.EU.net with SMTP;
+	id AA06234 (5.65a/CWI-2.77); Wed, 20 Mar 91 12:11:19 +0100
+Received: from prl.philips.co.uk by kestrel.Ukc.AC.UK   with UUCP  id ab12162;
+          20 Mar 91 9:07 GMT
+Received: from prsun5h.prl.philips.co.uk by prlhp1.prl.philips.co.uk; Wed, 20 Mar 91 08:34:14 gmt
+From: Richard Cole <colers@prl.philips.co.uk>
+Date: Wed, 20 Mar 91 08:33:15 GMT
+Message-Id: <21660.9103200833@prsun5h.prl.philips.co.uk>
+To: porschephiles@karazm.math.uh.edu
+Subject: PCGB 2.4 Register
+
+Hi folks,
+  I have recently become involved in helping to run the Porsche Club GB 2.4 Register.  This is a new register and I would be interested to know if there are other 2.4 registers in existance anywhere else.
+
+  One of our aims is to try to track down all the surviving 2.4 cars that were originally imported into the UK (quite a task I agree !)  So if there are any owners of RHD 2.4 cars please drop me a line, we would be very pleased to add you to the register.  In fact any owners of 2.4 cars are welcome to join the register and their car details will help to fill in the gaps in the production history.
+
+  To mark the starting of the 2.4 register we are having a meeting at the site of the old Brooklands Racing circuit, near London, where there is a new museum.  This will take place on May 5th.  Any Porsche owners are welcome to attend - you don't need to have a 2.4.  If you want further details mail me.
+
+        __
+       /__) .  _  /_   _   _  _ /
+      / \  / /_  /  / /_| /  /_/
+
+colers@prl.philips.co.uk
+
+From porschephiles-request@karazm.math.uh.edu  Wed Mar 20 14:25:25 1991
+Received: by karazm.math.uh.edu id <AA26692@karazm.math.uh.edu>; Wed, 20 Mar 91 14:25:26 CST
+Received: from att.att.com by karazm.math.uh.edu id <AA26601@karazm.math.uh.edu>; Wed, 20 Mar 91 14:20:18 CST
+From: fwk@homxc.att.com
+Date: Wed, 20 Mar 91 14:41 EST
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: porschephiles@karazm.math.uh.edu
+Subject: 944 Air Conditioning
+
+I have an '87 944S with an air conditioning problem and I need some
+advice. Toward the end of last year, the air conditioner stopped
+functioning. At the time, I assured that the compressor ran, and I put
+a gauge set on and got about 2 bar (both sides) with the compressor off
+and about -0.5 and 3 bar with the compressor on. From that I concluded
+that the freon level was low (I also had bubbles in the sight glass).
+I found some clear oil on the lower hose going to the condenser,
+which I guessed to be compressor oil, and thus indicative of a leak 
+in that hose. I then ignored the problem all winter.
+
+Recently, I got started again. I priced the hose ($175!), and decided it
+was worth a more careful diagnosis before buying it. I bought a 12 oz can
+of combined freon, leak detector,  and compressor oil, hooked up the
+gauge set (with roughly the same performance as last time), and
+filled the system (compressor running, into low side, liquid fill).
+After this, the compressor cycles on and off, perhaps 3 sec. on,
+10 sec. off. While the compressor is on, the low side starts down in
+pressure, reaching about 1 to 1.5 bar, the high side starts up,
+reaching perhaps 4 bar. To localize the source of the cycling, I put
+a voltmeter on the leads of the two switches  connected to the freon
+lines near the receiver/drier. On the lower of the two switches,
+the voltage goes from 0 to 12 V. as the cycling occurs. Neither the
+shop manual, the service bulletins (thru 89) or the parts fiche
+clearly identify the functions of the two switches, but there are discussions
+of a "low pressure switch" which is set at 2.2 bar. Now for the questions.
+
+does anyone know the purpose of the "low pressure switch"?
+
+    does it keep the system from running if the pressure is to low
+    (e.g. no freon)
+
+    if so, how does the compressor run for system fill(no mention
+    in the manual of an electrical bypass for filling)
+
+does anyone know more about the full set of freon pressure/temperature
+controls?
+
+has anyoue seen behavior similar to this?
+
+should the problem go away if I simply fill some more? (I doubt if the
+12 oz I added is enough)
+
+Frank Kerfoot
+fwk@homxc.att.com
+908-949-6348 (days)
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Mar 20 16:05:25 1991
+Received: by karazm.math.uh.edu id <AA28055@karazm.math.uh.edu>; Wed, 20 Mar 91 16:05:26 CST
+Received: from cameron.egr.duke.edu ([128.109.156.10]) by karazm.math.uh.edu id <AA27999@karazm.math.uh.edu>; Wed, 20 Mar 91 15:59:06 CST
+Received: from dukee.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA21886; Wed, 20 Mar 91 16:58:58 -0500
+Received: by dukee.egr.duke.edu (1.00/DUKEE/12-05-90)
+	id AA07352; Wed, 20 Mar 91 16:58:49 est
+Date: Wed, 20 Mar 91 16:58:49 est
+From: Jeffrey A. Shorey <js@egr.duke.edu>
+Message-Id: <9103202158.AA07352@dukee.egr.duke.edu>
+To: fwk@homxc.att.com, porschephiles@karazm.math.uh.edu
+Subject: Re:  944 Air Conditioning
+
+fwk@homxc.att.com writes:
+>Recently, I got started again. I priced the hose ($175!), and decided it
+>was worth a more careful diagnosis before buying it. I bought a 12 oz can
+>of combined freon, leak detector,  and compressor oil, hooked up the
+                    ^^^^^^^^^^^^^
+The stuff with the red dye?  My mechanic told me to NEVER use it because
+it clogs up the expansion valve and destroys your system...
+
+Also, normal cans of freon already contain oil, and you shouldn't have to
+add compressor oil unless your compressor has an oil leak or something.
+
+>does anyone know the purpose of the "low pressure switch"?
+
+>    does it keep the system from running if the pressure is too low
+>    (e.g. no freon)
+Right...
+
+>    if so, how does the compressor run for system fill(no mention
+>    in the manual of an electrical bypass for filling)
+Usually there is an override button on the pressure switch, or you can
+manually engage the compressor clutch.
+
+>should the problem go away if I simply fill some more? (I doubt if the
+>12 oz I added is enough)
+
+>Frank Kerfoot
+I don't know that much about the 944 AC system.  My 911 takes 7 (yes, seven)
+cans of freon to make it go, overheats the engine, and leaks out very quickly.
+I gave up trying to keep it running until I get an auxiliary condenser and
+a rotary compressor.
+
+Just a quick comment for anyone else with a 911 and AC, the Stoddard catolog
+has a tech hint that tells you to never run the AC with the rear lid up - I
+guess it doesn't cool properly and will blow out something in the system.
+
+- Jeff Shorey  js@egr.duke.edu
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Mar 20 16:15:25 1991
+Received: by karazm.math.uh.edu id <AA28175@karazm.math.uh.edu>; Wed, 20 Mar 91 16:15:26 CST
+Received: from helios.llnl.gov by karazm.math.uh.edu id <AA28170@karazm.math.uh.edu>; Wed, 20 Mar 91 16:15:16 CST
+Received: by helios.llnl.gov (4.1/LLNL-1.18)
+	id AA00415; Wed, 20 Mar 91 14:14:51 PST
+Date: Wed, 20 Mar 91 14:14:51 PST
+From: tony@helios.llnl.gov (Anthony Skjellum)
+Message-Id: <9103202214.AA00415@helios.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: delete me
+
+Please delete me from your mailing list... I cannot handle the volume
+of mail generated.
+
+Thank you,
+Tony Skjellum
+
+From porschephiles-request@karazm.math.uh.edu  Wed Mar 20 16:35:26 1991
+Received: by karazm.math.uh.edu id <AA28419@karazm.math.uh.edu>; Wed, 20 Mar 91 16:35:26 CST
+Received: from valhalla.ee.rochester.edu (ee.rochester.edu) by karazm.math.uh.edu id <AA28283@karazm.math.uh.edu>; Wed, 20 Mar 91 16:27:05 CST
+Received: from socrates.ee.rochester.edu 
+	by valhalla.ee.rochester.edu (4.1/cf1.38ee) 
+	id AA29932; Wed, 20 Mar 91 17:26:56 EST
+From: Mark Sirota  <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/cf1.1client)
+	id AA02556; Wed, 20 Mar 91 17:26:48 EST
+Date: Wed, 20 Mar 91 17:26:48 EST
+Message-Id: <9103202226.AA02556@socrates.ee.rochester.edu>
+X-Mailer: Mail User's Shell (7.2.0 10/31/90)
+To: Porsche People <porschephiles@karazm.math.uh.edu>
+Subject: Muffler wisdom
+
+In researching exhaust systems for my '73 914 2.0 autocrosser, I've come
+across a few tidbits that I would like to verify.
+
+(1) OEM heat exchangers are no longer available (and they sucked anyway).
+        The rules will probably be rewritten soon, necessitating the use
+        of OEM heat exchangers if they are available.  All I can find is
+        various stainless steel units, which are also supposedly higher-
+        performance.
+
+(2) For mufflers that bolt onto the heat exchangers, Bursch seems to be
+        the preferred brand, by just about everyone.  Do I have this right?
+
+I've found Tweeks to be considerably cheaper than the other major
+aftermarket places for these parts...
+
+Thanks for your input.
+
+-- 
+Mark Sirota - Department of Electrical Engineering
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Wed Mar 20 17:35:26 1991
+Received: by karazm.math.uh.edu id <AA29061@karazm.math.uh.edu>; Wed, 20 Mar 91 17:35:26 CST
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA28919@karazm.math.uh.edu>; Wed, 20 Mar 91 17:26:39 CST
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA00490; Wed, 20 Mar 91 15:25:56 PST
+Date: Wed, 20 Mar 91 15:25:56 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9103202325.AA00490@hyperion.llnl.gov>
+To: fwk@homxc.att.com
+Subject: Re:  944 Air Conditioning
+Cc: porschephiles@karazm.math.uh.edu
+
+Frank,
+
+I cannot answer your questions about the technical specs of the 944
+A/C system, but I have had some experience with this problem that I
+would like to relate.  Basically, I think you are stuck with having to
+buy a new high pressure hose.  I have had this hose fail on both of
+the 944s I have owned and I believe it is quite common.  I guess the
+fact that one end of the hose is connected to the vibrating (with the
+engine) compressor and the other end is connected to the non-vibrating
+condensor ultimately causes the metal fittings to begin to detach from
+the rubber hose.  I have experienced failures at both ends (evidently,
+a bad design to say the least).  On my '84, I detected the leak (by
+observing oil on the hose and bubbles in the reservoir sight glass)
+before the pressure had dropped enough to trigger the low pressure
+switch.  I was therefore able to buy a can of R12 and recharge the
+system without having to trick it.  The charge lasted two (hot) August
+weeks of daily usage.  Because it would have been inconvenient,
+somewhat expensive, bad for the ozone layer, and probably bad for the
+AC system to continue to pump R12 into the system at such a frequency,
+and since the hose did not look repairable (by me), there seemed to be
+no option but to buy a new one.  Rather than replacing the hose myself
+and risk burning out an $800 compressor attempting to defeat the low
+pressure switch to recharge a completely empty system, I bit the
+bullet and had Kahler's (an independent shop) do the job.  I do most
+of the work on my car and am normally quite reluctant to take my car
+to anyone for service, but in the case of A/C work I make an
+exception.  Unless other porschephiles can offer some good tips, this
+would be my recommendation.  Sorry for the bad news.
+
+-Milo
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 22 15:15:30 1991
+Received: by karazm.math.uh.edu id <AA02180@karazm.math.uh.edu>; Fri, 22 Mar 91 15:15:31 CST
+Received: from caip.rutgers.edu by karazm.math.uh.edu id <AA02025@karazm.math.uh.edu>; Fri, 22 Mar 91 15:06:31 CST
+Received: from piano.rutgers.edu by caip.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+	id AA20440; Fri, 22 Mar 91 16:06:16 EST
+Received: by piano (5.17/3.01) 
+	id AA03005; Fri, 22 Mar 91 16:06:14 EST
+Date: Fri, 22 Mar 91 16:06:14 EST
+From: boubez@bass.rutgers.edu
+Message-Id: <9103222106.AA03005@piano>
+To: msirota@ee.rochester.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Mark Sirota's message of Wed, 20 Mar 91 17:26:48 EST <9103202226.AA02556@socrates.ee.rochester.edu>
+Subject: Muffler wisdom
+
+
+>In researching exhaust systems for my '73 914 2.0 autocrosser, I've come
+>across a few tidbits that I would like to verify.
+>
+>(1) OEM heat exchangers are no longer available (and they sucked anyway).
+>        The rules will probably be rewritten soon, necessitating the use
+>        of OEM heat exchangers if they are available.  All I can find is
+>        various stainless steel units, which are also supposedly higher-
+>        performance.
+
+I heard the same rumours, but my 914 came with SS xchangers anyway,
+(installed by the previous owner), and they've been excellent so far.
+
+>(2) For mufflers that bolt onto the heat exchangers, Bursch seems to be
+>        the preferred brand, by just about everyone.  Do I have this right?
+
+I also heard the same thing. However, since the Bursch were much more
+expensive than the Monza, I opted for the latter. I was disappointed by the
+Monza, not from a performance point of view, but for their lack of quality.
+The black paint peeled and the tubing started rusting within a couple of
+months. However, I can't say anything about their warrantee, since I lost
+the little yellow card that came with the package, and never bothered to
+send it out. Anyway, they haven't developed any other damage, and if you
+don't really look for it, the rust doesn't show. BTW, they were really easy
+to install. Good luck.
+
+>Thanks for your input.
+You're welcome.
+
+toufic
+
+            R 2 4
+            |_|_|      Toufic Boubez
+            | | |      boubez@caip.rutgers.edu
+            1 3 5      CAIP Center, Rutgers University
+
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Sat Mar 23 10:18:41 1991
+Received: by karazm.math.uh.edu id <AA14175@karazm.math.uh.edu>; Sat, 23 Mar 91 10:18:41 CST
+Received: from cameron.egr.duke.edu ([128.109.156.10]) by karazm.math.uh.edu id <AA14164@karazm.math.uh.edu>; Sat, 23 Mar 91 10:18:29 CST
+Received: from dukee.egr.duke.edu by cameron.egr.duke.edu (5.65/DUKE/08-19-88)
+	id AA13013; Sat, 23 Mar 91 11:18:20 -0500
+Received: by dukee.egr.duke.edu (1.00/DUKEE/12-05-90)
+	id AA08904; Sat, 23 Mar 91 11:18:16 est
+Date: Sat, 23 Mar 91 11:18:16 est
+From: Jeffrey A. Shorey <js@egr.duke.edu>
+Message-Id: <9103231618.AA08904@dukee.egr.duke.edu>
+To: boubez@bass.rutgers.edu, msirota@ee.rochester.edu
+Subject: Re:  Muffler wisdom
+Cc: porschephiles@karazm.math.uh.edu
+
+>>(2) For mufflers that bolt onto the heat exchangers, Bursch seems to be
+>>        the preferred brand, by just about everyone.  Do I have this right?
+
+>I also heard the same thing. However, since the Bursch were much more
+>expensive than the Monza, I opted for the latter. I was disappointed by the
+>Monza, not from a performance point of view, but for their lack of quality.
+>The black paint peeled and the tubing started rusting within a couple of
+>months. However, I can't say anything about their warrantee, since I lost
+>the little yellow card that came with the package, and never bothered to
+>send it out. Anyway, they haven't developed any other damage, and if you
+>don't really look for it, the rust doesn't show. BTW, they were really easy
+>to install. Good luck.
+
+I had both the Monza and a Bursch on my 914 at different times, the Monza
+dying an early death from weak rear springs, which caused frequent bottoming
+out and a resulting hole in the bottom of the muffler.  I can't say that there
+was much of a performance difference between the two (stock 1.7L with dual
+webers), but the Monza was much louder.  My mechanic claims that I wasted the
+money on the Monza, as they rust out within a year...  The Bursch was about
+a year old when I sold the car and had very little rust as far as I could see,
+since the paint still pretty much covered the muffler.  Gotta like the toasting
+paint smell you get through the heat exchangers when the muffler in new...
+
+No problem installing them, but be sure to soak the bolts in WD40 or equivalent
+before attempting to take them off.
+
+- Jeff Shorey  js@egr.duke.edu
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Sat Mar 23 15:38:42 1991
+Received: by karazm.math.uh.edu id <AA17752@karazm.math.uh.edu>; Sat, 23 Mar 91 15:38:43 CST
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA17677@karazm.math.uh.edu>; Sat, 23 Mar 91 15:32:33 CST
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab11848;
+          23 Mar 91 16:30 EST
+Date: Sat, 23 Mar 91 21:25 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Wheel Deals
+Message-Id: <42910323212524/0004056890NB1EM@mcimail.com>
+
+PCNA has once again put a bunch of wheels on sale.  These are new in the box. 
+Quantities vary all over the map.  If you're interested, call Mack at Clair
+Parts Express, telephone 1-800-354-5100.  Or get 'em through your local dealer. 
+Clair has been very suportive of our local PCA, prices aggressively, and will
+ship anywhere.  Which is why I mention them.
+
+Here's the list:
+
+part number     description             quantity   application
+-----------     -----------             --------   -----------
+928 361 019 00  7x15 phone dial         100        928
+911 361 020 11  7x15 5 spoke silver     150        911
+911 361 020 41  7x15 black star         100        944, 911
+911 361 020 97  6x16 Fuchs plshed lip    90
+928 361 021 08  7x16 forged disk         10
+944 362 113 00  6x16 disc                 5        924S
+944 362 113 01  6x16 platinum disc        4        924S
+928 362 114 20  7x16 winter wheel, disc  12
+951 362 115 00P 7x16 black Fuchs        327        86 944
+951 362 115 30  7x16 club sport         800        944T
+951 362 115 90  7x16 Fuchs               20        86 944
+911 362 117 00  8x16 Fuchs              250
+951 362 117 00  8x16 Fuchs              180        86 944
+951 362 117 90  8x16 FUchs               50        86 944
+477 601 029 A   5.5x14 4 bolt             8        924
+477 601 030 A   5.5x15 winter 5 bolt     30        924T
+477 601 031 B   6x14 4 bolt 8 spoke      70        924
+477 601 030 B   5.5x15 winter 5 bolt     20
+477 601 031 D   6x14 blk 4 bolt 8 spoke  10
+
+I can't give you the prices; you'll have to call to ask.  However, I can tell
+you they are ridiculously inexpensive in almost all cases.  If you need help
+matching application, ask whoever you talk to to tech bulletin Group 4, Number
+9004.
+
+Kevin Gross
+
+From porschephiles-request@karazm.math.uh.edu  Mon Mar 25 10:19:10 1991
+Received: by karazm.math.uh.edu id <AA12860@karazm.math.uh.edu>; Mon, 25 Mar 91 10:19:10 CST
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA12825@karazm.math.uh.edu>; Mon, 25 Mar 91 10:15:16 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA16198; Mon, 25 Mar 91 08:14:33 PST
+Date: Mon, 25 Mar 91 08:14:33 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9103251614.AA16198@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  Muffler wisdom
+
+
+>The Bursch was about
+>a year old when I sold the car and had very little rust as far as I could see,
+>since the paint still pretty much covered the muffler.  Gotta like the toasting
+>paint smell you get through the heat exchangers when the muffler in new...
+
+I just bought a new stock German muffler for the 356.  $250 seems outrageous,
+but then I'm getting used to the sticker shock.  My question for you all
+is this:  should I do anything to the exterior to prevent rust?  I've tried
+grey primer in the past (on VW's), and it doesn't seem to be as high 
+quality as the paint that  comes on the muffler to begin with. 
+
+I've heard of aluminizing, but I'm not sure what it is or where to get
+it done.  I've also seen paint which is supposed to stand up to 1200
+degree temperatures for sale.  Will either of these do the job?
+
+-Dave Erickson
+
+From porschephiles-request@karazm.math.uh.edu  Tue Mar 26 00:59:14 1991
+Received: by karazm.math.uh.edu id <AA22443@karazm.math.uh.edu>; Tue, 26 Mar 91 00:59:14 CST
+Received: from elroy.Jpl.Nasa.Gov by karazm.math.uh.edu id <AA22423@karazm.math.uh.edu>; Tue, 26 Mar 91 00:58:16 CST
+Received: from wciu.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA25567; Mon, 25 Mar 91 22:58:06 PST
+Received: by wciu.edu (5.51/smail2.5/06-01-89)
+	id AA05308; Tue, 26 Mar 91 01:25:37 EST
+Received: by wvus.wciu.edu (1.63/waf)
+	via UUCP; Mon, 25 Mar 91 07:58:07 PST
+	for porschephiles@karazm.math.uh.edu
+To: porsche@wvus.wciu.edu
+Subject: rich/lean Solexes
+From: pete@wvus.wciu.edu (Pete Gregory)
+Message-Id: <JVgDZ1w163w@wvus.wciu.edu>
+Date: Mon, 25 Mar 91 07:58:06 PST
+Organization: World Vision U.S.
+
+Hi, Porschenuts...
+
+I've got a '69 912 with early (from a '64 356 I think) Solex carbs.  Car
+runs great - smooth power all the way to redline.  But here's my
+problem: the left carb (cyls 3 & 4) runs richer than the right (1 & 2)
+carb.  Evidence: plugs 3 & 4 foul after a few thousand miles, and there
+is evidence of gas leaking down the outside of the carb (dirty, "wet"
+on the pan below).  (Plugs 1 & 2 look okay, carb "dry".)
+
+Last weekend, I thought I'd try to find out why this is happening, and
+believe I have found the answer.  On the left (rich) carb, I cannot
+adjust the float level to keep gas from streaming out of the inspection
+hole (funny - on the right (lean, but not TOO lean) carb, only a 
+MAXIMUM adjustment will get the float level HIGH enough!).  This makes
+me think that the float level, being apparently WAY TOO high is 
+somehow contributing to a super-rich condition in these two cylinders (gas
+trickling into the venturi via another route?).
+
+I put in a brand new float needle valve on the left/rich carb, to no avail.
+Yes, the float "floats" in the chamber (I take the carb top piece off
+with the body in the car and hence with a full float chamber).
+
+Could my fuel pump (only the mech. one - no electrics) be delivering too
+much pressure? - the rich carb happens to be the one "closest" to the
+pump.
+
+Any other suggestions, anecdotes, etc. invited and appreciated.
+ 
+Pete Gregory, UNIX SA  |  pete@wvus.wciu.edu                  |
+World Vision USA/ISD   |  wciu!wvus!pete                   ___|___
+919 W. Huntingon Dr.   |  Voice: 818/357-7979 x3347           |
+Monrovia, CA  91016    |  FAX:   818/303-6212                 |
+                                                              |
+Sponsor a hungry child for only $20/month.  1-800-423-4200
+
+From porschephiles-request@karazm.math.uh.edu  Tue Mar 26 00:59:12 1991
+Received: by karazm.math.uh.edu id <AA22439@karazm.math.uh.edu>; Tue, 26 Mar 91 00:59:12 CST
+Received: from elroy.Jpl.Nasa.Gov by karazm.math.uh.edu id <AA22424@karazm.math.uh.edu>; Tue, 26 Mar 91 00:58:17 CST
+Received: from wciu.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA25578; Mon, 25 Mar 91 22:58:07 PST
+Received: by wciu.edu (5.51/smail2.5/06-01-89)
+	id AA05322; Tue, 26 Mar 91 01:25:49 EST
+Received: by wvus.wciu.edu (1.63/waf)
+	via UUCP; Mon, 25 Mar 91 08:00:29 PST
+	for porschephiles@karazm.math.uh.edu
+To: porsche@wvus.wciu.edu
+Subject: early 911 parts wanted
+From: pete@wvus.wciu.edu (Pete Gregory)
+Message-Id: <iZgDZ2w163w@wvus.wciu.edu>
+Date: Mon, 25 Mar 91 08:00:29 PST
+Organization: World Vision U.S.
+
+To anyone parting out an early 911/912:
+
+I'm looking for map pockets, right AND left, forward AND rear.  They don't
+have to be perfect (I don't have the front pockets at all  :-(  ), just
+restorable.  Black preferred (was there any other interior color?).
+
+Application: '69 912.
+
+Thanks....
+ 
+Pete Gregory, UNIX SA  |  pete@wvus.wciu.edu                  |
+World Vision USA/ISD   |  wciu!wvus!pete                   ___|___
+919 W. Huntingon Dr.   |  Voice: 818/357-7979 x3347           |
+Monrovia, CA  91016    |  FAX:   818/303-6212                 |
+                                                              |
+Sponsor a hungry child for only $20/month.  1-800-423-4200
+
+From stan  Tue Mar 26 01:29:11 1991
+Received: by karazm.math.uh.edu id <AA22746@karazm.math.uh.edu>; Tue, 26 Mar 91 01:29:11 CST
+Received: by karazm.math.uh.edu id <AA22626@karazm.math.uh.edu>; Tue, 26 Mar 91 01:19:41 CST
+Date: Tue, 26 Mar 91 01:19:41 CST
+From: Stan Hanks (bcm) <stan>
+To: erickson@libra.cs.nps.navy.mil, porschephiles@karazm.math.uh.edu
+Subject: Re:  Muffler wisdom
+
+I've had pretty good success with  having VW heat  exchangers aluminized
+(who in their right mind would put a stainless exhaust on a Bug, right?).
+Check in the Yellow Pages under "Metal Coatings" or "Metalizers" for 
+someone in your area who can do the  work.
+
+I've also had pretty good  luck in just painting 914 mufflers with 
+high-temp exhaust system paint. Current 914 muffler (ANSA, I believe)
+is 2.5 years old,  and has no  rust. I painted it before mounting it,
+let it dry for a day, and bolted it up. No  further maintenence since
+then, other than the period high-pressure wash of the underside of 
+the car.
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Tue Mar 26 11:19:11 1991
+Received: by karazm.math.uh.edu id <AA27911@karazm.math.uh.edu>; Tue, 26 Mar 91 11:19:11 CST
+Received: from libra.cs.nps.navy.mil ([131.120.1.14]) by karazm.math.uh.edu id <AA27900@karazm.math.uh.edu>; Tue, 26 Mar 91 11:18:21 CST
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA00523; Tue, 26 Mar 91 09:17:34 PST
+Date: Tue, 26 Mar 91 09:17:34 PST
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9103261717.AA00523@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Muffler wisdom
+
+Thanks for the information.  I checked all the local machine shops, and
+all said "what's aluminizing".  The local metal spraying outfits spray steel
+and brass - no aluminum.  Maybe I should get the muffler sprayed with
+brass :<-).
+
+Can anyone recommend a shop in San Jose or the SF Bay area?
+
+-Dave
+
+From porschephiles-request@karazm.math.uh.edu  Tue Mar 26 13:29:11 1991
+Received: by karazm.math.uh.edu id <AA29362@karazm.math.uh.edu>; Tue, 26 Mar 91 13:29:11 CST
+Received: from cs.rpi.edu by karazm.math.uh.edu id <AA29292@karazm.math.uh.edu>; Tue, 26 Mar 91 13:25:27 CST
+Received: from camplab.cmp.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA21591; Tue, 26 Mar 91 13:36:54 EST
+Date: Tue, 26 Mar 91 13:34:15 EST
+From: frank@camplab.cmp.rpi.edu (Karl Frank Hens)
+Received: by camplab.cmp.rpi.edu (4.0/1.2-RPI-CAMP-LAB)
+	id AA04013; Tue, 26 Mar 91 13:34:15 EST
+Message-Id: <9103261834.AA04013@camplab.cmp.rpi.edu>
+To: stan@karazm.math.uh.edu
+Subject: Re:  Muffler wisdom
+Cc: porschephiles@karazm.math.uh.edu
+
+
+I couldn't find a shop either in the Albany NY area that does aluminizing.
+Anyone know a good metal treater in NY area?
+
+Frank
+
+From porschephiles-request@karazm.math.uh.edu  Thu Mar 28 21:59:22 1991
+Received: by karazm.math.uh.edu id <AA10644@karazm.math.uh.edu>; Thu, 28 Mar 91 21:59:23 CST
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA10548@karazm.math.uh.edu>; Thu, 28 Mar 91 21:53:38 CST
+Received: from  visual2.tamu.edu  (VISUAL2.TAMU.EDU) by bcm.tmc.edu (AA07452); Thu, 28 Mar 91 21:53:24 CST
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA05926; Thu, 28 Mar 91 21:47:44 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA03649; Mon, 28 Mar 88 21:50:43 PST
+Date: Mon, 28 Mar 88 21:50:43 PST
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <8803290550.AA03649@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: AAAAAAARGH!
+
+
+So what happens when you unlock your '84 944 and grab the little  
+puller and it goes "click"?  Anybody ever have this problem?  
+
+
+No?  How about this.  So you figure, "Well, I'll just climb in from  
+the passenger side, no prob till I figure out what's wrong....."
+click, ca-chunk, step, squiggle, slide... bump!  "Say, I guess I hit  
+the mirror with my knee.  No problem.  Except, HEY WHAT'S THIS???  Oh  
+nooooooo....  I don't think insurance is going to pay for that  
+one..."  But how about unlatching it from the inside and *walking  
+around* the car??????  Noooooo.  Didn't consider that one till it was  
+toooooo late!
+
+Any suggestions on what to do with a non opening door or a....  a...
+a...   cracked windshield (in the middle of College Station, Texas).   
+Please send all warnings, condolences, um, flames (I can take it!),  
+and helpful information c/o stupid dumb dang rassen-frassen idiotic  
+ugly smelly....
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Thu Mar 28 22:59:22 1991
+Received: by karazm.math.uh.edu id <AA11425@karazm.math.uh.edu>; Thu, 28 Mar 91 22:59:23 CST
+Received: from  visual2.tamu.edu  ([128.194.2.142]) by karazm.math.uh.edu id <AA11396@karazm.math.uh.edu>; Thu, 28 Mar 91 22:56:01 CST
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA06238; Thu, 28 Mar 91 22:50:10 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA03960; Mon, 28 Mar 88 22:53:08 PST
+Date: Mon, 28 Mar 88 22:53:08 PST
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <8803290653.AA03960@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: AAAAAARGH!
+
+
+So what happens when you unlock your '84 944 and grab the little  
+puller and it goes "click"?  Anybody ever have this problem? 
+
+
+No?  How about this.  So you figure, "Well, I'll just climb in from  
+the passenger side, no prob till I figure out what's wrong....."
+click, ca-chunk, step, squiggle, slide... bump!  "Say, I guess I hit  
+the mirror with my knee.  No problem.  Except, HEY WHAT'S THIS???  Oh  
+nooooooo....  I don't think insurance is going to pay for that  
+one..."  But how about unlatching the door from the inside and  
+*walking around* the car??????  Noooooo.  Didn't consider that one  
+till it was toooooo late!
+
+Any suggestions on what to do with a non opening door or a....  a...
+a...   cracked windshield (in the middle of College Station, Texas).   
+Please send all warnings, condolences, um, flames (I can take it!),  
+and helpful information c/o stupid dumb dang rassen-frassen idiotic  
+ugly smelly....
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 29 10:39:23 1991
+Received: by karazm.math.uh.edu id <AA18441@karazm.math.uh.edu>; Fri, 29 Mar 91 10:39:23 CST
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA18418@karazm.math.uh.edu>; Fri, 29 Mar 91 10:36:55 CST
+Received: Fri, 29 Mar 91 08:39:04 PST by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9103291639.AA29863@gemini.arc.nasa.gov>
+Received: from kry.dnet by ames.dnet with MAIL-11
+	(utk-mail11d v1.5); Fri, 29 Mar 91 08:39:25 PST
+Date: Fri, 29 Mar 91 08:39:25 PST
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: windshield, door lock, and high blood pressure!
+To: porschephiles@karazm.math.uh.edu
+
+Subject: AAAAAAARGH!
+ 
+ 
+>So what happens when you unlock your '84 944 and grab the little  
+>puller and it goes "click"?  Anybody ever have this problem?  
+ 
+ 
+>No?  How about this.  So you figure, "Well, I'll just climb in from  
+>the passenger side, no prob till I figure out what's wrong....."
+>click, ca-chunk, step, squiggle, slide... bump!  "Say, I guess I hit  
+>the mirror with my knee.  No problem.  Except, HEY WHAT'S THIS???  Oh  
+>nooooooo....  I don't think insurance is going to pay for that  
+>one..."  But how about unlatching it from the inside and *walking  
+>around* the car??????  Noooooo.  Didn't consider that one till it was  
+>toooooo late!
+
+I don't see why the insurance wouldn't pay for that.  Insurance is supposed
+to protect you from stupidity ;-).
+
+A friend of mine dropped his bicycle on his roof and dented it (the roof).
+The insurance paid off just fine.
+
+Regarding getting the door open, I had a similar problem with my 911.
+
+I could not unlock the driver's door from the outside.  I tried to remove
+the lock assembly and discovered I would have to remove  **everything** in
+the door (electric windows).  I wound up spending a few hours with a mirror
+determining why the door would not unlock, and was able to straighten the 
+bent piece with a screwdriver and a hammer (not recommended for the heavy 
+hitters ;-)).
+
+Now the passenger's door won't unlock.
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 29 21:00:18 1991
+Received: by karazm.math.uh.edu id <AA27347@karazm.math.uh.edu>; Fri, 29 Mar 91 21:00:18 CST
+Received: from  visual2.tamu.edu  ([128.194.2.142]) by karazm.math.uh.edu id <AA27299@karazm.math.uh.edu>; Fri, 29 Mar 91 20:57:03 CST
+Received: from visual3.tamu.edu by  visual2.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-2.0)
+	id AA11541; Fri, 29 Mar 91 20:51:10 GMT-0700
+Received: by visual3.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA09063; Tue, 29 Mar 88 20:54:08 PST
+Date: Tue, 29 Mar 88 20:54:08 PST
+From: james@visual3.tamu.edu (James Bennett Saxon)
+Message-Id: <8803300454.AA09063@visual3.tamu.edu>
+Received: by NeXT Mailer (1.62)
+To: porsche@visual3.tamu.edu
+Subject: Re: windshield, door lock, and high blood pressure!
+
+
+>I don't see why the insurance wouldn't pay for that.  Insurance is  
+>supposed to protect you from stupidity ;-).
+
+Heh heh...  I was asking for it...  Insurance has a really weird  
+catch here because they say that they will pay for "like" glass and  
+"like" quality.  Actually in this town they said that they deal with  
+these guys or those guys and nobody else.  Now how can I point out  
+that Porsche glass (thinner actually) is also not like the stuff  
+they're trying to sell me?  The insane price range is $220 totally  
+installed to $958 totally installed.
+
+The factory Porsche windshield price is probably no lower than $680  
+(Claire Auto Parts, MA).  Of course the insurance claims there's no  
+difference.  Is there?  The ACME Glass Co (College Station, TX) can  
+use LM glass???  Hinkle Auto Glass and Trim (Houston) said $380 for  
+the job with Triplex glass...  ACME said Triplex is not as good...
+What a joke this is!!!
+
+As for the lock. Mine's not bent it's busted...  Are my metal parts  
+becoming brittle or what???  My window regulator (power) also busted  
+one of its mounts recently.
+
+The second element of the door lock linkage from the outside door  
+puller which rotates, pushing down a rod which then connects with the  
+inside linkage, broke off.  Apparently they only sell the entire  
+handle including key and cylinder!!!  It's not that pricey amazingly  
+($71, Claire) nor is it difficult to install.  I won't have to remove  
+the window!  But it's just this one little tiny piece and I really  
+don't want a new key...  SO...  I've been trying to hit the salvage  
+yards with no luck...  I couldn't find Rennsport Auto.  Any ideas?
+
+James
+
+From porschephiles-request@karazm.math.uh.edu  Fri Mar 29 22:30:17 1991
+Received: by karazm.math.uh.edu id <AA28160@karazm.math.uh.edu>; Fri, 29 Mar 91 22:30:17 CST
+Received: from hpfcla.fc.hp.com ([15.254.48.2]) by karazm.math.uh.edu id <AA28088@karazm.math.uh.edu>; Fri, 29 Mar 91 22:22:47 CST
+Received: from hpfcpe.fc.hp.com by hpfcla.fc.hp.com with SMTP
+	(15.11.1.6/15.5+IOS 3.20) id AA01243; Fri, 29 Mar 91 21:22:02 -0700
+Received: by hpfcpe.HP.COM; Fri, 29 Mar 91 21:25:16 mst
+From: Mick Tegethoff <mick@hpfcpe.fc.hp.com>
+Message-Id: <9103300425.AA12264@hpfcpe.HP.COM>
+Subject: 356 crankshaft WANTED
+To: porschephiles@karazm.math.uh.edu
+Date: Fri, 29 Mar 91 21:25:12 MST
+Mailer: Elm [revision: 64.9]
+
+Hi there,
+
+I'm looking for leads in getting a 356 C  crankshaft. Yes, the one on
+my 912 let go on me. The bad news is I need a new crankshaft, the good
+news is there was no additional damage to a recently rebuilt engine.
+
+What is the best (low $$) place to get a new one (German type)
+
+Does anyone know of a used one on the market. If so,
+        is it standard, or .25mm (don't want .50mm)?
+        is it balanced?
+        has it been magna fluxed?
+
+Any help will be greatly appreciated
+ 
+        Mick Tegethoff
+        mvt@hpfcpe.fc.hp.com
+        (303)225-9545 
+
+From porschephiles-request@karazm.math.uh.edu  Sat Mar 30 17:20:20 1991
+Received: by karazm.math.uh.edu id <AA09507@karazm.math.uh.edu>; Sat, 30 Mar 91 17:20:21 CST
+Received: from luga.latrobe.edu.au ([131.172.2.2]) by karazm.math.uh.edu id <AA09450@karazm.math.uh.edu>; Sat, 30 Mar 91 17:13:22 CST
+Received: from lure.latrobe.edu.au by luga.latrobe.edu.au with SMTP id AA00999
+  (5.65+/IDA-1.3.5/LTU-1.0 for porschephiles@karazm.math.uh.edu); Sun, 31 Mar 91 09:13:39 -1000
+Date: Sun, 31 Mar 91 09:12 GMT-10
+From: "Mark Kosten - Computer Centre, La Trobe Uni." <Mark.Kosten@latrobe.edu.au>
+Subject: Re: windshields
+To: porschephiles@karazm.math.uh.edu
+Message-Id: <993EFE3C509F406750@lure.latrobe.edu.au>
+X-Envelope-To: porschephiles@karazm.math.uh.edu
+X-Vms-To: IN%"porschephiles@karazm.math.uh.edu"
+
+From: james@visual3.tamu.edu
+>...  Insurance has a really weird  
+>catch here because they say that they will pay for "like" glass and  
+>"like" quality.  Actually in this town they said that they deal with  
+>these guys or those guys and nobody else.  Now how can I point out  
+>that Porsche glass (thinner actually) is also not like the stuff  
+>they're trying to sell me?  The insane price range is $220 totally  
+>installed to $958 totally installed.
+>
+>The factory Porsche windshield price is probably no lower than $680  
+>(Claire Auto Parts, MA).  Of course the insurance claims there's no  
+>difference.  Is there?  The ACME Glass Co (College Station, TX) can  
+>use LM glass???  Hinkle Auto Glass and Trim (Houston) said $380 for  
+>the job with Triplex glass...  ACME said Triplex is not as good...
+>What a joke this is!!!
+
+Some time ago my windshield was smashed and had to be replaced.  The
+local Porsche distributor gave me a choice, local glass (~$5600 fitted)
+or Porsche (Sekurit)  (~$900 glass alone). They said either was
+fine, and the local glass has the benefit of a tinted band.  Naturally
+I went for the local glass, especially since the distributor was happy
+with either.  I can't speak for your situation, but I'de be suprised
+there would be a big variation in quality - whatever that means with
+windows/windshields - and as long as the proper standards are adhered to.
+
+Mark Kosten
+
+From porschephiles-request@karazm.math.uh.edu  Sun Mar 31 20:50:21 1991
+Received: by karazm.math.uh.edu id <AA24705@karazm.math.uh.edu>; Sun, 31 Mar 91 20:50:21 CST
+Received: from acvax.inre.asu.edu ([129.219.10.1]) by karazm.math.uh.edu id <AA24663@karazm.math.uh.edu>; Sun, 31 Mar 91 20:48:10 CST
+Date:    Sun, 31 Mar 1991 19:50:30 MST
+From: AGJEM@ACVAX.INRE.ASU.EDU (Jeff Moersch, Dept. of Geology, ASU)
+Message-Id: <910331195030.21e39@ACVAX.INRE.ASU.EDU>
+Subject: Aftermarket steering wheels for 914
+To: porschephiles@karazm.math.uh.edu
+X-Vmsmail-To: @PORSCHE
+
+     For a long time now I have been thinking about replacing the original 
+equipment steering wheel in my '73 914.  I would like to get a smaller 
+diameter wheel, both for the added leg room and the "sportier" feel.  I am 
+*not* particularly concerned about fancy leather or well-known names - all I 
+want is a good, functional wheel.  Does anybody know if there is any practical 
+reason to get something like a Momo, Dino, or Nardi, or will one of those Pep 
+Boys' Specials do the job just fine?  Are the mounts for steering wheels 
+generally universal for most cars, or do I need to worry about compatibility?  
+If the only compatibility factor is whether the horn works, I could live with 
+that - the horn tab on my current wheel has been broken for two years, and I 
+haven't really cared about it wnough to fix it yet.  
+
+Thanks
+Jeff Moersch
+agjem@acvax.inre.asu.edu
+

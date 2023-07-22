@@ -1,0 +1,196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  RE: More mathematics</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'Andrew Warren' <fastfwd@ix.netcom.com>">
+  <META NAME="MsgPropFrom" CONTENT="Philip Adamson <philip@outsource.co.nz>">
+  <META NAME="MsgPropSubject" CONTENT="RE: More mathematics">
+  <META NAME="MsgPropDate" CONTENT="Tue, 18 Nov 1997 08:44:18 +1300">
+  <META NAME="MsgPropCc" CONTENT="'928 list' <928@porschefans.com>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">'Andrew Warren' &lt;fastfwd@ix.netcom.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Philip Adamson &lt;philip@outsource.co.nz&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">RE: More mathematics</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 18 Nov 1997 08:44:18 +1300</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">'928 list' &lt;928@porschefans.com&gt;</td></tr>
+</table>
+<pre>
+Thanks, Andrew - CarTest is very good and I guess it takes ALL the guesswork
+out of things.  What started me going on this was that the Auckland Car Club
+is running a flying kilometre event in a couple of weeks and I am trying to decide
+whether to run the 928 - I wanted to simulate optimum take-offs and work out
+what reasonable speed I could expect to get clocked at with 2km run up, 1km
+flying.  (ie - if it's under 160mph I won't bother!)
+
+A couple of things worry me about this program (having just spent an hour playing
+on it) though.  
+
+1) Is dropping the clutch at 2000 rpm REALLY the quickest way to get a 928 off
+the line??  And is it really going to wheelspin for over a second at that rpm?? (I
+guess I can answer that by going out and trying it - anyone else know?)
+
+2) My car does an indicated 100mph in 3rd and I know my speedo is pretty close
+to correct.  Yet the program says only 90mph in 3rd based on the ratios that my
+car is supposed to have.  The program seems accurate - so what the hell is in
+my gearbox and diff!!???
+
+Regards,
+
+Philip Adamson
+'88 928 SE
+
+-----Original Message-----
+From:	Andrew Warren 
+Sent:	Monday, 17 November 1997 21:45
+To:	928@porschefans.com
+Subject:	Re: More mathematics
+
+Philip Adamson <philip@outsource.co.nz> wrote:
+
+> I found a little simulator I wrote .... I'm going to parameterise
+> the whole thing so I can do the 928 and whatever else I feel like
+> plugging in, the only trouble is that I did it all with tables and
+> approximations and fudge factors that I derived, not real live,
+> accurate calculations, because I had that data for the Lotus.  I
+> need some formulae
+> ....
+> I will also include drag, frontal area, tyre friction and all that
+> into the software.
+
+    Philip:
+
+    Search the web for a program called "CARTEST.EXE"; it already
+    does everything you want and more.
+
+> I seem to remember bhp is a function of torque & rpm.  Is it just a
+> straight calculation, and if so, what?
+
+    It's an easy calculation... Here's the derivation I posted to
+    the "genaral@porschefans.com" sublist a few months ago, in
+    response to the query "What's a dyno?":
+
+------- Forwarded Message Follows ------
+
+"Dyno" is short for "dynamometer"; it's a machine that measures the
+torque of an engine.
+
+There are a couple of ways to build a dyno... Some keep the engine
+running at a constant speed and put a gradually-increasing load on it;
+others put a constant load on the engine and see how rapidly it can
+accelerate under that load.
+
+There are dynos that measure the torque right at the flywheel
+("engine dynos") and dynos that measure the torque at the rear
+wheels ("chassis dynos").  Chassis dynos are more convenient for
+those of us whose engines are already in our cars, but since their
+measurements are affected by losses through the drivetrain (which are
+usually only estimated), their absolute accuracy is lower than that of
+engine dynos.
+
+You'll notice that I've talked about measuring TORQUE, not
+horsepower... That's because dynamometers can't directly measure
+horsepower; horsepower is CALCULATED from the measured torque. 
+
+Here's how it all works:
+
+    Torque is the product of a force and its moment arm.  That is,
+
+        Torque = FR, where F is the force in pounds and R is the
+                     length of the moment arm in feet.
+
+    Work is, for our purposes, the product of a force and the
+    magnitude of its displacement.  That is,
+
+        Work = FS, where F is the force in pounds and S is the 
+               displacement in feet.
+
+    Power is the rate at which work is performed:
+
+        Power = Work/Time.  We'll measure time in minutes.
+
+As I mentioned, dynamometers only measure torque, in foot-pounds. To
+calculate horsepower, we have to combine that torque measurement with
+a time measurement.  Here's how:
+
+    A long time ago, James Watt performed some experiments and
+    determined that a horse could lift 550 pounds at a rate of 1 foot
+    per second.  This unit of power, 550 foot-pounds per second,
+    became known as the "Horsepower".
+
+    Since I already said that we'd be dealing with time in MINUTES,
+    not seconds, we can multiply by 60 seconds/minute to get:
+
+        1 Horsepower = 33000 foot-pounds/minute,
+
+    which implies that a horse can lift 33000 pounds a distance of one
+    foot in a minute, or launch a one-pound weight to a height of
+    33000 feet in the same time... No mean feat.
+
+    But I digress.
+
+To calculate an engine's horsepower at some given speed, you do 
+the following:
+
+    Rev the engine to the desired speed.
+
+    Measure the torque at that speed.
+
+    Multiply the torque by 2 * PI * the engine speed in revolutions
+    per minute.  This gives you:
+
+        X foot-pounds * 2 * PI * REVOLUTIONS
+        ------------------------------------,
+                     MINUTE
+
+    where "X" is the measured torque.    
+
+    If you look closely, you'll see that this is a FORCE (in pounds)
+    times a DISTANCE ("one foot * 2 * PI * revolutions" is the
+    distance the tip of our one-foot moment arm travels, in feet)
+    divided by TIME (in minutes).
+
+    From the definitions I gave earlier, FORCE times DISTANCE divided
+    by TIME equals POWER, so the above equation gives us power  
+    (expressed in foot-pounds per minute).
+
+    To convert from foot-pounds per minute to horsepower (one
+    horsepower = 33000 foot-pounds per minute, remember), we simply
+    divide by 33000.
+
+    So...
+
+                 Torque * 2 * PI * RPM
+    Horsepower = ---------------------
+                         33000
+
+                 Torque * RPM
+               = ------------
+                 33000/(2*PI)
+
+                 Torque * RPM
+               = ------------,
+                     5252
+
+    which, incidentally, implies that an engine's torque and
+    horsepower curves cross at 5252 RPM.
+
+------- End of Forwarded Message -------
+
+-Andy
+
+=== Andrew Warren - fastfwd@ix.netcom.com
+=== Fast Forward Engineering - Vista, California
+=== 
+=== For sale: '73 914-6 w/ 2.7 Euro Carrera RS motor.
+=== Info at http://www.geocities.com/SiliconValley/2499
+
+==================================
+PorscheFans 928 Message
+To post a message, send e-mail to 928@PorscheFans.com
+
+.
+</pre>
+</BODY></HTML>

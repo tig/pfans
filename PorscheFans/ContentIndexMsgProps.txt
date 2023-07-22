@@ -1,0 +1,16 @@
+# This file contains property definitions specific to messages
+# this file is read by cisvc via the registry key
+# \HKLM\SYSTEM\CurrentControlSet\Control\ContentIndex\Common
+# DefaultColumnFile REG_SZ
+# 
+# The format is:
+# Propertyname ( Datatype ) = GUID ["Name" | propid]
+#
+[Names]
+To = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropTo"
+From = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropFrom"
+Subject = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropSubject"
+Date = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropDate"
+Cc = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropCc"
+ReplyTo = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropReplyTo"
+Organization = d1b5d3f0-c0b3-11cf-9a92-00a0c908dbf1 "MsgPropOrganization"

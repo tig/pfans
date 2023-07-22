@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Temp Sensor II</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'aaPorscheFans-914' <914@porschefans.com>">
+  <META NAME="MsgPropFrom" CONTENT="'James K. Thorusen' <entropy@hughes.net>">
+  <META NAME="MsgPropSubject" CONTENT="Temp Sensor II">
+  <META NAME="MsgPropDate" CONTENT="Wed, 22 Apr 1998 00:20:29 -0700">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">aaPorscheFans-914 &lt;914@porschefans.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">James K. Thorusen &lt;entropy@hughes.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Temp Sensor II</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Wed, 22 Apr 1998 00:20:29 -0700</td></tr>
+</table>
+<pre>
+Greetings, 914-er's!
+
+  Therewere so many postings on the Temp Sensor II subject that I
+don't feel that it's economic to send copies to everybody, so I'll
+just post to the list... everybody gets duplicates the other way
+anyhow (unless in digest mode), but I digress...
+
+ First, Josh Hadler wrote: " I also don't know where this 122F number
+comes from, but that's just plain -cold- for a head temperature. "
+
+  I agree, but I don't think that it was meant to be an operating
+temperature... I interpret it to mean that if you live in Death
+Valley, you can still work on your car in the summertime.
+
+  J.J.Slowik and Dave Darling bring up an interesting point regarding
+measurement of the Temp Sensor II value underway.  However, I must
+point out that it is not so much the meter's interfering with the ECU
+that is a problem (although that may very well occur), but the ECU
+sends a current through the sensor in order to determine it's
+resistance, and that current will almost certainly prevent the meter
+from reading accurately.  
+  There are two solutions: 1.  Simply install a switch to enable
+either the ECU or the meter to "see" the sensor as desired.  It would
+be possible to use the same switch to simultaneously present a fixed
+resistor of appropriate value to the ECU and thus allow the engine to
+continue to run.   2.  Build a costly, complicated multiplexer
+circuit to switch between the two functions at a high rate.  A
+capacitor should sub for the temp sensor, and a sample-and-hold
+circuit could feed the ohmmeter.   If anyone wants to build the
+latter, go ahead, but include me out.
+
+   Dave Trammell suggested measurng the IR drop across a small series
+resistor.  This could work, but it does depend somewhat on how the
+internal circuitry of the ECU is arranged.   The TempSensor II
+probably forms part of a biasing network in the base circuit of a
+transistor inside the unit, but there may be other thermistors
+present to subtract out the junction potential change of the
+transistor with changes in temperature of the ECU, or other tricks
+that might make the measurement non-straightforward.   One would have
+to run calibration curves to be sure, and then we are back to one of
+the brute force methods.
+
+  Josh Hadler also wrote:  "   Hmm, so is the system designed to be
+at zero resistance when the heads are at optimal temp? Or is it
+designed for warmup efficiency, and hot heads were not given too much
+consideration? I'm just tossing this question out there to generate
+discussion, I'd like to find this out...  "
+
+  I would too, and I suspect that the answer can be found by scoping
+the injector pulses and measuring their length vs. CHT.   If they
+bottom out somewhere, and get no shorter with increasing temperature
+(decreasing resistance) then there is a safety rail built in.  If
+not, then the addition of a fixed resistor becomes a practical
+necessity.   It might be necessary to make the measurements on a
+chassis dyno though, as idle conditions are probably not
+representative.
+
+   There... that's a lot more than the $.02 I'm entitled to throw out
+there...
+
+					Regards,
+                                                            Jim T.
+                                                           
+entropy@hughes.net
+
+
+
+
+.
+
+</pre>
+</BODY></HTML>

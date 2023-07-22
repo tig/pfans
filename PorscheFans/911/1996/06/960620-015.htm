@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -        Backing up an EPROM or OTP?</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="porschefans-911@ioio.com">
+  <META NAME="MsgPropFrom" CONTENT="'Robert T. Rouleau' <rrouleau@dataradio.com>">
+  <META NAME="MsgPropSubject" CONTENT="Backing up an EPROM or OTP?">
+  <META NAME="MsgPropDate" CONTENT="Thu, 20 Jun 1996 14:01:45 -0500">
+  <META NAME="MsgPropOrganization" CONTENT="Dataradio Inc.">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">porschefans-911@ioio.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Robert T. Rouleau &lt;rrouleau@dataradio.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Backing up an EPROM or OTP?</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Thu, 20 Jun 1996 14:01:45 -0500</td></tr>
+</table>
+<pre>
+1) I don't think Kevin accused anyone of stealing software, he just 
+made a comment about how we could rationalize things.
+
+2) I have some knowledge since my company makes devices with very 
+complex software embedded in micros, PROMS, EEPROMS, OTP's etc.
+
+3) Manufacturers (like us) who spend tens of millions in R and D to 
+develop software which resides in non volatile memory chips are 
+generally smart enough to take steps to protect ourselves from fraud.
+
+4) Here are a few ways we protect ourselves against illegal copying 
+of memory chips:
+
+    a) Simple protection: move a few address lines around so that the 
+processor reads the memory map in a weird way. Use a program to 
+calculate the new addresses and burn the PROM with the code in weird 
+locations matching the revised memory map. Not foolproof by reading 
+the contents and simply writing them back in sequentially with a PROM 
+burner will usually not work. This method is hardly used any more.
+
+    b) Use a combination of PROM and a microcontroller. The micro has 
+the key to decode the PROM. The micro is programmed once and thanks 
+to the "security bit" feature offered by Motorola, Intel and several 
+other suppliers, the micro cannot be read. This works very well. The 
+resulting product is a memory chip and a small micro hooked to it 
+which are on a small board that plugs into a memory socket. NSA can 
+defeat it but the rest of us find it hard.
+
+    c) Use a security PROM which refuses to be read by a PROM reader.
+
+    d) Use software that is keyed to a specific processor (like the 
+exact one in the engine management computer. You can copy it but you 
+car had better be identical to the original one.
+
+I could go on and on and I admit that I have never taken an EFI 
+system apart. I have a chip. I paid for it. It works, I'm happy. 
+Cheap horsepower and I have no desire to make a "backup". Besides, if 
+the guys who write this stuff get ripped off they will either 
+increase the price or stop doing it altogether.
+
+I have the feeling that modern Engine Management systems probably 
+have protection built in. If I was designing them, I would.
+
+Bob
+    
+
+
+
+
+
+
+
+==================================
+PorscheFans 911/912 Message
+For help, send an e-mail to PorscheFans@ioio.com.  You will get an automated reply.
+To post a message to PorscheFans 911, send an e-mail to PorscheFans-911@ioio.com
+.
+</pre>
+</BODY></HTML>

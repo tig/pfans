@@ -1,0 +1,1818 @@
+From porschephiles-request@karazm.math.uh.edu  Sun Jun  2 23:33:32 1991
+Received: by karazm.math.uh.edu id <AA18725@karazm.math.uh.edu>; Sun, 2 Jun 91 23:33:33 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA18720@karazm.math.uh.edu>; Sun, 2 Jun 91 23:30:53 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA01210; Sun, 2 Jun 91 21:31:36 PDT
+Date: Sun, 2 Jun 91 21:31:36 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9106030431.AA01210@hyperion.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: 951 clutch hydraulic problem
+
+
+
+After putting new front rotors and pads on my 951 this weekend, I
+decided to perform some preventive maintenance and bleed the brakes
+and clutch.  The brake bleeding went very smoothly, but the clutch
+bleeding has resulted in an inoperative clutch.  I figured that I had
+somehow introduced air into the system while bleeding, but after much
+effort (a *LOT* of bleeding both manually with a helper and with a
+hand vacuum pump), the clutch does still does not work.  At this
+point, there would seem to be three possibilities:
+
+1) There is still too much air in the lines.  I think this is
+   the most likely scenario, since I was having no trouble with
+   the clutch before I tried to bleed it.  Unfortunately, if this
+   is the case, I have no idea how to get the air out, as I have 
+   tried everything short of pressure bleeding (for which I do not 
+   have the required equipment).  I did not see much air emerging 
+   from the bleed screw, although with every other push of the 
+   pedal, I did get a little bunch of very small bubbles....
+   I tried the factory manual's suggestion of removing the
+   slave cylinder and depressing the pushrod to force residual
+   air back up to the reservoir, but this did not solve the
+   problem.
+
+2) The clutch master cylinder has gone away.  I hope this is not the
+   case, as it appears to be in a rather inconvenient place.  The
+   clutch master is at least partially functional, since fluid is
+   being pushed out the bleeder by the pedal.  Of course, if the rubber
+   cup in the cylinder is leaking, there might still be enough pressure 
+   to push fluid out, but not enough to overcome the clutch pressure 
+   plate tension.
+
+3) The clutch slave cylinder has gone away.
+
+This system does not seem to be very complicated, yet I have run out
+of ideas about what to try next.  Does anyone have any experience with
+or recommendations about this problem?
+
+Thanks,
+Milo Dorr
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Sun Jun  2 23:53:32 1991
+Received: by karazm.math.uh.edu id <AA18891@karazm.math.uh.edu>; Sun, 2 Jun 91 23:53:33 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA18848@karazm.math.uh.edu>; Sun, 2 Jun 91 23:45:54 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA01233; Sun, 2 Jun 91 21:46:39 PDT
+Date: Sun, 2 Jun 91 21:46:39 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9106030446.AA01233@hyperion.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: 951 clutch hydraulic problem
+
+
+Never mind, gang.  Somehow, the process of describing my problem to 
+you jarred a neuron or two.  After hitting <CR> to send my mail
+message, I got the sudden inspiration to go out to the garage and
+stick my head up under the dash.  Sure enough, the glistening evidence
+of a failed clutch master stared back.  As this was my least desirable
+diagnosis, Murphy's Law has been upheld.
+
+Thanks for your help :-).
+
+-Milo
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun  3 09:44:01 1991
+Received: by karazm.math.uh.edu id <AA22763@karazm.math.uh.edu>; Mon, 3 Jun 91 09:44:01 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA22736@karazm.math.uh.edu>; Mon, 3 Jun 91 09:34:16 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA25049 (5.65a/CWI-2.90); Mon, 3 Jun 91 16:32:45 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.64+/1.34)
+	id AA09836; Mon, 3 Jun 91 16:22:33 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.20)
+	id AA00551; Mon, 3 Jun 91 14:12:43 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA21888; Mon, 3 Jun 91 14:12:31 +0200
+Date: Mon, 3 Jun 91 14:12:31 +0200
+From: libra!kevinh@relay.EU.net (Kevinh)
+Message-Id: <9106031212.AA21888@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re:  951 clutch hydraulic problem
+
+
+>Never mind, gang.  Somehow, the process of describing my problem to 
+>you jarred a neuron or two.  After hitting <CR> to send my mail
+>message, I got the sudden inspiration to go out to the garage and
+>stick my head up under the dash.  Sure enough, the glistening evidence
+>of a failed clutch master stared back.  As this was my least desirable
+>diagnosis, Murphy's Law has been upheld.
+>
+>Thanks for your help :-).
+>
+>-Milo
+
+So, what is the moral of the story?? - Don't bleed the clutch!?#*( I don't believe that). What went wrong?
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun  3 09:43:34 1991
+Received: by karazm.math.uh.edu id <AA22759@karazm.math.uh.edu>; Mon, 3 Jun 91 09:43:34 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA22737@karazm.math.uh.edu>; Mon, 3 Jun 91 09:34:17 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA25057 (5.65a/CWI-2.90); Mon, 3 Jun 91 16:32:50 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.64+/1.34)
+	id AA09842; Mon, 3 Jun 91 16:22:40 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.20)
+	id AA00732; Mon, 3 Jun 91 14:18:37 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA21901; Mon, 3 Jun 91 14:18:27 +0200
+Date: Mon, 3 Jun 91 14:18:27 +0200
+From: libra!kevinh@relay.EU.net (Kevinh)
+Message-Id: <9106031218.AA21901@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911 Spotlights
+
+
+I have these "spotlights" fixed with three screws to the lower part of the bonnet. They are Bosch and are colour coded to match the car and look as though they were installed by Porsche. Anybody know if they were a standard period (1973) accessory or who would have such information (the car is a european 911T)??
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun  3 11:03:34 1991
+Received: by karazm.math.uh.edu id <AA23254@karazm.math.uh.edu>; Mon, 3 Jun 91 11:03:35 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA23202@karazm.math.uh.edu>; Mon, 3 Jun 91 10:59:29 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA01393; Mon, 3 Jun 91 08:59:55 PDT
+Date: Mon, 3 Jun 91 08:59:55 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9106031559.AA01393@hyperion.llnl.gov>
+To: libra!kevinh@relay.eu.net
+Subject: Re:  951 clutch hydraulic problem
+Cc: porschephiles@karazm.math.uh.edu
+
+>So, what is the moral of the story?? - Don't bleed the clutch!?#*( I don't 
+>believe that). What went wrong?
+
+I sure wish I knew.  I don't believe that not bleeding the clutch is
+the answer either.  The fluid that came out initially was fairly dark,
+so I I am sure it needed it.  I have done this operation before
+without a problem.  I will perform a post mortem on the bad cylinder
+after I get it out.
+
+-Milo
+
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun  3 14:43:35 1991
+Received: by karazm.math.uh.edu id <AA24194@karazm.math.uh.edu>; Mon, 3 Jun 91 14:43:36 CDT
+Received: from akbar.cac.washington.edu by karazm.math.uh.edu id <AA24187@karazm.math.uh.edu>; Mon, 3 Jun 91 14:42:16 CDT
+Received: by akbar.cac.washington.edu
+	(5.65/UW-NDC Revision: 2.21 ) id AA08378; Mon, 3 Jun 91 12:41:08 -0700
+Date: Mon, 3 Jun 1991 12:41:04 -0700 (PDT)
+From: Michael Seibel <mikes@cac.washington.edu>
+Sender: Michael Seibel <mikes@cac.washington.edu>
+Reply-To: Michael Seibel <mikes@cac.washington.edu>
+Subject: Alloy questions 
+To: porschephiles@karazm.math.uh.edu
+Message-Id: <Pine.9106030957.B19796@akbar.cac.washington.edu>
+
+Hi Fellow Porsche Enthusiasts,
+
+I just have a few dumb questions about Fuchs alloy wheels.  I'm looking for
+a set of 6x15's for my 66 912.  Since I'm not interested in replicas and
+new Fuchs are prohibitively expensive, I think I'm looking for a used set.
+
+First, how can I distinguish the genuine article from a replica?  Is there
+something obvious stamped on the wheel?
+
+Second, I don't expect to find anything in perfect condition, so is there
+any type of damage to be particularly wary of?  Can damage to these wheels
+be repaired?
+
+I'd welcome any advice on this matter.  Thanks!
+
+-mikes
+
+
+PS - Speaking of mufflers, anybody in need of a new Bursch muffler for a 912 
+     with American heat exchangers?
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun  3 16:03:37 1991
+Received: by karazm.math.uh.edu id <AA25119@karazm.math.uh.edu>; Mon, 3 Jun 91 16:03:37 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA25034@karazm.math.uh.edu>; Mon, 3 Jun 91 15:59:47 CDT
+From: fwk@homxc.att.com
+Date: Mon, 3 Jun 91 13:24 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: karazm.math.uh.edu!porschephiles-request@att.UUCP (Milo Dorr)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re:  951 clutch hydraulic problem
+
+>
+>>So, what is the moral of the story?? - Don't bleed the clutch!?#*( I don't 
+>>believe that). What went wrong?
+>
+>I sure wish I knew.  I don't believe that not bleeding the clutch is
+>the answer either.  The fluid that came out initially was fairly dark,
+>so I I am sure it needed it.  I have done this operation before
+>without a problem.  I will perform a post mortem on the bad cylinder
+>after I get it out.
+>
+>-Milo
+
+I had some adventures bleeding the clutch in my '87 944S. The first is
+that the portion of the reservoir allocated to the clutch is relatively
+small, and there is a laborinth from the brake part to the clutch part,
+so it is very easy to get air into the clutch part while bleeding,
+and very hard to get the air out. Part of the problem is to get enough
+fluid in there to make the air volume sufficiently small that changing
+it's volume by the volume of the master cylinder has any significant
+effect on pressure, which is required to push any remaining fluid out
+of the bleeder. This is a similar problem to bleeding an initially dry
+or almost dry brake system. I ended up using a "pseudo-pressure bleeder"
+made from a spare reservoir cap and a tire valve, and used with about
+20 PSI air pressure.
+
+Second, and perhaps even more interesting is that it seems to be impossible
+to get all of the air out of the clutch once you do get it bleeding
+due to the inclination of the master cylinder, which traps a small
+pocket of air. I finally jacked the back of the car up as high as I could,
+which makes the master cylinder more level, eliminating the pocket,
+which solved the problem.
+
+The second half of this doesn't seem relevant to Milo's situation,
+but may be useful to others doing the same job. The first half could explain 
+problems Milo had with getting the bleeding started, but wouldn't explain
+the leakage. My guess is that the master cylinder was leaking but still
+functional, and that the inability to bleed was a separate symptom,
+as described above.  Hopefully Milo will provide us with a full
+"root cause analysis".
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun  3 19:58:56 1991
+Received: by karazm.math.uh.edu id <AA00470@karazm.math.uh.edu>; Mon, 3 Jun 91 19:58:56 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA00465@karazm.math.uh.edu>; Mon, 3 Jun 91 19:58:48 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad20769;
+          3 Jun 91 20:53 EDT
+Date: Tue, 4 Jun 91 00:56 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Michael Seibel <mikes@cac.washington.edu>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Alloy questions
+Message-Id: <85910604005658/0004056890NB2EM@mcimail.com>
+
+I don't know the Fuchs product line from that period very well, but can briefly
+address your other questions.  As to originality, look for manufacturer's stamps
+on the inside of the rim.  I don't know whether the after-market wheels
+counterfeit these markings - I doubt it.
+
+Do not buy repaired alloy wheels, or any repaired wheels for that matter. 
+Deformation and "repair" affects the mechanical strength of forged metal.
+
+I believe my 928-style dish alloys are made by Fuchs.  They have a little "fox"
+logo stamped on the inside.  ("Fuchs" is/heisst "fox").
+
+Kevin
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 08:58:56 1991
+Received: by karazm.math.uh.edu id <AA05544@karazm.math.uh.edu>; Tue, 4 Jun 91 08:58:57 CDT
+Received: from sirius.cs.rpi.edu (fs5.cs.rpi.edu) by karazm.math.uh.edu id <AA05535@karazm.math.uh.edu>; Tue, 4 Jun 91 08:53:22 CDT
+Date: Tue, 4 Jun 91 09:50:10 EDT
+From: weltyc@sirius.cs.rpi.edu (Chris Welty)
+Received: by sirius.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA15513; Tue, 4 Jun 91 09:50:10 EDT
+Message-Id: <9106041350.AA15513@sirius.cs.rpi.edu>
+To: mikes@cac.washington.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Michael Seibel's message of Mon, 3 Jun 1991 12:41:04 -0700 (PDT) <Pine.9106030957.B19796@akbar.cac.washington.edu>
+Subject: Alloy questions 
+
+
+The original Fuchs alloys are, to my knowledge, the only forged alloys
+available in that style.  All the repros of the classic Porsche 5
+spoke wheel are cast.  You can tell cast wheels from forged in a
+number of ways:
+
+1) when they break, the metal has a grainy look.  The forged wheel
+   probably wont break.
+
+2) There are usualy cast lines from where some metal spilled out of
+   the mold.  
+
+The best way to see the difference is to take an original forged wheel
+and a cast one and just compare them side by side.  It's hard to
+describe the difference.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 14:38:56 1991
+Received: by karazm.math.uh.edu id <AA08576@karazm.math.uh.edu>; Tue, 4 Jun 91 14:38:56 CDT
+Received: from relay2.UU.NET by karazm.math.uh.edu id <AA08486@karazm.math.uh.edu>; Tue, 4 Jun 91 14:31:22 CDT
+Received: from uunet.uu.net (LOCALHOST.UU.NET) by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA28847; Tue, 4 Jun 91 15:29:39 -0400
+Received: from areyes.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 151306.23275; Tue, 4 Jun 1991 15:13:06 EDT
+Received: by areyes.com (smail2.5)
+	id AA01015; 4 Jun 91 14:44:06 EDT (Tue)
+Subject: Mobil 1 20W50???
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 4 Jun 91 0:35:34 EDT
+From: Doug Fields <admiral!doug@uunet.UU.NET>
+X-Mailer: ELM [version 2.3 PL11]
+Message-Id:  <9106040035.aa11264@admiral.UUCP>
+
+Does Mobil 1 20W50 oil exist? I have gone to a few Mobil stations around
+the area and the best they have is 15W50.
+
+I have heard that running M1 synthetic is the best oil you can get... I'd
+use it just as the regular oil (which has been done up till now by the
+dealer), i.e. change every 3k miles. But, times are rough and I can't afford
+the service, so I'm becoming more familiar with my own "mechanics" even if
+it's only brakes and oil for now...
+
+If this oil doesn't exist, would someone kindly tell me which kind of oil
+you would recommend (20W50 but from who?) for track events and autocrosses
+for a 951S?
+
+Thank you much...
+
+Doug
+
+-- 
+Doug Fields -- 100 Midwood Road, Greenwich, CT 06830 --- (FAX) +1 203 661 2996
+uucp: uunet!areyes!admiral!doug ------- Thank you areyes/mail and wizkid/news!
+Internet: fields-doug@cs.yale.edu --------------- (Voice@Home) +1 203 661 2967
+BBS: (HST/V32) +1 203 661 1279; (MNP6) -2967; (PEP/V32) -2873; (V32/V42) -0450
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 15:18:56 1991
+Received: by karazm.math.uh.edu id <AA09089@karazm.math.uh.edu>; Tue, 4 Jun 91 15:18:56 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by karazm.math.uh.edu id <AA09068@karazm.math.uh.edu>; Tue, 4 Jun 91 15:17:14 CDT
+Received: from polaris.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA06384; Tue, 4 Jun 91 16:14:33 EDT
+Received: by polaris.cs.rpi.edu (4.1/SMI-4.1)
+	id AA02806; Tue, 4 Jun 91 16:14:29 EDT
+Date: Tue, 4 Jun 91 16:14:29 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9106042014.AA02806@polaris.cs.rpi.edu>
+To: admiral!doug@uunet.uu.net
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Doug Fields's message of Tue, 4 Jun 91 0:35:34 EDT <9106040035.aa11264@admiral.UUCP>
+Subject: Mobil 1 20W50???
+
+
+Since you're running a 944 turbo I recommend you stick with Mobil 1.
+The 944 #2 (?) bearing fails after roughly 50 hours of track time on
+the turbos, and after about 100 on non-turbos.  Apparently this
+does not happen to people running Mobil 1, making it well worth the
+extra expense.  Changing the oil every 3Kmis is still important to
+clean it out, not because the "oil breaks down", so don't skimp on
+that either...  I saw this in either Challenge or Porscheforus.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 16:08:56 1991
+Received: by karazm.math.uh.edu id <AA09615@karazm.math.uh.edu>; Tue, 4 Jun 91 16:08:56 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by karazm.math.uh.edu id <AA09586@karazm.math.uh.edu>; Tue, 4 Jun 91 16:00:49 CDT
+Received: from polaris.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA06575; Tue, 4 Jun 91 16:58:09 EDT
+Received: by polaris.cs.rpi.edu (4.1/SMI-4.1)
+	id AA02828; Tue, 4 Jun 91 16:58:07 EDT
+Date: Tue, 4 Jun 91 16:58:07 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9106042058.AA02828@polaris.cs.rpi.edu>
+To: porschephiles@karazm.math.uh.edu
+In-Reply-To: weltyc@cs.rpi.edu's message of Fri, 31 May 91 12:53:30 EDT <9105311653.AA16385@vega.cs.rpi.edu>
+Subject: 914 Alignments
+
+
+A number of people responded to my message about toe-out being
+dangerous.  I made a few calls as well, and here's a summary.
+
+1) Front toe-out is beneficial for autox applications, no front toe is
+   recommended at the track.  I never doubted that one.
+
+2) Rear toe-out is dangerous, but also useful for autox.  Rear toe out
+   makes the car very easy to toss around.  At speed, even above
+   50mph, toe out becomes dangerous.  Jim Newton recommends no rear
+   toe even for "dedicated autox".  He said he'd run 1/16" total
+   (1/32" each side) if he was trailering the car in.
+
+   The reason rear toe-out  is dangerous is that when driving at
+highway or above speeds, both rear wheels want to cause you to turn.
+Well, normally they balance each other out and you go straight.  But
+say you hit uneven road, or a bump, causing one tire (say the right
+one for example) to be loaded more than the other (the left).  The
+more loaded tire (right) will cause the rear of the car to come out in
+that direction, turning the car to the left.  This turning action
+FURTHER unloads the left tire and further loads the right, giving it
+more traction and causing further turing to the left.  Uncorrected,
+the car spins.  When you go into a turn, the back comes out like one
+of those cars at Roos racing school with the casters on the back.
+The more tow out, the more enhanced this behavior (the faster it
+happens).  For toe-in, the "positive feedback" doesn't happen, since
+the loading of one tire will cause a turn that will load the other
+one, and you get a (damped) harmonic.
+
+OK, so what I'm saying is (and this goes quadruple for you 911 drivers),
+rear toe out should not be used in cars that are driven over 50mph.  
+Even if you're a great driver it can be dangerous.  For autox, where
+speeds are low and you want to toss the car around, it is useful.  But
+the experts do not recommend it if you are going to be driving your
+car on the street as well.  Of course, they have to protect themselves
+so the dangers are perhaps a little exaggerated (he TOLD me rear toe
+out was good, your honor.).  
+
+Without a doubt, toe out in back is counter productive on the track,
+and rear toe-in is recommended.
+
+Thanks for all the responses from the maniacs who autox with toe out
+in back.  Not being an autoxer myself, it was news.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 16:58:56 1991
+Received: by karazm.math.uh.edu id <AA10463@karazm.math.uh.edu>; Tue, 4 Jun 91 16:58:57 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA10157@karazm.math.uh.edu>; Tue, 4 Jun 91 16:52:50 CDT
+From: fwk@homxc.att.com
+Date: Tue, 4 Jun 91 16:53 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: Doug Fields <karazm.math.uh.edu!porschephiles-request@att.UUCP>
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Mobil 1 20W50???
+
+>Does Mobil 1 20W50 oil exist? I have gone to a few Mobil stations around
+>the area and the best they have is 15W50.
+>
+>I have heard that running M1 synthetic is the best oil you can get... I'd
+>use it just as the regular oil (which has been done up till now by the
+>dealer), i.e. change every 3k miles. But, times are rough and I can't afford
+>the service, so I'm becoming more familiar with my own "mechanics" even if
+>it's only brakes and oil for now...
+
+I am not aware of a Mobil 20W50, but 15W50 should be fine and is 
+specifically authorized by Porsche (at least for 1987 models). Many
+track junkies use it religiously. Others claim that it is not worth the
+price differential, but I'm unaware of anyone who claims that it is not
+just as good as conventional oil, only that it may not be enough better
+to justify the price. As you point out, continue to change the oil at
+relatively short intervals like 3K miles, despite the advertising claims
+of the synthetics.
+
+>
+>If this oil doesn't exist, would someone kindly tell me which kind of oil
+>you would recommend (20W50 but from who?) for track events and autocrosses
+>for a 951S?
+
+If you don't go for the Mobil 1, I have heard good things about Valvoline
+and Kendall. You will probably get lots of opinions on this subject,
+many of them contradictory.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 17:18:56 1991
+Received: by karazm.math.uh.edu id <AA10873@karazm.math.uh.edu>; Tue, 4 Jun 91 17:18:56 CDT
+Received: from underdog.bbn.com by karazm.math.uh.edu id <AA10859@karazm.math.uh.edu>; Tue, 4 Jun 91 17:17:09 CDT
+Received: by underdog.bbn.com id AA21773g; Tue, 4 Jun 91 18:15:49 EDT
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: Mobil 1 20W50??? 
+In-Reply-To: Your message of "Tue, 04 Jun 91 16:53:00 EDT."
+             <9106042158.AA21960@Menudo.UH.EDU> 
+Date: Tue, 04 Jun 91 18:15:48 -0400
+From: James J Dempsey <jjd@alexander.bbn.com>
+
+I saw that some other major oil vendor recently announced a synthetic
+oil as well as a synthetic/conventional mix oil.  I think it was
+Quaker State.  Does anyone have any experience with this w.r.t. Mobil 1?
+
+		--Jim Dempsey--
+		jjd@bbn.com
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 21:18:57 1991
+Received: by karazm.math.uh.edu id <AA12202@karazm.math.uh.edu>; Tue, 4 Jun 91 21:18:58 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA12189@karazm.math.uh.edu>; Tue, 4 Jun 91 21:10:47 CDT
+From: fwk@homxc.att.com
+Date: Tue, 4 Jun 91 18:08 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: karazm.math.uh.edu!porschephiles-request@att.UUCP
+Cc: admiral!doug@uunet.uu.net, porschephiles@karazm.math.uh.edu
+Subject: Re: Mobil 1 20W50???
+
+>In-Reply-To: Doug Fields's message of Tue, 4 Jun 91 0:35:34 EDT <9106040035.aa11264@admiral.UUCP>
+>Subject: Mobil 1 20W50???
+>
+>
+>Since you're running a 944 turbo I recommend you stick with Mobil 1.
+>The 944 #2 (?) bearing fails after roughly 50 hours of track time on
+>the turbos, and after about 100 on non-turbos.  Apparently this
+>does not happen to people running Mobil 1, making it well worth the
+>extra expense.  Changing the oil every 3Kmis is still important to
+
+There is apparently significant controversy on whether Mobil 1 helps with
+this problem. AutoAuthority, in Va., who supports many 944 and 944 Turbo
+racers and track junkies and has some pretty knowledgable people,
+claims that it is not a oil problem per-se, but a lubrication system design
+problem which shortchanges #2, and that it will happen independent
+of the brand of oil. Others swear by Mobil 1. Unfortunately it is not
+the kind of thing you want to gather much data on with your own car,
+and I suspect that the total number of failures compared to the number
+of variables you would like to correlate them to makes a clear
+diagnosis difficult.
+
+Mobil 1 has one property which most people can agree on, and that is
+the ability to avoid breakdown at higher temperatures. This is very
+important on 930's and 931's, due to turbo bearing oil coking. It is
+also important  on any car whose oil runs hot, either on the track
+or even just on the street. Most water-cooled owners don't think they
+have a problem, even on the track, since the temperature gauge doesn't
+go up, but this is water temp. We stuck a thermocouple down the
+dipstick hole on several 944/944T at a modestly warm day at the track,
+and saw 240 deg. F temps after the car was back in the paddock,
+which is hot enough to worry about, especially considering it was probably
+10 deg. or more hotter while the car was on the track. I know 944's
+have neat water/oil intercoolers, and turbos have supplemental coolers,
+but the measurements speak for themselves (and I calibrated the gauge
+at 212 deg. F.).
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun  4 22:18:57 1991
+Received: by karazm.math.uh.edu id <AA12439@karazm.math.uh.edu>; Tue, 4 Jun 91 22:18:58 CDT
+Received: from neuron.cs.tamu.edu by karazm.math.uh.edu id <AA12408@karazm.math.uh.edu>; Tue, 4 Jun 91 22:09:02 CDT
+Received: from  visual2.cs.tamu.edu  (visual2.cs.tamu.edu) by neuron.cs.tamu.edu (AA02781); Tue, 4 Jun 91 22:06:47 CDT
+Received: by  visual2.cs.tamu.edu  (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA00917; Tue, 4 Jun 91 22:01:31 CDT
+Date: Tue, 4 Jun 91 22:01:31 CDT
+From: james@cs.tamu.edu (James Bennett Saxon)
+Message-Id: <9106050301.AA00917@ visual2.cs.tamu.edu >
+Received: by NeXT Mailer (1.62)
+To: porsche@visual2
+Subject: synthetics
+
+
+So that's motor oil, how about tranny synthetics like Red Line?
+
+I've a friend in an RX-7 who says it saved his differential.  
+
+
+Any data?
+
+James
+
+From stan  Tue Jun  4 22:48:57 1991
+Received: by karazm.math.uh.edu id <AA12605@karazm.math.uh.edu>; Tue, 4 Jun 91 22:48:58 CDT
+Received: by karazm.math.uh.edu id <AA12549@karazm.math.uh.edu>; Tue, 4 Jun 91 22:43:42 CDT
+Date: Tue, 4 Jun 91 22:43:42 CDT
+From: "Stan Hanks (bcm)" <stan>
+To: james@cs.tamu.edu, porschephiles@karazm.math.uh.edu
+Subject: Re:  synthetics
+
+I have used Amsoil synthetic tranny goo (75W90? 80W90? both, I think....)
+for a *LONG* time. It's a big win on shift smoothness and seems to help
+with synchro and bearing life.
+
+I used to use RedLine synthetic auto tranny goo in my IPD-prepared Volvo
+242 GT. It's also good stuff. In fact, I still have about a case of it in
+my garage. I can make someone a good deal on it if you're interested...
+
+Stan
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun  5 10:48:59 1991
+Received: by karazm.math.uh.edu id <AA16972@karazm.math.uh.edu>; Wed, 5 Jun 91 10:49:00 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA16963@karazm.math.uh.edu>; Wed, 5 Jun 91 10:46:38 CDT
+Received: Wed, 5 Jun 91 08:19:43 -0700 by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9106051519.AA20771@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Wed, 5 Jun 91 08:20:06 PDT
+Date: Wed, 5 Jun 91 08:20:06 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: santa rosa auto-x & clutch question
+To: porschephiles@karazm.math.uh.edu
+
+Two things for everyone:
+
+1)      The auto-x in Santa Rosa on 6/1/91.
+
+This was great fun.  The Redwood Region (PCA) put it on.  Everything went 
+fairly smoothly.  I managed not to embarrass myself too much!  Good times
+seemed to be in the low 46's or mid 45's.  I managed mid 48's (w/ hard tires)
+and a car that does qualify as stock under GGR rules.
+
+Oh yeah, I almost failed tech inspection.  The front wheel bearings were a 
+little loose.  They had been okay two weeks earlier at the crows landing 
+class.  That's the last time I don't check EVERYTHING the day before I go.
+
+
+2)      My #$%*& clutch linkage!
+
+Here's the problem, SOMETIMES the clutch action feels like there is grit
+in it.  The pedal is not smooth, although the clutch operation does not seem
+to be too affected.  The problem is intermittant, and I do not have any good
+correlation between the rough pedal and anything else.
+
+On the other hand, SOMETIMES the action is fine.
+
+I have:  replaced the clutch cable (replacment bought at Automotion).  
+Rebushed the entire pedal assembly w/ the Weltmeister bronze bushings (and 
+lots of grease).  The factory (plastic) bushings seemed to be in good shape 
+when I removed them.  The cross shaft (inside the pedal assembly) did have 
+a scored section on it.  Didn't seem THAT scored tho'.
+
+I also cleaned everything very carefully.
+
+I adjusted the clutch to the specs in the Hanes book, .041" clearance w/ the
+cable loose, then tighten the cable to .037" (the numbers might be a little 
+off since this was several weeks ago).
+
+Any guesses?
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+p.s.
+Anyone know a good of removing the dust caps on the front wheel bearings?
+I chewed mine up quite a bit :-( with the channel locks.  It looks like 
+a slide hammer and a gear puller might do it...
+
+Suggestions?
+-s.
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun  5 12:39:00 1991
+Received: by karazm.math.uh.edu id <AA17493@karazm.math.uh.edu>; Wed, 5 Jun 91 12:39:00 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA17445@karazm.math.uh.edu>; Wed, 5 Jun 91 12:29:16 CDT
+Received: from socrates.ee.rochester.edu by valhalla.ee.rochester.edu (4.1/2.2ee) id AA01230; Wed, 5 Jun 91 13:27:44 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Received: by socrates.ee.rochester.edu (4.1/2.1client) id AA19926; Wed, 5 Jun 91 13:27:42 EDT
+Date: Wed, 5 Jun 91 13:27:42 EDT
+Message-Id: <9106051727.AA19926@socrates.ee.rochester.edu>
+In-Reply-To: weltyc@cs.rpi.edu
+       "914 Alignments" (Jun  4,  4:58pm)
+X-Mailer: Mail User's Shell (7.2.2 3/26/90)
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: 914 Alignments
+
+On Jun  4,  4:58pm, weltyc@cs.rpi.edu writes:
+> 2) Rear toe-out is dangerous, but also useful for autox.  ...  At speed,
+>    even above 50mph, toe out becomes dangerous.
+> ...
+> OK, so what I'm saying is (and this goes quadruple for you 911 drivers),
+> rear toe out should not be used in cars that are driven over 50mph.  
+> Even if you're a great driver it can be dangerous.  ...  Of course, they
+> have to protect themselves so the dangers are perhaps a little exaggerated
+> (he TOLD me rear toe out was good, your honor.).  
+
+Exaggerated, yes.  There's nothing magical about the 50mph figure, and
+believe me, nothing sudden is going to happen if you have a little rear
+toe-out.  I recently drove to an autocross about an hour an a half away with
+1/2" of rear toe-out in my 914, and this is on bumpy northeast roads.  Cars
+just don't suddenly spin, okay?  It wasn't even particularly jumpy or
+sensitive to cross-winds.
+
+Now, I do agree with these "experts" that most people should not be using
+rear toe-out unless they're sure they know what they're doing.  But I can't
+stand to just sit back and watch ridiculous overgeneralizations like this
+confusing everybody.  This is not directed particularly at Chris; it's a
+popular misconception among all kinds of car people, not just Chris, and not
+just Porschephiles.
+
+I'm told the Acura NSX even comes from the factory with a little bit of
+toe-out...
+
+Mark
+
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jun  6 18:49:06 1991
+Received: by karazm.math.uh.edu id <AA29927@karazm.math.uh.edu>; Thu, 6 Jun 91 18:49:06 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA29914@karazm.math.uh.edu>; Thu, 6 Jun 91 18:47:40 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA02662; Thu, 6 Jun 91 16:47:01 PDT
+Date: Thu, 6 Jun 91 16:47:01 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9106062347.AA02662@hyperion.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: 951 clutch hydraulic problem
+
+
+
+Since there was some interest in the 951 clutch bleeding problem
+I had a few days ago, I felt I should report on its resolution.
+
+I replaced the clutch master cylinder with a new part.  Disassembly of
+the old cylinder revealed a significant amount of scoring on the
+piston and bore.  There was also a lot of crud in the thin part of the
+piston between the two cups.  From the poor condition of the cylinder,
+I am certain that I would have had to replace it soon anyway had I not
+seen the problem during my attempt at preventative maintenance.
+Because the clutch worked fine before I tried to bleed the system, I
+think I should have been able to bleed the system even with the worn
+cylinder.  In other words, I consider the leaking of the master
+cylinder to be largely coincidental.
+
+I now believe that the main problem, as was suggested by Frank
+Kerfoot, was simply keeping air from sneaking back into the line
+during bleeding.  The tiny sub-chamber of the brake reservoir that
+feeds the clutch master cylinder was VERY difficult to keep full.
+With the help of my friend Bert, who kept an eagle eye on the fluid
+level and operated the pedal while I was under the car, we were
+finally able to get the air out, but it was a pain.  For some reason,
+fluid did not readily flow from the chamber with the filler cap to the
+clutch chamber without some pursuasion applied by gently wiggling the
+reservoir.  To make matters worse, it was difficult to see the fluid
+level in the clutch chamber through the supposedly translucent
+plastic.  Frank's suggestion of raising the back end of the car seemed
+to help, but I think the main advantage of this was more in keeping
+the clutch reservoir chamber full than in removing the high spot in
+the line created by the upward tilt of the clutch master cylinder.
+
+In any case, all's well that ends well.  Thanks to everyone who
+contributed advice on this problem, and to Bert for his patience (we
+will probably be muttering "Up, down" in our sleep for a while).
+
+-Milo
+
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jun  6 23:09:07 1991
+Received: by karazm.math.uh.edu id <AA04457@karazm.math.uh.edu>; Thu, 6 Jun 91 23:09:08 CDT
+Received: from gemini.arc.nasa.gov by karazm.math.uh.edu id <AA04452@karazm.math.uh.edu>; Thu, 6 Jun 91 23:02:35 CDT
+Received: Thu, 6 Jun 91 09:22:38 -0700 by gemini.arc.nasa.gov (5.57/1.2)
+Message-Id: <9106061622.AA01461@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Thu, 6 Jun 91 09:22:46 PDT
+Date: Thu, 6 Jun 91 09:22:46 PDT
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: Clutch problem
+To: porschephiles@karazm.math.uh.edu
+
+
+A little calarification of the clutch problem I posted a few days ago.
+
+The car is a 1980 911.  All (seven) pedal bushings have been replaced, 
+including the one in the throttle clevis.  The replacments are the bronze
+Weltmeister bushings.
+
+The clutch cable is new, and, as it was plastic coated, I did not lubricate 
+it prior to installation.
+
+The problem:  Sometimes, but not always, there is a gritty feel to the 
+clutch pedal.  Along with the gritty feel, it seems that the clutch does
+not disengauge quite as much as when the gritty feel is not present.  The 
+clutch does disengauge enough for normal operation, though it may require 
+the pedal to be a little farther depressed.
+
+There is no noticable correlation with other pedal use.  It also does not
+matter whether or not the car is in gear.
+
+All I can think of is the throwout bearing.  Since I am not about to remove
+the transmission (yet), I am wondering if anyone has any suggestions?
+
+My plan at this time is to remove the cable and lubricate it, though I
+doubt it will make any difference.
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+p.s.
+
+Anyone out there have a factory shop manual for sale?  I need volumes 1-6.
+Also, does anyone have a set of wheels for an SC (16x6 and 16x7) they 
+would like to sell?  The wheels are for auto-x so straight is important, but
+pretty isn't.
+
+-s.
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jun  7 18:29:14 1991
+Received: by karazm.math.uh.edu id <AA13422@karazm.math.uh.edu>; Fri, 7 Jun 91 18:29:14 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA12948@karazm.math.uh.edu>; Fri, 7 Jun 91 18:21:12 CDT
+From: fwk@homxc.att.com
+Date: Fri, 7 Jun 91 13:49 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: karazm.math.uh.edu!porschephiles-request@att.UUCP (Milo Dorr)
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: 951 clutch hydraulic problem
+
+>
+>I now believe that the main problem, as was suggested by Frank
+>Kerfoot, was simply keeping air from sneaking back into the line
+>during bleeding.  The tiny sub-chamber of the brake reservoir that
+>feeds the clutch master cylinder was VERY difficult to keep full.
+>With the help of my friend Bert, who kept an eagle eye on the fluid
+>level and operated the pedal while I was under the car, we were
+>finally able to get the air out, but it was a pain.  For some reason,
+>fluid did not readily flow from the chamber with the filler cap to the
+>clutch chamber without some pursuasion applied by gently wiggling the
+>reservoir.  To make matters worse, it was difficult to see the fluid
+>level in the clutch chamber through the supposedly translucent
+>plastic.  Frank's suggestion of raising the back end of the car seemed
+>to help, but I think the main advantage of this was more in keeping
+>the clutch reservoir chamber full than in removing the high spot in
+>the line created by the upward tilt of the clutch master cylinder.
+     ^^^^
+The high spot is not in the line, where bleeding would flush the
+air through due to the small cross section, but in the master cylinder
+itself, where the area is large enough to allow the bubble to remain
+even as the fluid being bled flows through.
+
+I actually went through two phases of resolving my problem. I began 
+with the LF corner jacked up to gain access to the clutch slave cylinder
+for bleeding, and in that situation it is incredibly easy to empty
+the small part of the reservoir associated with the clutch, and, as
+Milo points out, it is hard to see that is happening. I had no success
+even getting bleeding started after I got air in it with the LF up.
+I then figured out that the reservoir would be happier with its LF
+corner low, so I put the jack under the RR, and crawled under to the
+slave cylinder from the right side. That kept fluid in the clutch part of
+the reservior, and allowed me to get enough fluid into the system to
+make the clutch functional, but, no matter how much I bled (several cans
+of fluid) the clutch pedal was not right. The clutch disengaged with
+the pedal lower than it should, and the overcenter spring would then
+"help" too much in the early part of the pedal travel. the car was
+drivable, but not right. It was a week later when I saw a picture in
+the shop manual of the clutch master cylinder, and saw the slope
+which creates the air pocket. I then jacked the back of the car way up,
+as far as my floor jack would go (2feet?), and bled again, which got
+rid of the bubble. As Milo points out, the key issue in jacking is to
+keep the clutch part of the reservoir full, but without the very high
+rear jacking you may end up with a small bubble which is a nuisance.
+
+Frank Kerfoot
+fwk@homxc.all.com
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jun  7 19:29:14 1991
+Received: by karazm.math.uh.edu id <AA13848@karazm.math.uh.edu>; Fri, 7 Jun 91 19:29:14 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA13839@karazm.math.uh.edu>; Fri, 7 Jun 91 19:25:10 CDT
+Received: from cse.ogi.edu by bcm.tmc.edu (AA27559); Fri, 7 Jun 91 19:23:40 CDT
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA22465; Fri, 7 Jun 91 17:23:37 -0700
+Date: Fri, 7 Jun 91 17:23:37 -0700
+From: bart%teni@cse.ogi.edu
+Message-Id: <9106080023.AA22465@cse.ogi.edu>
+Apparently-To: porschephiles@bcm.tmc.edu
+
+i attended a pacific northwest region track (pnw) event at seattle
+international raceway (sir) (formerly kent) last weekend.  it was
+nice to get my track junkie fix after 7 months of moving upheaval,
+but it was definitely a mixed experience.
+
+naturally you expect customs to be different in various regions,
+and i tried to approach this with an open mind.  for example,
+pnw has the run group colors mixed up with respect to every other
+group i've run with:
+
+	group: novice, intermediate, advanced, instructor
+	pnw: red, yellow, gree, blue
+	everyone else: green, white, black, red
+
+okay, not a big deal.  i was just surprised there wasn't a national
+standard on this.  in fact i thought i read as much in pano last summer
+when cvr changed the color of their advanced group from blue to black.
+
+the REALLY hard to take stuff has to do with safety and passing.  pnw
+REQUIRES the driver's window to be UP all the way!  the rationale is
+that all body parts should remain inside the car.  what about pit signals,
+you ask?  well, you roll down your window a few inches - every try to
+do that while you're rounding turn 9 at your favorite track?
+
+during the drivers' meeting i heard for the first time an admonishment
+about door locks, namely that you should NOT lock your door.  obviously
+they are concerned about pulling people out of cars and not being able
+to get inside.  the thing is that they have to worry about locks because
+they expect the driver's window to be up!
+
+now, how many times have you accidentally locked your door, especially
+on the track?  it's happened to me lots of times.  so after hearing this
+point i was suddenly not feeling very safe.
+
+weird, you say?  here's the strangest and i think most dangerous aspect
+of all this.  with the driver's window up, you have to signal from within
+the car!  again, 180 degrees off from everyone else, who rightly point out
+that it's difficult if not impossible to see a signal made inside a car.
+
+pnw passing protocol makes this even more dangerous.  the sequence begins
+with the passing car, which MUST flash his lights to pass (one would
+think that being behind someone is a clear enough signal of intent).
+the leading driver MUST acknoledge the flash by tapping his helmet with
+his right hand.  as i said before, this is difficult for the following
+car to see, impossible for corner workers to see.
+
+having acknowledged the flash, the leading driver is NOT obliged to
+let the trailing car by!  frequently the result is an impromptu and very
+dangerous drag race to the next corner, which in sir's case is usually the
+130 mph kink in the front straight just before a hard braking zone.
+
+in the words of dennis thovson, if someone is behind you, god didn't put
+him there, he's just faster than you.  it doesn't matter if you have a
+935 and he's got a 914-4, the best thing is to let him by and you'll
+never see him again.
+
+i admit to being a new kid in town, and i admit annoyance at having lost
+yet another foglight on my 951S from not being able to tape it over.  but
+really, who else runs events by this set of rules?  i've done events with
+a half-dozen different regions on the east coast and they have been very
+consistent and sensible in their rules.
+
+how about you california dudes?  what do golden gate and loma prieta
+regions do on the track?  am i going to be as disappointed/angry when
+i visit sears point, laguna seca, and willow springs?
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 08:39:28 1991
+Received: by karazm.math.uh.edu id <AA03561@karazm.math.uh.edu>; Mon, 10 Jun 91 08:39:28 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA03515@karazm.math.uh.edu>; Mon, 10 Jun 91 08:32:40 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by bcm.tmc.edu (AA15446); Mon, 10 Jun 91 08:30:58 CDT
+Received: from polaris.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA11864; Mon, 10 Jun 91 09:29:19 EDT
+Received: by polaris.cs.rpi.edu (4.1/SMI-4.1)
+	id AA04292; Mon, 10 Jun 91 09:29:17 EDT
+Date: Mon, 10 Jun 91 09:29:17 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9106101329.AA04292@polaris.cs.rpi.edu>
+To: bart%teni@cse.ogi.edu, porschephiles@bcm.tmc.edu
+In-Reply-To: bart%teni@cse.ogi.edu's message of Fri, 7 Jun 91 17:23:37 -0700 <9106080023.AA22465@cse.ogi.edu>
+Subject: bad track experience
+
+
+There are PCA forms that you can fill out if you thought a track event
+was not well run.  Supposedly, every region is supposed to have one or
+two filled out for each event by someone outside the regionm in order
+to qualify for the PCA insurance coverage.  It's not something that is
+done all the time, but Metro, CVR, and NNJR are religious about it.  A
+poorly run/dangerous event can really ruin the whole thing for all the
+regions.  As soon as there is a major lawsuit over one of these events
+the insurance companies wont touch any of us.
+
+Of course, there are events that are too safe.  Someone was telling me
+about a region that wouldn't let more than one car on the track at a
+time - not time trials, for a drivers ed - and that everyone got maybe
+8 laps out of a whole day.  
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 09:49:47 1991
+Received: by karazm.math.uh.edu id <AA03742@karazm.math.uh.edu>; Mon, 10 Jun 91 09:49:47 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA03724@karazm.math.uh.edu>; Mon, 10 Jun 91 09:43:27 CDT
+Received: from att.att.com by bcm.tmc.edu (AA16826); Mon, 10 Jun 91 09:41:52 CDT
+Message-Id: <9106101441.AA16826@bcm.tmc.edu>
+From: fwk@homxc.att.com
+Date: Mon, 10 Jun 91 09:59 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: karazm.math.uh.edu!porschephiles-request@att.UUCP
+Cc: porschephiles@bcm.tmc.edu
+Subject: PCA school standards
+
+>
+>i attended a pacific northwest region track (pnw) event at seattle
+>international raceway (sir) (formerly kent) last weekend.  it was
+>nice to get my track junkie fix after 7 months of moving upheaval,
+>but it was definitely a mixed experience.
+>
+>naturally you expect customs to be different in various regions,
+>and i tried to approach this with an open mind.  for example,
+>pnw has the run group colors mixed up with respect to every other
+>group i've run with:
+>
+>	group: novice, intermediate, advanced, instructor
+>	pnw: red, yellow, gree, blue
+>	everyone else: green, white, black, red
+>
+>okay, not a big deal.  i was just surprised there wasn't a national
+>standard on this.  in fact i thought i read as much in pano last summer
+>when cvr changed the color of their advanced group from blue to black.
+>
+
+There has been and continues to be an attempt to standardize items
+of this sort in Zone 1, which comrises the Northeastern portion of the US
+and several regions in eastern Canada. This has been facilitated by
+two things. First, the nature of drivers education events in Zone 1
+(and also Zone 2, which is south of us) is relatively uniform. We all run
+events structured in a relatively similar way. Most of the differences
+are in the details. My understanding (and it seems to be substantiated
+by your experience) is that there are more major differences elsewhere
+in the country.
+
+The second is that there is a suitable forum for these discussions in
+a twice yearly meeting held for all the presidents of the regions in
+Zone 1. When certain topics are discussed, appropriate other officers
+than the president are invited. The costs of the meeting are partially
+covered by revenues from The 48 Hours of Watkins Glen, a Zone-sponsored
+drivers school (which I believe is unique- all of the others are sponsored
+by individual regions). 
+
+With general agreement on basic principles and a forum to discuss details,
+Zone 1 has established standards for run group colors, we are approaching
+agreement on a tech inspection form (actually we have agreed- the
+various regions are now gradually converting), and we want to set up
+a standard entry form. The more basic stuff like passing signals and
+protocols have de-facto agreement, but are also discussed. The Zone
+driving event itself helps the standardization process by defining
+a list of instructors who have been qualified for driving ability
+and instruction skills by the Zone.
+
+There appear to be enough political issues at the national PCA level
+which relate to the basic way in which drivers education events are run
+to prevent that being a useful forum for broader standardization.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 09:49:27 1991
+Received: by karazm.math.uh.edu id <AA03738@karazm.math.uh.edu>; Mon, 10 Jun 91 09:49:28 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA03727@karazm.math.uh.edu>; Mon, 10 Jun 91 09:43:32 CDT
+Received: from att.att.com by bcm.tmc.edu (AA16835); Mon, 10 Jun 91 09:41:58 CDT
+Message-Id: <9106101441.AA16835@bcm.tmc.edu>
+From: fwk@homxc.att.com
+Date: Mon, 10 Jun 91 10:13 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: karazm.math.uh.edu!porschephiles-request@att.UUCP
+Cc: porschephiles@bcm.tmc.edu
+Subject: Re: bad track experience
+
+>There are PCA forms that you can fill out if you thought a track event
+>was not well run.  Supposedly, every region is supposed to have one or
+>two filled out for each event by someone outside the regionm in order
+>to qualify for the PCA insurance coverage.  It's not something that is
+>done all the time, but Metro, CVR, and NNJR are religious about it.  A
+
+The real problem with the Observer's reports, aside from the fact that 
+they are not always done, is that the questions are very subjective
+(e.g. Was the event run safely?). The region running the event tends
+to give the form to an out of region person whose philosophy on running
+drivers education is similar to their own, so you don't get comments
+on the overall pholosophy, just on the details of how that philosophy
+was executed (e.g. safe means EVERYBODY'S window stayed up all day).
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 10:49:27 1991
+Received: by karazm.math.uh.edu id <AA04272@karazm.math.uh.edu>; Mon, 10 Jun 91 10:49:28 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA04236@karazm.math.uh.edu>; Mon, 10 Jun 91 10:43:24 CDT
+Received: from cse.ogi.edu by bcm.tmc.edu (AA18245); Mon, 10 Jun 91 10:41:50 CDT
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA11969; Mon, 10 Jun 91 08:41:48 -0700
+Date: Mon, 10 Jun 91 08:41:48 -0700
+From: bart%teni@cse.ogi.edu
+Message-Id: <9106101541.AA11969@cse.ogi.edu>
+Apparently-To: porschephiles@bcm.tmc.edu
+
+>There are PCA forms that you can fill out if you thought a track event
+>was not well run.  Supposedly, every region is supposed to have one or
+>two filled out for each event by someone outside the regionm in order
+>to qualify for the PCA insurance coverage.  It's not something that is
+>done all the time, but Metro, CVR, and NNJR are religious about it.  A
+
+so far as i know i was the only participant from out-of-region, and
+i never saw such a form.  in fact i've never even heard of such a form
+and i've run out-of-region a lot.
+
+btw it really seems like people in the northwest really aren't all
+that interested in driving.  several people expressed amazement that
+i had come "all the way up" from portland (about 2.5 hours) to attend.
+
+pnw runs 5-6 *one-day* events at sir per season.  oregon region runs
+*2* one-day events per season at pir.
+
+the flip side of this is that there aren't a lot of participants, so
+there were only 45 people total at the pnw event and that turned into
+3 run groups each having four 30 minute runs..
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 15:19:28 1991
+Received: by karazm.math.uh.edu id <AA07184@karazm.math.uh.edu>; Mon, 10 Jun 91 15:19:28 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA07143@karazm.math.uh.edu>; Mon, 10 Jun 91 15:12:35 CDT
+Received: from cse.ogi.edu by bcm.tmc.edu (AA22500); Mon, 10 Jun 91 15:11:02 CDT
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA04967; Mon, 10 Jun 91 13:10:59 -0700
+Date: Mon, 10 Jun 91 13:10:59 -0700
+From: bart%teni@cse.ogi.edu
+Message-Id: <9106102010.AA04967@cse.ogi.edu>
+Apparently-To: porschephiles@bcm.tmc.edu
+
+haven't heard from any northern ca track junkies on event
+protocol/safety.  anyone out there have comments/info?
+
+speaking of info does anyone have track event schedules
+for sears point, laguna seca, willow springs?  enquiring
+minds want to know!
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 21:19:30 1991
+Received: by karazm.math.uh.edu id <AA09974@karazm.math.uh.edu>; Mon, 10 Jun 91 21:19:31 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA09963@karazm.math.uh.edu>; Mon, 10 Jun 91 21:12:57 CDT
+Received: from sage.cs.rpi.edu (csgws.rpi.edu) by bcm.tmc.edu (AA26528); Mon, 10 Jun 91 21:11:24 CDT
+Received: from vega.cs.rpi.edu by sage.cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA13743; Mon, 10 Jun 91 22:09:55 EDT
+Received: by vega.cs.rpi.edu (4.1/SMI-4.1)
+	id AA19654; Mon, 10 Jun 91 22:09:53 EDT
+Date: Mon, 10 Jun 91 22:09:53 EDT
+From: weltyc@cs.rpi.edu
+Message-Id: <9106110209.AA19654@vega.cs.rpi.edu>
+To: porschephiles@bcm.tmc.edu
+In-Reply-To: bart%teni@cse.ogi.edu's message of Mon, 10 Jun 91 13:10:59 -0700 <9106102010.AA04967@cse.ogi.edu>
+Subject: track events
+
+
+There's an LPR time trial at LSR June 15 and 16 (probably too late).
+I don't know of any other events this year, they're big on autox out
+there.  I don't think they even have a track chair.  Try calling Cathy
+Crisafulli, she's the LPR autox chair, and should (?) know at least
+who to call. (LPR is Loma Prieta Region, which is just south of Golden
+Gate Region.  LSR is Laguna Seca Raceway).
+
+Snookie Arolla (408) 243-2999 is Golden Gate's track registrar and
+should have most of the zone 7 event info, or should know who to call.
+>From what I remember, they really don't run that many track events
+out there.  
+
+Hope this helps, best I could do from back East!
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request@karazm.math.uh.edu  Mon Jun 10 22:29:30 1991
+Received: by karazm.math.uh.edu id <AA10076@karazm.math.uh.edu>; Mon, 10 Jun 91 22:29:31 CDT
+Received: from jessica.stanford.edu by karazm.math.uh.edu id <AA10071@karazm.math.uh.edu>; Mon, 10 Jun 91 22:25:01 CDT
+Received:  by jessica.stanford.edu (5.59/25-eef) id AA10317; Mon, 10 Jun 91 20:23:29 PDT
+From: Robert Merithew <merithew@jessica.stanford.edu>
+Message-Id: <9106110323.AA10317@jessica.stanford.edu>
+Subject: 914 RearView Mirror
+To: porschephiles@karazm.math.uh.edu
+Date: Mon, 10 Jun 91 20:23:28 PDT
+X-Mailer: ELM [version 2.3 PL8]
+
+I have an opportunity (sigh) to stick my 914's rearview mirror on a
+brand new uncracked windshield.  I'd like to get it in the right
+place.  Could a couple of the 914 owners measure the length of
+windshield glass between the top of the mounting bracket and the top
+windshield seal on their cars?  If you think there's any ambiguity
+about the measurement you're making, just explain it to me in email
+the best you can, please.
+
+Thanks a million!
+-- 
+  Robert Merithew                       merithew@jessica.stanford.edu
+  ??? Consulting                        merithew at suwatson (bitnet)
+  Stanford University
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun 12 07:49:33 1991
+Received: by karazm.math.uh.edu id <AA23453@karazm.math.uh.edu>; Wed, 12 Jun 91 07:49:33 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA23445@karazm.math.uh.edu>; Wed, 12 Jun 91 07:39:49 CDT
+Received: from kestrel.ukc.ac.uk by mcsun.EU.net with SMTP;
+	id AA00958 (5.65a/CWI-%I%); Wed, 12 Jun 91 14:37:55 +0200
+Message-Id: <9106121237.AA00958@mcsun.EU.net>
+Received: from axion.bt.co.uk by kestrel.Ukc.AC.UK   via PSS (UKC CAMEL FTP)
+           id aa18972; 12 Jun 91 11:32 BST
+Received: from bt-web.bt.co.uk by zaphod.axion.bt.co.uk 
+          via DECnet inbound channel id <20287-0@zaphod.axion.bt.co.uk>;
+          Wed, 12 Jun 1991 11:31:07 +0100
+X-Vms-To: R11F::KARAZM.MATH.UH.EDU::PORSCHEPHILES
+To: porschephiles@karazm.math.uh.edu
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Trivial questions
+Date: Wed, 12 Jun 1991 11:31:07 +0100
+
+From:	NAME: Philip Katz           [DFF54 ]
+	FUNC: DFF54                           
+	TEL: 0473-645672                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	I've finally done it. After reading this list for ages and
+ages, I got myself a Porsche! Whopeee! It's an '85 (new dash) 944
+with 44k on the clock, black and it's fitted with 205/215s.
+
+	I haven't had a chance to really test it yet (and will
+probably post lots more questions once I get under the bonnet), but
+here's some trivia which hopefully someone can help me out with :
+
+1. STEREO : I did not get a manual with the stereo (no big deal, I
+know). If anyone has a spare manual for a Panasonic 977 (the
+standard factory fitted one on this year/model in the UK), or would
+be willing to photocopy their manual and snailmail it, I would be
+overjoyed (and will happily pay costs, or perhaps make a
+contribution to charity in their name).
+
+2. BULBS : On all my previous car, I have replaced the headlight H4
+bulbs with 100/80W (rather than the standard 60/55W). Is there any
+technical reason not to do this with the 944? [There is no legal
+problem here - you can fit 100/80W on any car which was originally
+registered before 01-APR-1986. Also, I dip my beams religiuosly for
+oncoming traffic].
+
+3. WASHER WATER : I normally add washing-up liquid to my windscreen
+washer liquid in summer. It seems to get crud off the windscreen
+very well and costs a *lot* less than the commercially available
+screen-washer solutions. Again, is their any reason not to use it in
+the 944?
+
+	Thanks in advance for any help.
+
+Philip Katz,               :  EMail Katz_P_M@bt-web.bt.co.uk
+BT Labs, B68 Room 36,      :  Phone +44 473 645672
+Martlesham Heath, Ipswich  :  Fax   +44 473 637550
+Suffolk, England IP5 7RE   :  Pager +44 81 8407000 Unit 0539400
+
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jun 13 08:09:44 1991
+Received: by karazm.math.uh.edu id <AA04728@karazm.math.uh.edu>; Thu, 13 Jun 91 08:09:45 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA04723@karazm.math.uh.edu>; Thu, 13 Jun 91 08:03:04 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id bd06668;
+          13 Jun 91 8:45 EDT
+Date: Thu, 13 Jun 91 02:52 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: katz p m <katz_p_m@bt-web.bt.co.uk>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Trivial questions
+Message-Id: <43910613025234/0004056890NB4EM@mcimail.com>
+
+Congrats on your purchase!  I believe that the 100 watt bulbs may be used
+without any change to the wiring or the addition of a relay.  I know a friend
+upgraded his 951 that way.  I seem to recall him saying that BRD production cars
+come with 100's.
+
+Btw, make sure you have your timing belt checked NOW if it has not already been
+done.  Sorry if this is a surprise, but the cost of fixing what gets broken if
+the belt goes is an even nastier surprise.  Also make sure that Porsche knows
+you own the car so that they can keep you posted on recalls.  In particular, you
+should make sure the fuel hose recall has been performed, and if not, have it
+done.  In the US, it is Campaign L01.
+
+Happy trails!  Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jun 13 15:49:47 1991
+Received: by karazm.math.uh.edu id <AA06841@karazm.math.uh.edu>; Thu, 13 Jun 91 15:49:48 CDT
+Received: from libra.cs.nps.navy.mil by karazm.math.uh.edu id <AA06832@karazm.math.uh.edu>; Thu, 13 Jun 91 15:48:07 CDT
+Received: by libra.cs.nps.navy.mil (4.0/cs.nps-1.0)
+	id AA08810; Thu, 13 Jun 91 13:45:26 PDT
+Date: Thu, 13 Jun 91 13:45:26 PDT
+From: erickson@libra.cs.nps.navy.mil (David Erickson)
+Message-Id: <9106132045.AA08810@libra.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Morro Bay 356 concourse
+
+
+Does anyone know who sponsors the annual get-together at Morro Bay
+for 356 owners?  Is it 356 Registry, or some other group?  I would
+like to go, but I don't know when it will be or who to contact.
+
+-Dave Erickson
+
+From porschephiles-request@karazm.math.uh.edu  Thu Jun 13 17:09:48 1991
+Received: by karazm.math.uh.edu id <AA07765@karazm.math.uh.edu>; Thu, 13 Jun 91 17:09:48 CDT
+Received: from relay1.UU.NET by karazm.math.uh.edu id <AA07678@karazm.math.uh.edu>; Thu, 13 Jun 91 17:01:41 CDT
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA19455; Thu, 13 Jun 91 17:59:59 -0400
+Received: from mntgfx.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 175826.5180; Thu, 13 Jun 1991 17:58:26 EDT
+Received: by pdx.MENTOR.COM ( 5.52 (84)/DontTreadOnMe)
+	id AA05460; Thu, 13 Jun 91 14:55:35 PDT
+Received: by ws.MENTORG.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA12508; Thu, 13 Jun 91 14:52:17 PDT
+Message-Id: <9106132152.AA12508@ws.MENTORG.COM>
+From: kwatson@ws.MENTORG.COM (Keith Watson)
+Date: Thu, 13 Jun 91 14:52:15 PDT
+To: porschephiles@karazm.math.uh.edu
+Cc: uiucuxc!libra.cs.nps.navy.mil!erickson@uunet.UU.NET
+Subject: re: Morro Bay 356 concourse
+
+> Does anyone know who sponsors the annual get-together at Morro Bay
+> for 356 owners?  Is it 356 Registry, or some other group?  I would
+> like to go, but I don't know when it will be or who to contact.
+> -Dave Erickson
+
+I just happen to have the Oregon Region newsletter with me at work.
+Here is the add.
+
+July 13 & 14 - GATHERING OF THE FAITHFUL
+Northern and Southern California 356 Clubs will hold their
+annual Morro Bay event.  Concours at 9:00 am on Saturday,
+July 13, at Del Mar Park in Morro Bay.  All 356 Porsche
+owners and enthusiasts welcome.  Reservations required if
+you intend to join us for dinner.  Swap meet on Sunday
+morning.  For information, call Bob Cannon (916) 481-9528
+or Greg Young (805) 682-8138.
+
+- Keith Watson
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jun 14 13:49:52 1991
+Received: by karazm.math.uh.edu id <AA14892@karazm.math.uh.edu>; Fri, 14 Jun 91 13:49:52 CDT
+Received: from relay1.UU.NET by karazm.math.uh.edu id <AA14880@karazm.math.uh.edu>; Fri, 14 Jun 91 13:47:03 CDT
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA16429; Fri, 14 Jun 91 14:45:26 -0400
+Received: from kpc.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 144446.27488; Fri, 14 Jun 1991 14:44:46 EDT
+Received: from gold by kpc.kpc.com (4.1/SMI-4.0)
+	id AA12713; Fri, 14 Jun 91 11:17:07 PDT
+From: rcore@kpc.com (Richard Core)
+Received: by gold (5.51/kpcnfs1.0)
+	id AA01635; Fri, 14 Jun 91 11:15:48 PDT
+Message-Id: <9106141816.AA01635@gold>
+Subject: Roll bars
+To: porschephiles@karazm.math.uh.edu (porschephiles mail reflector)
+Date: Fri, 14 Jun 91 11:15:46 PDT
+X-Mailer: ELM [version 2.3 PL4]
+
+I'm looking for a roll-bar for a 911 cabrio.  Bolt-in preferred or one that 
+allows the top to be raised.  Want to run time trials on west coast.
+
+Quite awhile ago I saw one by Stoddard (I think) in Panorama.  Anyone have one
+for sale or know of a good one?
+
+Thanks,
+Richard Core, Consultant
+POB 2470
+Aptos CA 95001
+408-684-2050
+
+- - - - - - - - - - 
+Richard Core                                     Kubota Pacific Computer Inc
+Languages TR Coordinator                         Santa Clara, CA
+rcore@kpc.com                                    408-748-6354
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun 19 05:28:14 1991
+Received: by karazm.math.uh.edu id <AA09482@karazm.math.uh.edu>; Wed, 19 Jun 91 05:28:14 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA09477@karazm.math.uh.edu>; Wed, 19 Jun 91 05:25:00 CDT
+Received: from kestrel.ukc.ac.uk by mcsun.EU.net with SMTP;
+	id AA07253 (5.65a/CWI-2.95); Wed, 19 Jun 91 12:23:11 +0200
+Message-Id: <9106191023.AA07253@mcsun.EU.net>
+Received: from axion.bt.co.uk by kestrel.Ukc.AC.UK   via PSS (UKC CAMEL FTP)
+           id aa01511; 19 Jun 91 10:53 BST
+Received: from bt-web.bt.co.uk by zaphod.axion.bt.co.uk 
+          via DECnet inbound channel id <7604-0@zaphod.axion.bt.co.uk>;
+          Wed, 19 Jun 1991 10:51:52 +0100
+X-Vms-To: R11F::KARAZM.MATH.UH.EDU::PORSCHEPHILES
+To: porschephiles@karazm.math.uh.edu
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Vanilla Ice buys a cheap Porsche
+Date: Wed, 19 Jun 1991 10:51:52 +0100
+
+From:	NAME: Philip Katz           [DFF54 ]
+	FUNC: DFF54                           
+	TEL: 0473-645672                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@karazm.math.uh.edu@UNET
+
+
+	The following, from the funky-music mailing list, may be of 
+interest.
+
+Philip
+
+
+
+
+From:	NAME: MARC                           <MARC@CSI.COMPUSERVE.COM@R11F@MRGATE@WEBCS>
+Date:	18-Jun-1991
+Posted-date: 19-Jun-1991
+Precedence: 1
+Subject: To the Excess
+To:	KATZ P AT WEB AT WEBCS
+
+
+VMSmail To information: FUNKY-MUSIC-MAIL@hyper.lap.upenn.edu
+
+   TULSA, Okla. (AP) -- Not to be outdone by rap rival M.C. Hammer, Vanilla Ice
+went out and bought a $300,000 Porsche. But the custom-built convertible needs a
+paint job, from pearl blue to ... yes, vanilla. 
+   John Reaves, owner of Precision Imports, said the car was built in 1988 for a
+Tulsa businessman and was to be shipped this week to Ice's Miami residence. 
+   "It is an incredible piece of machinery," said the rap artist's attorney,
+Lawrence Friedman of Dallas. 
+   The car is one of four Porsches whose body work and design were crafted by
+Uwe Gemballa, Europe's premier designer of exotic cars. 
+   "The only other entertainer purported to have a Gemballa-built car is M.C.
+Hammer," Reaves said. "And they are archenemies. But M.C. Hammer has, of the
+Gemballas, what you would consider the peewee model. He's got the starter kit." 
+   Additional modifications to Ice's Porsche included the installation of a
+1,600-watt stereo system and engine work that increased its size to 500
+horsepower. The stereo controls are on the steering wheel and work by infrared
+beams. 
+   "It is one of the most expensive Porsches ever built," Reaves said. "It was
+built as the ultimate Porsche and it was built with the ultimate stereo."
+Vanilla Ice, known for such songs as "Ice Ice Baby," will pay $20,000 to have
+the car repainted to blend with his personal color scheme, Reaves said. 
+   
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun 19 14:28:15 1991
+Received: by karazm.math.uh.edu id <AA11929@karazm.math.uh.edu>; Wed, 19 Jun 91 14:28:15 CDT
+Received: from valhalla.ee.rochester.edu by karazm.math.uh.edu id <AA11893@karazm.math.uh.edu>; Wed, 19 Jun 91 14:23:10 CDT
+Received: by valhalla.ee.rochester.edu (4.1/2.3ee) id AA02016; Wed, 19 Jun 91 15:01:23 EDT
+Received: from USENET by valhalla.ee.rochester.edu with netnews
+	for porschephiles@karazm.math.uh.edu (porschephiles@karazm.math.uh.edu);
+	contact usenet@valhalla.ee.rochester.edu if you have questions.
+To: porschephiles@karazm.math.uh.edu
+Date: Wed, 19 Jun 91 19:01:00 GMT
+Message-Id: <1991Jun19.190100.8484@ee.rochester.edu>
+Organization: University of Rochester Department of Electrical Engineering
+From: msirota@ee.rochester.edu
+Sender: usenet@ee.rochester.edu
+Reply-To: Mark Sirota <msirota@ee.rochester.edu>
+Subject: Harnesses in a 914
+
+It appears to be the case that there is no good way of mounting harnesses in
+a 914.  I'm currently using a harness bar I bought from Automotion; this is
+a bar made of roll-bar material that bolts into the factory shoulder-belt
+anchor points, and you hang the harnesses off of it.  This works well.
+
+However, it's not clear that it's legal for SCCA Solo II Stock Category.
+Other than this or adding a roll bar, how do people mount shoulder harnesses
+in their 914's?
+
+The firewall is too low, and I don't like the idea of drilling holes in the
+firewall anyway.  Any other suggestions?
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     {decvax,garp,harvard,hombre,rutgers}!rochester!ur-valhalla!msirota
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun 19 16:10:50 1991
+Received: by karazm.math.uh.edu id <AA00526@karazm.math.uh.edu>; Wed, 19 Jun 91 16:10:51 CDT
+Received: from hpfcla.fc.hp.com by karazm.math.uh.edu id <AA00495@karazm.math.uh.edu>; Wed, 19 Jun 91 16:03:52 CDT
+Received: from hpfcmdd.fc.hp.com by hpfcla.fc.hp.com with SMTP
+	(15.11.1.6/15.5+IOS 3.20) id AA27737; Wed, 19 Jun 91 15:00:21 -0600
+Received: from mddkls by hpfcmdd.HP.COM; Wed, 19 Jun 91 15:02:12 mdt
+Received: by mddkls.HP.COM; Wed, 19 Jun 91 15:02:10 mdt
+From: Kevin Simmons <kevins@mddkls.fc.hp.com>
+Message-Id: <9106192102.AA16559@mddkls.HP.COM>
+Subject: 944 Upshift Indicator Light
+To: porschephiles@karazm.math.uh.edu
+Date: Wed, 19 Jun 91 15:02:07 MDT
+X-Mailer: ELM [version 2.2 PL16]
+
+
+My 1985-2 (1986 style) 944 has a bad upshift indicator bulb which doesn't
+come out of the gauge package. Does anyone know of a trick to get this
+repaired? 
+
+Here is what I have done so far:
+
+I pulled the gauge package, and found that the upshift indicator light 
+is not made to be accessible.  All other bulbs in the gauge just pop right
+out, but the back of the gauge is ultrasonically welded to prevent further
+disassembly, and the upshift indicator bulb is buried in the middle. 
+The dealer confirmed my analysis of a bad bulb (other circuit components 
+are working fine) -- but his only repair method is to replace the entire 
+unit: tach, speedo, etc.  
+
+Is there an easy trick to replace the bulb? 
+
+  or alternatively,
+
+Do any of you 944 guru's know of a gauge expert who is tooled to service 
+the VDO gauge package
+-- 
+    Kevin Simmons
+    Mechanical Design Division
+
+                                                             hpfcmdd!kevins
+                                                             303/229-4831
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun 19 21:50:51 1991
+Received: by karazm.math.uh.edu id <AA01906@karazm.math.uh.edu>; Wed, 19 Jun 91 21:50:51 CDT
+Received: from NRI.Reston.VA.US by karazm.math.uh.edu id <AA01883@karazm.math.uh.edu>; Wed, 19 Jun 91 21:46:27 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id an22263;
+          19 Jun 91 22:38 EDT
+Date: Thu, 20 Jun 91 02:39 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Kevin Simmons <kevins@mddkls.fc.hp.com>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 Upshift Indicator Light
+Message-Id: <35910620023953/0004056890NB4EM@mcimail.com>
+
+There is a firm which advertises VDO repairs in Panorama.  I would check them
+out.  You might also consider swapping gauge assemblies with someone who hates
+the CASIS lamp!  Many people do hate it.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Fri Jun 21 08:47:17 1991
+Received: by karazm.math.uh.edu id <AA10244@karazm.math.uh.edu>; Fri, 21 Jun 91 08:47:18 CDT
+Received: from att.att.com by karazm.math.uh.edu id <AA10238@karazm.math.uh.edu>; Fri, 21 Jun 91 08:46:21 CDT
+From: fwk@homxc.att.com
+Date: Fri, 21 Jun 91 08:37 EDT
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: Kevin Simmons <karazm.math.uh.edu!porschephiles-request@att.UUCP>
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: 944 Upshift Indicator Light
+
+>My 1985-2 (1986 style) 944 has a bad upshift indicator bulb which doesn't
+>come out of the gauge package. Does anyone know of a trick to get this
+>repaired? 
+>
+>Here is what I have done so far:
+>
+>I pulled the gauge package, and found that the upshift indicator light 
+>is not made to be accessible.  All other bulbs in the gauge just pop right
+>out, but the back of the gauge is ultrasonically welded to prevent further
+>disassembly, and the upshift indicator bulb is buried in the middle. 
+>The dealer confirmed my analysis of a bad bulb (other circuit components 
+>are working fine) -- but his only repair method is to replace the entire 
+>unit: tach, speedo, etc.  
+>
+>Is there an easy trick to replace the bulb? 
+
+I had a problem with the tachometer on my 87 944S recently. On my car the
+tach can be removed and dismantled with simple hand tools. I would have
+expected the 85-2 to be similar. The shop manual describes removing the
+instrument cluster- you remove the steering wheel (for clearance), unscrew
+the instrument bezel, and unscrew the cluster. To remove the tach,
+remove all of the brass nuts (the electrical connections) behind the tach
+and remove the 3 (possibly 2) small steel screws. The tach now slides out
+of the plastic instrument carrier. To get at the bulb you will need to
+pull off the pointer- use uniform force on both sides (two screwdrivers, etc)
+and protect the face where you pry. With the pointer off, unscrew the two
+small black screws holding the face, and the bulb is in front of you. It is,
+I seem to remember, soldered in, but that should be easy by this stage.
+
+Attacking the problem differently, are you sure you want to replace the bulb?
+I find it as much of a nuisance as anything.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request@karazm.math.uh.edu  Sun Jun 23 20:23:47 1991
+Received: by karazm.math.uh.edu id <AA07404@karazm.math.uh.edu>; Sun, 23 Jun 91 20:23:48 CDT
+Received: from hyperion.llnl.gov by karazm.math.uh.edu id <AA07303@karazm.math.uh.edu>; Sun, 23 Jun 91 20:15:58 CDT
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA06446; Sun, 23 Jun 91 18:15:28 PDT
+Date: Sun, 23 Jun 91 18:15:28 PDT
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9106240115.AA06446@hyperion.llnl.gov>
+To: porschephiles@karazm.math.uh.edu
+Subject: 951 rear suspension problem
+
+
+I would like to get whatever comments/advice anyone is willing to
+offer on a problem I am having with the rear suspension of my 951.
+
+For several weeks, I have occassionally been hearing a noise emitting
+from the back end of the car.  The usual time I hear it is when the
+car begins to move from a dead stop.  It is roughly a 500 Hertz
+vibration that lasts for only a second or two.  After ruling out
+brakes and wheel bearings, I began to suspect that it was in the
+suspension somewhere.  This theory became even more plausible when (I
+believe) I heard the sound while lowering the car with a floor jack.
+The resultant suspension loading (and that caused by the initial
+weight transfer moving from a dead stop) is probably hitting the
+problem just right to make noise.
+
+Yesterday, I noticed that the left rear of the car is sitting a little
+lower than the right rear.  I measured a 3/8" difference, which is
+surprisingly noticible just looking at the car from the rear.  I
+checked the spring plate suspension bushings and noticed that they
+have a lot of little cracks in them.  The left one looks more
+"strained" than the right one, so I suspect this is my problem.  Since
+I have never dealt with this part of my car's suspension before, I
+would like to find out how much of a hassle it is to replace these
+bushings.  Can this be done without removing the torsion bars?  If
+not, how hard is it to get the torsion bar splines lined up again to
+restore the proper (stock) ride height?  Should I replace the torsion
+tube mount bushings while I am replacing the spring plate bushings?
+Are there any upgraded bushings I should consider (my current plan
+is to buy the bushings listed on p. 91 of the Automotion catalog)?
+
+Since I have seen postings about modifying the ride height of 951s, I
+know there are a few of you out there who must be pretty familiar with
+this suspension.  I would appreciate hearing from you.
+
+Thanks,
+-Milo
+
+
+
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun 25 13:13:57 1991
+Received: by karazm.math.uh.edu id <AA19665@karazm.math.uh.edu>; Tue, 25 Jun 91 13:13:57 CDT
+Received: from mcsun.EU.net by karazm.math.uh.edu id <AA19649@karazm.math.uh.edu>; Tue, 25 Jun 91 13:05:59 CDT
+Received: by mcsun.EU.net via EUnet;
+	id AA14196 (5.65a/CWI-2.95); Tue, 25 Jun 91 18:24:21 +0200
+Received: from hasler.ascom.ch by chsun.chuug.ch (5.64+/1.34)
+	id AA00251; Tue, 25 Jun 91 13:13:45 +0200
+Received: from libra-gw.hasler.ascom.ch by hslrswi.hasler.ascom.ch (5.61/6.21)
+	id AA25329; Tue, 25 Jun 91 12:55:32 +0200 (MET)
+Received: from nath.axe.sparc by libra.hasler.ascom.ch (4.1/SMI-4.0)
+	id AA24591; Tue, 25 Jun 91 12:55:30 +0200
+Date: Tue, 25 Jun 91 12:55:30 +0200
+From: libra!kevinh@relay.EU.net (Kevinh)
+Message-Id: <9106251055.AA24591@libra.hasler.ascom.ch>
+To: porschephiles@karazm.math.uh.edu
+Subject: Pre_'75 _Porsche_911_body_coating
+
+
+Hi Folks,
+
+Couple of questions regarding the plasticy/gungy type coating/protection applied to the underbody areas of pre galvanized 911's. 
+
+1) What`s the best thing to do when a small part of this coating has been removed, for example, at the edge of a panel? I certainly don't want to start stripping other parts of this coating to see whats underneath but would like to seal it in some way so that the dreaded rust doesn't start - that's assuming I suppose that it already hasn't.
+
+2) I have a secondhand wing where I DO want to remove this coating in order to respray/renovate the wing. What`s the best way to do it? And can you still obtain this coating, in a can, or something to re-apply afterwards, or shouldn't I?
+
+
+kevinh@hslrswi.hasler.ascom.ch
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun 25 18:13:54 1991
+Received: by karazm.math.uh.edu id <AA21259@karazm.math.uh.edu>; Tue, 25 Jun 91 18:13:55 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA21236@karazm.math.uh.edu>; Tue, 25 Jun 91 18:04:08 CDT
+Received: from athena.llnl.gov by bcm.tmc.edu (AA11088); Tue, 25 Jun 91 18:02:18 CDT
+Received: by athena.llnl.gov (4.1/LLNL-1.18)
+	id AA02344; Tue, 25 Jun 91 16:00:27 PDT
+Date: Tue, 25 Jun 91 16:00:27 PDT
+From: bert@athena.llnl.gov (Bert Still)
+Message-Id: <9106252300.AA02344@athena.llnl.gov>
+To: porschephiles@bcm.tmc.edu
+Subject: Story: 928 Bearing Bummer
+
+
+
+Well, the 928 bearing bummer is finally coming down to a conclusion.
+The car has been back on the road since the end of April, but I still
+have to change out the rear rotors and pads, rebuild the left front
+brake caliper, and put  new steering boot on theleft side.  I would
+like to thank Kevin Gross, Stan Hanks, and James Saxon for all their
+advice.  In particular, Kevin's suggestion of jacking the lower ball
+joint from below using a wood block so that we could torque the nut was
+a real job-saver!  The actual job would never have gotten done except
+for Milo (and I know he's reading this ;') and Neil (who doesn't read
+this list).
+
+I suppose I should take the time to tell the tale...  Late night Easter
+Sunday, I'm heading home from a friend's house.  For some unknown
+reason, I decide to take the "back way" instead of the freeway.  Still
+new to the area, I make a wrong turn and end up in a residential
+neighborhood (but, as it turned out, not too far off the intended
+track).  Hmm, this doesn't look too familiar...  Hey, there's a road I
+know goes in the right direction.  So, I take it, and end up going
+through a relatively rough area under construction.  Just as I'm coming
+out of the construction, I hit a really bad dip.  Although it's really
+only a few inches wide, it feels like a true ditch.  Then I hear
+something hitting the undeside of the car, like a rock thrown at high
+velocity.  That's odd -- I'm only going about 25 to 30.  At any rate,
+that noise was definitely not healthy.  I should probably stop and take
+a look, but it's late... I'll look when I get home.
+
+So, I get up to the familiar road and make my right turn.  And now
+there's a vibration in the right front wheel, the car starts pulling
+fiercely to the right, and the steering is now very heavy.  Ok, ok, I
+can take a hint.  So, I'll stop and check it out.  Well, there's a stop
+sign with legal parking near it, so I'll stop there.  Oops!  Pushing
+the brake pedal all the way to the floor doesn't seem to have the
+desired (and usual) effect.  An now, the "brake press" idiot light
+comes on just to make sure that I understand I have no brakes.  Nice.
+So, I gently pull the emergency brake and the car glides to a stop.  I
+only missed the legal parking space by about a foot.
+
+So, I get out of the car, aware that she is leaning to the right front
+just enough to notice, and more than enough to bother me.  Walking
+around the front, I see the right front wheel is showing about -30
+degrees camber, and the disk rotor is glowing red/white hot.  Anybody
+got any marshmallows?  Clearly, the car is not going any further just
+now.  I try to look around a little in the dark with my flashlight,
+but the whole wheel assembly is just to hot to deal with.
+
+So, I catch a ride with some passing teenagers (sometimes there is
+good reason to letting the kids stay out late ;-) down to the 7-11
+where I call the police.  The officer picks me up, drives me back to
+my car and offers his expert analysis, "I think you broke an axle."
+Of course, we all know that a 928 doesn't really have a front axle,
+but this really didn't seem the time nor place to argue.  So, I get
+the friendly neighborhood AAA towing service to bring a rollback over
+and we carry the wounded home.
+
+Easter Sunday comes and goes, and Monday rolls around.  Milo and I
+scoot over to have a closer look during lunch and here's what we
+discovered (tempered with the results of doing the repair).
+
+The wheel bearings had failed.  We couldn't tell if the inner or
+outer bearing went first, but the end result was that we recovered
+part of the racing of the inner bearing.  Aside from this, there
+was no evidence of bearings ever having been installed.  Apparently,
+the bearings had been completely ground up (or fell out) somewhere
+along the way.  The rotor had then used its new-found freedom to
+play a bit, and had its way with the brake caliper.  In the process,
+the heat generated had been enough to weld the wheel nut onto the
+spindle and the spidle onto the lower ball joint.  The inside of the
+hub had been ground up enough that it had to be replaced as well.
+
+Of the whole wheel assembly, I salvaged the rotor and the pads (knowing
+that I had to replace all four rotors in the near immediate future).
+I had to replace the brake caliper, the spindle, the hub, the lower ball
+joint, the wheel nut, inner and outer bearings, and the seal.  Since
+we kept trying to salvage parts, the overall downtime was extended
+(almost a month); but now, things are back together better than ever,
+and I am greatly amazed at how little I had to shell out on parts
+(a total of $615 or so).  Looking at the damage that Easter Sunday, I
+was sure the cost was going to be $2000+.
+
+So, now I only have one nagging residual question: can worn rotors
+cause the "brake press" light to stay on?  (A Porsche mechanic
+told me that the light will come on when the rotors are worn below
+the tolerance.  However, I am reluctant to believe this since the
+light came on *after* the brake pedal went to the floor -- a sure
+indication of no pressure in the brake lines.)  Any comments on the
+"brake press" light?
+
+So, I will leave you with one last thought: when's the last time
+you repacked your bearings...?
+
+
+bert
+
+Gone but not forgotten...
+                      __
+ \----\            __/  |                        bert@lll-crg.llnl.gov
+ | 4  | __    /---/ Fabi|-------__  __                 Bert Still
+ \----//  \ _/-----------------___^/  \          Numerical Math Group
+      | () |:|#4|P O R S C H E | _| () |\__  Lawrence Livermore National Lab
+       \__/ ---------------------/ \__/ \-->         (415) 294-4171
+*****************************************************************************
+             Porsche: Schonheit ist ihre eigene Belohnung.
+*****************************************************************************
+
+
+From porschephiles-request@karazm.math.uh.edu  Tue Jun 25 23:14:03 1991
+Received: by karazm.math.uh.edu id <AA22883@karazm.math.uh.edu>; Tue, 25 Jun 91 23:14:03 CDT
+Received: from bcm.tmc.edu by karazm.math.uh.edu id <AA22829@karazm.math.uh.edu>; Tue, 25 Jun 91 23:04:37 CDT
+Received: from NRI.Reston.VA.US by bcm.tmc.edu (AA13730); Tue, 25 Jun 91 23:02:47 CDT
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab28993;
+          25 Jun 91 23:58 EDT
+Date: Wed, 26 Jun 91 04:04 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Bert Still <bert@athena.llnl.gov>
+Cc: Porsche Cars North America <0004537177@mcimail.com>
+Cc: porschephiles <porschephiles@bcm.tmc.edu>
+Subject: Re: Story: 928 Bearing Bummer
+Message-Id: <93910626040439/0004056890NB3EM@mcimail.com>
+
+The brake light comes on when you've worn the pad sensor most of the way
+through, not the rotor.  Which is a bummer because then you've got to shell out
+of a new sensor as well as the pad!
+
+I repacked my front bearings last year, I think, when I put the Cool-Brake on. 
+So, what's the right answer?!  How often do other folks do this?
+
+Glad to hear you're back in action.
+
+Kevin
+
+From porschephiles-request@karazm.math.uh.edu  Wed Jun 26 09:12:28 1991
+Received: by karazm.math.uh.edu id <AA01873@karazm.math.uh.edu>; Wed, 26 Jun 91 09:12:29 CDT
+Received: from bcm.tmc.edu ([128.249.2.1]) by karazm.math.uh.edu id <AA01864@karazm.math.uh.edu>; Wed, 26 Jun 91 09:05:06 CDT
+Received: from eecs.nwu.edu (hub.eecs.nwu.edu) by bcm.tmc.edu (AA17937); Wed, 26 Jun 91 09:03:15 CDT
+Date:     Wed, 26 Jun 91 9:05:11 CDT
+From: John Ko <ko@eecs.nwu.edu>
+To: porschephiles@bcm.tmc.edu
+Subject:  928s engine overhaul
+Message-Id:  <9106260905.aa21801@delta.eecs.nwu.edu>
+
+
+Well, story goes like this: an '81 928s (euro 4.7), 125k miles,
+smokes and knocks when pushed beyond 4k rpm, very little power
+after 4k rpm, but with octane booster 104+ and 93 octane gas
+no smoke, almost no knocks, and some power (no great amount).
+
+So I'm feeling bad and want to spend alllll my money on a engine job.
+
+Questions:
+Do I just need a head job or something less costly than
+a complete overhaul?
+
+And if I do need the works on the engine, does anyone know a good
+place to get the head machined?
+
+Lastly, where is the best place to get the parts (I know a couple)?
+
+Thanks for any help.
+ko@eecs.nwu.edu
+

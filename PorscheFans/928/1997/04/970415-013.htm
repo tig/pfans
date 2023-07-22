@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Brake Problems</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="928@PorscheFans.com">
+  <META NAME="MsgPropFrom" CONTENT="Ed_O'Brien@intersolv.com">
+  <META NAME="MsgPropSubject" CONTENT="Brake Problems">
+  <META NAME="MsgPropDate" CONTENT="Tue, 15 Apr 97 12:09:57 EST">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">928@PorscheFans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Ed_O'Brien@intersolv.com</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Brake Problems</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 15 Apr 97 12:09:57 EST</td></tr>
+</table>
+<pre>
+     To the enlightened few who have discovered one of the finest 
+     automobiles on the planet:
+     
+     I'm looking for repair information from anyone who has had a similar 
+     experience:
+     
+     
+     While driving home from work yesterday, my 1982 928 decided it was 
+     Christmas time (I am sure that it has cognitive abilities because 
+     about every third time I unlock the doors it decides to relock them 
+     for me).  Red lights began to blink merrily all across the dash 
+     proclaiming "Take me to your dealer who can then charge you $700 for a 
+     new master cylinder that you may or may not need - Fa La La La La La." 
+     The "brake pressure" light and the two red ! lights continued to blink 
+     ominously.  
+     
+     Of course, all the while, the brakes worked fine.  A quick check of 
+     the brake fluid reservoir showed that it is still filled right to the 
+     top, as always.  I could find no leaking fluid around any wheel.  The 
+     pedal feels fine, and the cars stops whenever I push on it.  Basically 
+     what I have is a car that shows no symptoms of brake problems other 
+     than the damn flashing !.
+     
+     My Chilton's manual shows that there are two separate sensors on the 
+     bottom of the master cylinder that trigger the brake pressure light.  
+     I am curious to know if any of you have had similar symptoms and if it 
+     turned out that the problem was a slowly dying master cylinder or if 
+     it was just one of these sensors that quit sensing.  
+     
+     Also, if anyone knows of a good place to buy these sensors that might 
+     be helpful.  I've found a place that sells master cylinders for $120 
+     which is not too bad considering what I would pay a dealer.  However, 
+     I've bled brake systems before and I'm not looking forward to that 
+     chore - has anyone used those bleeder tools they sell at auto parts 
+     stores?
+     
+     Thanks for your help,
+     
+     
+     Ed OB 
+     
+
+.
+X-Mailer: SuperTCP Suite for Windows Version 2.2.2 (Mailer Version 1.02)
+Message-ID: <33539D9E-00000001@sm5202.mcclellan.af.mil>
+From: yuvince@sm5202.mcclellan.af.mil
+Date: Tue, 15 Apr 1997 10:24:14 cst
+Subject: 928 computer interface
+To: 928@porschefans.com
+MIME-Version: 1.0
+Content-Type: Text/Plain; Charset=US-ASCII
+X-Info: I O Systems, Inc. -- http://www.ioio.com/
+
+     Hi Everyone!!
+   
+     I would like to talk to any of the list members about 2 issues 
+that I 
+     would like some help with.
+     
+     1. Any information on interfacing with the 928 on board computers. 
+ 
+     
+        It should be possible to make a connector so that a lap top     
+    
+        computer could be hooked up for the purpose of analyzing the    
+    
+        performance of the motor.
+     
+
+The physical connection to the 928's computer is your last worry.  
+Chances are that the 928 computer is a serial interface; which mean 
+that you can talk to it using a UART chip (e.g. 16450).  You need to 
+find out what IEEE interfacing standard it is using.  Then based on 
+that standard, determine the software protocol in order to "talk" to 
+the 928 brain.  (Hope it's not Burrough bi-sync)  On the laptop side, 
+you need to write a low-level driver to poll the serial port; 
+preferably by hardware interrupt.  The polling would intercept the 
+commands sent via the 928's brain and parse it out, process it and 
+display accordingly.  All this is done within your custom-written 
+application.
+
+Roughly speaking, and assuming that you have all the technical 
+specifications available to do the job, you're dealing with 
+approximately 6-12 months of development.
+
+
+
+.
+X-Mailer: SuperTCP Suite for Windows Version 2.2.2 (Mailer Version 1.02)
+Message-ID: <33539E68-00000001@sm5202.mcclellan.af.mil>
+From: yuvince@sm5202.mcclellan.af.mil
+Date: Tue, 15 Apr 1997 10:27:36 cst
+Subject: Re: General Questions
+To: 928@porschefans.com
+MIME-Version: 1.0
+Content-Type: Text/Plain; Charset=US-ASCII
+X-Info: I O Systems, Inc. -- http://www.ioio.com/
+
+>Greetings All;
+>I recently picked up my first 928 ('89 S4) and have been quite happy 
+with   
+>it.  I do have a couple questions I wanted to ask some long-time   
+>drivers... My hatch frame squeaks horribly (new seal time?), and no   
+>amount of diddling and adjusting will get it to stop- it's quite   
+>annoying.  Anyone had a similar problem? [snip]
+
+You might want to check the hood latch.  There is a plastic wedge 
+(shaped like a quarter-round) that is probably worn.  You can order 
+this separately from Porsche and install it yourself.
+
+Vince Yu
+83' 928S
+
+.
+</pre>
+</BODY></HTML>

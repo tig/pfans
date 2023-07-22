@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Error in Trivia for DME/Fuel Pressure</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="924-944@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="Matt Warner <MWarner1@ix.netcom.com>">
+  <META NAME="MsgPropSubject" CONTENT="Error in Trivia for DME/Fuel Pressure">
+  <META NAME="MsgPropDate" CONTENT="Sun, 25 May 1997 11:38:12 -0700">
+  <META NAME="MsgPropCc" CONTENT="istook <istook@flash.net>, Anders Svensson <anders.-.eivor.svensson@swipnet.se>, jayjobes@thepentagon.com">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">924-944@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Matt Warner &lt;MWarner1@ix.netcom.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Error in Trivia for DME/Fuel Pressure</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Sun, 25 May 1997 11:38:12 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">istook &lt;istook@flash.net&gt;, Anders Svensson &lt;anders.-.eivor.svensson@swipnet.se&gt;, jayjobes@thepentagon.com</td></tr>
+</table>
+<pre>
+>From: istook <istook@flash.net>
+>To: 924-944@porschefans.com
+>Subject: TREVIA ANSWER FOR DME/FUEL PRESSURE
+<snip>
+
+>A clue answer to #1 was given in #2.  When a 944 engine either won't
+>start or dies when running (maybe it will restart, maybe it won't), the
+>first thing to check is to see if the injectors are clicking when
+>cranking (evidenced by using a NOID, a stethoscope, a screwdriver to
+>your ear or whatever).  If there is no "clicking"...you have no injector
+>fire either because of no voltage or no pulsing ground from the DME.
+
+Agreed, but the real issue here is *why* isn't there enough current?
+
+>Easy test...disconnect one wire clip from one injector and crank the
+>engine over...if it starts...you have found the problem....WHAT IS THE
+>PROBLEM???...The fuel pressure regulator is bad.   Yes, the fuel
+>pressure regulator.  See, the fuel pressure jumps from around 2.0bar to
+>7bar or more when the regulator closes.  The increased fuel pressure on
+>the injectors causes them to draw more current.  All 4 injectors get a
+>constant 12 v from the DME RELAY.  Injectors 1&2 are paired and get
+>their pulsing ground from DME CONTROL UNIT wire # 15, and 3&4 get their
+>pulsing ground from DME CONTROL UNIT wire #14.  This means that
+>injectors 1&2 always fire at the same time, and injectors 3&4 fire
+>together.  It is not sequential.
+>When the fuel pressure goes to high, too much electrical load (I can not
+>be specific here on the miliamp draw) overcomes the ability of the DME
+>CONTROL UNIT and it shuts that function down, causing you to lose
+>injector fire...the engine dies.  If one fuel injector is unplugged,
+>that reduces by 25% the load on the CONTROL UNIT, and it can produce the
+>current necessary to fire three injectors, the engine will run.
+>
+
+I agree with your cure for the above symptoms and you are undoubtedly a
+good mechanic.  But the reasons you've described don't make any sense for
+the following reasons (which I briefly double-checked with an electrical
+engineer):
+
+1) the injector pulse at idle is measured in milliseconds (10 or so) and
+each RPM takes about 100ms.  A magnetic field like the one used in a
+solenoid doesn't have a means by which to draw more current-- it has a
+fixed resistance and a maximum voltage being applied (12V).  The ground is
+connected by the DME and then closed for milliseconds.  If that doesn't
+open the injector then it simply doesn't open, period.  The computer has no
+way of knowing to leave the connection open longer and even if it did, this
+wouldn't give it more amperage.  And even under high pressure, the
+injectors do not require that much power to operate.  All this, combined
+with the exceptionally short pulse time, makes blaming the *injectors* for
+the above described situation inaccurate.  The injectors are only the
+manifestation of the problem (a bad regulator).
+
+2) you state that the *injectors* are causing the largest part of the
+electrical drain (drawing milliamps) yet the fuel pump and starter are
+capable of pulling multiple *amps*.  While the injectors use extremely
+short pulses, the electric fuel pump and the starter are essentially open
+circuits with relatively no pulsations.
+
+3) The DME only provides a *ground* for the injectors-- they are wired from
+the positive terminal of the battery through their own system, not through
+the DME. By disconnecting one of the injectors, you don't reduce the load
+on the DME, as you stated, but on the entire electrical system.  The DME
+doesn't supply the current-- the battery does that-- just the ground.  The
+computer isn't "shutting down" the injectors-- there just isn't enough
+power left to open them.  The computer shuts down the injectors if it
+senses that the engine is stopped (or below a min crank speed).
+
+What's more likely happening?
+
+While starting a vehicle you have two high-current devices: starter and
+fuel pump.  In effect, these two items get all the power they can handle--
+what's left over goes to the DME and other electrical.  It's like trying to
+divy up a dollar bill with a prioritized list.  And under normal
+conditions, the battery has more than enough power for everything.  If the
+battery is weak, you don't have enough to go around.  If the starter or
+fuel pump want more current, they get it.  If there isn't enough left over
+to open two injectors at once, that's the way it goes.  When you unplug one
+of the injectors, you aren't freeing very much power, but then again, it
+doesn't take much to open the injectors.  We are really discussing a
+borderline situation.  Plug a battery charger/booster into the system and
+you would likely have enough power to start the car even with extremely
+high fuel pressure (assuming you don't blow something).
+
+>Many, many people have purchased fuel pumps, DME's, you name it because
+>of so-called electrical problems, when it is a simple fuel pressure
+>regulator problem.  If you have a pressure gauge, that is another way to
+>test the problem.
+
+The problem is indeed electrical (not enough power to run the pump at
+beyond design pressure), but it is caused by a mechanical part failure.
+
+While I respect your talent and experience, I do not agree with your
+analysis and it is somewhat demeaning to the rest of us when you come into
+the group touting your experience and offering prizes for misleading
+information.  Please be more careful with your information as the rest of
+us do not have the experience which you possess onto which we can fall
+back.  This is not meant to be an attack, so please excuse me if it comes
+off that way.  I'm only interested in getting to the cold, hard facts in
+this situation.  If I'm mistaken in my analysis, someone please tell me-- I
+greatly appreciate it when someone helps me get things straight.
+
+Matt Warner
+
+85.5 Porsche 944
+153,000 Miles
+Mechanical Engineer
+Macintosh Believer!
+PGP Key available at http://www.netcom.com/~mwarner1
+
+
+.
+</pre>
+</BODY></HTML>

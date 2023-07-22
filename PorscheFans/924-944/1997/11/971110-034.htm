@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Boost and your 944T Part II/III</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="924-944@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="Farzaan Kassam <fkassam@direct.ca>">
+  <META NAME="MsgPropSubject" CONTENT="Boost and your 944T Part II/III">
+  <META NAME="MsgPropDate" CONTENT="Mon, 10 Nov 1997 12:17:58 -0800">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">924-944@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Farzaan Kassam &lt;fkassam@direct.ca&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Boost and your 944T Part II/III</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Mon, 10 Nov 1997 12:17:58 -0800</td></tr>
+</table>
+<pre>
+Howdy guys,
+
+In the previous email, we covered the basics of the mechanical boost controller
+in the 944T, now we'll discuss the electronic gizmos that control the boost
+in a very sophisticated manner.
+
+We previously discussed the mechanic method of boost control using a bleeder
+valve to trick the wastegate to stay shut longer.  The mechanical method
+is sometimes finicky, when using bleeder valves because of temperature and
+humidity.  While newer methods of mechanical boost control have almost
+eliminated that problem, the technology available in 1980's was just not
+there for the Porsche engineers to use.  More importantly, they wouldn't
+have wanted to use that technology anyways because they were FAR ahead of
+the industry in what they did on the 944T in terms of boost control and
+turbocharger management.
+
+When using a bleeder valve, people usually notice an increase in turbo lag.
+This is because no matter what you do, the wastegate will always sense
+some signal, for example, if you have 0.7 bar of boost in the intake and
+you are bleeding 0.6 bar constantly, the wastegate still sees 0.1bar and
+as we know, our wastegate opens fully at 0.2bar.  Since these are not
+instant open doors, the wastegate will start to crack open at 0.1bar of
+pressure and increase turbo lag.  Another problem with bleeder valves
+is spiking where the wastegate cannot react fast enough when the throttle
+is first applied.  Porsche dealt with all of these problems using a clever
+boost controller, the Cycling Valve.  All that the cycling valve is is
+a solenoid that controls the bleeding of intake pressure, the only difference
+being that this was electronically controllable.
+
+The cycling valve has three vacuum lines coming into it, one from the
+intercooler pipe on the intake, one going to a vent (probably back into
+the intake manifold somewhere) and the last going to the wastegate.  By
+controlling the opening of the solenoid usually through continious pulses,
+the KLR can control the boost pressure by modifying the amount of pressure
+to bleed.  The cycling valve has a range that it can adjust, from about
+0.2bar to 0.8bar with a normal banjo bolt.
+
+So, now remember back to our purely mechanical system, all that the electronic
+version does is control the bleed in a more precise manner.  The KLR has an
+intake pressure line coming into the box so I will assume that it takes a 
+reading and adjusts for altitude, temperature and humidity to try and give
+you the highest possible boost pressure that the factory wanted you to have.
+
+Now, new age electronic boost controllers have various features which set
+them apart from factory electronic boost controllers.  The Porsche system
+is unique in that it has a pressure line coming into the computer, most
+solenoid type systems used on other cars only use the solenoid to reduce
+boost during knock conditions.  For example, the Talon uses a solenoid that
+is normally open.  This system bleeds 3psi of boost to allow the car to run
+around 11psi of boost;  the wastegate spring in that car is set at 8psi.
+When the ECU detects knock, it pulses the solenoid to close the bleed and
+sell full signal to the wastegate which brings the boost down to 8psi then.
+
+In recent years, the japanese tuner companies have gotten a stranglehold
+on the boost controller market and when the japanese get involved in
+something, you know a good thing will come out.  And so the HKS EVC I was
+born, the first really high tech boost controller.  This unit had one
+input and two outputs, in much the same way as the Porsche cycling valve.
+The one input was from the intake system, one output to the wastegate and
+one output to vent back to the intake.  Unlike the Porsche system which
+seems to be normally closed (in that it does not bleed pressure until 
+necessary), the HKS EVC did not send ANY signal to the wastegate until the
+very last moment, so it was always bleeding until the very last moment.
+What this did was keep the wastegate COMPLETELY closed until the desired
+boost pressure was reached, once the pressure was about 0.05bar under
+what you had dialed in, it sent a pressure signal burst to the wastegate
+which sent the door open and allowed the wastegate to start getting rid of
+excess exhaust.
+
+This system gave consistent, powerful boost.  The method of holding shut
+the wastegate to the last possible moment allowed cars to accerate harder
+in 1st and 2nd gear where the lower engine loads normally do not allow the
+wastegate to stay closed for much time and cars were able to get better
+0-60 and 1/4 mile times on STOCK boost pressure, just by using an EVC.
+You will notice in the 944T, it does not make full boost pressure when
+chipped in 1st or 2nd gear because of this wastegate getting signal problem.
+My 944T, as well as Paul's and Darrens produce 0.8bar in 1st, 1bar in 2nd,
+1.07bar in 3rd and 1.07bar in 4th and 1.07bar in 5th.  If I had an EVC in
+my car, my boost would be closer to 1.07bar in each gear.  The EVC would
+work very hard to try and get that boost in each gear so you can see why
+it would be faster with the same boost pressure.
+
+I think Porsche knew about this type of system since it's quite simple to
+implement with the hardware they had, but the rush of boost in 1st and 2nd
+must have had the bean counters freaking that the 944T might be labeled
+as another hard to handle 930 with the engine up front.  Instead we got
+a very smooth, but rather dull 1st and 2nd.  Ever notice that the 944T
+seems to accelerate with the same thrust in 1st, 2nd and 3rd gears?  Well,
+now you know why.  I find 4th the most enjoyable :)
+
+Now that the japanese were in the boost controller building industry, things
+could only get better.  HKS is an awesome company with extremely talented
+people, the majority of japanese tuner owners in this day and age were
+previously employed in some form at HKS.  HKS's EVC I had some problems,
+it would spike occasionally and the temp/humidity control was better than
+the bleeders, but still not full computer controlled, you set the dial in
+the cockpit and it tried to do it's best to meet your requirements.
+
+In comes the latest and greatest EVC IV (I'll skip the other ones in between
+because they were evolutionary models).  The EVC III was actually very
+sophisticated, but many problems plagued this unit, it was smarter than its
+owners who couldn't figure out how to program the damn thing.  The EVC IV
+ATM has atmospheric control as mentioned in a previous article.  The EVC IV
+also has a feature called fuzzy logic.  You set your boost where you want
+it, then do two full throttle runs in your highest boost producing gear
+(4th in our cars).  The EVC IV will learn the characteristics of your car's
+boost control methods and will maximize the set boost pressure in all
+conditions including low engine load conditions in 1st and 2nd gear.  This
+system always produces the exact same boost regardless of conditions, etc.
+
+There is one problem though, some have said the EVC is not compatible with
+the Porsche external wastegate because it is a dual port design and the
+EVC only has an output for the wastegate.  I'm still investigating why we
+can't use it and will get back to the list when I figure it out or someone
+explains it to me.
+
+As you can see, the whole boost control system is relatively simple stuff.
+Think back to the mechanical method of simple pressure to wastegate theory
+and it all becomes easy to understand how the gizmos in between do their
+job of giving you brain splattering acceleration :)
+
+In the next part, I'll talk about the common methods of increasing the
+boost on 944T's and how they interface with the above mentioned sections
+of the boost control mechanism.
+
+Farzaan.
+
+
+.
+</pre>
+</BODY></HTML>

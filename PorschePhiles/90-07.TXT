@@ -1,0 +1,1389 @@
+From stanh@wilkins.bcm.tmc.edu  Mon Jul  2 18:37:22 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA07069); Mon, 2 Jul 90 18:37:22 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA03572); Mon, 2 Jul 90 18:40:17 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA09005); Mon, 2 Jul 90 18:37:00 CDT
+Date: Mon, 2 Jul 90 18:37:00 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007022337.AA09005@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: silly-putty synchros, part 2
+
+Well, I finally talked to the nice folks at Force Racing (816) 421-2025
+about their New Improved synchros for 901/915 trannies. Seems that they
+started out racing/autoxing 914's and got tired of eating trannies every
+couple of races. So, they decided to do something about it.
+
+The claim is that they do a custom rebuild with high-precision hardened
+parts. They claim that on the factory tranny, that when it's new, you
+get synchronization about 48-50% of the way through the shift, and that
+this drops to 58-60% way through the shift as the tranny wears in, and
+that by the time it's worn out, that you don't synch up until 72-77% of the
+way into the next gear -- and if you're shifting fast, that you may miss
+that.
+
+With their parts, they claim that after extensive use (10,000's of miles)
+you still synch up in around 50% of the shift distance. And that you don't
+get accelerated wear on the shaft or sleeves if you use a GL6 rated
+tranny lube (and that you should be doing that anyway). They claim a 50,000
+mile plus racing tranny.
+
+Seems that these parts are hand-fitted, and that each job has to be done
+by them. You send them your tranny, you get it back all new and spiffed up
+in a week or so. They also like to go to the '72-74 style mainshafts for
+some reason. Claim is that it's about the same cost as a regular rebuild.
+
+I have them sending me an info kit for my 911 and my 914. I'll keep you
+posted on what I find.
+
+Stan
+
+From VitaM6!marciano@uunet.UU.NET  Tue Jul  3 10:02:37 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09290); Tue, 3 Jul 90 10:02:37 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA07610); Tue, 3 Jul 90 10:05:37 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA27632; Tue, 3 Jul 90 11:05:54 -0400
+Message-Id: <9007031505.AA27632@uunet.uu.net>
+Date: Tue, 3 Jul 90 07:58:22 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: tranny
+
+regarding all this talk about tranny's... my porsche mechanic friend's
+shop only uses swepco for tranny's.  it's synthetic and doesn't break
+down.
+
+it's great stuff but i think it about $90/tranny just for the fluid.
+
+not a plug,
+/marciano
+
+From timmins@sun.udel.edu  Tue Jul  3 10:10:06 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09416); Tue, 3 Jul 90 10:10:06 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA07720); Tue, 3 Jul 90 10:13:05 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA27645; Tue, 3 Jul 90 11:13:19 -0400
+Message-Id: <9007031513.AA27645@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Tue, 3 Jul 90 11:13:19 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: marciano@VitaM6.UUCP (Marciano Pitargue), porschephiles@bcm.tmc.edu
+Subject: Re: tranny
+
+  [included note of Jul  3, Marciano Pitargue:]
+> regarding all this talk about tranny's... my porsche mechanic friend's
+> shop only uses swepco for tranny's.  it's synthetic and doesn't break
+> down.
+> 
+> it's great stuff but i think it about $90/tranny just for the fluid.
+> 
+> not a plug,
+> /marciano
+  [end of included note]
+
+
+Not even close to $90.  I get it for $27 per GALLON.  My 951 usues less
+than 1 container, including radiator.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From stanh@wilkins.bcm.tmc.edu  Tue Jul  3 10:47:11 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09523); Tue, 3 Jul 90 10:47:11 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA08164); Tue, 3 Jul 90 10:50:11 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA09360); Tue, 3 Jul 90 10:46:56 CDT
+Date: Tue, 3 Jul 90 10:46:56 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007031546.AA09360@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: VitaM6!marciano@uunet.UU.NET, porschephiles@bcm.tmc.edu
+Subject: Re:  tranny
+
+h
+>my porsche mechanic friend's shop only uses swepco....
+
+Lots of my friends use swepco. I use Amsoil or Mobil-1 85W90.
+More available (locally) and cheaper too.
+
+Stan
+
+From VitaM6!marciano@uunet.UU.NET  Tue Jul  3 11:18:12 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA09967); Tue, 3 Jul 90 11:18:12 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA08514); Tue, 3 Jul 90 11:21:11 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA15019; Tue, 3 Jul 90 12:21:32 -0400
+Message-Id: <9007031621.AA15019@uunet.uu.net>
+Date: Tue, 3 Jul 90 08:23:50 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Re: tranny
+
+>I get it for $27 per GALLON.
+
+ok, so they're making huge profits. ;-)
+
+/marciano
+
+From photon!bvs@ucsd.edu  Tue Jul  3 11:43:17 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA10064); Tue, 3 Jul 90 11:43:17 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA08869); Tue, 3 Jul 90 11:46:15 CDT
+Received: from photon.UUCP by ucsd.edu; id AA05504
+	sendmail 5.64/UCSD-2.1-sun via UUCP
+	Tue, 3 Jul 90 09:46:28 -0700 for porschephiles@bcm.tmc.edu
+Message-Id: <9007031646.AA05504@ucsd.edu>
+Received: by  photon. (5.51/celerity1.1)
+	id AA26281; Mon, 2 Jul 90 14:50:24 PDT
+From: photon!bvs@ucsd.edu (Bruce Shetler)
+Subject: tensioners, etc
+To: porschephiles%bcm.tmc.edu@ucsd.edu (porschephiles)
+Date: Mon, 2 Jul 90 14:50:19 PDT
+X-Mailer: ELM [version 2.2 PL12]
+
+
+
+Just a quick note regarding tensioner upgrades for 911's.  I did this
+to mine ('80 911SC) weekend before last (actually included a tune up
+and alot of fussing so it took parts of Sat thru Tue).  I had no major
+problems and I would recommend this to anyone who is a fairly
+experienced mechanic.  I also replaced chain ramps all around which
+requires removal of the rear motor mount.  A floor jack is pretty
+necessary here.  I would estimate the time required just to do the
+tensioners and ramps with single minded determination (no cleaning up
+in the engine compartment, poking around, chasing parts, drinking beer,
+etc) to be about 10-12 hours.  The ramps add a significant extra hassle
+and require some care to install.  I would feel a little pressed to do
+it over a weekend if I had to drive the car on Mon.  Take an extra day
+off.  I followed universal advice and put the engine at TDC and had no
+problems with the cams wanting to move although I wired them anyway.
+
+I looked around for prices on kits and found the best anywhere right
+here in San Diego at Alan Johnson Racing.  I don't know if this has
+been advertised (it isn't in the June Panorama) but they sell
+*complete* kit for $298.00 which is about $50.00 cheaper than anywhere
+else I found.  Their kit is nice in that it is already drilled for heat
+sensors and requires no modifications.  I'm really glad I did it and
+the car now runs *wonderfully* (the valve adjust probably has more to
+do with that than the chain tensioners :-).
+
+Now a question.  I discovered my engine number as a consequence of the
+above.  It doesn't match the chassis number - should it?  I found that
+the engine had redisigned wide chain tensioners, a change that was made
+late in '80 I think.  Unfortunately this car has pretty spotty records
+and I wonder if an engine swap was done sometime in the past.  I'm not
+really concerned as long as the car runs well, but if the engine has
+been changed, how does this affect the intrinsic value.  Also,
+does anyone know about what a production run would have been in 1980
+overall or U.S. model?  I'm curious if I have a late or early car.
+-- 
+
+========================================================================
+  Bruce Shetler                           
+  Photon Research Associates             
+  San Diego, CA   92121                 
+  uucp:photon!bvs@ucsd.edu               
+========================================================================
+
+From texbell!bygate@bcm.UUCP  Tue Jul  3 14:09:32 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA10874); Tue, 3 Jul 90 14:09:32 CDT
+Received: from bcm.UUCP by bcm.tmc.edu (AA11456); Tue, 3 Jul 90 14:12:33 CDT
+Message-Id: <9007031912.AA11456@bcm.tmc.edu>
+Received: from k30htexbell by bcm.uucp id aa27503; 3 Jul 90 14:45 EDT
+Received: by texbell.sbc.com (Smail3.1.18)
+	id <m0hms52-0000mpC@texbell.sbc.com>; Tue, 3 Jul 90 13:34 CDT
+Subject: add to mailing list
+To: porschephiles@bcm.tmc.edu
+Date: Tue, 3 Jul 90 13:08:55 EDT
+From: "Terrence A. Bygate" <bygate@sst>
+X-Mailer: Elm [version 2.1 PL1]
+
+
+Please add me to the porsche mailing list.
+
+terry.bygate@Columbia.NCR.COM
+
+PS - although this may not be the best place to ask, are there any other
+     German/European car mailing lists (my other interest is in BMW's)?
+
+     Thanks
+
+From stanh@wilkins.bcm.tmc.edu  Thu Jul  5 18:06:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA23566); Thu, 5 Jul 90 18:06:13 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA29499); Thu, 5 Jul 90 18:09:12 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA10398); Thu, 5 Jul 90 18:05:55 CDT
+Date: Thu, 5 Jul 90 18:05:55 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007052305.AA10398@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: 1958 356A cab for sale
+
+This isn't my car, I'm re-posting it for someone....
+
+>1958 Porsche 356A Cabriolet
+>
+>  . Ground up restoration recently completed
+>  . Mizen blue
+>  . Soft + removable hard tops
+>  . Dark red leather interior
+>
+>Asking: $47k/o.b.o
+>
+>Contact Mark Ball (415) 941-1497
+>The car is in Palo Alto, California.
+
+Stan
+
+From pan@xform.enet.dec.com  Fri Jul  6 18:25:04 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA02011); Fri, 6 Jul 90 18:25:04 CDT
+Received: from decpa.pa.dec.com by bcm.tmc.edu (AA12599); Fri, 6 Jul 90 18:27:55 CDT
+Received: by decpa.pa.dec.com; id AA27505; Fri, 6 Jul 90 07:09:21 -0700
+Message-Id: <9007061409.AA27505@decpa.pa.dec.com>
+Received: from xform.enet; by decwrl.enet; Fri, 6 Jul 90 07:10:59 PDT
+Date: Fri, 6 Jul 90 07:10:59 PDT
+From: pan@xform.enet.dec.com
+To: porschephiles@bcm.tmc.edu
+Subject: Question about 911SC transaxle (915) transaxle oils (AMSOIL, etc.)
+
+
+Has anyone out there used AMSOIL gear lube for their 911 transaxles?  I've
+heard very good things about AMSOIL; one local independent Porsche shop swears
+by it.   I am concerned because AMSOIL gear lube meets GL-2 THROUGH GL-6
+specifications and I know that Porsche sent out a tech bulletin warning
+AGAINST the use of GL-6 and GL-7 gear lubes because they may cause premature
+synchro wear.  Anyone know what the GL ratings mean and if using AMSOIL in
+the 911 transaxle will cause any problems?
+
+By the way, isn't SWEPCO just a very high grade natural, non-synthetic oil?
+
+From stanh@wilkins.bcm.tmc.edu  Fri Jul  6 22:17:52 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA02449); Fri, 6 Jul 90 22:17:52 CDT
+Received: from WILKINS.BCM.TMC.EDU by bcm.tmc.edu (AA13565); Fri, 6 Jul 90 22:20:51 CDT
+Received: by wilkins.bcm.tmc.edu (AA02445); Fri, 6 Jul 90 22:17:46 CDT
+Date: Fri, 6 Jul 90 22:17:46 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007070317.AA02445@wilkins.bcm.tmc.edu>
+To: pan@xform.enet.dec.com, porschephiles@bcm.tmc.edu
+Subject: Re:  Question about 911SC transaxle (915) transaxle oils (AMSOIL, etc.)
+
+I use AMSOIL 85W90 in my 915 and 901 transaxles. Never had any trouble
+as a result of it, that I know of anyway (so, like how am I going to tell,
+anyway??? 8{) ).  
+
+Repeating my note from earlier in the week, the folks at Force Racing
+recommend GL6 *only* for severe use (and if you drive like I do, even
+going to the store can be severe use...).
+
+I've also used Mobil-1 synthetic gear lube, in the 901, in my wife's
+VW Beetle, and in my BMW R90/6 motorcycle. It's OK, but I use Amsoil
+these days instead -- mainly due to cost, not performance reasons.
+
+Stan
+
+From welty@lewis.crd.ge.com  Mon Jul  9 11:11:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA06850); Mon, 9 Jul 90 11:11:13 CDT
+Received: from CRDGW1.GE.COM by bcm.tmc.edu (AA24546); Mon, 9 Jul 90 11:14:10 CDT
+Received:  by crdgw1.ge.com (5.57/GE 1.70)
+	 id AA04816; Mon, 9 Jul 90 12:14:35 EDT
+Date: Mon, 9 Jul 90 12:14 EDT
+From: richard welty <welty@lewis.crd.ge.com>
+Subject: Question about 911SC transaxle (915) transaxle oils (AMSOIL, etc.)
+To: pan@xform.enet.dec.com, porschephiles@bcm.tmc.edu
+In-Reply-To: <9007061409.AA27505@decpa.pa.dec.com>
+Message-Id: <19900709161418.4.WELTY@lewis.crd.ge.com>
+
+    From: pan@xform.enet.dec.com
+
+    Has anyone out there used AMSOIL gear lube for their 911 transaxles?  I've
+    heard very good things about AMSOIL; one local independent Porsche shop swears
+    by it.   I am concerned because AMSOIL gear lube meets GL-2 THROUGH GL-6
+    specifications and I know that Porsche sent out a tech bulletin warning
+    AGAINST the use of GL-6 and GL-7 gear lubes because they may cause premature
+    synchro wear.  Anyone know what the GL ratings mean and if using AMSOIL in
+    the 911 transaxle will cause any problems?
+
+the GL ratings imply additive packages, among other things.  if you're
+worried about GL ratings, consider using Redline MTL (an alfa race
+mechanic i know considers Redline and Amsoil gear lubricants to be
+roughly equivalent in quality.)  Redline MTL meets GL-2 and 4
+ratings, and is rated 75W-80W (and also motor oil 30 weight as well.)
+
+the warnings about using high GL-rated lubricants in gearboxes intended
+for GL-4 lubricants has to do with sulfer; most GL-5 & 6 lubricants include
+it, and syncros in GL-4 type gearboxes don't take sulfer well.  maybe Amsoil
+has found a non-corosive alternative to the sulfer.
+
+richard
+
+From mikes@cac.washington.edu  Mon Jul  9 12:01:59 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA07056); Mon, 9 Jul 90 12:01:59 CDT
+Received: from akbar.cac.washington.edu by bcm.tmc.edu (AA25494); Mon, 9 Jul 90 12:04:49 CDT
+Received: by akbar.cac.washington.edu
+	(5.61/UW-NDC Revision: 2.13 ) id AA03011; Mon, 9 Jul 90 10:05:12 -0700
+From: Mike Seibel <mikes@cac.washington.edu>
+Message-Id: <9007091705.AA03011@akbar.cac.washington.edu>
+Subject: Questions about older Porsches... 
+To: porschephiles@bcm.tmc.edu (Porsche Mailing List)
+Date: Mon, 9 Jul 90 10:05:11 PDT
+X-Mailer: Pine [version 0.9.411]
+
+Greetings!
+
+(Forgive me if I'm treading down a worn path, but...)
+
+I've been looking at early-to-mid 70's 911's for the past few months, and
+think I've come across an example (73 Targa) that best fits my
+condition/price criteria.  However, before I jump in with both feet, I
+would certainly like to hear some of your opinions on a couple of points
+that bother me. 
+
+First, the car has a lowered suspension.  Although I would certainly
+enjoy the performance gains offered by this modification, I'm not sure
+of its practicality in everyday use.  Since I don't know much about
+modifying the suspension, I'm wondering if, at some later time, I wanted
+to go back to a stock setup it would require considerable cost? Perhaps
+life with a lowered suspension is a good thing.  Is it easy to live with 
+if I want to drive the car on a daily basis?
+
+Second, the Targa is an E-type with 35K on an S-type engine that had the
+FI replaced with Webers.  Performance-wise this is wonderful, but will
+it detract from the resale value down the road? Is there anything I
+should be wary of with this setup (ie. seasonal jet changes, particularly
+grungy exhaust (they test that kind of stuff here))?
+
+Thanks for your time and any insights you can offer on these questions!
+
+
+Michael Seibel
+
+UW, Networks and Distributed Computing       internet: mikes@cac.washington.edu
+3737 Brooklyn Ave. NE                          bitnet: mikes@cac.bitnet
+Seattle, Washington 98105                     bellnet: (206) 543 - 0359
+
+From abrandt@UCSD.EDU  Mon Jul  9 16:33:13 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18629); Mon, 9 Jul 90 16:33:13 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA29937); Mon, 9 Jul 90 16:36:11 CDT
+Received: from odin.ucsd.edu by ucsd.edu; id AA20962
+	sendmail 5.64/UCSD-2.1-sun via SMTP
+	Mon, 9 Jul 90 14:36:35 -0700 for porschephiles@bcm.tmc.edu
+Received: by odin.UCSD.EDU (5.59/UCSDPSEUDO.2)
+	id AA12683 for delivery to porschephiles@bcm.tmc.edu; Mon, 9 Jul 90 14:36:32 PDT
+Date: Mon, 9 Jul 90 14:36:32 PDT
+From: abrandt@UCSD.EDU (Andrew V. Brandt)
+Message-Id: <9007092136.AA12683@odin.UCSD.EDU>
+To: mikes@cac.washington.edu, porschephiles@bcm.tmc.edu
+Subject: Re: Questions about older Porsches...
+
+
+One small problem with lowered 911's is tire wear due to abrasion along the
+wheel wells/body panels.  An office mate of mine has a mid-70's 911 that was
+lowered, the tires would rub during even moderate 6/10ths driving.  Be aware
+if you plan to put on a different (i.e. lerger/wider regardless of aspect ratio)
+tire that it will not cause a problem.
+
+-Andrew Brandt
+ Dept. of Electrical & Computer Engineering
+ UCSD
+
+From stanh@wilkins.bcm.tmc.edu  Wed Jul 11 13:07:52 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA26534); Wed, 11 Jul 90 13:07:52 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA20594); Wed, 11 Jul 90 13:10:50 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA13777); Wed, 11 Jul 90 13:07:30 CDT
+Date: Wed, 11 Jul 90 13:07:30 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007111807.AA13777@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: Late model 911 VIN numbers
+
+I was cleaning up my disk, when I ran across something I posted
+to rec.autos.tech some time back. I thought someone out there might
+find it interesting. Of course, if you have Bruce Anderson's book
+"The 911 Performance Handbook", you already have this. Still,
+this is on-line....
+
+Decoding VIN number? Well, for the Porsche 911 family it goes like this:
+
+                          1 1 1 1 1111
+             123 456 78 9 0 1 2 3 4567
+
+             WPO AA0 91 0 B S 1 2 0001
+             /   ^^^ ^  ^ ^ ^ ^ ^  ^
+            /    ||| |  | | | | |  four digit serial number
+  Porsche  /     ||| |  | | | | |
+  world   /      ||| |  | | | | |
+  producer      / || |  | | | | Body + engine code:
+  code         /  || |  | | | |  0 - RoW (Rest of World) SC/Carrera
+              /  / | |  | | | |  1 - RoW Turbo Targa
+   VDS:      /  /  | |  | | | |  2 - US SC/Carrera
+ 1: body    /  /   | |  | | | |  4 - RoW Targa
+   A=coupe    /    | |  | | | |  5 - Turbo Coupe US or RoW Cabrio
+   E=targa   /    /  |  | | | |  6 - US Targa
+  or cabrio /    /   |  | | | |  7 - US Cabrio
+   J=turbo /    /    |  | | | |
+ 2: dest. /    /     |  | | |  3rd digit of type (e.g. 1, 0, 9)
+   A=Canada   /      |  | | |   
+   B=USA     /       |  | | Manufacture location  (S=Stutgart)
+ 3: restraint        |  | |
+    system           |  | Model year (B=81, C=82, etc.)
+   0=passive         |  |
+   1=active          |  Test Digit (value varies, don't know how)
+ If all digits are   |
+ ZZZ, car is RoW     1st & 2nd digits of type (e.g. 91, 93, 95)
+
+
+Of course, for pre-81 models, it turns into a 10-digit Porsche "part number"
+instead of a VIN number. Decoding those gets to be real entertaining.....
+
+
+Regards,
+
+Stan
+
+From @zermatt.lcs.mit.edu:pz@HX.LCS.MIT.EDU  Fri Jul 13 09:31:56 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA08066); Fri, 13 Jul 90 09:31:56 CDT
+Received: from TMC.EDU by bcm.tmc.edu (AA07966); Fri, 13 Jul 90 09:34:50 CDT
+Received: from ucsd.edu by tmc.edu (AA06106); Fri, 13 Jul 90 09:35:15 CDT
+Received: from ZERMATT.LCS.MIT.EDU by ucsd.edu; id AA24984
+	sendmail 5.64/UCSD-2.1-sun via SMTP
+	Fri, 13 Jul 90 07:33:44 -0700 for porschephiles@bcm.tmc.edu
+Received: from RTS-23.LCS.MIT.EDU by ZERMATT.LCS.MIT.EDU via CHAOS with SMTP id 43032; 13 Jul 90 10:12:12 EDT
+Message-Id: <2856867120-7661603@RTS-23>
+Sender: pz%RTS-23@ucsd.edu
+Date: Fri, 13 Jul 90  10:12:00 EDT
+Reply-To: pz@hx.lcs.mit.edu
+From: pz@hx.lcs.mit.edu (John S. Pezaris)
+To: porschephiles%bcm.tmc.edu@ucsd.edu
+Subject: Racing batteries.
+
+Has anyone had any experience with the various sealed gell batteries
+advertised in places like Excellence, Hot VWs, etc. which are claimed to
+be mountable in any position, have infinite lifetime, zero impedence,
+etc.?
+
+	- pz.
+
+
+From stanh@wilkins.bcm.tmc.edu  Fri Jul 13 10:41:02 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA08654); Fri, 13 Jul 90 10:41:02 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA08845); Fri, 13 Jul 90 10:44:00 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA15102); Fri, 13 Jul 90 10:40:38 CDT
+Date: Fri, 13 Jul 90 10:40:38 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007131540.AA15102@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: pz@hx.lcs.mit.edu
+Subject: Re:  Racing batteries.
+Cc: porschephiles@bcm.tmc.edu
+
+Yeah. They're great, particularly for 914's which have the traditional
+"dripping battery kills suspension console" problem. I assume you're
+talking about the Gates gel battery from Automechankia? I like it (if
+that means anything)  8{)
+
+Stan
+
+From vayda@rvl2.ecn.purdue.edu  Thu Jul 19 14:53:46 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA23433); Thu, 19 Jul 90 14:25:02 CDT
+Received: from rvl2.ecn.purdue.edu by bcm.tmc.edu (AA29463); Thu, 19 Jul 90 14:27:58 CDT
+Received: by rvl2.ecn.purdue.edu (5.61/1.23jrs)
+	id AA24638; Thu, 19 Jul 90 14:28:21 -0500
+Date: Thu, 19 Jul 90 14:28:21 -0500
+From: vayda@rvl2.ecn.purdue.edu (Alan J Vayda)
+Message-Id: <9007191928.AA24638@rvl2.ecn.purdue.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Porsche Expense
+
+The porschephiles list has been too quiet lately so I would like to
+stir things up with a discussion on a very sensitive subject: 
+
+How much does it cost to maintain a Porsche?
+
+I'll get the discussion started by baring my soul.  Then we'll see if
+anyone else will own up to outrageous expenses.
+
+I have a 1983 944 purchased from a Porsche dealer in 1987 for $15000.
+I drive it regularly around town and take occasional long trips.  I
+don't do any maintenance myself.  The repair cost shown below includes
+routine maintenance and things that wear out like tires, brakes, and
+shocks as well as major repairs.  Every time I have a major repair
+done I think things will be OK for a while, but of course something
+else always comes up.  Currently, I'm trying to decide if I should
+sell the car to prevent further expense or to keep it and try to get
+my money's worth out of it.  The reg&tax cost shown below is for
+annual registration and Indiana excise tax which is based on the value
+of the car.
+
+
+starting mileage:            62184
+ending mileage:              94400
+total mileage:               32216
+starting date:              9/18/87
+ending date:                7/19/90
+total years:                  2.83
+miles per year:              11370
+                   $       $/mile     $/year
+repair:         9586.87     0.30     3383.60
+gas:            1546.37     0.05      545.78
+insurance:      1716.24     0.05      605.73
+reg & tax:       738.75     0.02      260.74
+total:         13588.23     0.42     4801.49
+
+
+Alan Vayda
+vayda@ee.ecn.purdue.edu
+
+From stanh@wilkins.bcm.tmc.edu  Thu Jul 19 16:00:22 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA23790); Thu, 19 Jul 90 16:00:22 CDT
+Received: from MEYERHOF.IAIMS.BCM.TMC.EDU by bcm.tmc.edu (AA00452); Thu, 19 Jul 90 15:58:31 CDT
+Received: by MEYERHOF.IAIMS.BCM.TMC.EDU (AA18040); Thu, 19 Jul 90 15:53:32 CDT
+Date: Thu, 19 Jul 90 15:53:32 CDT
+From: Stan Hanks <stanh@wilkins.bcm.tmc.edu>
+Message-Id: <9007192053.AA18040@MEYERHOF.IAIMS.BCM.TMC.EDU>
+To: porschephiles@bcm.tmc.edu, vayda@rvl2.ecn.purdue.edu
+Subject: Re:  Porsche Expense
+
+$4801.49 per year is a lot of money.  But then, as a friend of mine
+says "If I had all the money I'd spent on cars -- I'd spend it on cars!"
+
+Common wisdom is that 911s are generally cheaper to maintain than 
+the water cooled models, except the '74-77 2.7 liter models, which
+tend to need to MAJOR rebuilds at some point in their life (more than
+once if its not done right the first time).
+
+I don't know what your major expenses involved, but a full 30,000 mile
+tune up cost me on average of $550 on the 911 and $350 on the 914. That
+includes re-torque the heads, adjust the valves, change all of the fluids
+in the car, change all filter type things in the car, adjust the FI,
+adjust the clutch, check out everything that might go wrong, etc.
+I usually wind up replacing some piece of the FI system, usually for
+another $200 or so -- this last time it was the aux air valve.
+
+I have this service done yearly at least. I change oil every 3-5k miles
+depending on my schedule. That's another $90 if Juan Jose (my mechanic)
+does it, or about $35 if I do it.
+
+Tires add up. I just spent about $880 putting Yoko AVS-Intermediates
+on the 911. I get 15-25k miles per set of tires, and drive over 10k
+miles per year per car (net 30k or so miles per year).
+
+I'm looking at doing the chain tensioner update later this year, which
+is either preventative maintenence or an upgrade, depending on how you
+look at it. I need to have the tranny re-built (probably by Force Racing,
+in case you missed my earlier posting on silly-putty synchros), for about
+$1400. I'm willing to bet that I need CV joint service and maybe new CV
+joints. And I also smell a new set of brake rotors coming up early next
+year.
+
+It does add up, doesn't it? And we haven't even gotten into the real
+upgrades -- A/C upgrade, some interior repair, targa top rebuild, 
+maybe some paint touchup.....
+
+Stan
+
+From tynor@prism.gatech.edu  Thu Jul 19 16:38:46 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA23837); Thu, 19 Jul 90 16:04:13 CDT
+Received: from hydra.gatech.edu by bcm.tmc.edu (AA00622); Thu, 19 Jul 90 16:05:30 CDT
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA11904; Thu, 19 Jul 90 17:05:54 -0400
+Date: Thu, 19 Jul 90 17:05:54 -0400
+From: tynor@prism.gatech.edu (Steve Tynor)
+Message-Id: <9007192105.AA11904@prism.gatech.edu>
+To: porschephiles@bcm.tmc.edu
+In-Reply-To: Alan J Vayda's message of Thu, 19 Jul 90 14:28:21 -0500 <9007191928.AA24638@rvl2.ecn.purdue.edu>
+Subject: Re: Porsche Expense
+
+
+>I have a 1983 944 purchased from a Porsche dealer in 1987 for $15000.
+>I drive it regularly around town and take occasional long trips.  I
+>don't do any maintenance myself.  The repair cost shown below includes
+...
+>                   $       $/mile     $/year
+>repair:         9586.87     0.30     3383.60
+
+Argh. Say it ain't so. What kind of major repairs did you encounter?  I'm about
+to soak $15k or so into an '86 944T. It had been my impression that with proper
+preventative maintenence (eg. tensioning/replacing belts), the 944 was
+reasonably trouble free. (Though I've heard of the infamous 50k mile water pump
+at $1300 to repair - is it true that proper tensioning lessens the likelyhood
+of this failure?)
+
+What _is_ a reasonable yearly maintenance figure to project for my 944T?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+"Porsche - there is no substitute." - Tom Cruise in Risky Buisiness
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    Artificial Intelligence Branch
+    tynor@prism.gatech.edu
+
+From abrandt@UCSD.EDU  Thu Jul 19 17:23:46 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24066); Thu, 19 Jul 90 16:27:12 CDT
+Received: from ucsd.edu by bcm.tmc.edu (AA00905); Thu, 19 Jul 90 16:28:34 CDT
+Received: from odin.ucsd.edu by ucsd.edu; id AA09489
+	sendmail 5.64/UCSD-2.1-sun via SMTP
+	Thu, 19 Jul 90 14:28:44 -0700 for porschephiles@bcm.tmc.edu
+Received: by odin.UCSD.EDU (5.59/UCSDPSEUDO.2)
+	id AA10725 for delivery to porschephiles@bcm.tmc.edu; Thu, 19 Jul 90 14:28:39 PDT
+Date: Thu, 19 Jul 90 14:28:39 PDT
+From: abrandt@UCSD.EDU (Andrew V. Brandt)
+Message-Id: <9007192128.AA10725@odin.UCSD.EDU>
+To: porschephiles@bcm.tmc.edu
+Subject: Damaged 944 Turbo Wheels
+
+
+Does anyone know of a person or place that buys/repairs damaged wheels.
+
+I have a 2 alloys from a 1986 944 Turbo that have minor damage to the outer
+portion of the wheel.  One of them is almost indistinguishable and makes a 
+good table stand.  The dealer said that the wheels need repairing before they
+can be used.  
+
+Any ideas?
+
+-Andrew Brandt
+ Dept. of Elecrical and Computer Engineering	San Diego Supercomputer Center
+ UCSD						UCSD
+
+From james@visual2.tamu.edu  Thu Jul 19 17:38:46 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA24232); Thu, 19 Jul 90 16:47:22 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA01174); Thu, 19 Jul 90 16:48:43 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA23310); Thu, 19 Jul 90 16:48:08 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA01931; Thu, 19 Jul 90 16:51:03 GMT-0600
+Date: Thu, 19 Jul 90 16:51:03 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9007192251.AA01931@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Car repair...
+
+
+I believe that the 1983 944 data is pretty accurate.  I'm driving an '84 944
+and it's doing about the same.  I don't think that mine actually that high
+for repairs.  I'd put that in the $2000 range.
+
+The major point is that something keeps coming up every couple of months.
+I'd love to keep it.  So I too am interested to see if more repairs are
+going to bite me in the butt.  
+
+
+In particular...  I've noticed a horrible creeping crack in my rear winshield
+bonding strip at the top where the hinges are...  A 944 turbo I've heard of
+had the glass pop out at the top.  I've heard that this is a problem.  The
+question is.  Does it pop out on the '84 944s?  Will it pop out?  Can it be
+prevented?  
+
+
+Further, what about the fuel pump?  The H2O pump went a while ago of course...
+
+Gotta get outta this city...  Back to thesis ville...
+
+James Saxon
+
+
+From johnj%welchlab@welchlab.welch.jhu.edu  Tue Jul 24 20:14:48 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA25884); Fri, 20 Jul 90 06:40:43 CDT
+Received: from welchlab.welch.jhu.edu by bcm.tmc.edu (AA04065); Fri, 20 Jul 90 06:43:42 CDT
+Received: by welchlab.welch.jhu.edu (4.0/4.0)
+        id AA18242; Fri, 20 Jul 90 07:35:49 EST
+Date: Fri, 20 Jul 90 07:35:49 EST
+From: John A. Johnston <johnj@welchlab.welch.jhu.edu>
+Message-Id: <9007201235.AA18242@welchlab.welch.jhu.edu>
+To: porschephiles@bcm.tmc.edu
+Subject:  Damaged 944 Turbo Wheels
+
+
+There is usually an ad for a place called "Ye old wheel shop" in
+Maryland - I think Glen Burnie.
+
+They do all sorts of wheel stuff.  They usually have a booth at the
+local show showing damage types they repair & other services like
+polishing, straightening, restoration and even plating.
+
+Sorry I don't have the number.
+
+From VitaM6!marciano@uunet.UU.NET  Tue Jul 24 20:16:51 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA26597); Fri, 20 Jul 90 10:42:37 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA06781); Fri, 20 Jul 90 10:45:34 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA02452; Fri, 20 Jul 90 11:45:58 -0400
+Message-Id: <9007201545.AA02452@uunet.uu.net>
+Date: Fri, 20 Jul 90 08:36:38 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+
+>From: uunet!prism.gatech.edu!tynor@vitam6 (Steve Tynor)
+>Message-Id: <9007192105.AA11904@prism.gatech.edu>
+>To: porschephiles@bcm.tmc.edu
+>In-Reply-To: Alan J Vayda's message of Thu, 19 Jul 90 14:28:21 -0500 <9007191928.AA24638@rvl2.ecn.purdue.edu>
+>Subject: Re: Porsche Expense
+>Status: R
+>
+>
+>                         (Though I've heard of the infamous 50k mile water pump
+>at $1300 to repair - is it true that proper tensioning lessens the likelyhood
+>of this failure?)
+
+well, the first time that the Porsche Cart Car ran at Laguna Seca, it dnf'ed
+cause of a broken water pump.  looks like Porsche and water don't get along.
+
+>"Porsche - there is no substitute." - Tom Cruise in Risky Buisiness
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+actually, this was a Porsche Slogan back in the early 80's.
+
+i guess my $0.02 worth, i couldn't afford a high performance car because of
+insurance.  i'm over 25, not married and don't have any tickets (doesn't
+mean i don't drive fast.  just drive fast intelligently.)
+
+i guess i always had the feeling that if one could afford a Porsche, that
+that person could also afford the maintenance.  
+
+i'm hoping one day to own a Porsche.  but that doesn't seem like a very
+long time.  and i promise not to wear gold chains, with my chest hanging
+out of my shirt.
+
+saw a shirt at the Porsche Parade that said it all.  it said,
+"All Porsches are race cars".
+
+Went to Sears Point for the IMSA GTP race last weekend.  i just wanted to say
+that the Weaver 962 actually passed the XJR-12's.  what gives?  i always
+thought that the 962's were so old that they were useless.  (which shames
+me.  can't wait till a new car comes out of the factory.)  anyway, i guess
+the Jags weren't handling since i did see one spin for no reason.  but
+pass both?  hum, maybe the 962's aren't useless after all.  but still,
+a new car needs to be built!!!
+
+CART is still wondering if all composite chassis will be allowed next year.
+i hope not, since Penske's building one, and because of him (and others),
+Porsche couldn't run the March carbon fiber chassis this year.
+
+Woe is the story of the Porsche CART car.  i don't want to discuss it.
+
+/marciano
+
+From cse.ogi.edu!qiclab!neighorn@cse.ogi.edu  Tue Jul 24 20:21:18 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA27939); Sun, 22 Jul 90 19:32:22 CDT
+Received: from cse.ogi.edu by bcm.tmc.edu (AA18332); Sun, 22 Jul 90 19:35:08 CDT
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA11447; Sun, 22 Jul 90 17:35:15 -0700
+Received: by qiclab.UUCP (4.1/smail2.5/08-28-88)
+	id AA26460; Sun, 22 Jul 90 17:26:39 PDT
+Message-Id: <9007230026.AA26460@qiclab.UUCP>
+From: neighorn@qiclab (Steven C. Neighorn)
+Date: Sun, 22 Jul 1990 17:26:39 PDT
+X-Mailer: Mail User's Shell (7.1c.2 4/17/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Re: Porsche Expense
+
+>>I have a 1983 944 purchased from a Porsche dealer in 1987 for $15000.
+>>I drive it regularly around town and take occasional long trips.  I
+>>don't do any maintenance myself.  The repair cost shown below includes
+>...
+>>                   $       $/mile     $/year
+>>repair:         9586.87     0.30     3383.60
+>
+>Argh. Say it ain't so. What kind of major repairs did you encounter?  I'm about
+>to soak $15k or so into an '86 944T. It had been my impression that with proper
+>preventative maintenence (eg. tensioning/replacing belts), the 944 was
+>reasonably trouble free. (Though I've heard of the infamous 50k mile water pump
+>at $1300 to repair - is it true that proper tensioning lessens the likelyhood
+>of this failure?)
+>
+>What _is_ a reasonable yearly maintenance figure to project for my 944T?
+>
+>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+>"Porsche - there is no substitute." - Tom Cruise in Risky Buisiness
+>                     
+>    Steve Tynor
+>    Georgia Tech Research Institute
+>    Artificial Intelligence Branch
+>    tynor@prism.gatech.edu
+
+The waterpump/belt problem is the biggest concern to 944 owners, according
+to all the repair people I have talked to in Portland. They recommend
+replacement of all belts every 30-35k miles. The few hundred dollars it
+costs to replace and properly tension the belts is far less than the
+$1000+ a new waterpump and associated hardware takes to install, if you
+have someone else do the work.
+
+Another thing that seems to be a problem is the motor mounts. An
+inordinate amount of engine vibration is a sign of worn mounts.
+
+As far as cost of ownership goes, I can give my anecdotal information
+accumulated from owning a 1984 944.
+
+I purchased the car in Feb of 1989. It had 50k miles on it. Since then,
+I have put 20k miles on the car.
+
+I change the oil every 2500-3000 miles. This costs about $30/change
+I also have a complete tuneup every 15k miles. The car was tuned by
+the previous owner, so I have only done this once. The tuneup cost
+about $125.
+
+The car gets about 20 miles/gallon, and I put about $20 of gas a week
+in the car (at current prices ($1.25-$1.35/gal).
+
+Things that have broken:
+
+I had to replace the radiator, which had developed a hole in the plastic
+portion near one of the hose connections on the bottom.  This cost $400
+for parts (a new radiator) and labor.
+
+One of the fog light lenses developed a crack and started getting
+condensation buildup on the inside. This cost about $70 to replace.
+
+The relay that turns on and off the secondary engine fan fused to on so
+the fan ran constantly. It cost about $100 to track the problem down and
+replace it.
+
+I was unlucky enough to buy gas from a station whose "de-waterfier" system
+was on the fritz and ended up with three gallons of water mixed in with
+the premium unleaded. It cost a little over $200 in repairs (which the
+station finally paid for) to get the system cleaned out and replace two
+fuel filters.
+
+One running light has burned out. $1 to fix.
+
+Little (not worth fixing at this time) annoyances:
+
+The passenger-side power-window switch doesn't lower the window, but it
+will raise it (after I lower it with the driver's side switch).
+
+The key-in-lock klaxon only works half the time.
+
+Well, I didn't mean to bore the readers of the list, but I thought that
+maybe an "average" 944 owner's history over the last 18 months might be
+of use to someone wondering about cost of ownership.
+
+
+
+-- 
+Steven C. Neighorn  cse.ogi.edu!qiclab!neighorn OR neighorn@nosun.West.Sun.COM
+Sun Microsystems, Inc.     "Where we DESIGN the Star Fighters that defend the
+9900 SW Greenburg Road #240    frontier against Xur and the Ko-dan Armada"
+Portland, Oregon 97223         work: (503) 684-9001 / home: (503) 641-3469
+
+From kodali@portia.stanford.edu  Tue Jul 24 20:21:32 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA28168); Mon, 23 Jul 90 00:24:37 CDT
+Received: from Portia.Stanford.EDU by bcm.tmc.edu (AA19015); Mon, 23 Jul 90 00:27:35 CDT
+Received:  by portia.stanford.edu (5.59/25-eef) id AA08704; Sun, 22 Jul 90 22:27:59 PDT
+Date: Sun, 22 Jul 90 22:27:59 PDT
+From: VAS KODALI <kodali@portia.stanford.edu>
+Message-Id: <9007230527.AA08704@portia.stanford.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: Re:  Car repair...
+
+
+I too have a '84 944 and am having the same problem with the rear glass.
+I took it to a dealer and he said that it would cost about $2000 to 
+replace; however, he did recommend a glass shop that may be able to fix
+it.  If someone out there in net land had a similar experience, can you 
+please share it with me before I go and shell out 2K.
+
+Thanks,
+Vas 
+
+From auspex!brogers@uunet.UU.NET  Tue Jul 24 20:22:54 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA01298); Mon, 23 Jul 90 19:03:36 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA29382); Mon, 23 Jul 90 19:06:33 CDT
+Received: from auspex.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA08673; Mon, 23 Jul 90 20:07:02 -0400
+Date: Mon, 23 Jul 90 16:57:13 PDT
+From: auspex!brogers@uunet.UU.NET (Bob Rogers)
+Message-Id: <9007232357.AA29818@auspex.com>
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Cc: brogers@uunet.UU.NET
+Subject: Mailing list
+
+
+Please add me to your mailing list.
+
+Thanks
+
+From james@visual2.tamu.edu  Tue Jul 24 20:25:51 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA00397); Tue, 24 Jul 90 20:25:51 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA10611); Tue, 24 Jul 90 20:28:49 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA27097); Tue, 24 Jul 90 20:28:30 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA07293; Tue, 24 Jul 90 20:31:16 GMT-0600
+Date: Tue, 24 Jul 90 20:31:16 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9007250231.AA07293@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: 944 Rear Hatch Problems
+
+
+
+ANYBODY at all know about the 944 hatch problem???  C'mon...
+
+You see, I'm into the prevention thing because I'm in a small town in Texas...
+If something major comes up, I'm screwed unless Stan knows anybody who
+works on 944s more than once every time I bring it in...
+
+The unbinding of the rear hatch...  What do I do???  Any suggestions???
+I know a 924 did it...  Well???
+
+James "waiting for an answer" Saxon
+
+From weltyc@turing.cs.rpi.edu  Wed Jul 25 18:58:47 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA16692); Wed, 25 Jul 90 18:58:47 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA21502); Wed, 25 Jul 90 19:01:43 CDT
+Date: Wed, 25 Jul 90 20:00:17 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA20370; Wed, 25 Jul 90 20:00:17 EDT
+Message-Id: <9007260000.AA20370@turing.cs.rpi.edu>
+To: porschephiles@bcm.tmc.edu
+In-Reply-To: Steven C. Neighorn's message of Sun, 22 Jul 1990 17:26:39 PDT <9007230026.AA26460@qiclab.UUCP>
+Subject: Porsche 944 Expense
+
+
+This is from memory, but the basic jist is important so better
+innacurate than not at all...according to the Connecticut Valley
+Region PCA Newsletter "Challenge" from, I think, April this year, 944
+Turbos *will* have a drastic engine failure after roughly 50 hours of
+track time (maybe the number was slightly higher, but say 50 to be
+safe).  The failure was in the #1 crankshaft bearing or maybe it was
+the rod bearing, whatever it was requires splitting the case to
+repair (big bucks), and according to CVR is *unavoidable*, and fixing
+it gives you another 50 hours.  It sounds sort of weird, but CVR is
+one of the bigger regions and they have the best newsletter...
+
+I don't have one so I didn't pay too close attention, so any part of
+this could be slightly off, but the message is don't take your
+944turbo on the track more than 39 times (50 hours is roughly 39 track
+days). 
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From bart@research.att.com  Wed Jul 25 20:21:40 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA16780); Wed, 25 Jul 90 20:21:40 CDT
+Received: from research.att.com by bcm.tmc.edu (AA21804); Wed, 25 Jul 90 20:24:38 CDT
+Message-Id: <9007260124.AA21804@bcm.tmc.edu>
+From: bart@research.att.com
+Date: Wed, 25 Jul 90 21:23:10 EDT
+To: porschephiles@bcm.tmc.edu
+
+>safe).  The failure was in the #1 crankshaft bearing or maybe it was
+
+#2 rod bearing, actually.  it's from the author's (dave curtin) experience
+as well as standard lore in the racing community.  the cure is to have your
+rod bearings replaced every year or two (depending on how much you track
+your 951) and make sure your crankcase of mobil 1 never gets more than 1/2
+quart below full.
+
+From seibert@XN.LL.MIT.EDU  Thu Jul 26 10:03:14 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18080); Thu, 26 Jul 90 10:03:14 CDT
+Received: from XN.LL.MIT.EDU by bcm.tmc.edu (AA25261); Thu, 26 Jul 90 10:06:03 CDT
+Received:  from JUPITER.LL.MIT.EDU by XN.LL.MIT.EDU; Thu, 26 Jul 90 10:38:15 EDT
+Posted-Date: Thu, 26 Jul 90 10:38:12 EDT
+Received: by jupiter.ll.mit.edu; Thu, 26 Jul 90 10:38:12 EDT
+Date: Thu, 26 Jul 90 10:38:12 EDT
+From: seibert@XN.LL.MIT.EDU
+Message-Id: <9007261438.AA24464@jupiter.ll.mit.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: 944 clutches
+Reply-To: seibert@XN.LL.MIT.EDU
+
+How big a deal is it to replace the 944 clutch and friction plate?
+I'm having a "clunking" noise when shifting in and out of gear
+which my mechanic thinks is the damping on the shaft in the torque tube.  
+I rev-match, but almost never double-clutch, and the clutch isn't slipping.
+
+He says that the shaft and tube are essentially an integrated assembly.  
+He says that's a really big deal (like $1500-2000 in parts) to fix,
+but a simpler fix might be to replace the clutch (and integrated
+damper) and while he's at it, he can also replace the friction plate
+and throw-out bearing, which he estimates at $350 parts + $350 labor.  
+He says he has to slide the whole torque tube and transmission back
+a few inches to get at the clutch.  Sound about right?  _MS
+
+From weltyc@turing.cs.rpi.edu  Thu Jul 26 10:29:27 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18115); Thu, 26 Jul 90 10:29:27 CDT
+Received: from turing.cs.rpi.edu by bcm.tmc.edu (AA25804); Thu, 26 Jul 90 10:32:24 CDT
+Date: Thu, 26 Jul 90 11:30:59 EDT
+From: weltyc@turing.cs.rpi.edu (Chris Welty)
+Received: by turing.cs.rpi.edu (4.0/1.2-RPI-CS-Dept)
+	id AA00363; Thu, 26 Jul 90 11:30:59 EDT
+Message-Id: <9007261530.AA00363@turing.cs.rpi.edu>
+To: porschephiles@bcm.tmc.edu
+Subject: 944 Turbo repairs
+
+
+On that problem I reported, it is the #2 rod bearing, and to replace
+it you only have to remove the oil pan, the charge is about $1K from
+most places.  As I said, my message wasn't meant to be accurate, just
+to inform that the problem existed.  Thanks to all the people who
+had the right info.
+
+=====
+
+Christopher Welty  ---  Act. Director, RPI CS Labs | "Porsche:  Fahren in
+weltyc@cs.rpi.edu            ...!njin!nyser!weltyc |  seiner schoensten Form"
+
+From ficc!ny1!birwin@texbell.UUCP  Thu Jul 26 11:18:29 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18309); Thu, 26 Jul 90 11:18:29 CDT
+Received: from texbell.sbc.com by bcm.tmc.edu (AA26334); Thu, 26 Jul 90 11:21:25 CDT
+Received: by texbell.sbc.com (Smail3.1.18)
+	id <m0hvAwW-00016ZC@texbell.sbc.com>; Thu, 26 Jul 90 11:20 CDT
+Received: by ficc.ferranti.com (smail2.5)
+	id AA07901; 26 Jul 90 10:37:18 CDT (Thu)
+Received: by ny1.ferranti.com (smail2.5)
+	id AA10188; 26 Jul 90 10:38:45 CDT (Thu)
+To: bcm.tmc.edu!porschephiles@texbell.UUCP
+Subject: 73 911 Injection question
+Date: Thu Jul 26 10:38:42 1990
+Message-Id: <9007261038.AA10188@ny1.ferranti.com>
+From: birwin@ficc.ferranti.com (bob irwin)
+
+I've just joined the list and would like to request information
+on a injection problem.  I hope questions like this are within
+the charter of the group- if not, I apologize.
+
+The engine is a 1973 911 2.4, S model with Bosch mechanical
+injection and it's running too rich.  I've done the basic stuff
+like valve clearance, dwell & timing, throttle linkages.  I have
+the shop manuals but don't have the exhaust analyzer they
+mention.  I certainly would rather err on the rich side of the
+mixture rather than overheating, etc on the lean side.  But right
+now I'm getting some smoke from the tailpipe and it's running
+rough.
+
+I've tweaked the two mixture adjustments on the pump a bit, but
+am hesitant on taking them too far.  The plugs are all uniformly
+fuel-darkened.  I clamped off the cold start enrichment line from
+the fuel pump to no avail.  The air filter is clean; even got the
+problem with the air intake housing removed.  
+
+I hope the group might have some tips on potential solutions.
+Especially those without special tools.  Maybe there are some
+common problems with the Bosch mechanical injection?
+
+Any suggestions would be appreciated.  
+
+Thanks,
+ Bob Irwin
+--
+They communicated by tap-dancing and farting.  _Breakfast_of_Champions_
+< texbell!ficc.ferranti.com!birwin, birwin@ficc.ferranti.com > (713) 274-5456
+
+
+From @ZERMATT.LCS.MIT.EDU:pz@HX.LCS.MIT.EDU  Thu Jul 26 11:19:27 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18319); Thu, 26 Jul 90 11:19:27 CDT
+Received: from ZERMATT.LCS.MIT.EDU by bcm.tmc.edu (AA26356); Thu, 26 Jul 90 11:22:22 CDT
+Received: from RTS-23.LCS.MIT.EDU by ZERMATT.LCS.MIT.EDU via CHAOS with SMTP id 45410; 26 Jul 90 12:21:40 EDT
+Message-Id: <2857998090-6999187@RTS-23>
+Sender: pz@RTS-23
+Date: Thu, 26 Jul 90  12:21:30 EDT
+Reply-To: pz@hx.lcs.mit.edu
+From: pz@hx (John S. Pezaris)
+To: porschephiles@bcm.tmc.edu
+Subject: distributor replacements
+
+Okay, so some of you might vaguely recall that I'm rebuilding the engine
+in my 914/6.  I've now determined that the engine was very poorly
+assembled (stuff you just would have to see to belive), and am really
+going whole-hog.
+
+And here's my question: it is likely that I'll need a new distributor,
+what would be the best replacement?  Given that the stock 914/6 dist is
+a Marelli unit (which has known problems with point bounce at high
+RPMs), any potential modifications on the Marelli curve?  Would
+installing Ignitor modules (Hall-effect solid-state switches which
+replace the points) be sufficient?  Trick spring rates to look for?
+What's the hot setup on carburetted 911 engines?
+
+	- pz.
+
+
+From VitaM6!marciano@uunet.UU.NET  Thu Jul 26 11:35:44 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18472); Thu, 26 Jul 90 11:35:44 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA26606); Thu, 26 Jul 90 11:38:41 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA28721; Thu, 26 Jul 90 12:38:29 -0400
+Message-Id: <9007261638.AA28721@uunet.uu.net>
+Date: Thu, 26 Jul 90 09:28:27 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: 951's track time
+
+All this talk of burning turbo motor's on the track makes me feel very
+uneasy.
+
+how can this be?  it's German!!!  it's Porsche, champions of endurance.
+
+anyone have anything good to say about h2o pumpers, in terms of reliability?
+
+From bart@research.att.com  Thu Jul 26 12:13:45 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18635); Thu, 26 Jul 90 12:13:45 CDT
+Received: from research.att.com by bcm.tmc.edu (AA27125); Thu, 26 Jul 90 12:16:43 CDT
+Message-Id: <9007261716.AA27125@bcm.tmc.edu>
+From: bart@research.att.com
+Date: Thu, 26 Jul 90 13:13:19 EDT
+To: porschephiles@bcm.tmc.edu
+
+>anyone have anything good to say about h2o pumpers, in terms of reliability?
+
+people DO track their 951's very happily and reliably.  the motor
+is very strong and very smooth.  it just has this one weak spot
+that you have to pay some attention to.  okay, maybe the head gasket
+doesn't take 1.2 bar boost very well either.
+
+951 reliability appears to be much better than that of 911/930's.
+the 951 knock sensor and dme engine controls do an excellent job
+of keeping the engine from suffering detonation.  people with
+boost knobs on their 930's have no such safeguards!
+
+From james@visual2.tamu.edu  Thu Jul 26 12:40:48 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA18848); Thu, 26 Jul 90 12:40:48 CDT
+Received: from TAMU.EDU by bcm.tmc.edu (AA27479); Thu, 26 Jul 90 12:43:44 CDT
+Received: from visual2.tamu.edu by TAMU.EDU (AA05996); Thu, 26 Jul 90 12:43:16 CDT
+Received: by visual2.tamu.edu (NeXT-1.0 (From Sendmail 5.52)/NeXT-1.0)
+	id AA09259; Thu, 26 Jul 90 12:45:58 GMT-0600
+Date: Thu, 26 Jul 90 12:45:58 GMT-0600
+From: james@visual2.tamu.edu (James Saxon)
+Message-Id: <9007261845.AA09259@visual2.tamu.edu>
+To: porsche@visual2.tamu.edu
+Subject: Clutch....  944
+
+
+What year 944???
+
+I replaced my clutch on my 84 944 at around 70k when the plates froze.
+Factory parts were about $700, labor $700.
+
+*************************
+Get a performance products catalog 800-458-4497 to check on prices.
+They seem pretty good (unless you guys tell me I'm wrong.)  I don't
+buy from there because the one guy in town who fixes porsches because
+he knows them rather than because he has a metric socket wrench set,
+won't go for the parts...
+*************************
+Oh yea and call Andial 714-757-3900.  These guys have a one week appointment list.
+I always call them with a question and they're right on the mark.  Their
+$$$ is always a little tiny bit more than I pay but their people,
+Deiter, and another guy, are fixing Porsches all day long.  They
+really know their stuff.  When I move back to California, I'll be
+dealing with them.
+
+
+From VitaM6!marciano@uunet.UU.NET  Thu Jul 26 15:00:17 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA20411); Thu, 26 Jul 90 15:00:17 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA00802); Thu, 26 Jul 90 15:03:15 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA03993; Thu, 26 Jul 90 16:03:43 -0400
+Message-Id: <9007262003.AA03993@uunet.uu.net>
+Date: Thu, 26 Jul 90 12:54:14 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Re: Clutches.... 944
+
+From: uunet!visual2.tamu.edu!james@vitam6 (James Saxon)
+
+>Oh yea and call Andial 714-757-3900.  These guys have a one week appointment list.
+>I always call them with a question and they're right on the mark.  Their
+>$$$ is always a little tiny bit more than I pay but their people,
+>Deiter, and another guy, are fixing Porsches all day long.  They
+>really know their stuff.  When I move back to California, I'll be
+>dealing with them.
+
+isn't Andial the only factory reconized tuner here in the states.  and
+they work on most of the race Porsche's here.
+
+/marciano
+
+From timmins@sun.udel.edu  Mon Jul 30 06:59:09 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA19741); Mon, 30 Jul 90 06:59:09 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA10603); Mon, 30 Jul 90 07:02:04 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA09300; Sun, 29 Jul 90 17:06:04 -0400
+Message-Id: <9007292106.AA09300@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Sun, 29 Jul 90 17:06:03 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: seibert@XN.LL.MIT.EDU
+Subject: Re: 944 clutches
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of Jul 26, seibert@XN.LL.MIT.EDU:]
+> How big a deal is it to replace the 944 clutch and friction plate?
+> I'm having a "clunking" noise when shifting in and out of gear
+> which my mechanic thinks is the damping on the shaft in the torque tube.  
+> I rev-match, but almost never double-clutch, and the clutch isn't slipping.
+> 
+> He says that the shaft and tube are essentially an integrated assembly.  
+> He says that's a really big deal (like $1500-2000 in parts) to fix,
+> but a simpler fix might be to replace the clutch (and integrated
+> damper) and while he's at it, he can also replace the friction plate
+> and throw-out bearing, which he estimates at $350 parts + $350 labor.  
+> He says he has to slide the whole torque tube and transmission back
+> a few inches to get at the clutch.  Sound about right?  _MS
+  [end of included note]
+
+
+Sounds like BS to me.  I can almost guarantee that it's the rubber
+center in the clutch causing all the problemms and that there is NOTHING
+wrong with the torque tube.
+
+The torque tube is a hollow steel tube with a flange on each end.
+Inside there are exactly 4 ball bearing sets. A 25mm solid shaft rides
+in the bearings.  Each end of the shaft is splined.  One end plugs
+directly to the clutch hub, the other is coupled to the tranny input
+shaft with a 6" long inner splined tube clamped to the torque shaft and
+the input shaft with 8mm cheesehead bolts.  That is the entire story.
+
+When the rubber center fails in shear, the clutch hub moves about 10
+degrees w.r.t. the fricytion material without any resistance until it
+hits steel stops rather abruptly.  Hence the clunkining.
+
+
+Ride down the road at low rpm in 3rd gear. Give it full throttle and
+release several times.  You will hear a single clunk each time the
+trottle is depressed or released as the cluch center hits the steel
+stops.
+
+$ 1500 is an average price for a clutch job, thich is ALOT more work
+than just the torque tube, because the bellhousing is the biggest bear
+in the whole job (6-8 hours to R&R clutch and bellhousing after the
+trans/torque tube removed/slid back.
+
+Hopt that's helpful.
+
+Steve
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From timmins@sun.udel.edu  Mon Jul 30 10:10:08 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA20719); Mon, 30 Jul 90 10:10:08 CDT
+Received: from sun.udel.edu by bcm.tmc.edu (AA12628); Mon, 30 Jul 90 10:13:03 CDT
+Received: by sun.udel.edu
+	(5.61+/IDA-1.2.8) id AA21268; Mon, 30 Jul 90 11:13:37 -0400
+Message-Id: <9007301513.AA21268@sun.udel.edu>
+From: timmins@sun.udel.edu (Steve Timmins)
+Date: Mon, 30 Jul 90 11:13:34 EDT
+X-Mailer: Mail User's Shell (7.0.4 1/31/90)
+To: porschephiles@bcm.tmc.edu
+Subject: Watkins Glen (*long)
+
+A copy of my recent region newsletter article follows, unedited.
+
+Delaware Versus The Glen
+
+
+Last week porschephiles from all directions came hurdling into Watkins Glen, 
+New York for the Reisentoter/CVR/Potomac/Track Time drivers education 
+events which offered up to 9 straight days of track time.  I decided to sign 
+up for four days (CVR on Monday-Tuesday and Potomac on Thursday-
+Friday) originally, but when Reisentoter offered to let me instruct for their 
+event, I jumped in for a total of six track days.  
+
+The first two days with Reisentoter were eye opening experiences.  Since this 
+was a weekend event, attendance was heavy and some pretty serious 
+hardware showed up.  As it happened, I was put in Red group where the 
+true loonies reside.  Saturday began with Bob Russo, Chief instructor 
+announcing that passing was allowed anywhere on the track.  After a pause 
+and a smile he added "except, of course, in the corners...with a signal".  This 
+set the general tone for the weekend.
+
+I felt like I was a novice again!  My arm was out the window more times in 
+the first run group than it had been in the last year!  Passing under braking 
+or in the sweepers was done with regularity.  Some cars in my group were 
+running 10 seconds a lap faster than I was.  Humbling.  Twin-Turbo 
+Interscope 935s with 800 Horsepower.  Rothmans Canadian Turbo-Cup 944s 
+with factory cages and magnesium engine parts for light weight.  Pirelli 
+Slicks?!? on a stock bodied 944 turbo?  Get real!  And me on a set of 
+DunSlops!  
+
+And then there was Richie Lazzardo.  In a 914.  A truly unassuming car with 
+a duct-taped-on rear spoiler.  Something about the louvers in the front hood 
+that clued in the savvy.  And a rather nasty snarl that really didn't sound 
+much like a VW motor.  Howzabout a 3.2 litre twin-plugged carrera motor 
+modified "slightly" to rev up to about nine grand?  Absolutely sick!
+
+CVR's event the following two days started with driving to State College PA 
+to have race tires mounted, shaved, and balanced while I waited.   The 
+DunSlops went away a lot quicker than I had expected.  I got a total of five 
+track days on the rears since they were new.  So much for saving money 
+driving street tires on the track.  Back to the stickies.  I knocked a full 
+second off Sunday's best lap time in the first run group with the Bridgestone 
+RE71Rs, taking it easy, just getting used to the tires!
+
+Wednesday morning Harry Hall, Rich McKay and Greg Wilson arrived at the 
+track for the Potomac Instructors Clinic.   "Big Bird", Harry's 911T, which was 
+being double-driven by him and rich,  accumulated  close to 300 track miles 
+in a single day.   Thursday and Friday our attendance peaked as Steve "Spin" 
+Bonine  returned to the track accompanied by Gene "Gene the Driving 
+Machine" -------- and Paul "Golden Goose" Warnell, nicnamed for the freshly 
+de-rusted and pained 911S which accompanied him.
+
+Thursday night the absolute high point of the weekend occurred when about 
+30 track junkies and their families converged on the Watkins Glen go-kart 
+track for an evening of no-holds-barred driving.   A favorite technique on 
+the hairpin was to get your nose inside of the rear of the car in front of you 
+and jerk the wheel abruptly to the left sending your buddy spinning out of 
+control into the tire wall.  Bumping was "not allowed" (chuckle) but we found 
+that the only thing that could really get you thrown out was to reach around 
+behind your seat and override the engine governor which mad your car 
+about twice as fast as all the other cars on the track.  Bonine was laughing so 
+hard he could barely drive when I got two tires about three feel off the 
+ground as Ivy Mitchell, my first instructor at Summit, rammed me full bore 
+getting around me in the hairpin.  Coincidentally, it was Pat, her husband, 
+who was eventually booted for overriding the governor.
+
+Friday at the track I was talking to a fellow black group driver from Potomac 
+Region who said there were four drivers in the group that were far and 
+away faster than anyone else.  One was driving a black 911SC with a whale 
+tail (Steve Bonine), another could really make his chocolate 911S scoot (Greg 
+Wilson) and the third guy had this bright yellow thing that just went like 
+stink (Rich McKay in Big Bird).  I won't mention the fourth.  Made me feel 
+good that us guys from Delaware were being noticed, even though we were 
+way outnumbered.
+
+
+
+For Sale:
+
+Black 1986 944 Turbo, Low Miles - (mostly near sea level)
+Never Totalled!  Many new parts - please call for up-to-the-minute list.
+Only driven 'round on Saturday and Sunday,  Custom Bodywork by Dunlop,
+Won't Last!  All serious offers considered, then rejected
+
+Steve "Slide" Timmins
+
+-- 
+Steve Timmins                                      timmins@sun.udel.edu
+University of Delaware - 
+Academic Computing and Instructional Technology
+Newark, Delaware 19716
+
+From VitaM6!marciano@uunet.UU.NET  Tue Jul 31 10:46:33 1990
+Received: from BCM.TMC.EDU by wilkins.bcm.tmc.edu (AA12128); Tue, 31 Jul 90 10:46:33 CDT
+Received: from uunet.UU.NET by bcm.tmc.edu (AA24064); Tue, 31 Jul 90 10:49:29 CDT
+Received: from VitaM6.UUCP by uunet.uu.net (5.61/1.14) with UUCP 
+	id AA21924; Tue, 31 Jul 90 11:50:01 -0400
+Message-Id: <9007311550.AA21924@uunet.uu.net>
+Date: Tue, 31 Jul 90 08:40:05 PDT
+From: VitaM6!marciano@uunet.UU.NET (Marciano Pitargue)
+To: uunet!bcm.tmc.edu!porschephiles@uunet.UU.NET
+Subject: Re: Watkins Glen
+
+
+timmins@sun.udel.edu writes:
+
+[all deleted]
+
+sounds like major fun.  i'm glad people out there actually "drive" their
+cars out there.
+
+one major drawback.  where was i?
+
+made my day...
+/marciano
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: Haltech on 914</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="'Brian Ng' <brianng@skyinternet.ca>, <bamiller@csupomona.edu>">
+  <META NAME="MsgPropFrom" CONTENT="Dave Darling <darling@simlab.arc.nasa.gov>">
+  <META NAME="MsgPropSubject" CONTENT="Re: Haltech on 914">
+  <META NAME="MsgPropDate" CONTENT="Wed, 27 Aug 1997 08:28:29 -0700">
+  <META NAME="MsgPropCc" CONTENT="'PorscheFans 914' <914@porschefans.com>">
+  <META NAME="MsgPropIn-Reply-To" CONTENT="<199708270627.XAA15532@gold.skyinternet.ca>">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">Brian Ng &lt;brianng@skyinternet.ca&gt;, &lt;bamiller@csupomona.edu&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Dave Darling &lt;darling@simlab.arc.nasa.gov&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: Haltech on 914</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Wed, 27 Aug 1997 08:28:29 -0700</td></tr>
+<tr><td class="HeaderItemLabel">Cc:</td><td class="HeaderItemContent">PorscheFans 914 &lt;914@porschefans.com&gt;</td></tr>
+</table>
+<pre>
+At 6:32 AM -0000 8/27/97, Brian Ng wrote:
+><<  The only problem I see is that it uses coolant temp for one
+>of its tuning parameters.  Anyone know it this could be adapted to a CHT or
+>just not use? >>
+>
+>How about using oil temp instead?
+
+	You might get this to work.  The stock system uses head temp as
+an indicator of engine temp--in water-cooled versions of D-jet and L-jet
+there is no head temp sensor, but there is a coolant temp sensor.  So
+this might also be a reasonable way to go.
+	The right-hand head of most 914s has a tapped hole to screw in
+a thermistor which is Temp Sensor II.  Since it's an NTC thermistor, the
+resistance drops as the head warms up.  If that's the type of input the
+Haltech needs, then all you have to do is find a sensor with the appro-
+priate range.  Otherwise you'll have some more work to do; the oil temp
+might be easier.
+	I'm not sure that oil temp is that great an indicator of the temp
+of the "business end" of the engine--rule of thumb in water-cooled cars
+is that the oil takes twice as long to get up to temp as the water does.
+Also, the oil temp gauge in my 914is just barely off "cold" by the time
+the engine is warmed up.  The gauge can read almost full cold, but Temp
+Sensor II is reading very low resistance.
+	For an oil temp input into the FI, you'd want something that re-
+acts a lot to small temp changes at low temps, then not at all to large
+changes at high temps.
+
+	Sounds interesting--let us know how it turns out.
+
+--DD
+
+Dave Darling                                     74 914 2.0 (VROOM!)
+                   darling@simlab.arc.nasa.gov
+"Persnickety Old Roadster, Sucks Cash, Hellaciously Expensive"--NJN
+
+
+.
+</pre>
+</BODY></HTML>

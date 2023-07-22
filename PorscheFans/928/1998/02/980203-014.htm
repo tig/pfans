@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Re: Flow</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="phil tong <ptong@928s4vr.com>">
+  <META NAME="MsgPropFrom" CONTENT="Stephane Chabot <slyjay@apci.net>">
+  <META NAME="MsgPropSubject" CONTENT="Re: Flow">
+  <META NAME="MsgPropDate" CONTENT="Tue, 03 Feb 1998 08:07:20 -0600">
+  <META NAME="MsgPropCC" CONTENT="928 porschefans <928@porschefans.com>">
+  <META NAME="MsgPropReply-To" CONTENT="slyjay@apci.net">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">phil tong &lt;ptong@928s4vr.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Stephane Chabot &lt;slyjay@apci.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Re: Flow</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Tue, 03 Feb 1998 08:07:20 -0600</td></tr>
+<tr><td class="HeaderItemLabel">CC:</td><td class="HeaderItemContent">928 porschefans &lt;928@porschefans.com&gt;</td></tr>
+</table>
+<pre>
+phil tong wrote:
+> 
+> Hey LL, does this make sense:
+> 
+> Airflow (cfm)= displacement (cubic inches)/ 1728 x rpm/2 x V.E.
+> (volumetric efficiency)
+> 
+> I am using 0.90 as a plug figure for V.E. and 6600 rpm for redline
+> 
+> So given 302 cu. in., 6600 rpm, etc. etc. I am coming up with about 520
+> cfm.  This is supposed to be the total airflow of the engine so I am
+> guessing that means 260 cfm per exhaust pipe (dual exhaust).  Does this
+> make sense?
+> 
+> Trying to figure out this muffler setup.
+> 
+> Thanks,
+> Phil
+> 
+
+Don't forget to make a volume correction for temperature change.
+
+(P1*V1)/T1 = (P2 * V2)/ T2
+
+Where P = pressure
+	V = Volume
+	T = Temperature (in kelvin)
+
+	The set of value with 1 are the initial condition, the
+value with 2 are the final condition.
+
+This might make a big difference in your system.  The other problem
+will be to calculate the amount of back pressure you have in your
+system with different volume of gas going through it (would assume that
+the higher volume would have more backpressure given similar
+ restriction).  A good starting point would assume P1 = P2
+
+But it's just my 0.02
+
+-- 
+Stephane Chabot
+928 FAQ: http://www.apci.net/~slyjay
+85 Porsche 928 S
+92 Acura Integra RS
+91 Honda Civic SE
+.
+</pre>
+</BODY></HTML>

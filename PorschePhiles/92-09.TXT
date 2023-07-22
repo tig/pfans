@@ -1,0 +1,4734 @@
+Date: Tue, 1 Sep 92 01:55 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Mail Order Brake Pads
+
+Don -
+
+Sorry to hear of your grief.  If the carbon/kevlars you're using are the Cool
+Carbon brand, I can add to your experiences mine.  Basically, it was a new
+product as of earlier this year, and the manufacturer has improved the quality
+and finish substantially in the last few months.
+
+The first set I got had two major problems.  The rears were missing a squarish
+cut-out in the backing plate into which a locking tab from the floating calliper
+inserts (this for a Porsche 944).  Simple enough to fix with a die grinder.  The
+other problem was a bit of "berm" along the edges, where the pad material meets
+the backing plate.  Again, simple to clean up with a grinding wheel.
+
+I picked up a second set before heading out to Watkins Glen a few weeks back,
+and both manufacturing problems had been corrected.  I also installed a
+different set into a friend's 924GTS, which has 930 rear callipers all 'round -
+no problem at all.
+
+It sounds to me like the guy from whom you bought the pads was doing some
+modification to the pads to fit your application.  The slits in mine, as well as
+all the edges, have no flaws at all.
+
+The pads work really well.  I'm pleased with them on the street, track, and at
+auto-x.  In fact, I have had no problems with stone-cold pads on my first auto-x
+runs, as I used to even with the OEM pads.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 1 Sep 1992 09:43:02 -0400
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Subject: Re: Mail Order Brake Pads
+
+"Kevin C. Gross" <0004056890@mcimail.com> writes:
+
+| Don -
+| 
+| Sorry to hear of your grief.  If the carbon/kevlars you're using are the Cool
+| Carbon brand, I can add to your experiences mine.  Basically, it was a new
+| product as of earlier this year, and the manufacturer has improved the quality
+| and finish substantially in the last few months.
+...
+| I picked up a second set before heading out to Watkins Glen a few weeks back,
+| and both manufacturing problems had been corrected.  I also installed a
+
+I just installed by first set of Cool Carbons on my 944T and they were
+'perfect' -- no imperfections that I could detect. 
+
+Steve
+
+------------------------------
+
+Date: Tue, 1 Sep 92 08:02:55 -0700
+From: madalier@pcocd2.intel.com (Mehmet Adalier)
+Subject: Subscribe.
+
+
+May I be subscribed to this list? Thanks.
+
+Mehmet Adalier
+madalier@pcocd2.intel.com
+
+------------------------------
+
+Date: Tue, 1 Sep 92 08:50:58 PDT
+From: tom@sj.ate.slb.com  (Thomas Y. Lee)
+Subject: Duralube
+Full-Name: Thomas Y. Lee
+
+Has anyone heard or used Duralube? I saw it advertised on TV
+and it claims some incredible features. Is this stuff crap?
+Thanks.
+
+Tom 
+
+------------------------------
+
+Date: Tue, 1 Sep 1992 11:25:26 PDT
+From: Scott.Griffith@eng.sun.com (Scott Griffith, Sun Microsystems Lumpyware)
+Subject: Re: Mail Order Brake Pads
+
+On Aug 31, Don Day wrote:
+
+> A few weeks ago there was some discussion on the Mustang list about
+> the "Great New Carbon Kevlar brake pads" that some list members had
+> used. 
+
+Yup- I was one of the people who started it.
+
+> On August 24th ~8:00 AM PST I called Porterfield racing and asked to
+> talk to Andy (Who is the owner).  I asked if he had the CK pads for
+> 84-87 Corvette.  He told me he did, I asked him to ship them UPS 2nd
+> day air as I had an event to run on Thursday Aug 27th, He told me no
+> problem.  I waited around Wednesday prepping the Vette for the Porsche
+> Club Drivers' school and to my surprise NO pads.
+
+Well, check the date that they shipped- UPS second-day is pretty bad
+at times. Another member of the WTW list shipped two crankshafts to a
+shop for mods, one by 2nd day air and one by standard ground- and the
+standard ground one got there _first_. I use Fedex exclusively
+nowadays, after waiting 2 weeks for some second-day-air parts (that I
+ran without, just like you. Always happens right before an event,
+seems like). Get your money back out of UPS.
+
+> The groove depths were inconsistent between pads, but that wasn't the
+> problem.  The problem is that the grooves broke away a fair amount of
+> brake material from the pad.  In fact, only one of the pad's grooves
+> had a clean 90 degree cut in them.
+
+This isn't quite right. The gas grooves should ideally be clean and
+sharp shouldered, since that's the way that they are made. If they
+aren't, then they may have been bashed around in shipping (the
+carbon-kevlar friction material is pretty brittle). They should have
+been taped together, working face to working face, in pairs.
+
+Now, having said that, I'll say that chipping of the friction material
+isn't particularly important. If the chips are less than perhaps 1/2"
+I'd still use the pads, without any worries whatsoever- just wait till
+you see what they look like when they _come off the car_ after a heavy
+weekend of track use (especially on a heavy car with minimal brakes
+like my Mustang)! As long as the pad material is still well sintered to
+the backing plates, superficial chipping isn't even meaningful, IMHO.
+
+> To say the least I am not impressed by:
+> 
+> 	2. The quality of the product (If these were a set of street
+> 	pads I might accept the poor quality but for racing pads I 
+> 	expect something a bit different).
+
+I don't think that you have bad pads. But if you're really opposed to
+running them, then get them from somewhere else, and try them. I
+suspect that you'll like this material, whether you care for Andy and
+his guys or not.  If the dings were created as part of the
+manufacturing process, and posed a hazard, I really don't think they'd
+have shipped them to you at all.
+
+> Prior to purchasing the pads from Porterfield I had heard nothing 
+> negitive about them, in fact all feedback was positive, including
+> custom pad services.  Since, I have found another list member who has
+> had worse service than what I have just described.
+
+Well, I've been buying from them for some time, and have had nothing
+but good luck- and as the guy who recommended them to the Mustangs
+list, I'd like to defend them a bit here. These are good people, real
+racing people in the most positive sense of the word. There will
+always be good days and bad days, and you may have hit them on a bad
+day. Such is life. And if you call them on a weekend, Andy won't be
+there- he'll be out racing.
+
+For me, they've turned out pads within 24 hours in the past. I like
+'em. Your mileage may vary.
+
+> I talked to Tim at Porterfield today (8/31/92), he told me that the
+> pads had to be "custom made" on Monday and that's why they were
+> shipped on Tuesday.  His explaination for the chips in the pads were:
+> "That's just the way it is" and followed with: "The decreased surface
+> area will increase friction and not effect overall pad life".  Why
+> don't I believe him???  He told he didn't have the authority to do
+> anything further (Which leads me to believe that this is how they
+> treat all of their customers) I asked to speak to Andy Porterfield who
+> took the order.  Of course by now it was not a surprise that he was
+> unavailable.
+
+If they had to custom-make your pads, then you own them- that's the
+nature of the business. They should have told you that they were
+making them, rather than grabbing them off the shelf- but Andy, being
+a fallible human being, may have thought he had them when he was out.
+And knowing that you were in an all-fired hurry (which is the normal
+mode of operation in the racing parts business), he probably turned
+them around as fast as he could. In any case, this is one thing you'll
+have to resolve with him- he's a reasonable guy. Keep calling until
+you talk to him. He'll be there unless he's out testing or something.
+
+> In the past I have ordered pads from Performance Friction for my 928
+> and been very pleased.  I would've gone with PF once again but they do
+> not offer a pad for the 84-87 Corvette brakes.  I believe my only
+> solution is to switch to the larger 13" rotors and dual piston
+> calipers (88-later Z51/Z07 type) and to stick with the Performance
+> Friction pads.
+
+You could do that, but I think that you owe it to yourself to try
+these pads before you go do all that other stuff. You've got a set
+there- put 'em on and run 'em.
+
+> Finally, could anyone who has received the Carbon Kevlar pads from 
+> Porterfield relate their experience, good or bad with me directly.
+
+I've already done so- but there are other companies that carry them.
+The Carbon Kevlar material is a product of Kerr Friction, and the pads
+were designed by and are manufactured under license from a company
+called Braking Developments. Porterfield calls the Kerr material simply
+Carbon Kevlar, or R44. The same material is available under the
+CoolCarbon and PowerPad brand names through CC Motorsports, PO box
+9240, Huntsville AL (205)882-1756. Check around- it doesn't take that
+much research to find what you really want. I for one will be very
+interested in hearing how they run on your car- I found them to be
+very good under some pretty extreme conditions, both on my Mustang and
+on a friend's 308.
+
+One thing to watch out for. On these pads, the bottom of the gas
+groove should be used as an absolute wear limit indicator. Under NO
+circumstances should you be tempted to run down through the last 2-3mm
+of friction material. It is a thermal barrier layer, and whereas its
+frction characteristics aren't too terribly bad, its wear rate is
+easily 500% that of the actual friction material- so those last 2-3mm
+will go _fast_ (perhaps in less than a single session). Mr. Rotor,
+meet Mr. Backingplate. Big drama, no fun.
+
+ -skod
+
+- --
+Scott Griffith, Sun Microsystems Lumpyware
+expatriate SCCA New England Region Flagging/Communications worker
+(and sometimes driver, of anything that turns both right and left,
+and can pass tech...) Return Path : skod@trenco.Eng.Sun.COM
+
+------------------------------
+
+Date: 01 Sep 92 15:21:02 EDT
+From: "John \"JayDee\" Douthit" <71201.2642@compuserve.com>
+Subject: Re: Mail Order Brake Pads
+
+Scott writes,
+
+>  just wait till you see what they look like when they _come off the
+>  car_ after a heavy weekend of track use (especially on a heavy car
+>  with minimal brakes like my Mustang)!
+
+   Ahhh, but Scott, your brakes are much better than most...
+
+>  I found them to be very good under some pretty extreme conditions,
+>  both on my Mustang and on a friend's 308.      /\/\/\/\/\/\/\/\/\
+
+   Extreme...what do _you_ consider extreme :^)........
+  
+>  so those last 2-3mm will go _fast_ (perhaps in less than a single
+>  session). Mr. Rotor, meet Mr. Backingplate. Big drama, no fun.
+
+   Perhaps in a single lap  :^) .......I should add _Big Drama_
+
+
+JayDee
+
+
+
+Distribution:
+  INTERNET:Scott.Griffith@eng.sun.com INTERNET:Scott.Griffith@eng.sun.com
+  Wheel-2-Wheel List >internet:wheeltowheel@abingdon.Eng.Sun.Com
+  Mustangs List >internet:Mustangs@hpda.cup.hp.com
+  Porsche List >internet:porschephiles@karazm.math.uh.edu
+  Vette List >internet:vettes@dgsi.cimage.com
+
+
+------------------------------
+
+Date: Tue, 1 Sep 92 16:55:56 EDT
+From: sparc!fhp@erika.bighouse.unipress.com (Fred Pack)
+Subject: brakes Cool Carbon Kevlar
+
+1 sept
+
+I can strongly recommend VCI in Dover NJ as a supplier of brakes.  Doug Arnao,
+the owner, even holds the lap record for his class (I think in a 914) at Lime
+Rock.  201-366-7800.  He helped me when I needed track brakes pads for my
+944S2 (which seem to be in no catalogs) by realizing that this is the same pad
+size as in the 930. 
+
+I purchased the Cool Kevlars and I must say that they STOP the car!  I have to
+be careful on the street or the ABS comes on. They really have a high
+friction level. At the track they improve as they get hot, so they give me
+great confidence.
+
+The literature touts their long life, which may be true when used as a true
+track pad.  I drive my 944 every day, as well as at track events.  The front
+pads lasted less than 5000 miles, of which there were 6 track days, so I don't
+call them very long lasting.  (My previous Ferodo pads lasted about 15000
+miles.)  However, I do really like them and just bought another set.
+
+VCI is a good supplier. I have gotten very prompt deliveries, and they are
+quite knowledgable.
+
+
+
+Fred Pack					fhp@unipress.com
+UniPress Software				phone: (908) 287-2100
+2025 Lincoln Highway				fax:   (908) 287-4929
+Edison NJ 08817
+
+
+------------------------------
+
+Date: Tue, 1 Sep 92 17:24:10 EDT
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Subject: Re: brakes Cool Carbon Kevlar
+
+> The literature touts their long life, which may be true when used as a true
+> track pad.  I drive my 944 every day, as well as at track events.  The front
+> pads lasted less than 5000 miles, of which there were 6 track days, so I don't
+> call them very long lasting.
+
+6 track days? Seems pretty good to me! I used up a set of Repco Metalmasters
+in 1 day at Watkins Glen.
+
+
+- -- 
+- ---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+------------------------------
+
+Date: Tue, 1 Sep 1992 14:35:20 -0700
+From: "Richard P. Muller" <rpm@wag.caltech.edu>
+Subject: Mail order houses
+
+
+Hello fellow Porschephiles.
+
+This is my first post, though I've been reading the mailing list for a
+while. I have a 1969 Porsche 912 which I've owned now for about 8
+months. I'm finally getting the machine into stable working condition.
+This involved among other things a painfully expensive head job,
+which, believe me, isn't as much fun as it sounds.
+
+In any case, now that the engine is working, I'd like to begin working
+on the cosmetic features. I was wondering if anyone had adresses/phone
+#'s of mail order auto supply houses which specialize or handle
+Porsche parts.
+
+Thanks in advance for your help. Really do enjoy the mlist.
+- --
+ Rick Muller   rpm@wag.caltech.edu    818.397.2722    818.585.0918 FAX
+Die kunst der kludge
+
+
+
+
+------------------------------
+
+Date: Tue,  1 Sep 92 16:15:52 PDT
+From: kwatson@ws.mentorg.com (Keith Watson)
+Subject: re: brakes Cool Carbon Kevlar
+
+> > The literature touts their long life, which may be true when used as a true
+> > track pad.  I drive my 944 every day, as well as at track events.  The front
+> > pads lasted less than 5000 miles, of which there were 6 track days, so I don't
+> > call them very long lasting.
+> 
+> 6 track days? Seems pretty good to me! I used up a set of Repco Metalmasters
+> in 1 day at Watkins Glen.
+> 
+
+On my street 911, Repco Metalmasters last less than one year (6 months?)
+which includes track events.  Track events are what use up the pads.  In a
+true race application, my VW Golf goes through Metalmasters or Ferodo DS-11's
+in one hour!  The only difference is that the Metalmaster pads also goes all
+the way through the rotor surface.  The carbon metallic (?) pads from
+Porterfield last 2 or 3 race weekends.  To me, that IS long life.
+
+As they say, your mileage may vary...
+- -----
+Keith Watson              Mentor Graphics Corporation (Wilsonville, OR)
+Flog Racing               keith_watson@mentorg.com
+H Production VW Golf      kwatson@mentorg.com
+
+------------------------------
+
+Date: Wed, 2 Sep 92 01:36 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: brakes Cool Carbon Kevlar
+
+Fred -
+
+>I can strongly recommend VCI in Dover NJ as a supplier of brakes.  Doug Arnao,
+>the owner, even holds the lap record for his class (I think in a 914) at Lime
+>Rock.  201-366-7800.  He helped me when I needed track brakes pads for my
+>944S2 (which seem to be in no catalogs) by realizing that this is the same pad
+>size as in the 930.
+
+They had a display booth at Tech Tactics last year.  They had a really great
+price on 944S timing belts, like $18.00 if memory serves.  Problem was, they
+were selling an obsolete part (version .00 vs. the current version .02).  Well,
+no disrespect to Doug or VCI; this is pretty common in the aftermarket and you
+have to watch out for it.
+
+Btw, unless I am massively mistaken, the 944S2 simply has 944 Turbo (pre-S)
+brakes.  The only OEM diff is that Porsche switched pad suppliers to Pagid.  But
+any 944 Turbo pad, incl. DS-11's, will fit.  (The '88 944 Turbo S/'89 944 Turbo
+takes the same pads as the 962, except shaved from 25 to 19 mm. depth!)
+
+Kevin
+
+
+
+------------------------------
+
+Date: Tue, 01 Sep 1992 20:26:31 PDT
+From: kjackson@vms1.cc.uop.edu
+Subject: Add me to Listserver
+
+Please add me to any listserv
+
+thanks.
+
+
+------------------------------
+
+Date: Wed Sep 2 08:02:38 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: Re: Porschephiles #180 Tue Sep 1 23:00:03 CDT 1992
+
+does anyone out there use cool carbons on their 911.  I have been running
+medium compound ferodos and found them pretty good.  they warm up quickly,
+do not fade and do not eat up the rotors like metalmasters or DS11s.
+
+
+jim fuerstenberg
+jfuerstenberg@dcmdc.dla.mil or xgg2356@dcmdc.dla.mil
+
+Warning, as the velocity of this vehicle increases, so does it mass and extra
+braking force will be required!
+
+------------------------------
+
+Date: Wed, 2 Sep 92 14:27:48 PDT
+From: George Bono <gbono@hpnmdla.sr.hp.com>
+Subject: For sale +
+
+I'm one of the FEW people on this list with a 356.  Anyone out there ever
+drive/repair their ol' bathtub (I'm tired of hearing about all the 9xx
+horror/glory stories)????? :^)     
+
+I do have a question about gas tank repair: anyone have a phone number for
+Gas Tank ReNu @ Downers Grove, IL. ???
+
+Also have a friend selling a 911:
+
+1965 chassis # 301872  engine # 901961
+Sky Blue (a 356 color) with grey/black interior
+2 owner original car that runs and
+drives great (needs restoration)
+$7500  Dave Merz voice: 707-794-2787
+                  FAX   707-795-7282
+
+
+------------------------------
+
+Date: Thu, 3 Sep 92 00:46 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: Porschephiles #180 Tue Sep 1 23:00:03 CDT 1992
+
+Jim -
+
+My mechanic, who's a dealer for Cool Carbon, certainly uses them on his '74 2.7
+race car.  Jerry Pellegrino at European Performance, 508 651 1316.
+
+Kevin
+
+------------------------------
+
+Date: Thu, 3 Sep 92 12:15:11 -0700
+From: ko@max.mrj.com (John Ko)
+Subject: 928 head gasket blown :(
+
+
+I was wondering if anyone out there has any experience or knowledge
+in changing the head gasket of 928.  I guess what I'm really trying
+to get at is what hardships I might be able to avoid.
+
+I was told by someone that it's better to pull the engine out and
+then take the head off, rather than do it with the engine in bay.
+Is this a good advice?
+
+The car has over 140k mi. and I also getting a valve job on 'em.
+Know of any good machine shops?
+
+Thanks for any info.
+
+john ko
+
+ko@eecs.nwu.edu
+ko@max.mrj.com
+
+
+------------------------------
+
+Date: Thu, 03 Sep 92 12:40 EDT
+From: Tim Donahue <tdonahue@BBN.COM>
+Subject: 911 auto heat control
+
+Hi,
+
+I'm pleased to be on the mailing list.
+
+I've got a 1977 Carrera 3.0; the car is equipped with automatic heat
+control.  It isn't working properly and I'm thinking of trying to fix it
+(now that winter has arrived in New England #) ).  In the past I've had
+various opinions as to whether it is worthwhile or not.  The actuator is
+currently disconnected from the heat control lever.
+
+The the system failure mode is to "full on", that is, the heat control
+lever full up, never to move.
+
+
+Question 1: I'm under the impression that the system has two sensors,
+		one at the top of the windshield, the other somewhere
+		under the dash.  Where's the under dash sensor, exactly?
+
+Question 2:  What is the most likely cause of the failure, the sensors
+		or the control unit?
+
+Question 3: Is there a "typical" failure in the control unit
+		(transistor/diode) that might be "easy" to fix, given
+		some proficiency in electronics?
+
+Any help (or war stories) would be appreciated.
+
+Thanks,
+Tim
+
+
+Tim Donahue			Bolt Beranek and Newman, Inc.
+				Cambridge, MA, USA
+tdonahue@bbn.com		(617) 873-2703
+
+
+	
+
+------------------------------
+
+Date: Thu, 3 Sep 92 17:43:38 BST
+From: rob@wet.sbi.com (Robert  Greenwood)
+Subject: roofrack
+
+
+Not very technical, but has anybody used roofracks other than those
+supplied by Porsche for an `89+ Carrera 2/4?  I'm about to buy one and
+want to know if there is anything special about the Porsche version
+before I shell out 310 (sterling) for it.
+
+Thanks.
+
+Rob.
+- -- 
+Robert J Greenwood                           Salomon Brothers International Ltd
+rob@sbil.co.uk                                 Business Technology Organisation
+
+------------------------------
+
+Date: Thu, 3 Sep 92 11:00:30 -0600
+From: Bdale Garbee <bdale@gag.com>
+Subject: child safety seats
+
+Anyone have any experience with putting some sort of infant/child safety
+seat in the back seat(s) of a 944-class Porsche?
+
+I've got a 5.5 month-old daughter, and am thinking about picking on up, my
+wife will be more supportive if it's possible/legal for us to all three hop
+in and ride... :-)
+
+Bdale
+
+------------------------------
+
+Date: Thu, 3 Sep 1992 16:37:57 EDT
+From: timmins@ravel.udel.edu (Steve Timmins)
+Subject: Re: roofrack
+
+  [included note of Sep  3, Robert  Greenwood:]
+} 
+} Not very technical, but has anybody used roofracks other than those
+} supplied by Porsche for an `89+ Carrera 2/4?  I'm about to buy one and
+} want to know if there is anything special about the Porsche version
+} before I shell out 310 (sterling) for it.
+} 
+} Thanks.
+} 
+} Rob.
+} -- 
+} Robert J Greenwood                           Salomon Brothers International Ltd
+} rob@sbil.co.uk                                 Business Technology Organisation
+  [end of included note]
+
+
+Try YAKIMA.  There are VERY nice and have a zillion specialty options.
+I have one for my Honda and they do make a 911 clip set.  The thing that
+is nice is tyhat you buy one rack, then just cjhange clips for each
+vehicle.
+
+They're not cheap but they are quite versitile.  FOr my car with a 2
+bike carrier it was $300, and that was with a 25% discount from a bike
+store owner that really owed me.  Most mail order cos give 10% off max.
+
+Adapters for addn'l vehicles are about $30.00 per vehicle.  No marks on
+my gutterless honda either.
+
+S
+
+- -- 
+
+------------------------------
+
+Date: Fri, 4 Sep 92 00:11 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: 928 head gasket blown :(
+
+John -
+
+>I was told by someone that it's better to pull the engine out and
+>then take the head off, rather than do it with the engine in bay.
+>Is this a good advice?
+
+I know that my former auto-x nemesis, Bruce Kennedy, did his with the engine in
+the car a few years back.  The car was a 928S.  He's since sold it, at a point
+when the transmission needed a significant cash infusion.  I can get his phone
+number for you if you'd like to chat with him.  Friendly guy, I'm sure he'd be
+happy to talk with you.
+
+Kevin
+
+------------------------------
+
+Date: Fri, 4 Sep 92 00:20 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: child safety seats
+
+Bdale -
+
+We had an infant seat when our two-year old was just born, and according to my
+wife, used it for the first nine months.  It fit fine in the rear of the 944.  A
+"regular" size seat would fit into the bucket there now, if we removed that part
+of the frame which normally makes the seat level on a more conventional seat.  I
+know that friends (Gary and Michele Carr) have done exactly that to get their
+little charmer in the 911.  Our unmodified Century certainly fits fine in the
+front.
+
+I called PCNA and spoke, if memory serves, with Linda Walker.  She recommended a
+Century model but wasn't completely sure it would fit in the rear.  (Why she
+recommended it, on reflection, I don't know.)  You might give PCNA in Reeno a
+call and see whether they have further enlightened themselves.
+
+Someone wrote an article for Pano a whole bunch of years ago about putting a
+kiddy seat in, I suppose, a 911.  They recommended a German company as a source.
+I wrote to the company, but never got a reply.
+
+Here's a wild idea, sorta.  OK, the reason we don't put the smallfry in our
+normal three-pointers is that the chest belt is too high for them, cutting
+across their throat and whatnot.  So, what if you had a competition five- or
+six-point harness?  Would junior be suitably secure?  Esp. if you added one of
+the new chest straps, the kind that links the two shoulder belts chest-high and
+keeps them from separating under load.  One would at least want to child-proff
+the latch, I suppose.  Safety notwithstanding, it may also be illegal.  Anyone
+tried this?
+
+Please let me know what you learn.
+
+Kevin
+
+------------------------------
+
+Date: Thu, 03 Sep 92 18:53:35 PDT
+From: desousa@cisco.com
+Subject: 914 for sale
+
+A friend here in San Jose has moved to New York and has left a 
+nicely restored 74 914 2.0.  The car had little rust and was
+currently de-rusted and painted the original factory red.  It has
+tan interior and runs and looks excellent.  The mechanicals are
+all fresh.  He is looking to get about $5k for it. (A bunch of extra 
+parts come with it too). 
+
+If interested in more details you can call him at
+(516)326-2307.  His name is Marty Arellano.  This week end and next
+week he can be reached in San Jose at 408-270-7908.
+
+
+------------------------------
+
+Date: Thu, 3 Sep 92 16:08:30 PDT
+From: jimharr@microsoft.com
+Subject: Re: 928 head gasket blown :(
+
+
+
+
+------------------------------
+
+Date: Thu, 03 Sep 92 21:59:43 MDT
+From: Bdale Garbee <bdale@gag.com>
+Subject: Re: child safety seats 
+
+> Safety notwithstanding, it may also be illegal.  
+
+In Colorado, it would be illegal.  The wording is something like "must be
+seated in a federally-approved child safety seat" or something like that.  They
+clearly indicate that it has to be something commercial.
+
+I appreciate all of the replies, it's encouraging.  Given the combination of
+weather here in rural Colorado, and the time of year, it may be spring before
+I get serious about my next toy car... but then, it may not be... :-)
+
+Bdale
+
+------------------------------
+
+Date: Thu, 3 Sep 92 22:12 PDT
+From: bart@teni.cse.ogi.edu
+Subject: more kid seats
+
+we developed quite a collection of infant seats for our 951.  the
+one i left in most often was the afore-mentioned century 2000 seat
+(metal frame, not molded plastic) with the bottom brace removed and
+the rails scrunched in slightly to conform to the bucket.
+
+to keep the thing in tight you need a non-retracting lab belt.  got
+ours at the factory - they aren't sold here - but you might be able
+to find one on a junked 924 or older 944.
+
+i also make a slit in the seatback to run another belt through for
+securing the top.  wrapped it around the top part of the metal frame
+and the top of the seatback.  worked very well, was very secure.
+
+it wasn't really intrusive but then again it was never on the driver
+side (i'm 6'8").
+
+the german seat someone else referred to was probably either the
+rOmer vario by britax.  sold in europe - we bought one near stuttgart;
+porsche has one in their euro accessories catalog but it probably isn't
+approved here, besides which it's 2X the cost of the same thing w/o
+the porsche label in any kid store in germany.
+
+even it needed some surgery to not intrude so much on front seat
+passenger space.
+
+kevin mentioned 5 point belts.  i've tried that too - the main thing
+here is to get rid of that long stiff thing that prevents the belt
+from fastening to the kid's waist.  unfortunately the shoulder belts
+tend to go wide of the kid - i used a y rear harness - and i dropped
+this idea.
+
+happy motoring
+
+ -bart
+
+------------------------------
+
+Date: Fri, 4 Sep 92 09:24:52 -0600
+From: Bob_Pentecost <bpenteco@hpbs987.boi.hp.com>
+Subject: Re: child safety seats
+
+I've been using kid seats in the back of my '83 944 for about 5 years now.
+When I picked out the car seat, I just made sure that the bottom was small
+enough to fit into the seat area. The rear seatbelts are just lap belts, so
+the child seats are the type that don't need to be attached at the top. As the
+older child got bigger, I bought a booster type seat (Cosco, I think) that
+mostly fits into the seat (I saw one of these booster seats modified by 
+cutting the rear corners off so they fit in a 911 a bit better - I don't know
+if it would help the fit in a 944).
+
+Now the older child is 5 and he fits in the back seat quite nice. The younger
+one is 3 and he is using the booster seat, but the problem is that his knees
+still don't clear the front edge of the seat - this makes his legs stick out 
+straight (causing the front passenger seat to be pushed forward, cramping my
+wife). It won't be too much longer and he'll be able to go without the booster
+seat and we'll be comfortable for a while. 
+
+Unfortunately, shortly after the kids are old enough to reliably behave
+themselves at Porsche events, they will outgrow the backseat.
+
+Bob "All 4 of us going to Wolf Creek Weissach Weekend this afternoon" Pentecost
+
+------------------------------
+
+Date: Mon, 7 Sep 92 09:41:09 -0400
+From: miketodd@cs.cornell.edu (Michael Todd)
+Subject: 911 for sale
+
+
+For sale: 1970 911T coupe #9110122054. Blue/blk, 5 speed, S instruments,
+comfort group, alloys, many new parts. Very good condition, ideal first
+911. $6000 ono.
+
+  -- M.J. Todd
+
+Ithaca, N.Y.
+
+
+(607)257-3344 (evenings)    e-mail: miketodd@cs.cornell.edu
+                                      miketodd@orie.cornell.edu
+
+
+------------------------------
+
+Date: Mon, 7 Sep 92 22:23 CDT
+From: emuroga@ihlpe.att.com
+Subject: 928S Paint damage
+
+I am considering buying an 86 928S, but there is a couple of concerns 
+about the paint - one, there is a small area of rust at the base of
+the windshield (about 1 1/2 inches long, 1/2 inch wide). Is this covered
+under the rust warranty, and how difficult is this to repair? Also, it
+seems the car was driven on some gravel roads, and there are a number
+of very fine chips in the paint on the hood and on the fronts of the
+rearview mirrors. How difficult is this to treat (does it require a total
+repaint?), and what are the consequences if not treated - I'm not sure
+exactly how much of the metal is corrosion-resistant.
+
+Thanks,
+Eisuke Muroga
+muroga@att.com
+
+------------------------------
+
+Date: Tue, 8 Sep 92 10:13:45 EDT
+From: Hurf Sheldon <hurf@graphics.cornell.edu>
+Subject: Rebuildable 1981 Porsche 924 Turbo (fwd)
+
+This was forwarded to me from a bbs in Boston...
+
+Platinum metallic, black interior, sunroof
+Electric windows and mirrors, rear wiper
+5-speed, M471 option (four-wheel disk brakes)
+Fuchs lookalike steel rims with Continental M+S
+Approximately 120K miles
+8 months, <10K miles on rebuilt turbocharger
+<2 years, 30K miles on clutch
+3.5 years, 45K on rebuilt engine
+Recently hit in driver's door, rear quarter; no suspension damage
+Currently being driven
+$1500 firm, $1800 with original 5-bolt mesh alloys
+Reply ASAP or the insurance company gets it...
+
+Tony Matt   tonym@world.std.com   (617)527-4794 eves.
+
+
+
+------------------------------
+
+Date: Tue, 8 Sep 92 12:05:45 EDT
+From: Hurf Sheldon <hurf@graphics.cornell.edu>
+Subject: re:child safety seats et al
+
+
+The thread of this conversation brought to mind the late
+Warren Wyeth's (sp?) wonderful story in Car & Driver about 20 years ago
+about realizing that it was time to replace his beloved 356 with a larger 
+car. He noticed his growing children were developing curvature of the spine
+from riding in the back...
+
+hurf
+
+
+------------------------------
+
+Date: Tue, 8 Sep 92 10:15:24 -0700
+From: zursch@whizkid.wpd.sgi.com (Jeffrey B. Zurschmeide)
+Subject: 356 Roll Bar For Sale
+
+
+
+I have an Autopower 356 Roll Bar (designed to fit in a coupe, but 
+will fit in any 356) to sell. 
+
+$120/offer 
+
+Installed but never "used" 
+
+JZ
+zursch@sgi.com
+415-390-1738 -Office
+408-336-3382 -Home
+
+
+
+------------------------------
+
+Date: Tue, 8 Sep 92 16:23:25 PDT
+From: tom@sj.ate.slb.com  (Thomas Y. Lee)
+Subject: Duralube
+Full-Name: Thomas Y. Lee
+
+Hi!
+
+I have a problem in that I start my car (90 Carrera 4)
+on weekends only. I am worried that during the cold start
+I will ruin my engine due to the oil that has fallen to the
+bottom of the engine during the week.
+
+I saw on TV this stuff that's like Slick 50 but much better
+(supposedly) called Duralube. Has anyone used this stuff or 
+Slick 50? Does this stuff really help or is it a bunch of crap?
+
+Thanks in advance for any repsonses.
+
+Tom
+
+------------------------------
+
+Date: Tue, 8 Sep 92 17:12:29 PDT
+From: rcore@kpc.com (Richard Core)
+Subject: Re: Duralube/Slick 50
+
+Thomas Y. Lee writes:
+>
+>I have a problem in that I start my car (90 Carrera 4)
+>on weekends only. I am worried that during the cold start
+>I will ruin my engine due to the oil that has fallen to the
+>bottom of the engine during the week.
+>
+>I saw on TV this stuff that's like Slick 50 but much better
+>(supposedly) called Duralube. Has anyone used this stuff or 
+>Slick 50? Does this stuff really help or is it a bunch of crap?
+
+Long ago (87ish) when Slick 50 was a 2-part treatment (put in one
+liquid, run awhile, put in another liquid for an oil checge) I did my
+Euro 911SC.  It has today >210000 miles on it, sounds great, burns no
+oil, has good compression all around, and different mechanics tell me
+it is still a strong running engine.  The real test comes when I need
+to tear it down and can analyze the wear.
+
+ - - - - - - - - - - 
+Richard Core                                  @ Kubota Pacific Computer Inc
+Consultant                                      MIS Group
+POB 2470                                        Santa Clara, CA
+Aptos, CA 95001                                 408-748-6354
+408-684-2050                                    rcore@kpc.com
+
+------------------------------
+
+Date: Tue, 8 Sep 92 20:05:05 -0700
+From: Patty Winter <winter@apple.com>
+Subject: AC refrigerant level in 951?
+
+
+A friend has offered to add some Freon to the air-conditioning
+system of my 1986 951. The owner's manual says the total amount
+is approximately 40.6 ounces (guess they would have given it
+down to the hundredth of an ounce if they'd wanted to not be
+approximate :-) ).  We, of course, have no way of knowing how
+much is already in there.
+
+We're hoping that someone out there in readerland will know
+how much Freon this baby should take *after* we add enough to
+make the bubbles in the sight glass disappear. Any takers?
+
+
+Patty
+
+
+------------------------------
+
+Date: Tue, 8 Sep 92 22:18:59 -0500
+From: stan@tta.com (Stan Hanks)
+Subject: Re: Duralube
+
+DON'T DO IT!!!!
+
+I've had some interesting experience with most of the add-to-oil goop.
+They're typically OK for American spec junquers, but the tolerances
+are too tight and oil pressures too high on our precious German
+metal.
+
+I won't go on the record as to the specifics I've seen, but it 
+ranges from a moly-based additive that scored bearings and blew
+an engine under race conditions to a synthgoop that blew out 
+plugs in the oil galleys as its more like SAE-120 when it's
+cold and well, doesn't compress very well 8{(. Also under race
+conditions.
+
+I run *straight* SAE 40 in the racing 914s and 10W40 or 20W50
+in the 911s. 
+
+If there is something that is making cold starts hard, it almost
+certainly isn't the oil.
+
+Stan
+
+------------------------------
+
+Date: Wed, 9 Sep 1992 07:44:20 -0400
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Subject: Eezi-bleed problem
+
+Due to the high praise the Eezi-bleed (one-man brake bleeder) kit got on
+this list, I bought one recently -- yesterday was my first chance to use
+it.
+
+It doesn't seem to work very well (at all?).
+
+Brief description of the technique:
+
+   The kit consists of a cap with a hose connected to it that connects
+   directly to the fluid resevoir. The other end of the hose attaches to
+   a fluid bottle with has yet another hose attached to it which is
+   connected to a low pressure (< 20psi) spare tire. The tire pressure
+   is supposed to push the fluid out the drain cocks without requiring a
+   second person to pump the brake pedal.
+   
+My experience:
+   
+   I attached everything as specified in the instructions. I pressurized
+   the system and checked for air leaks (there were none). I intended to
+   drain most of the old fluid before adding new (in order to minimize
+   mixing the two). I squatted down at the brake caliper and opened the
+   drain cock and...  Nothing. Or, at least, hardly anything. The fluid
+   dribbled out like a moderately leaky faucet.  Aha, I thought! I must
+   have a constriction in one of the lines! Maybe that explains the
+   pathetic braking... A more like explanation was that 20psi was just
+   not enough to push out the old fluid. I closed the cock and pumped
+   the brakes a few times and braced the brake pedal forward (to keep
+   the system pressurized). This time when I opened the drain cock, the
+   fluid rushed out (as I had expected it to in the first place). I
+   concluded that my brake lines are fine -- 20psi just isn't enough.  I
+   never got to the point where I could add new fluid.
+
+I'm hoping that I'm doing something wrong -- surely the fluid normally
+drains faster that it did for me (at the rate it was going, it probably
+would have taken >2 hours to just drain the resevoir).  I really do want
+to use this thing to routinely bleed my brakes... Is there something
+special about my car (a '74 2L 914 -- I'll also want to use it on my '87
+951) that would require some extra step not normally required (I doubt
+it...).
+
+Advice?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+------------------------------
+
+Date: Wed, 9 Sep 92 08:33 EDT
+From: fwk@homxc.att.com
+Subject: Re: Eezi-bleed problem
+
+Steve Tynor writes:
+>Due to the high praise the Eezi-bleed (one-man brake bleeder) kit got on
+>this list, I bought one recently -- yesterday was my first chance to use
+>it.
+>
+>It doesn't seem to work very well (at all?).
+>
+>   I attached everything as specified in the instructions. I pressurized
+>   the system and checked for air leaks (there were none). I intended to
+>   drain most of the old fluid before adding new (in order to minimize
+>   mixing the two). I squatted down at the brake caliper and opened the
+>   drain cock and...  Nothing. Or, at least, hardly anything. The fluid
+>   dribbled out like a moderately leaky faucet.  Aha, I thought! I must
+>
+>I'm hoping that I'm doing something wrong -- surely the fluid normally
+>drains faster that it did for me (at the rate it was going, it probably
+>would have taken >2 hours to just drain the resevoir).  I really do want
+>to use this thing to routinely bleed my brakes... Is there something
+>special about my car (a '74 2L 914 -- I'll also want to use it on my '87
+>951) that would require some extra step not normally required (I doubt
+>it...).
+>
+I haven't used the Eze-Bleed equipment per-se, but I use a similar
+homebuilt technique where I pressurize the top of the fluid reservoir
+directly with about 20 PSI, and I get good flow at the bleeders.
+In fact, the biggest potential problem is that it is very easy to
+run the reservoir dry (since I don't have the extra fluid supply).
+I have used this technique on my (ex) '74 914-2.0 and my current
+'87 944S (a pretty close match to your cars) with equally good success.
+Based on this, it sounds like the problem with your setup is associated
+with the additional fluid reservoir supplied by Eze-Bleed. I would look
+for constrictions or other problems there.
+
+By the way, if I am changing the fluid, I start by removing the old
+fluid from the reservoir with a turkey baster (no, I don't return the baster
+to the kitchen when I am done), and add fresh fluid. Then you only need
+to bleed through the equivalent volume of the lines rather than the
+reservoir capacity plus the lines.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+------------------------------
+
+Date: Wed Sep 9 07:46:16 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: additives...not
+
+Re: oil additives...why take the chance.
+
+
+Mobil 1 and probably other synthetics have properties which make them tend
+to stick to engines long after they are turned off... so you are not really
+dry starting the engine.
+
+If you are really worried, the way to go is an Accusump.  I use on one my 
+race car.  open the valve, and presto, full oil pressure for startup.  
+Accusump makes a one quart electrically operated models for street cars which
+could be wired to the ignition switch.  Pegasus Racing 414 782 0880 and 
+probably others sell them.
+
+It would seem to be a superior solution than risking the effects of additives.
+
+
+jim fuerstenberg
+jfuerstenberg@dcmdc.dla.mil or xgg2356@dcmdc.dla.mil
+
+Warning, as the velocity of this vehicle increases, so does it mass and extra
+braking force will be required!
+
+------------------------------
+
+Date:         Wed, 9 Sep 92 09:18-0400
+From: Ken.Stanton@queensu.ca
+Subject:      Re: Duralube
+
+
+I can resoundingly second Stan's advice: DON'T DO IT!!!
+ESPECIALLY Slick 50 or any of the moly lube type. If you're interested, I
+can send a whole list of disasters caused by this stuff, and not under
+racing conditions.
+
+  Ken Stanton,   Doctoral Program, Sch. of Business,
+                 Queen's U., Kingston, Canada K7L 3N6
+                 Tel:(613)545-2377
+
+------------------------------
+
+Date: Wed, 9 Sep 92 10:00:31 -0400
+From: Carl Scholz <scholz@osf.org>
+Subject: Re: Eezi-bleed problem
+
+...
+>    I attached everything as specified in the instructions. I pressurized
+>    the system and checked for air leaks (there were none). I intended to
+>    drain most of the old fluid before adding new (in order to minimize
+>    mixing the two). I squatted down at the brake caliper and opened the
+>    drain cock and...  Nothing. Or, at least, hardly anything. The fluid
+>    dribbled out like a moderately leaky faucet.  Aha, I thought! I must
+
+I have had an Eezi-Bleed for about 18 months now.  When I first
+bought it, I used it exclusively on my '72 BMW 2002tii.  I thought it
+was the greatest thing since portable air tanks (my wife also
+appreciated not having to join me in the garage for the late night
+bleedings).
+
+I now have a Corrado that sees the track regularly and therefore needs
+frequent bleedings as well.  I had the exact same experience you did. 
+I just dribbles (barely) for the rear calipers.  It works fine for the
+fronts, though.  I haven't figured out a solution yet, except to use it
+and get my wife to pump the pedal just for the rears (it's still easier
+then without the Eezi-Bleed - constant pressure).  I guess a higher
+pressure ( > 20psi ) from the spare tire may work, but I'm hesitant to
+risk the brake fluid mess if it bursts.
+
+I just realized something notable.  My tii has drums in the rear, thus
+very small brake cylinders compared to the calipers on the Corrado. 
+Perhaps, it just doesn't work well on the big calipers that are that
+far from the reservoir.
+
+Maybe Frank's tip about his non-reservoir system is the answer.  Use
+the Eezi-bleed, but don't fill the big reservoir for doing the rear
+brakes. Or maybe, just fill it less.  But, what difference should that
+make?  I still confused.
+
+Carl
+
+_______________________________________________________________________________
+Carl S. Scholz                           Open Software Foundation
+scholz@osf.org OR uunet!osf.org!scholz   Cambridge, MA   (617) 621-8996
+"Them that takes cakes which the Parsee-man bakes makes dreadful mistakes." -RK
+ [Disclaimer: just me yapping, not my employer]
+
+------------------------------
+
+Date: Wed, 9 Sep 1992 10:39:25 -0400
+From: weltyc@cs.rpi.edu (Chris Welty)
+Subject: Oil additives, Eezi-bleed problem
+
+On oil additives - it's snake oil.  Stay away.  the 911Sc motor is
+practically indestructible and stories of >200k mis w/o a rebuild
+abound.  Whoever it was, your engine survived DESPITE the additives.
+Every Porsche expert agrees, this can damage your engine.
+
+On the EZ-bleed problem on a 914 - remember the 914 has a pressure
+valve to distribute more fluid pressure to the front brakes, therefore
+you're probably not getting the full 20psi of pressure in the back - I
+would recommend using higher pressure for the rear calipers only.
+
+Later.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+------------------------------
+
+Date: Wed, 9 Sep 92 08:08:15 PDT
+From: LAFORCE@xenon.arc.nasa.gov
+Subject: re: ez-bleed
+
+Regarding the ez-bleed...
+
+I have a hand vacuum pump (with a reservoir) which I use for bleeding
+brakes.
+
+Works great!
+
+One warning, though, the vacuum will suck air around the bleed nipple
+and make you think there is a lot of air in the lines.  There isn't.
+
+I have also thought of building a home pressure bleeder.  I bought a 
+spare reservoir cap for just this purpose, but the system I have works
+well enough that I don't think I'll bother.
+
+
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+
+------------------------------
+
+Date: Wed, 9 Sep 92 11:21:46 EDT
+From: lupienj@hpwarq.wal.hp.com (John Lupien)
+Subject: Re: Eezi-bleed problem
+
+> >    I attached everything as specified in the instructions. I pressurized
+> >    the system and checked for air leaks (there were none). I intended to
+> >    drain most of the old fluid before adding new (in order to minimize
+> >    mixing the two). I squatted down at the brake caliper and opened the
+> >    drain cock and...  Nothing. Or, at least, hardly anything. The fluid
+> >    dribbled out like a moderately leaky faucet.  Aha, I thought! I must
+> I now have a Corrado that sees the track regularly and therefore needs
+> frequent bleedings as well.  I had the exact same experience you did. 
+> I just dribbles (barely) for the rear calipers.  It works fine for the
+> fronts, though. 
+
+Could it be that you both have proportioning valves for the rears that
+prevent a mere 10psi from being transmitted to the bleed valves?
+
+
+- -- 
+- ---
+John R. Lupien
+lupienj@hpwarq.hp.com
+
+------------------------------
+
+Date: Wed,  9 Sep 92 12:46:53 EDT
+From: mvmas@mvgpf.att.com (Mark A Skala)
+Subject: 914 engine work without removing?
+
+I'm thinking of trying to remove a head on a '73 914 1.7 to work on a
+valve problem on cylinder #4.  Has anyone successfully removed 914 heads
+without going through the whole process of removing the engine?  I've
+done the latter, but at this time and with my current working area, I
+don't want to remove the engine.
+Background: During tuning, I found the idle rougher than it should be, and
+pulling plug wires one at a time showed that cyl#4 was essentially not
+contributing anything.  Compression check showed about 30psi on that
+cylinder but normal on all the others.  I checked the valves on that
+cylinder and they did have proper free play at TDC.
+  Another day I rigged the compression tester to a friend's air
+compressor and pumped air into cyl#4 at TDC.  We even pushed the car a bit
+forward and back to be sure I was at TDC (I wasn't about to remove
+valve covers at that time).  The result was significant air out of the
+intake manifold and the crankcase vent.  As a sanity check we also did cyl#1,
+and it was essentially tight on intake, exhaust pipe, and crankcase vents.
+
+So the conclusion is maybe I have a valve problem and a ring problem on cyl#4.
+Arguments to this conclusion are welcome.  I'm hoping that it is possible
+to slightly lower the right side of the engine, remove sheet metal and
+heat exchangers to get the head out.  Thanks for any help.  
+
+
+Mark A. Skala                            "Please conserve paper; write on
+vwp@cbnewsk.att.com                       all six sides before recycling."
+
+------------------------------
+
+Date: Wed, 9 Sep 92 08:53:10 PDT
+From: bobq@tc.fluke.com (Robert A. Quarterman)
+Subject: Re:Eezi-bleed
+
+
+As I remember the 914 has a brake balancing valve on the rear fire wall. This
+valve may be the source of your slow bleed. 911's do not have a brake balancing
+valve and would not exhibit the problem.
+
+I removed the brake balancing valve when I converted to BMW brakes on the front and 914 front brakes on the rear. The Eezi-bleed works fine on my 914 and 911 but I don't have a balancing valve to contend with.
+
+Have Fun
+Bob Q.
+
+------------------------------
+
+Date: Thu, 10 Sep 92 23:16:06 -0500
+From: stan (Stan Hanks)
+Subject: Conversion Starts NOW....
+
+I've finalized setting up the mailing list on TTA.COM, have put in a
+request to have the old address forwarded to here, and am pretty much
+ready to rock and roll.... So, this is the First Official Message
+to the new address (even though some of you have used it before me,
+it wasn't ready for prime time at that point....).
+
+There may be some disruption of the Digest version, as there are LOTS
+of moving parts to re-synch on that front. There may be occasional
+disruption of the regular list, as our router to the Rest of the World
+seems to be flaky (replacement is on the way, should be fixed for sure
+by Tuesday).
+
+One other thing: some of you hiding behind corporate gateways or who
+are really at UUCP sites with MX forwarders will see a little degradation
+in performance. I've had some of the test messages sit in the queue for
+up to 15 hours (to NCR.COM) before delivery. Your milage may vary.
+
+Let me know if it's horrible, and I'll see if I can do something, but
+the problem is most likely at your end....
+
+Stan
+
+------------------------------
+
+Date: 11 Sep 1992 20:57:30 +1000
+From: "Mark Kosten - Computer Centre, La Trobe Uni." <M.Kosten@latrobe.edu.au>
+Subject: More on prices
+
+Here in Australia prices hardly ever fluctuate.  There are no discounts
+I know of, and certainly no sales.  Some other aussies may prove
+me wrong on this.  However, there does seem to be a quiet desperation.
+I was rung up by the national distributor (Hamilton's) today and offered
+my pick of car to test, run around in, or whatever, in order to convince
+me to "upgrade" (just like upgrading PC software?).
+
+I do not believe sales are up here, but I do not have any hard figures
+on this.
+
+Fortunately the rumours of take overs by VW or M-B seem to have died
+down again.  My last issue of Christophorus claims the future will be
+met by an 'independent' Porsche.
+
+Mark Kosten
+(ccmk@latrobe.edu.au)
+
+------------------------------
+
+Date: Mon, 14 Sep 92 15:24:28 -0500
+From: stan (Stan Hanks)
+Subject: Re-send of message Re: 914 transmissions
+
+Chris Welty punched the wrong key and sent this to me, not the whole
+list. He then asked me to re-send to you all. Here it is:
+
+>Date: Mon, 14 Sep 1992 09:56:50 -0400
+>From: weltyc@cs.rpi.edu
+>Message-Id: <199209141356.AA10962@porsche.cs.rpi.edu>
+>To: stan@tta.com
+>In-Reply-To: Stan Hanks's message of Fri, 11 Sep 92 17:38:35 -0500 <9209112238.AA09780@tta.com>
+>Subject: 914 transmissions
+>
+>Says Stan:
+>
+>>   It depends on what you mean by "the about he intends to give it".
+>>   There are two issues here: 
+>
+>>   1) relative strength of 901 gearbox. 
+>>   2) relative strength of the synchros. 
+>
+>The third consideration is the strength of the clutch.  On the 911,
+>the pre-70 901 clutch could only hold about 160 (I think) HP before it
+>started slipping.  The 70&71 clutch had a different release mechanism
+>(I think the early clutch was "pull type" and the leter was "push
+>type" but I always forget which was which) which allowed for a
+>stronger pressure plate and went up to about 250HP (though the
+>transmission is not rated for that much).  Usually the first
+>mod you make to a 914 which has had some engine boosts is to update
+>the clutch mechanism, there are a number of machine shops that will do
+>it for you (or you can retrofit a 70 or 71 911 transmission).
+>
+>Also I should mention that any transmission/clutch is rated
+>differently for 4 and 6 (and 8 and 12) cylinder engines.  A 4cyl
+>engine with 180HP is a lot harder on the transmission and clutch than
+>a 6 cyl engine with 180HP.  I say this because most of the HP ratings
+>of 901 transmissions list the 911 HP rating for that trans, and
+>therefore for the 914/4 it will be less.
+>
+>=====
+>
+>Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+>weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+------------------------------
+
+Date: Tue, 15 Sep 92 18:28:08 pdt
+From: John Wright <jpw@hpsadlb.sad.hp.com>
+Subject: 66 911/912 cv boot
+
+The list sure drifted down memory lane re Nadella half shafts.
+
+Since the car in question has rubber boots, we know it does not have the
+U-Joint (Nadella) half shafts.  My guess is it has been retrofitted with
+the 67-68 CV joint.
+
+If my memory serves me:
+
+  1. There was one type CV joint used from 67-68 on the short wheel base cars, 
+     and a different type from 69 to 71 when the rear wheels were moved
+     back a bit. 
+
+  2. The boot on the 67-68 CV was of a size compatible with VW,
+     the later CV used a larger boot.  I have only worked on
+     the 69 and 72 CV's.  I suspect the 67-68 mounting bolts are
+     a VW part number and the 67-68 CV joints and 69+ are not
+     mounting flange compatible. 
+
+  3. Usually you want to inspect the CV joint for wear, so
+     complete removal and disassembly of the axle is in order.
+
+  4. I have never heard of any supplier for an aftermarket split 
+     boot to do a quick repair.  Maybe the service is too severe.
+
+  5. Tools needed are a 6mm hex allen for the cv joint boots,
+     circlip pliers.  
+
+  6. I have never tried to fit both boots from one end. 
+     It should be possible.
+
+Going back to memory lane, didn't one of the early UPFIXIN' books
+detail a machining procedure for the U-joint type axles to make them work
+with American U-Joints?   Seems like that would save some of that 
+"Black Forest" platinum for catalytic converters or spark plugs.
+
+------------------------------
+
+Date:    Wed, 16 Sep 1992 8:54:14 -0700 (PDT)
+From: LAFORCE@XENON.ARC.NASA.GOV
+Subject: Allignment questions
+
+I have a question for any resident racers out there:
+
+Several months ago I had the camber adjusted from -1 to -2 degrees on the
+rear of my 911sc.  Both the auto-x and street tires had been wearing 
+faster on the outside than the inside.
+
+When I got the car back, it seemed like the right rear corner (fender)
+was slightly higher than the left.  My parking area is not level (or
+flat), and the difference was subtle, but I had never noticed it before.
+
+I still think it is high and what I have noticed since then (again, I
+had not noticed this effect before) is that the right rear tire locks
+before the other 3.  Tire pressures have been checked and I feel the
+differences are not sufficent to account for the problem.
+
+My dilemma is that I would expect the low corner to be the lightly loaded
+corner and lock up first.  However, the high corner is the one locking 
+first.
+
+I had the camber adjustment made when the new sticky tires were mounted.
+The new tires are bfg r1's (rr compound (204?)).  The old ones were the
+yoko a008rs's.  I **never** noticed the lockup problem prior to the new
+tires and allignment.  I also did not notice a high corner prior to the
+new tires and allignment.  Oh yes, the corner is high with my street 
+tires too.  One more note, this is straight line braking.
+
+I last flushed the brake system about a year ago, pedal is hard, 
+pads are all there, etc.
+
+Can anyone explain the symptoms I've described?
+
+
+On the brighter side, I put in a set of Weltmeister sway bars before the
+last auto-x.  It's like a different car!  I installed 22mm bars front 
+and rear, the front is set at about 65% of max stiffness, the rear at 
+about 40% of max stiffness.  I can still lift to oversteer, but 
+understeer is reduced and everything just plain works better.
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+
+------------------------------
+
+Date: Thu, 17 Sep 1992 16:26:58 -0700
+From: chrism@ingres.com (CHRIS MARLOWE, GENERALIST QUEUE TECH SUPPORT)
+Subject: Test pipe for a 911sc
+
+Has anyone installed one of these before?
+Does it add HP?
+Is it bad for the engine?
+How easy is it to install?
+
+ -Thanks
+Chris Marlowe
+
+chrism@ingres.com
+
+------------------------------
+
+Date: Thu, 17 Sep 92 17:21:02 PDT
+From: charlesw@sail.labs.tek.com (Charles Wilson)
+Subject: 928 voltage too high
+
+On my '82 928 my voltage gauge is registering in the "red" section 
+above 14V.  What might be causing this?  Could it be the voltage
+regulator?  If I drive with my lights on, the needle stays in the
+"safe" zone but still a little high (near 14).  Previously it seemed
+to run in the lower portion (10-12) of the "safe" zone.  What damage
+may occur if I let it go for a couple days?  If I keep it in the "safe"
+zone by running with my lights on, should I consider this trully safe?
+
+Thanks in advance.  This is a great newsgroup!
+
+Charlie
+
+------------------------------
+
+Date: Thu, 17 Sep 92 19:32:02 PDT
+From: qcktrn!jon%qcktrn@uunet.UU.NET (Jon Glickman)
+Subject: Re: 928 voltage too high
+
+
+
+> From: uunet!sail.labs.tek.com!charlesw (Charles Wilson)
+> 
+> On my '82 928 my voltage gauge is registering in the "red" section 
+> above 14V.  What might be causing this?  Could it be the voltage
+> regulator?  If I drive with my lights on, the needle stays in the
+> "safe" zone but still a little high (near 14).  Previously it seemed
+> to run in the lower portion (10-12) of the "safe" zone.  What damage
+> may occur if I let it go for a couple days?  If I keep it in the "safe"
+> zone by running with my lights on, should I consider this trully safe?
+> 
+
+
+If you have a high voltage, then you raise the temperature of your
+battery. You run the risk of boiling fluid out of your battery (even
+if it's a sealed battery). Besides being unhealthy to the battery, the
+battery fluid vapor is corrosive and can wreck your finish.
+
+Try this: After running your engine for a while, place your hand on
+top of your battery.  If it is the slightest bit warm, you could be
+doing damage.
+
+
+
+Jon Glickman				jon@qckturn.com
+Quickturn Systems			Drive fast.  Go sideways.
+Mountain View, CA			Hit cones.
+
+
+------------------------------
+
+Date: Thu, 17 Sep 92 23:22:12 -0500
+From: stan@tta.com (Stan Hanks)
+Subject: Re: Test pipe for a 911sc
+
+I have one on my 911SC. It's not too bad to install. It's not bad
+for the engine. It does not add HP. It does allow you to do things
+to engine tuning that might upset a cat converter, which *may* add
+HP. Hence the claims.
+
+Stan
+
+------------------------------
+
+Date: Thu, 17 Sep 92 23:54:00 -0500
+From: stan (Stan Hanks)
+Subject: NEW ADDRESS IS IN EFFECT
+
+NOTICE TO ALL SUBSCRIBERS:
+
+The new addresses for Porschephiles is now fully in effect.
+
+For submissions to the list, send mail to:
+
+	porschephiles@tta.com
+
+For administrative matters, such as address changes/deletions,
+problems with failed mail, etc., send mail to:
+
+	porschephiles-request@tta.com
+
+PLEASE DISCONTINUE USING OLDER ADDRESSES. The addresses
+
+	porschephiles@karazm.math.uh.edu
+	porschephiles@math.uh.edu
+	porschephiles@bcm.tmc.edu
+
+are all defunct and may or may not work correctly.
+
+I try to keep current on *your* addresses, please try to keep
+current on mine!
+
+Regards,
+
+Stan Hanks,
+Facilitator, Porschephiles and Porschephiles Digest
+
+------------------------------
+
+Date: Fri, 18 Sep 92 0:39:43 PDT
+From: Datsun Dave Coleman <dcoleman@jarthur.Claremont.EDU>
+Subject: Re: Test pipe for a 911sc 
+
+
+> I have one on my 911SC. It's not too bad to install. It's not bad
+> for the engine. It does not add HP. It does allow you to do things
+> to engine tuning that might upset a cat converter, which *may* add
+> HP. Hence the claims.
+
+
+	Ok, what is a test pipe?  What are you talking about?
+
+	-Dave (quietly soaking up 911 knowledge until I get one...)
+
+------------------------------
+
+Date: Fri, 18 Sep 92 09:17:34 EDT
+From: don@rcad (Don Day)
+Subject: PCA question.
+
+
+Is anyone a member of the Western Michigan Porsche Club???
+
+Thanks in advance don@cimage.com
+
+------------------------------
+
+Date: Fri, 18 Sep 92 09:17:19 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: 928 voltage too high
+
+You have a bad ground or faulty battery connection.  Clean the posts
+and check all wiring to battery and good ground and everything will
+be fine.  This is typically misdiagnosed as bad alternator etc...
+
+John C
+
+------------------------------
+
+Date: Fri, 18 Sep 1992 10:15:21 -0500
+From: sundt@athens.cc.bellcore.com
+Subject: Re: Allignment questions
+
+>Several months ago I had the camber adjusted from -1 to -2 degrees on the
+>rear of my 911sc.  Both the auto-x and street tires had been wearing 
+>faster on the outside than the inside.
+>
+>When I got the car back, it seemed like the right rear corner (fender)
+>was slightly higher than the left.  My parking area is not level (or
+>flat), and the difference was subtle, but I had never noticed it before.
+>
+>I still think it is high and what I have noticed since then (again, I
+>had not noticed this effect before) is that the right rear tire locks
+>before the other 3.  Tire pressures have been checked and I feel the
+>differences are not sufficent to account for the problem.
+>
+>My dilemma is that I would expect the low corner to be the lightly loaded
+>corner and lock up first.  However, the high corner is the one locking 
+>first.
+
+My first thought would be the opposite; The higher corner would be less
+loaded. Weight balancing of a street car is a matter of balancing each
+diagonal. (Front-to-rear and side-to-side cannot be balanced without moving
+weight around in the car.) My suggestion would be to put the car on a level
+surface and measure the fender opening heights. Then sit on each front
+fender and remeasure the height. Each front fender should dip a roughly
+equal amount (certainly within a 1/16" of each other). There is an
+adjustment bolt near the end of each front torsion bar to make any
+corrections. This worked well with a '77 911S that I used to own. The basic
+idea is to load up the front torsion bar (with the adjustment bolt) so that
+a fixed incremental weight (you sitting on the fender) will cause an equal
+deflection on each side of the car. Sitting on the rear fenders would also
+work (if you didn't keep sliding off) but the springs are much stiffer and
+the relative deflections would be less (harder to measure accurately).
+
+You should probably also remeasure the fender opening heights after any
+adjustment to ensure that the car is flat side-to-side and slightly nose
+down in front (not sure how much - depends on amount of gas in tank). If
+the side-to-side height (with you sitting in the driver's seat) is not
+correct then you need to adjust one of the rear torsion bars and rebalance
+the front (this can require dismantling your rear suspension for earlier
+cars, at least through '77). The nose down adjustment can be done easily
+using both front torsion bar adjustment bolts.
+
+Hope this helps.
+
+Mark
+- --
+Mark Sundt, Bell Communications Research, (908) 758-3134
+sundt@athens.cc.bellcore.com or uunet!bellcore!athens!sundt
+
+
+------------------------------
+
+Date: Fri, 18 Sep 92 8:20:12 MDT
+From: Mark Blaskovich <blaskovi@cisco.com>
+Subject: 1970 911T owners manual
+
+I recently purchased a 1970 911T.  A friend with almost 
+the twin to my car loaned me his owners manual to look 
+thru and I founds lots of good info for the rookie
+Porsche owner.  Anybody know who reprints these or
+where I can buy a clean used one?
+
+Also interested in info on aftermarket or used parts
+sources.  I live in Santa Clara Ca (ie Automotion)
+but am hoping there are some less expensive alternatives
+for parts.
+
+thanks,
+Mark Blaskovich
+
+blaskovich@cisco.com
+
+------------------------------
+
+Date: Fri, 18 Sep 92 11:06:47 -0500
+From: stan (Stan Hanks)
+Subject: Re: Test pipe for a 911sc
+
+>OK, what is a test pipe?
+
+Test pipe is a chunk of pipe which is a bolt-in equivalent
+for a catalytic converter. So you can take your catalytic
+converter off and "test" the car to see if it's still working 8{)
+
+Stan
+
+------------------------------
+
+Date: Fri, 18 Sep 1992 16:25 EST
+From: Kevin Jones <KPJONE01@ulkyvx.louisville.edu>
+Subject: VW and Porsche...
+
+Anyone have any comment on putting a VW GTi engine in a 914?  
+ 
+Just a thought..
+ 
+Kevin 
+
+KPJONE01@ULKYVX.CT.LOUISVILLE.EDU
+
+------------------------------
+
+Date: Fri, 18 Sep 92 16:43:13 EDT
+From: alfred@nyquist.bellcore.com (Alfred Kwan 21342)
+Subject: Re:  VW and Porsche...
+
+It can be an interesting project; transplanting a GTI 
+engine/tranny into a 914.  I heard of a RX7 engine in a mid-engine
+Lotus. The RX7 engine is physically small, it should fit a 914 also.
+What about a water-cool-head type 4 engine from a VW bus? Is the block
+similar to the air-cool version? As least we can get some heat in the
+winter.
+
+Alfred
+
+------------------------------
+
+Date: Fri, 18 Sep 92 14:48:37 PDT
+From: desousa@cisco.com
+Subject: Re: VW and Porsche... 
+
+
+>> From: Kevin Jones <KPJONE01@ulkyvx03.louisville.edu>
+>> 
+>> Anyone have any comment on putting a VW GTi engine in a 914?  
+
+If you could, then the new VW V6 would be the way to go.  
+
+I think the 968 would have been more of a success with its technology
+applied to the VW V6, it would probably fit nicely.
+
+Just another thought..
+
+Hey Stuttgart!... are you out there on internet?    :)  
+
+>>  
+>> Just a thought..
+>>  
+>> Kevin 
+>> 
+>> KPJONE01@ULKYVX.CT.LOUISVILLE.EDU
+
+
+
+
+
+; Carl DeSousa
+
+
+
+
+------------------------------
+
+Date: Fri, 18 Sep 92 16:49:45 -0500
+From: stan (Stan Hanks)
+Subject: Re: VW and Porsche...
+
+Bob Quarterman at Fluke runs a circle track 914 with a GTI engine
+in it. I find it all pretty bizarre, but hey, if it works....
+
+
+Stan
+
+------------------------------
+
+Date: Fri, 18 Sep 92 16:13:13 PDT
+From: murrays@Tymnet.COM (Scott Murray)
+Subject: Re: VW and Porsche...
+
+
+Hi Everyone,
+
+Since we are on the subject of engine swaps,,,
+
+I'm going to be building a 55 speedster replica and was
+wondering about porsche engines in the old VW's (69-77)
+or if the VW engines would be the best to stick with??
+Looking and performance and maintenance and COST!
+
+Thanks,
+
+Scott
+
+------------------------------
+
+Date: 18 Sep 92 17:17:36-0700
+From: /PN=Miliano/OU=MIS01/OU=PAPY/PRMD=BASF/ADMD=TELEMAIL/C=US/@sprint.com
+Subject: test mail
+
+Hi,
+
+Would you please respond to this mail, to confirm that you received it?  
+Thank you.
+
+Dom Miliano - Excellence Magazine
+
+
+
+------------------------------
+
+Date: Fri, 18 Sep 92 22:19:24 -0500
+From: stan (Stan Hanks)
+Subject: Re: VW and Porsche...
+
+Urk. Don't do it. If you just have to have the replica, please
+use the VW engine. Let's put it like this: it can cost over
+$8k just to get the right parts together for a 356 engine, if
+you don't have anything to start with. If you can buy a used
+engine for say $2k, you may or may not need to spend up to $10k
+for a by-the-book rebuild.
+
+Besides, most of the kits I know about are basicly on the VW pan,
+so you have the right fittings for a VW engine. Which you can 
+buy in bone-stock form for about $600 or way-built-out and ready
+to cruise for under $2k.
+
+Stan
+
+------------------------------
+
+Date: Fri, 18 Sep 92 22:48:33 -0500
+From: stan@tta.com (Stan Hanks)
+Subject: Re: test mail
+
+Fellow Porschehiles, 
+
+If anyone is able to get through to the guy from Excellence, please
+let him know I've tried everything I know, but his host just isn't
+eating the X.400 style headers that came out in his original message.
+
+I'd like to send the following reply, but it's just not working....
+
+>From: stan (Stan Hanks)
+>To: /PN=Miliano/OU=MIS01/OU=PAPY/PRMD=BASF/ADMD=TELEMAIL/C=US/@sprint.com
+>Subject: Re: test mail
+>
+>>From porschephiles-request@tta.com Fri Sep 18 20:06:47 1992
+>>From: '/PN=Miliano/OU=MIS01/OU=PAPY/PRMD=BASF/ADMD=TELEMAIL/C=US/'@sprint.com
+>>Date: 18 Sep 92 17:17:36-0700
+>>To: porschephiles@karazm.math.uh.edu
+>>Subject: test mail
+>>
+>>Hi,
+>>
+>>Would you please respond to this mail, to confirm that you received it?  
+>>Thank you.
+>>
+>>Dom Miliano - Excellence Magazine
+>
+>Got your message. Am having the devil's own time replying due to some
+>brain damage on the part of the guys who run the Sprint mail system.
+>
+>I'm Stan Hanks, founder and moderator of this list. It's been up for
+>about two and a half years, has over two hundred subscribers, and
+>generally seems to be pretty useful.
+>
+>If you'd like a subscription, let me know and I'll add you.
+>
+>If you'd like to chat about the list or have me write an article about
+>it for the magazine or something, let me know. I don't have any problems
+>with that either -- I'm editor for the Lone Star Region PCA newsletter
+>and a contributor to Performance Engineering. Not to mention
+>writing frequently for journals in my field.
+>
+>By the way, I have every issue of Excellence published, back to Porsche
+>Magazine volume 1 number 1. I didn't start subscribing until just after
+>the name change, but it's one of the most eagerly awaited items in the
+>recurring monthly mail. Keep up the good work!
+>
+>Regards,
+>
+>Stanley P. Hanks        Principal Scientist,    Technology Transfer Associates
+>U.S. Snail:        P.O. Box 2087,   Bellaire    TX    77402-2087
+>FedEx/Shipping:     5303-F Glenmont, Houston    TX    77081
+>e-mail: stan@tta.com   voice: (713) 661-2084    fax: (713) 661-0633
+>
+
+------------------------------
+
+Date: Fri, 18 Sep 92 08:05:34 PDT
+From: bobq@tc.fluke.COM (Robert A. Quarterman)
+Subject: High Battery Voltage
+
+
+A hot battery is caused by high current flow into the battery. High voltage
+can cause a high current flow. It is also true that the high voltage may not
+cause high current, especially if there is a poor electrical connection some-
+where in the system.
+
+I would recommnend that you verify the 14 volts at the battery post with an accurate voltmeter before you do anything. A Fluke DVM is more than accurate enough
+to measure 13.2 volts which is the most the battery voltaOOPS
+
+The charging system should apply no more than 13.2 volts at the battery posts.
+I would guess that the qauge is more likely to be reading incorrectly than the
+charging circuit is over charging. Testing for a hot battery is a good indicator
+but there could be some arguement about how much is to hot.
+
+
+------------------------------
+
+Date: Fri, 18 Sep 92 08:19:51 PDT
+From: bobq@tc.fluke.COM (Robert A. Quarterman)
+Subject: 914/4
+
+
+In your e-mail to tynor@prism you talked about 1.8 liter motors that make
+185 hp. 25 hours of life sounds long enough for circle track racing, so
+tell me more about the motor. I am running a rabbit motor thinking it will
+make more power and last longer than a type IV. Am I wrong????
+
+Thanks For Anyhelp
+Bob Q.
+
+------------------------------
+
+Date: Fri, 18 Sep 92 08:42:02 PDT
+From: jimharr@microsoft.com
+Subject: possible 928 alternator/battery funnies
+
+
+the recent mail here about high voltage in a 928 prompts me to ask about
+the electrical behaviour of my 928. i have a 1979 928. when i first
+start it, usually the voltage stays very low (~11v) and the warning light
+stays on until the rpms go above about 2000 the first time.  it also
+seems like the car is getting hard to start if i let it sit 5-7 days. it
+seems like the battery isn't holding a charge well. i'm wondering if
+this is related to the alternator start-up behaviour i'm seeing, or if
+i'm just due for a new alternator/battery.
+
+if it matters, the battery is about 5 years old, from the stamp in the
+top of it, and i believe the alt is original. the car has about 60k on
+it.
+
+
+                                        jim harriger
+
+
+------------------------------
+
+Date: Sat, 19 Sep 92 22:43:44 PDT
+From: Datsun Dave Coleman <dcoleman@jarthur.Claremont.EDU>
+Subject: Re:  VW and Porsche... 
+
+> It can be an interesting project; transplanting a GTI 
+> engine/tranny into a 914.  I heard of a RX7 engine in a mid-engine
+> Lotus. The RX7 engine is physically small, it should fit a 914 also.
+> What about a water-cool-head type 4 engine from a VW bus? Is the block
+> similar to the air-cool version? As least we can get some heat in the
+> winter.
+
+	I have seen a rotary 914 conversion in progress, but not complete.
+The engine fits better than the original!  A 13B is about the same length as
+a VW/Porsche four, but only about 1 1/2 feet wide!  The version I saw had a
+rather unique intake setup with a 48mm DeLorto (sp) sidedraft hanging
+directly off the side.  In most engine compartments there is no room for
+this and the carb sits on top, but in the 914 you could stand next to the
+engine!  Supposedly flow is better with this and horsepower is marginally
+improved over the normal DeLorto setup.  This means he was looking at about
+215 streetable horsepower and a life of about 60,000miles if he abused the
+engine!  Also, to make the conversion just that much better, Racing Beat
+makes a Rotary to VW transaxle adaptor plate and clutch/flywheel setup!  I 
+don't konw where the radiator/oil cooler was going, but it was up front 
+somewhere.
+	Sorry, I know this is supposed to be a Porsche list, but I LOVE
+ROTARIES!
+
+	-Dave
+
+------------------------------
+
+Date: Sun, 20 Sep 92 16:18:14 -0500
+From: stan (Stan Hanks)
+Subject: Re: 914/4
+
+[executive summary: it is possible to get long life and high performance
+out of air cooled engines. it's easier to do with water cooled engines.
+it's expensive and you may be constrainted from doing what you need to
+by rules of your racing organization. this is a long posting.]
+
+Ghost Racing is currently running 3 autocross cars, and 4 road race
+cars. The road racers are an ITB Scirroco, an ITA 914 2.0, an SSC
+MR-2, and an EP 914. The autocross cars are two 914s, one CS and one DS,
+plus an FP 911. Since the autocross cars are basicly indestructable
+due to the load demands and single-lap of under a minute nature of autocross,
+I'll not talk about them. The road racers have been an interesting learning
+experience. I also crew/engineer for an IMSA 911 GTU team.
+
+The aircooled engines have lots of advantages -- no water plumbing
+to go wrong, no water jacket to keep you from hearing things going
+wrong inside the engine, generally speaking, less hassle. However,
+they simply don't have the durability of the water cooled engines.
+
+In my opinion, there are two contributing factors: the fact that the
+water cooled engines have iron blocks or cylinder sleeves, and the
+fact that they are better cooled. The MR-2 has gone 18 races, including 
+the Runoffs last year, several driving schools, and a few autocrosses, 
+without being rebuilt. Still solid as a rock. The Scirroco hasn't been
+as lucky -- a mis-machined head took it down, but nothing else had
+to be done. As long as the engine was coming apart, we did look at the
+bottom end, but it was fine, as were the pistons/cylinders.
+
+Given that, why do anything with aircooled engines? Well, the answer
+is that I'm either crazy, or maybe just crazy about air cooled engines.
+I like the challenge. And I do this not to race, but to race *PORSCHES*.
+The watercooled Porsches are a nightmare. We have a new team member
+joining us who has a 944GTR. I'm not looking forward to having to
+figure out how to support some of the wierdness in that....
+
+On the 914 2.0 engine, it is built in a manner which should keep
+me from having to pull it but once a year for a checkup. But the
+cylinders do tend to distort over time, and there is pronounce wear
+of the wrist pin hole over time. Not to mention the head wear. I chose
+to minimize a lot of those problems by lower compression than one might
+choose, and a 2x overkill oil cooling system and accusump. We won't know 
+if it works until oh, say  this time next year, right?
+
+On the EP engine, which is basicly a 1.8 L on megasteroids, we get about
+20-25 hours of engine life. Then we typically get to replace some major
+component. You can count on having head work done, maybe chucking the
+heads. You can count on a new flywheel. You can usually re-use a crank
+twice. Rods get checked every time. Re-bushing is normal, but if the
+big end has to be re-sized, you toss the rod and start over. Pistons/
+cylinder sets are almost always required. Case work *may* be required,
+and that usually means a new case. This all gets pretty expensive,
+but hey, we all knew that racing wasn't cheap, right? (we *did* all know
+that, didn't we? we spend about $2k per car per year just on tires. think 
+about it really, really hard before you non-racer types out there decide
+you gotta have that wheel-to-wheel rush...) Internal cost on a full
+rebuild, replacing say $1k of parts is about $4k. If you don't "own" a
+race engine technician (we have one who is factory trained) it's a lot
+more expensive. (Maybe I should mention that Ghost Racing is me, two
+stock brokers, a master machinist and this Porsche factory trained racing 
+engine master technician. We share some costs, we jointly own some cars
+and lots of infrastructure. We're not a business -- yet -- but a collection
+of individuals doing our thing and having fun.)
+
+Now, as I've mentioned last time, you can obviate some of the air cooled
+problems. If you use a SCAT forged billet counterweighted crank, for instance 
+(suggested retail about $1k) and a set of Carrillo rods (suggested retail 
+about $900) and a SCAT billet camshaft (suggested retail about $400) and 
+then microbalance everything, and have the "fifth stud" case conversion
+done, along with bearing saddle shuffle pins, (probably another $1k),
+you'll have something that is illegal as hell for SCCA, but just the
+ticket for building a solid, reliable bottom end for a 914. Also, use
+a SCAT pump with 40mm gears for the oil system, or even better, go to
+a dry sump system (don't know which dry sump pump system is best yet--
+still underevaluation). I'd guess that if you don't explode something
+into the oil stream that you could get close to 100 hours out of such
+a setup. Then you'd get to toss the aluminium parts and start over
+with a new case. They should be able to bury you with the SCAT crank
+and Carrillo rods unless they're taken out by metal shavings in the
+oil.
+
+The top end, you're just screwed on. Running at > 9:1 compression, you
+*WILL* crack the heads around the spark plugs. Fortunately, it's
+relatively easy and cheap ($60/crack) to repair. I've sent several
+heads off for this, and am now even evaluating a new service provider.
+I'll have those heads back this week, and can comment further then.
+
+The pistons and cylinders should just be considered expendable. Now, if
+you want to run high compression, like 12:1 or so, you'll need to
+get a set of Arias or Venolia pistons *made* for you. If you don't want
+anything too weird, they probably have the prints laying around from
+having done this for someone else. And, after getting them, you have
+to just face that you will be luck to get two rebuilds out of them.
+
+I keep mentioning cooling, oil, and related topics. The truth is that
+the "air cooled" Type IV and 911 engines are at least partially oil
+cooled. Cooler oil == longer engine life, unless it's too cool, then
+you have other problems. I use front-mounted oil coolers, with 185 degree
+thermostats just ahead of the oil cooler. In many instances, just running from
+the middle to the front of the car will radiate enough heat to cool things
+pretty well, without the oiler. 
+
+Filtration is really, really, really important. Don't ever put on a deep
+sump or mini-deep-sump kit. They will require that you give up the strainer
+screen around the oil pump pickup. Bad move. Instead, use an accusump, which
+also acts as a passive raditor for cooling oil. For a filter, be very
+careful about your choices. Most off-the-shelf filters have pressure-activated
+bypasses so that they don't blow up under say 6 bar pressure at 7000 RPM
+(which is btw, about what a 911 will produce). This is why the screen in
+the sump is soooo important. Or, you use something like a System One
+or a Canton/MECA filter. Neither of these have bypasses, both flow oil
+with 100 micron filtration at up to 8 bar or so, and have relatively
+low impedance to flow.
+
+For 914's I get an adapter plate that screws on where the oil filter 
+usually goes, and run hoses to the front of the car. There I locate
+the oil cooler, thermostat, high-pressure filter and accusump. At least
+some of this goes into the front trunk area. Which also means that changing 
+oil just got a little more complicated. In addition parts all over the car,
+to really, really do it right, you get to flush the hoses, cooler, and 
+accusump with denatured alcohol every time. If you blow something up,
+you have to do that anyway. And of course, you replace the element in
+the high-flow oil filter, too.
+
+That's about it for now. Hope I answered your questions.
+
+Stan
+
+------------------------------
+
+Date: Mon, 21 Sep 92 01:55 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: 1970 911T owners manual
+
+Mark -
+
+Owner's manuals are available from a variety of after-market sources, and I see
+them advertized all the time.  Performance Products lists them in their catalog,
+for example.  Some of the manuals are original, some are repro.
+
+I am pretty sure you can also get them from the Factory, if not from PCNA. 
+Prescott Kelley said, a couple years back, that if you have an obscure vintage
+Porsche and lack a manual for it, the Factory will provide you one if they have
+any left over.  He told us that cleaned them out of a number of manuals,
+literature buff he is.  It's really interesting to see the "owner's manual"
+which really was printed for a number of pure race cars.
+
+Kevin
+
+------------------------------
+
+Date: Mon, 21 Sep 92 08:57:44 BST
+From: rob@wet.sbi.com (Robert  Greenwood)
+Subject: Re: test mail
+
+
+>>Hi,
+>>
+>>Would you please respond to this mail, to confirm that you received it?
+>>Thank you.
+>>
+>>Dom Miliano - Excellence Magazine
+>
+>Got your message. Am having the devil's own time replying due to some
+>brain damage on the part of the guys who run the Sprint mail system.
+>
+>I'm Stan Hanks, founder and moderator of this list. It's been up for
+>about two and a half years, has over two hundred subscribers, and
+>generally seems to be pretty useful.
+>
+>If you'd like a subscription, let me know and I'll add you.
+>
+>If you'd like to chat about the list or have me write an article about
+>it for the magazine or something, let me know. I don't have any problems
+>with that either -- I'm editor for the Lone Star Region PCA newsletter
+>and a contributor to Performance Engineering. Not to mention
+>writing frequently for journals in my field.
+>
+>By the way, I have every issue of Excellence published, back to Porsche
+>Magazine volume 1 number 1. I didn't start subscribing until just after
+>the name change, but it's one of the most eagerly awaited items in the
+>recurring monthly mail. Keep up the good work!
+
+Who is Dom Miliano? What is Excellence magazine?
+
+Rob
+- -- 
+Robert J Greenwood                             Salomon Brothers International Ltd
+rob@sbil.co.uk                                 Business Technology Organisation
+
+------------------------------
+
+Date: Mon, 21 Sep 92 08:27:09 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: test mail
+
+yea, got it
+
+------------------------------
+
+Date: Mon, 21 Sep 92 09:13:33 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: possible 928 alternator/battery funnies
+
+sounds like either a bad battery or bad earth ground.  Load test the 
+battery and if its ok then proceed to diagnose charging system.
+jc
+
+
+------------------------------
+
+Date: Sun Sep 20 11:46:24 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: batteries
+
+If you have a marginal battery in your Porsche or just old.  REPLACE it.
+
+late model say CIS and later 911s and 928s appear very sensitive to battery
+condition and a marginal battery can give strange electrical symptoms which
+you would not suspect originate with the battery.
+
+
+jim fuerstenberg
+jfuerstenberg@dcmdc.dla.mil or xgg2356@dcmdc.dla.mil
+
+Warning, as the velocity of this vehicle increases, so does it mass and extra
+braking force will be required!
+
+------------------------------
+
+Date: Sun Sep 20 12:04:43 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: Re: Porschephiles #194 Sun Sep 20 23:00:02 CDT 1992
+
+although I vintage race a mini rather than my porsche due to expense, I
+travel with 3 or 4 vintage racing 356s.
+
+These cars are running about 12 to 1 compression. venolia or arias pistons,
+accusumps, remote oil filters, front coolers and get about 12-15 hours
+between engine overhauls.  the transmissions are quite trick... special 
+ratios, custom gears, special hardening, reinforcing of internals etc. they
+put out around 150hp out of 1600cc.  these are made to go the season between
+overhauls and are not at max output like you would need in the runoffs for 
+example. the cylinder heads are carefully prepped ported etc...
+
+
+just another example of what you can get out of air cooled motors.
+
+jim
+
+------------------------------
+
+Date: Mon, 21 Sep 92 09:16:44 EDT
+From: don@rcad.cimage.com (Don Day)
+Subject: Re:  possible 928 alternator/battery funnies
+
+
+Jim Writes:
+>the recent mail here about high voltage in a 928 prompts me to ask
+>about the electrical behaviour of my 928. i have a 1979 928. when i
+>first start it, usually the voltage stays very low (~11v) and the
+>warning light stays on until the rpms go above about 2000 the first
+>time.  it also seems like the car is getting hard to start if i let it
+>sit 5-7 days. it seems like the battery isn't holding a charge well.
+>i'm wondering if this is related to the alternator start-up behaviour
+>i'm seeing, or if i'm just due for a new alternator/battery.
+
+Jim, I have a 1980 928, I believe the alternator was upgraded to a 450
+Amp in 1984 928 model.  When the conditions that you just described
+happened to myself I upgraded to the New 84 type alt.  Haven't had a
+charging electrical problem since.  The newer alts are a bit more
+expensive, I think I paid around $350.00 (big emphasis on "think") for
+the upgraded model and installed it myself.
+
+BTW a little trick that I learned about battery connector corrosion
+is; Take a couple of copper pennys and super-glue them to the top
+of your battery, the pennys will collect the corrosion before the
+battery terminals.  You might get dinged in the concours though :).
+
+Interesting bit of trivia on the 928 battery location.  The battery
+was not only placed there for weight balance issue but to also 
+dampen the vibration given off by the transmission.
+
+Good Luck 
+don@cimage.com
+
+
+
+------------------------------
+
+Date: Mon, 21 Sep 92 17:19:06 +0200
+From: Christopher Hegarty <hegarty@iis.ethz.ch>
+Subject: 911 Winter Tires
+
+Winter is fast approaching and I need to buy some snow tires for my
+Carrera 4.  This will be my first year driving in a climate where it
+snows so I'm totally clueless about good winter tires.  Anyone out
+there care to comment on a good tire?
+
+Although the Swiss don't have black forest elves hammering Porsche
+components out of platinum, I'm sure the prices of good winter tires
+will be outrageous (probably what you'd expect for tires made from 24
+karat gold).  If the saving is great enough I'm tempted to try
+ordering some tires from one of the U.S. mail-order houses.  Has
+anyone else in Europe tried that?  Any particular
+advice/experiences/warnings about buying tires by mail order?
+
+Thanks
+
+Chris (hegarty@iis.ethz.ch)
+
+------------------------------
+
+Date: Mon, 21 Sep 92 14:45:31 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: 914/6 Roll Cage 
+
+   Does anyone have experience w/ 914 roll cages.  I am currently driving
+   a 71 914/6 w/ hotrod motor.  Am considering going GT-2 and would like 
+   info on cage requirements.  Also, did the factory 914/6 GT use a cage?
+
+
+------------------------------
+
+Date: Mon, 21 Sep 1992 16:21:33 -0400 (EDT)
+From: Tony Matt <tonym@world.std.com>
+Subject: 924S Wanted / 931 For Sale
+
+
+Well, a Ford Explorer plowed into the side of my 931 and totalled it.
+The insurance settlements are such that I might as well add a few $K
+and get a 924S.  I've been going through the usual channels (newspapers,
+ad weeklies, Pano, dealers), but there aren't that many to choose from.
+Any leads to an '87-88 924S would be greatly appreciated.  Cars should
+be located east of the Missisippi.  Automatic transmission, black exterior,
+and high mileage ( >85K ) are disqualifiers.  I currently know about one
+in Pawtucket, RI (NorEaster), one in Pittsburgh (Pano), and one in 
+Northern VA (Heishman's).
+
+I'd also like to know of any shops in Pbgh or VA (or in the locale of an
+available car that you tell me about) that could do a thorough pre-purchase
+inspection in case I go that far to get one.
+
+Lastly, I'm making the 931 available to anyone who wants to fix it up.
+Although the driver's door and rear quarter were hit, the car is drivable
+(I've been using it for about two weeks now).  Platinum, rear disks, recent
+turbo and clutch, > 110K miles.  I'm looking for $1500 (insurance is
+offering $1200 salvage).
+
+Thanks all,
+Tony Matt   tonym@world.std.com
+
+
+
+
+
+------------------------------
+
+Date: Mon, 21 Sep 1992 20:11:00 GMT
+From: msirota@ee.rochester.edu
+Subject: Re: Cheep HP for 2L 914/4
+
+In article <9209171841.AA04896@tta.com> stan@tta.com (Stan Hanks) writes:
+> And it's ITA/ASP legal.
+
+CSP, now.  The 914 2.0 has offically been reclassed from ASP to CSP.  (Yes!)
+
+Mark
+- -- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+------------------------------
+
+Date: Mon, 21 Sep 92 18:08:05 -0400
+From: edudley@mailbox.syr.edu
+Subject: Re: 924S Wanted / 931 For Sale 
+
+
+Would be interested in the 931, where are you located?
+
+   Eliot
+
+
+
+Eliot W. Dudley                       
+3388 State Rt 370  
+Cato, New York  13033
+315 626 2878
+edudley@mailbox.syr.edu
+
+
+------------------------------
+
+Date: Tue, 22 Sep 92 02:04:47 -0500
+From: stan (Stan Hanks)
+Subject: Re: 914/6 Roll Cage
+
+>  Does anyone have experience w/ 914 roll cages.  I am currently driving
+>  a 71 914/6 w/ hotrod motor.  Am considering going GT-2 and would like 
+>  info on cage requirements.  Also, did the factory 914/6 GT use a cage?
+
+Guilty. Have put roll bars in two cars, full cages in 3, and have tube
+framed 1.5 (one already had part of a frame).
+
+GT-2 == full tube frame, or at least damn close. Best advice: go and have
+a look at someone's GT-2 or for that matter GT-3 914. Without the skins.
+You're typically looking at 200 hours of labor, and about $3500 in metal.
+Just for the frame/skin mounts/suspension mods.
+
+Stan
+
+------------------------------
+
+Date: Fri, 25 Sep 92 10:01:58 EDT
+From: "George Beuselinck" <gb@vnet.ibm.com>
+Subject: A Report on PCA Club Racing at Lime Rock Park
+
+I was fortunate to be able to take some time off last week and visit
+Lime Rock Park while the PCA Club Racing circus was in town.
+
+I was not an entrant, but went to help out with timing and scoring.
+
+Honestly, I was skeptical that the program would be either interesting
+or long-lived, but I have since changed my tune.  This stuff is a blast.
+
+It's been a long time since I attended an event in which I was really
+interested in the outcome.  The difference here is that I know these
+people; they have attended our events or we have attended their events
+with them.  So, you care a bit more about the drivers.
+
+The event was well organized, starting and finishing on time (Lime Rock
+is operating under severe scrutiny from the local town, so we knew that
+the finish time was certain...) and with a minimum of confusion as
+to who had to do what, where....
+
+We got a chance to see all kinds of Porsches running, including a couple
+of 924 Turbos that were quite fast.  FTD and overall 1st was taken by
+Nick Ventura of Metro New York in his 914-6 (somewhat modified, to include
+a 962 twin-turbo engine, killer brakes, etc. - We call it the Batmobile).
+Other cars of interest was a 944 Turbo Cup car and a full-race 944 Turbo
+(nicknamed the Beast).
+
+Only one incident with damage: a 914-4 put two wheels off at trackout from
+the downhill turn, rotated 180 degrees, and backed across the track to
+impact the tire wall at the inside of the track.  Mostly sheet metal
+damage and the driver was unhurt...
+
+Alan Friedman (PCA Racing Guru) stated that there were 10 races scheduled
+for next (compared to 4 for this year).
+
+If you get a chance to see it at your local track, make sure you do so...
+
+------------------------------
+
+Date: Fri, 25 Sep 92 12:13:10 -0700
+From: ko@max.mrj.com (John Ko)
+Subject: Compression reading on 930
+
+I noticed that in Anderson's book that a good 911 compression
+is between 130-170psi.  But considering that a turbo has a low
+compression ratio of 1:7.5 vs. a recent one of about 1:9,
+would the reading for a 930 be always below that of a 911.
+
+The reason I ask is because I'm looking to buy an '82 930
+and got a reading for 125-135psi for all the pistons.
+
+Thanks for any insights.
+j.ko
+
+ko@eecs.nwu.edu if ko@max.mrj.com don't work.
+
+
+------------------------------
+
+Date: Fri, 25 Sep 92 13:30:12 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: Compression reading on 930
+
+
+
+Relative compression between the cylinders is more important
+than absolute value, they should be within say 5-10% of each-
+other.
+
+A leakdown test will pinpoint any problems.
+
+Don't overly concern yourself with these numbers because 
+they sound OK for a US turbo.
+
+John C
+
+------------------------------
+
+Date: Fri, 25 Sep 92 13:49:40 EDT
+From: Mark Sirota <msirota@ee.rochester.edu>
+Subject: Limited slips
+
+I am planning on having the gearbox in my 914 rebuilt during the off-season,
+and installing a limited slip while I'm at it.
+
+Questions: Are all gearbox rebuilds alike?  There's a place in Kansas City
+called Force Racing that specializes in 914 gearboxes for autocrossing.  Are
+their mods legal for Street Prepared?  What do they do that's special?  (I
+will ask them the same questions, but if I hear it from you it won't be from
+a salesman.)  Can anyone recommend a better place?  How much should this
+cost?
+
+What about limited slips?  As far as I know, a real Torsen isn't available
+for the car, but a Quaife is -- as is a standard clutch-pack.  Of course,
+the clutch pack is only a few hundred dollars, while the Quaife is around
+$1500.  Is it worth that much more money?  Why?
+
+Does anyone have any clever shift linkage mods for the side-shifter 914
+gearbox that might help to make shifting less vague?  All new linkage
+bushings and a short-shift kit made a HUGE difference, but it's still not
+great...
+
+Thanks for any help.
+
+- -- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+------------------------------
+
+Date: Fri, 25 Sep 92 13:01:42 MDT
+From: Mark Blaskovich <blaskovi@cisco.com>
+Subject: Re: Compression reading on 930
+
+While you've all go your compression reading thinking caps on,
+maybe you can offer me some advice.  I'll try to keep this short.
+
+I bought a 1970 911T about 2 months ago from a Porcshe garage.
+It was a customer car they were selling.  The car appeared to meet
+my price/condition criteria.  It also came with about $4000 of
+receipts done in the last three months from this same shop.  I
+asked the shop to do a pre-purchase inspection  of the car for
+me (which I paid for) including a compression test prior to my
+purchase.
+
+The shop made a recommendation to buy, and gave me compression
+readings of 135-150 psi.  This is written down on a work order.
+
+Approx 100 miles and 5 days later #4 cylinder quit firing.  Another
+shop did a compression test and got reading of 115-125, with #4 at
+70.  I called the shop I bought the car form and immediately returned
+the car for their analysis.
+
+One month later I picked up the car.  They found that the "black box"
+in the ignition had shorted and was bypassed, resulting in weak ignition.
+I pointed out that I didn't see how that effects compression, but their
+compression test yielded 100-120 readings (this was a verbal over the
+phone).  I paid for the good used black box and new plugs, they paid
+for labor.  I wasn't happy, but was unsure of anything I could do.
+Also, I have ALL of this documented.
+
+350+ miles and two weeks later, the car dropped a cylinder again.  The
+next compression test showed between 45, 75, 90, 100, 100, 120 (not in
+that order) and my mechanic/friend who checked it said it looked like 
+a total rebuild was in order (I completely trust this person).
+
+I called back the original shop to understand if they would help out,
+and their reply was basically "sorry, not our problem".  They offered
+a top end rebuild for a "reduced" price of about $2500 as their best
+offer.
+
+I have logged a compliant with the Consumer Complaints Auto Repair
+Division and will follow up with a written complaint.  My position is
+that they are liable based on the pre-pruchase inspection results.
+
+two questions-
+
+1.  Is it possible that the readings could be this varried and that
+	nodbody has fudged numbers?  The car runs pretty good with
+	new plugs (but not for long...)
+
+2.  Any opinions on whether I actually have legal recourse?
+
+Sorry for the length of this, any advice is appreciated-
+Mark Blaskovich   blaskovich@cisco.com
+
+------------------------------
+
+Date:    Fri, 25 Sep 1992 15:27:04 -0700 (PDT)
+From: LAFORCE@XENON.ARC.NASA.GOV
+Subject: re: 911T w/ poor compression
+
+Mark Blaskovich (blaskovich@cisco.com) writes:
+
+********************************************************
+
+While you've all go your compression reading thinking caps on,
+maybe you can offer me some advice.  I'll try to keep this short.
+
+I bought a 1970 911T about 2 months ago from a Porcshe garage.
+It was a customer car they were selling.  The car appeared to meet
+my price/condition criteria.  It also came with about $4000 of
+receipts done in the last three months from this same shop.  I
+asked the shop to do a pre-purchase inspection  of the car for
+me (which I paid for) including a compression test prior to my
+purchase.
+
+**  Did the same shop that sold the car do the pre-purchase 
+    inspection?  If so, I don't think that (in general) is a
+    good idea.
+
+The shop made a recommendation to buy, and gave me compression
+readings of 135-150 psi.  This is written down on a work order.
+
+Approx 100 miles and 5 days later #4 cylinder quit firing.  Another
+shop did a compression test and got reading of 115-125, with #4 at
+70.  I called the shop I bought the car form and immediately returned
+the car for their analysis.
+
+One month later I picked up the car.  They found that the "black box"
+in the ignition had shorted and was bypassed, resulting in weak ignition.
+I pointed out that I didn't see how that effects compression, but their
+compression test yielded 100-120 readings (this was a verbal over the
+phone).  I paid for the good used black box and new plugs, they paid
+for labor.  I wasn't happy, but was unsure of anything I could do.
+Also, I have ALL of this documented.
+
+350+ miles and two weeks later, the car dropped a cylinder again.  The
+next compression test showed between 45, 75, 90, 100, 100, 120 (not in
+that order) and my mechanic/friend who checked it said it looked like 
+a total rebuild was in order (I completely trust this person).
+
+I called back the original shop to understand if they would help out,
+and their reply was basically "sorry, not our problem".  They offered
+a top end rebuild for a "reduced" price of about $2500 as their best
+offer.
+
+I have logged a compliant with the Consumer Complaints Auto Repair
+Division and will follow up with a written complaint.  My position is
+that they are liable based on the pre-pruchase inspection results.
+
+two questions-
+
+1.  Is it possible that the readings could be this varried and that
+	nodbody has fudged numbers?  The car runs pretty good with
+	new plugs (but not for long...)
+
+2.  Any opinions on whether I actually have legal recourse?
+
+**********************************************************************
+I reply:
+
+re: 1.
+
+My understanding is that the early 911 engines are pretty solid
+(my experience is with an 3.0 SC engine).  For the compression to
+drop from 135 to 70 within 100 miles is "suspect" to say the least.
+If the plugs are going often, there may be oil getting into the 
+cylinders.  Do you know how much oil you are using?
+
+Since the shop doing the test (as far as I can tell) also maintined
+the car, they should be aware of any problems that could be related
+to the sudden drop in compression.  Frankly though, from the numbers 
+you are presenting, I would be very dubious of the original evaluation.
+(I think you done been took!)
+
+re: 2.
+
+It sounds like you bought the car from someone other than the shop.
+When a shop does a pre-purchase inspection, they cannot be certain
+that no problems will ever occur.  Now, what exactly would you want
+the shop and/or the previous owner to do?  Buy the car back?  Fix the
+car?  (in this case, who would you want to do the work?)
+
+There's a latin term (carve out your empire?) meaning "let the buyer 
+beware."  I think you would have to show conspiracy to get any 
+legal satisfaction.  If you have a friend that's a lawyer, you might
+get them to send a nasty legal type letter suggesting all manner of 
+dire consequences if they don't "do the right thing."  However, I
+think this would mostly be bluffing, though I don't really know.
+
+
+re: in general.
+
+I would avoid a car that has had a large amount of recent work done.
+One thing you might look at is exactly what work was done.  Posting 
+a synopsis of the repairs might shed a little more light on possible
+answers to your questions.
+
+If you do wind up keeping the car and fixing the engine, you may want
+to consider putting in a rebuilt 3.0 liter engine in instead of 
+rebuilding the 2.2.  The 3.0 generally runs 200k+ miles w/o ANY major 
+work.  I've seen them in Panorama for as low as $3k (used w/70k miles) 
+to $7k (rebuilt).  You'd go from about 120 hp to about 180 hp.
+
+Also, check the blow-by.  This is the smoke that comes out of the oil
+fill cap when the engine is running.  There should be none.  If there
+is a lot (no, I don't know how to describe how much a lot is, sorry)
+you may have a broken ring.  In fact, if some of the recent work was
+new rings without new pistons, there may be excessive piston-ring
+clearance, which will cause a fast ring failure.
+
+Anyway, I'm sorry to hear of your unpleasant experience.  You have
+to be very careful with used 911's.
+
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+------------------------------
+
+Date: Fri, 25 Sep 92 20:33:35 -0400
+From: miketodd@cs.cornell.edu (Michael Todd)
+Subject: re: 911T w/ poor compression
+
+Just a quick note: when you put in a 3.0 engine in an early (pre 74 I think)
+911, you also have to/are advised to change the gearbox from a 901 to a 915.
+This needs a little bending to get clearance. It also adds $1K - $2K to the
+cost of the conversion.
+ 
+  -- Mike Todd
+
+------------------------------
+
+Date: Sat, 26 Sep 92 00:27 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: A Report on PCA Club Racing at Lime Rock Park
+
+>FTD and overall 1st was taken by Nick Ventura of Metro New York in his
+>914-6 >(somewhat modified, to include a 962 twin-turbo engine, killer
+>brakes, etc. - >We call it the Batmobile).
+
+Oh, Nick's car is a 914/6.  Gee, I could never be sure whether it was a
+914/4 or /6!
+
+>Only one incident with damage: a 914-4 put two wheels off at trackout from
+>the downhill turn, rotated 180 degrees, and backed across the track to
+>impact the tire wall at the inside of the track.  Mostly sheet metal
+>damage and the driver was unhurt...
+
+My understanding was that this happened during practice/qualifying, and not
+during the competition.  It was doubly unfortunate, in that I was told that the
+driver had his pole position already sewn up when it happened.
+
+On a personal note, while I wasn't there, a car I helped to prepare won its
+class.  Mark Greenburg drove The Pink Car to a win in the 3.18-and-under litre
+class, besting Jim Newton who had his blue&yellow factory race car.  Mark and
+Jim were dead tied in qualification, and Mark got the pole on the toss of a
+coin.  Entering the first turn (Big Bend), Jim tried to stay high rather than
+fall in behind Mark.  He unfortunately put two wheels off and, in recovering,
+fell back quite a bit.  Although Jim managed to progressively catch up lap after
+lap, there wasn't enough time in the competition for him to challenge The Pink
+Car.
+
+I guess this reportage is pretty much "business as usual" when it comes to
+racing.  But it sure is exhilirating when you had a hand in it all!
+
+Kevin Gross
+
+------------------------------
+
+Date: Sat, 26 Sep 92 16:04:55 -0500
+From: stan (Stan Hanks)
+Subject: Re: Limited slips
+
+>Mark Sirota <msirota@ee.rochester.edu> writes:
+>
+>I am planning on having the gearbox in my 914 rebuilt during the off-season,
+>and installing a limited slip while I'm at it.
+>
+>Questions: Are all gearbox rebuilds alike?  There's a place in Kansas City
+>called Force Racing that specializes in 914 gearboxes for autocrossing.  Are
+>their mods legal for Street Prepared?  What do they do that's special?  (I
+>will ask them the same questions, but if I hear it from you it won't be from
+>a salesman.)  Can anyone recommend a better place?  How much should this
+>cost?
+
+As you must have guessed already from the way you asked your question, all 
+rebuilds are *NOT* alike.  In particular, you have to worry about stress wear 
+on the bushing holes in the 901 case, and a whole raft of other stuff. Then 
+there's the mechanical part of replacing gears, synchros (which may either 
+be replaced with the gearset or seperately on the 901 and 915), bearings, and 
+a variety of  other gasket/bushing/packing parts. Plus realigning the 
+differential, checking for stress risers in the side plates, etc.
+
+Force Racing does some pretty interesting stuff. I spent about two hours
+on the phone with the head guy there about two years ago, and have since
+helped a friend install one of their rebuilt transaxles. Here's the deal:
+regular Porsche synchros are basicly made out of silly putty (well, some
+sort of soft brass-like material anyway 8{) ).  The apparent reasoning: 
+the stock synchros wear because they're soft.  The reason they're soft is 
+to make it easier to accommodate different tolerances in the various parts, 
+and to have the synchro wear instead of the gearset. 
+
+The way to fix this: Force Racing makes theirs from hardened steel. They are 
+also made smaller than the regular synchros, and require hand fitting to
+*YOUR* transaxle parts. The result: seriously hard synchros with an exact
+fit, resulting in the claimed non-gear-grinding shifting at speed.
+
+The downside: you *will* wear out the gearsets. And since synchros are
+about $120 each and gearsets are about $600 each...
+
+Oh, I was *not* permitted to pop open the transaxle I helped install.
+At $1900, exchange, for a rebuilt transaxle, my friend was not too
+keen on me rooting around inside the box *before* he'd had a chance
+to break it. I'm still waiting, and it's still working fine. And I have
+no idea how legal it is for Solo II, but since I *think* that "normal
+wear items" like bearings, and presumably synchros, are free, it ought
+to be OK.
+
+>What about limited slips?  As far as I know, a real Torsen isn't available
+>for the car, but a Quaife is -- as is a standard clutch-pack.  Of course,
+>the clutch pack is only a few hundred dollars, while the Quaife is around
+>$1500.  Is it worth that much more money?  Why?
+
+Quaife's seem to be the way to go these days. It's a purely mechanical torque
+transfer device, and does work. We have one in the FP 911, and it does drive
+very differently from my AS 911. I'm not sure they're worth the money, but
+hey, it seems to be the case that you can get your money back out of the
+deal at any time. Proof: go price used Quaife's!
+
+>Does anyone have any clever shift linkage mods for the side-shifter 914
+>gearbox that might help to make shifting less vague?  All new linkage
+>bushings and a short-shift kit made a HUGE difference, but it's still not
+>great...
+
+Well, we have a 915 shifter on the EP 914. It came that way, and I haven't
+had occassion to take it apart to see how it's set up. Mind you, it's still
+shifting a 901, but using a TOTALLY different set of linkage up close to
+the shifter. And it's tons crisper than the regular 901 shifter. 
+
+On my street 914, I also have the Automotion shift kit, which basicly replaces
+the springs in the shift plate, making it harder to mis-shift. And I made
+a reverse lock-out plate too. Since I usually drive a 915 in non-competitive
+situations, and the 901 in competition, and reverse on the 901 is where
+1st is on the 915, somehow it seemed like a pretty good idea....
+
+Stan
+
+------------------------------
+
+Date: Sun, 27 Sep 92 14:16:11 +0100
+From: kevinh@hasler.ascom.ch (kevinh)
+Subject: Porsche Address?
+
+There was some talk recently about owners manuals, I presume we're talking about the small(ish) document that comes with the car when it's puchased. I asked at my local Porsche dealer some time ago for one of these (in english, as i'm in Switzerland) and he asked ?(somebody, at the factory I thought) and was told it was not available. Maybe it would be a good idea to write to the factory, anybody know the address???
+
+Incidentally what other douments (if any) are delivered with the car? (1973 2.4 911T).
+
+On a totally different subject I saw this book yesterday of Porsche Memorabilia, a great book but rather expensive at 348.- Sfr (about $230). It was also in German although I presume at some stage it will be issued in english, if not already. Great pictures, very good quality and covers the (large) subject very well! Eer wife, about my Christmas prez :-).
+
+kevinh@hasler.ascom.ch
+
+------------------------------
+
+Date: Sun, 27 Sep 1992 11:37:48 -0400
+From: awh@pennsy.med.jhu.edu
+Subject: Re: Limited slips
+
+Stan Hanks writes:
+ 
+ >Oh, I was *not* permitted to pop open the transaxle I helped install.
+ >At $1900, exchange, for a rebuilt transaxle, my friend was not too
+ >keen on me rooting around inside the box *before* he'd had a chance
+ >to break it. I'm still waiting, and it's still working fine. And I have
+ >no idea how legal it is for Solo II, but since I *think* that "normal
+ >wear items" like bearings, and presumably synchros, are free, it ought
+ >to be OK.
+ 
+ 
+Be careful on this.  Normally expendable items may be only be replaced
+with the same stock item or a non-stock item of the same *type*.  This has
+been clarified to mean same material, same hardness, same dimensions, etc.
+Same reason you can't replace expendable rubber bushings with harder rubber
+ones.  This clarification was published a couple years ago and is still the 
+current interpretation to the best of my knowledge (Karen?).  Read the rules 
+and contact the SEB if in doubt.
+ 
+Andy
+ 
+
+------------------------------
+
+Date: Sun, 27 Sep 92 23:50:46 EDT
+From: nabi@boole.att.com
+Subject: erratic 944 idle problem
+
+
+Hi folks,
+
+This is my firt posting to this group. I've been listening in since
+a few weeks ago and I've read a lot of great technical stuff.
+
+I have a 1987 944 that has recently started to exhibit erratic idling.
+When you initially turn the engine on in the morning (engine cold), the
+engine stalls sometimes or has great difficulty hanging in there. The
+idle goes up to only about 750 rpm and then surges to about 1200 and
+then back down to about 750 again. It keeps on doing that until the
+engine gets warmed up (after being driven a few miles).  Once it is
+warm, the idle stays at a constant rpm (albeit a little lower than
+it used to) and feels more or less normal.
+
+Someone told me they had this problem with their 944 a short time
+ago but it went away on its own and a 911 SC owner just recently
+started having the same problem but hasn't figured it out yet.
+
+Has anyone encountered this behavior at anytime ? Any clues as to 
+what might cause this idle surge ? (Bad sensor somewhere ?)
+
+thanks in advance for any and all insights,
+
+nabi rafie - AT&T Bell Labs
+email: nabi@boole.att.com
+
+
+------------------------------
+
+Date: Mon, 28 Sep 92 09:04 CDT
+From: rondl@ihlpy.att.com
+Subject: 911 Trailing Arm Adjustment...
+
+Hi All,
+
+Well, I finally got the old rusty metal cut out around my trailing arms.
+Now, I start the welding process - bought the Stoddard repair kit ($240/side).
+
+My question is:  How am I going to re-adjust the trailing arms??  It was all
+rather curious when I took 'em apart, nothing to mark really.  How do
+I know the correct spline to set it on?  The factory manuals show some
+hight adjustments to follow, is that it!!??
+
+Any help/thoughts/experiences would be GREATLY appreciated!
+
+Ron De Lange
+rondl@ihlpy.att.com
+
+------------------------------
+
+Date: Mon, 28 Sep 92 11:25:30 PDT
+From: meinel@aero.org
+Subject: A sad story and what to buy next
+
+Last week I was sitting at a stop light in my '71 914 waiting for the
+light to turn green when _WHAM_!!!! I get rear-ended by someone going
+about 35-40 mph. They didn't even touch the brakes! Needless to say,
+the 914 is history. Meanwhile, I have a bunch of 2.0L engine parts 
+sitting in the garage (I was going to rebuild it, but...). I guess I'll 
+need to do an inventory and post the parts for sale soon since I won't
+have any use for them now.
+
+So, what's a good car to replace the 914 with? I'm considering the 
+$10,000-$15,000 price range. Over the weekend I test drove an '87
+944 and a '91 Toyota MR2 turbo. That MR2 is a rocket! But the response
+is _very_ nonlinear -- there is a big surge when the turbo kicks in.
+The 944 is nice and seems much quieter and more solid than the MR2.
+Any other suggestions? Best years to consider, years to avoid?
+
+Ed (meinel@aero.org)
+'71 914 (ex)daily driver
+
+------------------------------
+
+Date: Mon, 28 Sep 92 14:47:52 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: 911 Trailing Arm Adjustment...
+
+   My question is:  How am I going to re-adjust the trailing arms??  It was all
+   rather curious when I took 'em apart, nothing to mark really.  How do
+   I know the correct spline to set it on?  The factory manuals show some
+   hight adjustments to follow, is that it!!??
+
+If you are starting from scratch, the best way to proceed is to set
+the torsion bar/spring plate to the "proper" unloaded angle.  This
+angle is between the unloaded/unconnected spring plate/torsion bar
+combo and some body reference.  This info is right in the factory
+manual.  By rotating the inner splines and the outer splines relative
+to the spring plate you can achieve quite fine angular accuracy
+due to the fact that the inner and outer ends of the spring plate have
+a different number of splines.  Once the thing is bolted together
+and the car rests on the suspension, the height should be correct.
+
+Note:  This procedure should work the first time but if its your
+first time at it, expect to have to make a height adjustment on
+one side or another at least once by rotating the torsion bar
+which means disassembling everything again!
+
+Note2: If you want to change the height, ie lower, at this time
+(and its the best time) then set the initial angle  slightly
+shallower.  There have been people who have figured out for
+a particular car the number of degrees of spring plate angle
+that translates to # of inches lowering, or you can do it
+by trial and error.
+
+JC
+
+------------------------------
+
+Date: Mon, 28 Sep 92 20:25:13 EDT
+From: ba08003@bingsuns.cc.binghamton.edu (ba08003)
+Subject: Re: erratic 944 idle
+
+My '87 944 is also showing an erratic idle upon cold start.
+
+I think that it may be time for the oxygen sensor to be replaced. (70k
+miles.. Any mechanic/guru wish to confirm or deny?)  I hesitate doing
+this because the last time any emissions stuff had to be replaced, it
+was incredibly expensive.. ($1400 for a catalytic converter!  And now
+the 968's uses rare earth metals.. that should be a fun one to replace.)
+
+
+While on the subject of 944 problems, has anyone else had strange
+electrical bugs?
+
+I've blown more lights on the dash than I can count, and last week
+both my *oil pressure gauge* and the *oil pressure warning light* went
+south at the same time... Made driving exciting, to say the least!
+
+                      Adam
+                   
+
+------------------------------
+
+Date: Mon, 28 Sep 92 18:09:37 PDT
+From: INTEL CORP. 408-765-9833 <MBRODESKY@SC9.intel.com>
+Subject: How much is a 914 72 1.7L worth
+
+
+Hello Everyone,
+
+	I was weondering how much to sell my car for, If I finally
+decide to part with it.
+	1973 1.7L blue
+        81K miles. 
+        Roof could be redone. 
+        I think three scratches on the paint from a parking lot. 
+        165 by 15 on American rims Mich XZX tires 10K on them.
+        Fuel pump still in back.
+        Center console with all three gauges
+        New brakes less than 500 miles on them
+        New clutch and flywheel 3K miles. 
+        New heat exchangers 3K old. 
+        Drivers seat has two small marks on it. ABout 2 mil in size.
+        Spare tire is not the same rim as the rest.
+        Most rubber that goes has been replaced. 
+        Tiny dent in hood from hitting one of the corners of the gas tank.
+        Fog lamps that are dead? 
+        Front Spoiler.
+        2 year old battery
+        turbo tie rods. 
+        Stainless steel brake lines.
+        dash is not cracked. 
+        The previous owner smoked in the car and there is a small
+        burn mark in the console between the seats.
+        Stereo amfm Audiovox.
+        Parking brake sticks sometimes.
+        Two bottom screws on drivers map pocket have fallen out.
+        
+	I think that's about it. 
+
+        Michael
+
+------------------------------
+
+Date: Tue, 29 Sep 92 02:32 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Winter reading
+
+I've just received a new book of interest, but will probably not get to crack it
+until the driving season ends.  It's "How to Tune & Modify Bosch Fuel
+Injection", by Ben Watson, publ. Motorbooks Int'l, available from Classic
+Motorbooks.  It apparently covers D, L, LH, K, and KE-Jet.  Lots of how-to,
+to-the-point drawing, and pictures of grungey parts.  Which probably look like
+what you'll be working on, and not some pristine example fresh from the factory!
+
+Kevin
+
+------------------------------
+
+Date: Tue, 29 Sep 92 02:32 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: erratic 944 idle
+
+Adam -
+
+Your dash problems are perhaps due to a bad ground or to misinstalled
+aftermarket equipment (cell phone, stereo).  The latter has been such a problem
+for PCNA with the 928 series that they have issues a couple of tech bulletins. 
+The symptoms were very much like yours.
+
+Check your grounds and clean them.  There are two grounds under the dash in the
+driver footwell.  Most of the sash equipment is grounded there.  Easily
+accessible, one to the back of the underside of the central electric board (aka
+relay and fuse box), the other to its right.  Check also grounds in the engine:
+behind the block, and one on each frame rail at the front, near the headlamps.
+
+Happy hunting.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 29 Sep 92 02:31 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: erratic 944 idle problem
+
+Nabi -
+
+Look first for a vacuum leak.  In US cars, there is a decal under the hood, over
+the right wheel well showing, schematically, where all the hose goes.  Check
+especially the Y under the manifold.  Oil blow-back from the manifold will swell
+the leg which plugs into it, and it can then fall off.  If yours is swollen, you
+can trim the last centimeter or so off to get unswollen rubber.
+
+I would next check for air leaks in the induction system, the injector O-rings,
+and the manifold-to-block gasket.  For the induction system, check for obvious
+damage past the air flow sensor (tears, etc.) and for loose hose clamps.  For
+the O-rings and manifold gasket, check by sprinkling water or shooting brak
+cleaner onto the gasket/O-ring.  If you hear a change in idle as you spritz,
+you've found the culprit.  With brake cleaner, you can smell it in the exhaust
+if it is drawn in through a leaky seal.  You can also visually check the fluid:
+where there's a leak, it will be quickly sucked in; where no leak, it will
+puddle.
+
+Since your idle improves with engine temp, it is more likely due to te manifold
+gasket or injector O-rings, and not to something which doesn't get warmed.  You
+can exacerbate the problem by unplugging the lambda and running "open loop." 
+This places the DME in default open loop mode.  It also eliminates the lambda
+sensor as a culprit.  The closed-loop behaviour of Motronic, etc., DME's can
+really cover up problems.  This is especially true of the latest series of
+adaptive DME's as first seen in the 944S and 928S4, then 944S2, 968, and I would
+assume the Carreras.  They can hide nasty problems for a really long time.
+
+I don't think your lambda sensor is likely to be at fault unless it has been
+mechanically damaged, its heater wires are disconnected, or some other disease
+has caused it to be damaged.  Let me know what you find.  Replacing the manfold
+gasket and injector O-rings is not terribly difficult.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 29 Sep 92 02:36 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: A sad story and what to buy next
+
+Ed -
+
+If you're willing to go up to $15K, you can expand your horizons to include
+944S, and early 944 turbos.  Probably not likely to find a 944S2 in that range
+that you'd be willing to admit owning.  And you can find a really nice post-'78
+911 for that kind of money.  Or a concours-winning, mint 924S.
+
+Of Mazdas I know nothing.
+
+Kevin
+
+------------------------------
+
+Date: Tue, 29 Sep 1992 08:37:47 EDT
+From: timmins@ravel.udel.edu (Steve Timmins)
+Subject: Re: A sad story and what to buy next
+
+  [included note of Sep 29, "Kevin C. Gross":]
+} Ed -
+} 
+} If you're willing to go up to $15K, you can expand your horizons to include
+} 944S, and early 944 turbos.  Probably not likely to find a 944S2 in that range
+} that you'd be willing to admit owning.  And you can find a really nice post-'78
+} 911 for that kind of money.  Or a concours-winning, mint 924S.
+} 
+} Of Mazdas I know nothing.
+} 
+} Kevin
+  [end of included note]
+
+
+Possibly even an 84,85 carrera, depending on what winter brings.  Needle
+in a haystack though.  FInding someone who just doesn't know what they
+have.  They're out there though.
+
+Personally I'd opt for an 86 turbo, which should be in the 11-14 range
+mid winter (dec, jan), at least in the DC area.
+
+S
+
+- -- 
+
+------------------------------
+
+Date: Tue, 29 Sep 92 09:04:35 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: erratic 944 idle problem
+
+
+On Nabis 944 cold idle problems:
+
+I agree w/ Kevin to check for vacuum leaks.  Also check head 
+temp sensor.
+
+One thing to keep in mind is that O2 sensor doesn't do anything
+until thermo switch kicks in when the car is warm.  O2 sensor
+is designed to operate only when its at a very high and
+*stable* temperature.  This is why they're always mounted up
+pretty close to the base of the header.  If you've got a warm-up
+problem its not the poor O2 sensors fault...
+
+
+
+------------------------------
+
+Date: Tue, 29 Sep 1992 09:31:27 -0400
+From: weltyc@cs.rpi.edu
+Subject: trailing arms
+
+
+I only skimmed the messages on this topic, but whenever I see height
+adjustment postings my teeth just grind.  Adjusting the suspension by
+ride height is a oft- made mistake - one that happens to
+work frequently.  Since it does work often enough, this reinforces
+the belief by it's practitioners that it's the right way to do it.
+
+The correct way to adjust the suspension is to put the car on 4
+scales, one under each wheel.  The weight measured on each wheel
+should be roughly equal.  This may, especially on older cars with
+sagging springs, result in a car that looks a little lopsided.  If
+that bothers you you should get new springs, not readjust the hight so
+it "looks" ok.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+------------------------------
+
+Date:    Tue, 29 Sep 1992 8:15:58 -0700 (PDT)
+From: LAFORCE@XENON.ARC.NASA.GOV
+Subject: syncro query
+
+The recent discussion of transmissions and syncros has raised a few
+questions.
+
+Several people have commented that harder syncros improve shifting 
+at the expense of the gearset.  Could someone elaborate?
+
+It seems that improved syncros woud reduce the gearset wear and soft 
+syncros increase it.  My reasoning here is that as the syncro wears,
+there would be increased wear on the gearset due to the 'ka-chinks'
+that occasionally occur, therefore softer, faster wearing syncros
+would mean faster gearset wear.
+
+Clearly (from the comments posted here) something else is happening.
+
+Anyone care to comment in more detail?
+
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+------------------------------
+
+Date: Tue, 29 Sep 92 11:14:58 -0600
+From: Drew A. Spencer <Drew_Spencer@Novell.COM>
+Subject: CV Joints
+
+
+Car: '82 911 SC
+
+I realized we've covered this topic on several occasions,
+but I've begun to notice the tell-tale signs of potential
+problems.  Namely, the "click" when releasing the clutch
+on a standing start.  When I manually twist the half-shaft
+I find a fair amount more play on one side than the other.
+The boots look okay.  
+
+
+I've got my black undies and coveralls ready, but before
+I start, I have a couple of questions:
+
+1. I've got 2 more autocrosses left this season and I'd
+like to wait until the racing's done for the year before
+tearing the car apart.  Would I be exacerbating the 
+
+problem by racing on it as it is, or should I deal with
+it now?
+
+2. When this type of problem manifests itself, is it possible
+to fix, or is it typically a replacement job?
+
+On an unassociated topic...
+Any opinions or experiences with Weltmeister sway bars?
+I'm considering installing a set during the winter and am
+interested in any experiences before I  make the purchase.
+
+Drew
+
+*************************************************************
+Drew Spencer            INTERNET: Drew_Spencer@npd.novell.com
+UNIX Client Development                  MHS: DSPENCER@NOVELL
+Novell Desktop Systems Group             Phone: (801)429-7254
+Provo, Utah                              FAX:   (801)429-3322
+
+------------------------------
+
+Date: Tue, 29 Sep 1992 12:15:06 -0500
+From: sundt@athens.cc.bellcore.com
+Subject: Re: trailing arms
+
+[Christopher Welty writes:]
+>The correct way to adjust the suspension is to put the car on 4
+>scales, one under each wheel.  The weight measured on each wheel
+>should be roughly equal.  This may, especially on older cars with
+>sagging springs, result in a car that looks a little lopsided.  If
+>that bothers you you should get new springs, not readjust the hight so
+>it "looks" ok.
+
+It's just not possible to adjust the weight of a 911 (or most any car for
+that matter) to be equal on each wheel. The best you can do (on a car
+without ballast) is to balance the diagonals or balance any pair of wheels!
+(I think balancing the diagonals would be best. Any comments?)
+
+Also, there are many reasons why a car could be lopsided other than sagging
+springs. I once owned a '77 911S with A/C. The previous owner had removed
+the compressor, causing the right side of the car to be much higher (~1/2")
+than the left.
+
+On the subject of "sagging," does anyone know if torsion bars can do their
+equivalent of sag? If so, are there any considerations in readjusting the
+height to compensate?
+
+Mark
+- --
+Mark Sundt, Bell Communications Research, (908) 758-3134
+sundt@athens.cc.bellcore.com or uunet!bellcore!athens!sundt
+
+
+------------------------------
+
+Date: Tue, 29 Sep 92 10:43:56 PDT
+From: desousa@cisco.com
+Subject: Re: A sad story and what to buy next 
+
+See comments:
+
+>> From: timmins@ravel.udel.edu (Steve Timmins)
+
+>>   [included note of Sep 29, "Kevin C. Gross":]
+>> } Ed -
+>> } 
+>> } If you're willing to go up to $15K, you can expand your horizons to include
+>> } 944S, and early 944 turbos.  Probably not likely to find a 944S2 in that range
+>> } that you'd be willing to admit owning.  And you can find a really nice post-'78
+>> } 911 for that kind of money.  Or a concours-winning, mint 924S.
+>> } 
+>> } Of Mazdas I know nothing.
+>> } 
+>> } Kevin
+>>   [end of included note]
+>> 
+>> 
+>> Possibly even an 84,85 carrera, depending on what winter brings.  Needle
+>> in a haystack though.  FInding someone who just doesn't know what they
+>> have.  They're out there though.
+
+In the San Francisco bay area, I've seen two 84 Carreras asking $17K.  Both
+had about 85K miles and were in very good condition.
+
+I've also seen 86 and 87 951's with low milaege asking 11-15K.  I think both 
+are a bargain.
+
+
+Carl DeSousa
+@Cisco Systems
+
+>> 
+>> Personally I'd opt for an 86 turbo, which should be in the 11-14 range
+>> mid winter (dec, jan), at least in the DC area.
+>> 
+>> S
+>> 
+>> -- 
+
+
+
+
+
+; Carl DeSousa
+
+
+
+
+------------------------------
+
+Date: Tue, 29 Sep 92 14:43:54 EDT
+From: lmcsugi@noah.ericsson.se (David Sugirtharaj)
+Subject: 911 Alternator
+
+
+Lately, on my 79 911SC I have noticed that the brightness of my lights
+flickers when I am idling and gets brighter when I rev the engine. I
+suspect that my alternator is slowly dying ( I checked the V-belt).
+Does anyone know what type it is (Bosch, motorola, marshall) for a 
+Canadian model?
+
+Also, the Haynes manual has a section on servicing the alternator.
+Are there any sources for getting a rebuild kit with the bearings, brushes
+etc? 
+
+
+Thanks
+
+Sugi
+
+Montreal
+
+------------------------------
+
+Date: Tue, 29 Sep 92 12:01:57 PDT
+From: jt@audi.dazixca.ingr.com (John Thomas X6450)
+Subject: Vanagon Cruise Control
+
+Greetings:
+
+Does anyone out there know where I might find an aftermarket cruise control kit
+for my 85 VW Westfallia? I tried JC Whitney a while back but they said there
+sources quit making them. 
+
+******************************************************************************
+  John W. Thomas (jt), '69 911E - RkyMntn Expatriate     Dazix, Mt. View, CA
+  Tel: 415/691-6450 (w), 408/379-4372 (h)                  Fax: 415/691-9016
+  email: jt@dazixca.ingr.com                       Internet: 129.135.106.154
+     or: uunet!ingr!dazixca!jt
+******************************************************************************
+
+------------------------------
+
+Date: Tue, 29 Sep 92 15:54:02 EDT
+From: lupienj@wal.hp.com (John Lupien)
+Subject: Re: A sad story and what to buy next
+
+> Last week I was sitting at a stop light in my '71 914 waiting for the
+> light to turn green when _WHAM_!!!! I get rear-ended by someone going
+> about 35-40 mph. They didn't even touch the brakes!
+
+Were they driving a '74 Mustang II, by any chance?
+I have the nearly identical story to tell: 
+
+I stopped for a red light at 2:30am on Soldiers Field Road in my '71 914,
+and the bozo in the '74 Mustang II behind me never slowed down. Bye bye...
+except that his insurance company paid me more than I had ever spent
+on the car... this was in 1982.
+
+
+- -- 
+- ---
+John R. Lupien
+lupienj@wal.hp.com
+
+------------------------------
+
+Date: Tue, 29 Sep 92 16:29:01 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Subject: trailing arms
+
+
+Chris Welty writes:
+
+   The correct way to adjust the suspension is to put the car on 4
+   scales, one under each wheel.  The weight measured on each wheel
+   should be roughly equal.  This may, especially on older cars with
+   sagging springs, result in a car that looks a little lopsided.  If
+   that bothers you you should get new springs, not readjust the hight so
+   it "looks" ok.
+
+Chris et al:
+
+Chris is correct in stating that there is an optimal chassis
+setup technique, however how practical is it?  Let's face it
+we don't all have chassis balance scales nor the desire/time/money
+to set up our fun/recreational vehicles like Hurley Haywood
+rocketing down the straight at Sebring.  
+
+I agree that chassis balancing is more "correct", but for a street
+car the factory height adjustment scheme has served me fine.  And
+as a bonus, it usually works out favorable on the balance side too!
+
+Also, I don't know where the engine in *your* 911 is, but I wouldn't
+be able to get "roughly equal" weight on "each wheel" unless I had
+Ed Macmahon sitting in the boot!
+
+Respectfully,
+John C
+
+------------------------------
+
+Date: Tue, 29 Sep 1992 17:02:53 -0400
+From: weltyc@cs.rpi.edu
+Subject: trailing arms
+
+
+
+   Chris is correct in stating that there is an optimal chassis
+   setup technique, however how practical is it?  Let's face it
+   we don't all have chassis balance scales nor the desire/time/money
+   to set up our fun/recreational vehicles like Hurley Haywood
+   rocketing down the straight at Sebring.  
+
+As an apparent newcomer, you may not be aware that many people on this
+list do take their cars to the track.  ImProper suspension setup can
+cause accidents in high speed situations, if your left brake locks up
+before your right one you may find yourself facing the wrong way.
+
+   I agree that chassis balancing is more "correct", but for a street
+   car the factory height adjustment scheme has served me fine.  And
+   as a bonus, it usually works out favorable on the balance side too!
+
+This is precisely the error I was referring to.  Simply because it has
+worked in the past does not mean it will continue to.  Most of the
+time it does work, and honestly if you don't drive your car at high
+speeds it probably won't matter.  It may however, if you decide to
+brake hard one day.
+
+   Also, I don't know where the engine in *your* 911 is, but I wouldn't
+   be able to get "roughly equal" weight on "each wheel" unless I had
+   Ed Macmahon sitting in the boot!
+
+My message was posted quickly, and as you correctly observe the equal
+I am referring to is by axis.  Your sarcasm as well is duly noted.
+
+=====
+
+Christopher Welty                   Asst. Director, RPI CS Labs, Troy, NY 12180
+weltyc@cs.rpi.edu                  "Porsche:  Fahren in seiner schoensten Form"
+
+------------------------------
+
+Date:    Tue, 29 Sep 1992 14:51:29 -0700 (PDT)
+From: LAFORCE@XENON.ARC.NASA.GOV
+Subject: weltmeister sway bars
+
+Drew asked for comments regarding the Weltmeister sway bars.
+
+I put 22mm front and rear bars (weltmeister) in my '80 911sc about
+a month ago.  These replaced the stock bars (20mm front & 16mm rear).
+
+It's like a different car!  I drove an autocross the next day and 
+missed first place by 0.1 second.  This is higher than I have ever
+finished before, though I do think it was a soft field that day.
+
+I don't find too much inprovement for street use, except when set to
+the softest end of adjustment, they seem stiffer than my street tires
+(hard compound a008's) will support.  When set near the midpoint of 
+the range (slightly stiffer in front than in the rear), I felt that I
+was able to use my competition tires (comp ta r1's, 204 (rr) compound)
+more effectively.  I do not think that I was really using anywhere near
+all the tire performance before the new sway bars were installed.
+
+I did NOT like having to drill holes in the car...
+
+But I think it was worth it!
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+------------------------------
+
+Date: Tue, 29 Sep 92 14:50:17 PDT
+From: desousa@cisco.com
+Subject: Re: trailing arms 
+
+Please see comments:
+
+>> From: johnc@gdstech.grumman.com (John Colasante)
+
+>> 
+>> 
+>> Chris Welty writes:
+>> 
+>>    The correct way to adjust the suspension is to put the car on 4
+>>    scales, one under each wheel.  The weight measured on each wheel
+>>    should be roughly equal.  This may, especially on older cars with
+>>    sagging springs, result in a car that looks a little lopsided.  If
+>>    that bothers you you should get new springs, not readjust the hight so
+>>    it "looks" ok.
+>> 
+>> Chris et al:
+>> 
+>> Chris is correct in stating that there is an optimal chassis
+>> setup technique, however how practical is it?  Let's face it
+>> we don't all have chassis balance scales nor the desire/time/money
+>> to set up our fun/recreational vehicles like Hurley Haywood
+>> rocketing down the straight at Sebring.  
+
+Weight setting a car is about about a couple of hours labor.  It costs
+no more than a 4 wheel alignment and usually makes a significant difference.
+
+
+>> 
+>> I agree that chassis balancing is more "correct", but for a street
+>> car the factory height adjustment scheme has served me fine.  And
+>> as a bonus, it usually works out favorable on the balance side too!
+
+Most street/autocross cars that I weight set(several years ago), came
+out sitting un-flat(for lack of a better word).  Most of them were
+914's though.
+
+>> 
+>> Also, I don't know where the engine in *your* 911 is, but I wouldn't
+>> be able to get "roughly equal" weight on "each wheel" unless I had
+>> Ed Macmahon sitting in the boot!
+>> 
+>> Respectfully,
+>> John C
+
+Sure, you can't change the front to rear weight bias but, as it was stated 
+earlier, you can get the weight to be equal on each axis.  Braking and even
+traction for accelerating can be improved.  Thats one of the reasons why 
+pure race cars are weight set as part of the alignment.   
+
+So, yeah, one can say that weight setting is only part of fine tuning a 
+streetable car, but every little bit counts.
+
+
+Carl DeSousa
+
+
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 01:43 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+Subject: Re: 911 Alternator
+
+Stan posted the following article a while back.  Perhaps it points the way...
+
+- ----------------------
+
+Alternator Alternative
+by Mark Gohlke
+Maverick Region
+
+lt seems a shame to me to replace an alternator just because it does  not work
+any more.  lt 
+is even worse to replace one when it is still working, but needs something like
+bearings 
+replaced.  This article specifically addresses my experiences with two 1970-74
+914 
+alternators, but the comments will generally apply to other models as well.
+One of my alternators was suffering from the effects of exposure to the elements
+and needed 
+it's bearings replaced.  The other was old and had apparently been apart before.
+ It needed 
+itUs bearings and  brushes replaced, and was missing a spring washer which
+belongs behind 
+one of the bearings (footnote 1.).  The parts to repair the alternators were
+surprisingly easy 
+to come by, and cost MUCH less than two replacement alternators (rebuilt $130). 
+Almost all 
+bearings are made in standard sizes by bearing manufacturers.  Companies like
+Bosch who 
+make alternators, etc, purchase these bearings to use in their products.  Thus,
+whenever any 
+bearing needs to be replaced - whether in an alternator or somewhere else - the
+chances are 
+very good that the bearing is available at your friendly local bearing
+distributor.  The same 
+goes for oil seals.
+These are the parts I found to replace: - Front bearing, part number 6203-z. 
+$9.00.  The -z  
+refers to the seals on the bearing.  They come open, shielded, or sealed on one
+or both sides.  
+The manufacturer's name will also appear, but is not important.  The bearings in
+my two 
+alternators were from Peer-Romania, Fafnir, and Delco -- Pear bearing, part
+number 6201-
+z.  $7.00. -- Brush assembly, part number 021-903-503-A.  $23.00 from your
+VW/Porsche 
+parts man.  This part contains the two brushes and guides mounted to a plate
+which  also has 
+the terminals which plug into the car's wire harness. -- Washer  kit, part 
+number 02 1 903 
+220 $6.00 from your VW/Porsche parts man.  I needed this to get the large spring
+(wavy) 
+washer which was missing from alternator number two.  The kit also contained a
+spacer, 
+some flat washers, and two screws.  None of these parts should really have to be
+replaced 
+unless they are missing.  No doubt the rectifiers can be replaced, but l won't
+know as long as 
+luck is with me.
+To disassemble the alternator, first mark the orientation of the two halves and
+the back 
+cover.  The pulley has to be removed to get the front bearing off, so it may as
+well be done 
+first.  The pulley has some slots in it to enable you to hold it to get the nut
+off.  It will then 
+come off easily with a puller.  Remove the back cover, and then remove the long
+screws 
+holding the alternator housing together.  Now the two halves will come apart,
+although they 
+may take some careful prying.  The wide iron ring which divides the two housing
+halves is the 
+stator and must stay with the back (large) half (it has wires connected to it). 
+The rotor will 
+stay with the front half.  Now the bearings and other parts can be removed and
+replaced.  
+Note the bearings are a light press fit onto the rotor.  Use of the proper tools
+is helpful here.  
+Your friendly mechanic, machine shop, or some parts stores can help if necessary
+at this 
+point.
+I found that the wires connected to the commutator rings on both rotors were
+physically 
+separated from the rotor.  They had obviously been glued down when they were
+made, but 
+presumably centrifugal force had separated them.  Reposition and rebond the
+wires if 
+necessary.  You may have noticed the ominous sound of the brushes springing from
+their 
+guides as you separated the housing, and sure enough they appear to be blocking
+all hope of 
+ever getting the alternator back together again.  They have to be held out of
+the way for the 
+back bearing to get past them to put the housing together.  This is done by
+carefully pushing 
+the brushes, one at a time, back against the spring until you actually push the
+brushes out the 
+back of the guide slightly.  At this point the spring will go from pressing on
+the back of the 
+brush to pushing on the side of the brush, holding it nicely in place for
+assembly.  After the 
+alternator is assembled, the brushes may be snapped into place one at a time. 
+They are 
+accessible through a hole adjacent to the connectors for the car wire harness.
+
+1.  See page 123 of the Haynes 914 manual, or the factory shop manual for an
+exploded view 
+of the alternator.
+
+
+
+------------------------------
+
+Date: Tue, 29 Sep 92 22:31:15 -0400
+From: cz@silver.lcs.mit.edu (Christopher R. Zach)
+Subject: erratic 944 idle
+
+Re: Erratic 944 stuff...
+
+The temp gauge on my 944S (87) sometimes goes to the top, but a gentle tap on
+the glass makes it go down. The first time that happened, I nearly panicked.
+Now it is a JHTR (Just have to replace). That's about the only problem, other
+than difficult cold starting (probably the water temp sensor, the FI pulses
+aren't increasing in cold weather)
+
+CZ
+
+------------------------------
+
+Date: Tue, 29 Sep 92 22:27:46 -0400
+From: cz@silver.lcs.mit.edu (Christopher R. Zach)
+Subject: A sad story and what to buy next
+
+Re: Car to replace the 914.
+
+I would suggest that you test drive a 944S before you buy a 944. I drove the
+944 standard, and thought that it felt a bit heavy on acceleration (eg slow)
+compared to, say, my Dad's 911L (67). 
+
+The dealer had a 944S for a little bit more, and after test driving it, I was
+pleased. It held the power clear up to redline, and didn't experience the
+annoying power dropoff at around 5000, like the standard 944 did. It wasn't a
+rocket like the 951 (Turbo 944), but when you bring the RPM's up, it will 
+move...
+
+Needless to say, I bought it, and am quite happy with it. 
+
+CZ
+
+------------------------------
+
+Date: Wed, 30 Sep 1992 11:04:23 +0100
+From: katz_p_m@bt-web.bt.co.uk
+Subject: Porsche denies 968 to go ....
+
+From:	NAME: Philip Katz           [DIP11 ]
+	FUNC: DIP11                           
+	TEL: 0394-693446                      <KATZ P M AT WEB AT WEBCS>
+To:	porschephiles@tta.com@UNET
+
+
+	Having recently posted here an article from Autocar & Motor saying
+that the 968 might have a limited life, it's only fair to now post the
+letter from John Edwards (Manager, marketing & public relations, Porsche
+Cars GB) which appeared in the issue of 09-SEP-1992 under the heading
+_Porky Pies?_ (this is Cockney rhyming slang for _lies?_). The article is
+accompanied by a photograph of a 968 cabriolet with the caption "Porsche
+968: reports of its death have been greatly exaggerated".
+
+===========================================================================
+
+"The story 'Porsche to kill off 968?' (19 August) that you printed is
+contrary to the true situation and the figures you gave for price and
+production are incorrect.
+
+The 968 is an integral part of our line-up and following the investment
+made by Porsche in its development and production facilities, the 968 will
+remain part of our range for the forseeable future. Current production
+rates are circa 30 cars *per day* and not per month as you reported.
+
+The 968 is the next generation in the successful Porsche philosophy of
+product evolution. Some of the technological advances made on this car are
+represented by the 22 new patents applicable to this vehicle.
+
+Porsche AG has indicated that it will maintain a vehicle in the price
+segment of the 968 and has announced that a new car is being developed to
+enter the market in a price segment below the 968.  Whilst we acknowledge
+the car market is very difficult in many countries at the moment, the
+unique flexibility of Porsche production will enable us to maintain
+profitability and further develop our product range.
+
+Derivations of our model range are a successful part of our model
+development and we look forward to further announcements of such models in
+the near future. However, contrary to your article, a 911 costing circa
+UK#30,000 will not be one of those announcements."
+
+========================================================================
+
+	I am curious as to what this entry-level car will be like. Despite
+a less than enthusiastic reception from the cognoscenti, the 924 sold well
+and perhaps it is this sort of volume that Porsche are after (and probably
+need in order to survive).
+
+	There was also a small article in The Guardian (I don't normally
+read this rag, but it's the only English-language newspaper I could get in
+Greece) of 24-SEP-92, under the heading _Porsche misfires_. Can anyone
+explain the implications (if any) of this:
+
+"Arno Bohn, management board chairman of German sports car manufacturer
+Porsche, is to leave the company at the end of this month because of
+boardroom disagreements over business, it emerged yesterday. A Porsche
+statement said Mr Bohn's departure was mutually agreed. His departure
+comes only six months after the supervisory board in a dramatic turnaround
+extended his contract for three years to end-December, 1995."
+
+Philip
+
+------------------------------
+
+Date: Wed, 30 Sep 92 06:30:21 PDT
+From: "Davis Pan, ML01-2/U44, DTN: 223-2241  30-Sep-1992 0932" <pan@3d.enet.dec.com>
+Subject: 911SC air box woes
+
+Bummer,
+
+   I recently got some really bad news about my '82 911SC: my air box
+is cracked, even though I had installed a pop-off valve.  My mechanic thinks
+that the box had already been blown before I put in the valve, but the crack
+got bigger and/or looser with time so none of the symptoms showed up until
+recently.  It's about a $900 job (~$350 for parts, ouch!) if I have him replace
+the air box.
+
+  I'm really tempted to try to glue the crack.  I called Bruce Anderson and
+he said he knows of several people who have tried but they never get back to
+him so he doesn't know if it worked or not.  Alan Caldwell said that he doesn't
+know of anyone who has been able to glue the box successfully.
+
+  Have you heard of anyone else try this?  What is a good adhesive to use?
+Luckily, I had saved the "hole" piece I got from drilling for the pop-off
+valve so I can do adhesive experiments on it.  So far I have tried epoxy,
+super-glue, plastic pipe glue, and 3M's structural adhesive (sold by Automotion
+as a "super glue" to install pop-off valves).  Nothing seems to stick.  I
+believe the air box is made of Bakelite plastic (phenolic?).
+
+In the likely case that gluing doesn't work, can any of you offer any
+hints/suggestions on replacing the air box, i.e.:
+
+How hard of a job is it?
+
+Anything tricky about the job?
+
+Is there anything I should watch out for?
+
+Do I need any other parts besides what are listed below?
+	a new air box
+	6 intake gaskets
+	6 intake boots
+	6 injector seals
+	16 copper crush washers for fuel distributor
+	a pop off valve
+	
+
+
+								Thanks,
+
+								Davis
+
+P.S. This problem caught me completely off guard.  I had brought my car in
+     to diagnose a pinging problem between 3-4 k rpm.  A cracked air box would
+     seem to explain the problem since a vacuum leak would cause a lean fuel
+     mixture.  Does anyone disagree?
+
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 06:28:52 PDT
+From: "Davis Pan, ML01-2/U44, DTN: 223-2241  30-Sep-1992 0930" <pan@3d.enet.dec.com>
+Subject: 911 Air box woes
+
+Bummer,
+
+   I recently got some really bad news about my '82 911SC: my air box
+is cracked, even though I had installed a pop-off valve.  My mechanic thinks
+that the box had already been blown before I put in the valve, but the crack
+got bigger and/or looser with time so none of the symptoms showed up until
+recently.  It's about a $900 job (~$350 for parts, ouch!) if I have him replace
+the air box.
+
+  I'm really tempted to try to glue the crack.  I called Bruce Anderson and
+he said he knows of several people who have tried but they never get back to
+him so he doesn't know if it worked or not.  Alan Caldwell said that he doesn't
+know of anyone who has been able to glue the box successfully.
+
+  Have you heard of anyone else try this?  What is a good adhesive to use?
+Luckily, I had saved the "hole" piece I got from drilling for the pop-off
+valve so I can do adhesive experiments on it.  So far I have tried epoxy,
+super-glue, plastic pipe glue, and 3M's structural adhesive (sold by Automotion
+as a "super glue" to install pop-off valves).  Nothing seems to stick.  I
+believe the air box is made of Bakelite plastic (phenolic?).
+
+In the likely case that gluing doesn't work, can any of you offer any
+hints/suggestions on replacing the air box, i.e.:
+
+How hard of a job is it?
+
+Anything tricky about the job?
+
+Is there anything I should watch out for?
+
+Do I need any other parts besides what are listed below?
+	a new air box
+	6 intake gaskets
+	6 intake boots
+	6 injector seals
+	16 copper crush washers for fuel distributor
+	a pop off valve
+	
+
+
+								Thanks,
+
+								Davis
+
+P.S. This problem caught me completely off guard.  I had brought my car in
+     to diagnose a pinging problem between 3-4 k rpm.  A cracked air box would
+     seem to explain the problem since a vacuum leak would cause a lean fuel
+     mixture.  Does anyone disagree?
+
+
+
+------------------------------
+
+Date: Wed Sep 30 08:34:49 1992
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: alternators and corner weights
+
+Sugi,
+
+re your potential alternator problem.  It may just be the battery.  I had
+virtually the same symptoms on my 79SC.  the symptoms almost totally 
+disapperared on battery replacement.  I understand that these cars are
+very sensitive to battery voltage and a weak battery can cause strange
+electrical glitches.
+
+BTW, it would not hurt to check and clean all ground wires.
+
+
+RE: corner weighing.  I have had it done to my SC.  It does make a difference
+as to how the car feels on the street as well as the track.  You first must
+decided approximately what suspension height you can live with.  Then have
+the car corner weighed and try to get the left to right measurements as close
+as possible.  You should have something in the drivers seat with the same
+weight as the driver.  Front to rear weights are not likely to be close due
+to the rear weight bias of a 911.  But you should be able to get left to
+right measurements within 50-100 pounds or less.
+
+You should also check all camber and caster settings again after you get the
+heights right, since these may change due to your adjustments.  The fellow
+who did my adjustments is in the local PCA and also owns a Goodyear service 
+center with good alignment equipment.  It cost around $200.  It was well 
+worth it.
+
+
+Jim.
+
+jfuerstenberg@dcmdc.dla.mil or xgg2356@dcmdc.dla.mil
+
+
+"Duct tape is like the Force.  It has a dark side and a light side and holds
+the universe together."
+
+Any opinions herein are most certainly not that of my employer.  I am not 
+authorized to have an opinion.
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 10:12:59 EDT
+From: ba08003@bingsuns.cc.binghamton.edu (ba08003)
+Subject: Cottage-Cheese coolant
+
+
+As I peered into my 944's coolant recovery tank yesterday,
+I was horrified to see a buildup of what looks exactly
+like cottage cheese..
+
+The water pump was just replaced, and I'm wondering if perhaps the
+mechanics used the wrong type of coolant (aluminum radiators need pure
+Ethylene glycol, no?)
+
+I'm hoping that a simple flush will do the trick..
+
+DANG these liquid-cooled beasts! My heart grows fonder for a 911 every
+day... :)
+
+
+
+          Adam
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 09:05:14 -0600
+From: Bob_Pentecost <bpenteco@hpbs987.boi.hp.com>
+Subject: Porsche address
+
+
+A few days ago someone was asking about the address for Porsche and I haven't
+seen a response, so I'll pass on what I have.
+
+This is the address for the Porsche Museum, which is on the factory grounds.
+It may not be exactly right, but it might be close enough 
+
+      Porsche Museum (or Porsche AG)
+      Porschestrasse 42
+      7000 Stuttgart - Zuffenhaussen
+      Germany
+
+If you want to call them, Telefon: 07 11/827-5685. The country code is 49.
+
+Bob Pentecost
+bpenteco@hpbs987.boi.hp.com
+
+------------------------------
+
+Date: Wed, 30 Sep 92 11:24:10 EDT
+From: lupienj@wal.hp.com (John Lupien)
+Subject: Re: 911 Air box woes
+
+> In the likely case that gluing doesn't work, can any of you offer any
+> hints/suggestions on replacing the air box, i.e.:
+> Is there anything I should watch out for?
+
+Be very careful about which hoses go where - you can screw things up
+pretty badly without trying hard...
+
+Also, consider getting an after-market air box that won't crack and has the
+pop-off valve already.
+
+
+- -- 
+- ---
+John R. Lupien
+lupienj@wal.hp.com
+
+------------------------------
+
+Date: Wed, 30 Sep 92 11:19 EDT
+From: fwk@homxc.att.com
+Subject: Re: Cottage-Cheese coolant
+
+>As I peered into my 944's coolant recovery tank yesterday,
+>I was horrified to see a buildup of what looks exactly
+>like cottage cheese..
+>
+>The water pump was just replaced, and I'm wondering if perhaps the
+>mechanics used the wrong type of coolant (aluminum radiators need pure
+>Ethylene glycol, no?)
+>
+>I'm hoping that a simple flush will do the trick..
+>
+>DANG these liquid-cooled beasts! My heart grows fonder for a 911 every
+>day... :)
+>
+What you have is an oil/water emulsion, almost certianly from an oil
+leak into the water through the oil/water intercooler. It may be just
+o-rings, or a more serious update, depending on the year of the car.
+Don't just flush it and ignore it.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+------------------------------
+
+Date: Wed, 30 Sep 92 11:16 EDT
+From: fwk@homxc.att.com
+Subject: Re: corner weights
+
+Jim Fuerstenberg writes:
+
+>RE: corner weighing.  I have had it done to my SC.  It does make a difference
+>as to how the car feels on the street as well as the track.  You first must
+>decided approximately what suspension height you can live with.  Then have
+>the car corner weighed and try to get the left to right measurements as close
+>as possible.  You should have something in the drivers seat with the same
+>weight as the driver.  Front to rear weights are not likely to be close due
+>to the rear weight bias of a 911.  But you should be able to get left to
+>right measurements within 50-100 pounds or less.
+
+As I believe someone else mentioned, you have essentially no control over
+the total weight on the left side versus the total weight on the right
+through weight balancing. These are functions of where the weight is
+in the car, just like front versus back.
+
+There was a discussion here on this a year ago or so, and there were
+several knowledgeable opinions that 911's have enough extra weight on
+the right side that even with a driver, the total weight on the left
+was very near the total weight on the right, but that is a function of
+the design of the car, not weight balancing. For many cars, the side
+weights (total) will not be equal with a driver, since the cars are
+essentially symmetrical without the driver.
+
+With weight balancing, the only variable you can adjust is the ratio of 
+the totals on each of the two diagonals. Assuming the total weight
+on the left doesn't equal that on the right for your particular car,
+you can use weight balancing to make the front weights equal (with all
+of the excess weight on a particular side reflected in the back wheel
+weights), or to make the backs equal (with the extra weight on the front),
+or some other algorithm like equal front/rear RATIOS on the two sides,
+but you can't make both front and rear side weights equal without moving
+weight around in the car.
+
+>
+>You should also check all camber and caster settings again after you get the
+>heights right, since these may change due to your adjustments.  The fellow
+>who did my adjustments is in the local PCA and also owns a Goodyear service 
+>center with good alignment equipment.  It cost around $200.  It was well 
+>worth it.
+
+In fact, the process is iterative, since suspension alignment adjustments
+change weight balance, and weight balance adjustments change alignment.
+The number of iterations depends on how far away you are when you start,
+on how close you want to get, and on luck (mostly the latter, it seems).
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+------------------------------
+
+Date: Wed, 30 Sep 92 11:26:40 EDT
+From: lupienj@wal.hp.com (John Lupien)
+Subject: Re: 911SC air box woes
+
+> P.S. This problem caught me completely off guard.
+
+To quote Tom and Dave, the infamous Tappet Brothers of Car Talk,
+
+"What did you expect, a telegram?"
+
+> I had brought my car in
+> to diagnose a pinging problem between 3-4 k rpm.  A cracked air box would
+> seem to explain the problem since a vacuum leak would cause a lean fuel
+> mixture.  Does anyone disagree?
+
+This could indeed lean out the mix enough to ping.
+
+
+- -- 
+- ---
+John R. Lupien
+lupienj@wal.hp.com
+
+------------------------------
+
+Date:    Wed, 30 Sep 1992 8:36:40 -0700 (PDT)
+From: LAFORCE@XENON.ARC.NASA.GOV
+Subject: airbox
+
+>Bummer,
+>
+
+stuff deleted
+
+>
+>  I'm really tempted to try to glue the crack.  I called Bruce Anderson and
+>he said he knows of several people who have tried but they never get back to
+>him so he doesn't know if it worked or not.  Alan Caldwell said that he doesn't
+>know of anyone who has been able to glue the box successfully.
+>
+>  Have you heard of anyone else try this?  What is a good adhesive to use?
+>Luckily, I had saved the "hole" piece I got from drilling for the pop-off
+>valve so I can do adhesive experiments on it.  So far I have tried epoxy,
+>super-glue, plastic pipe glue, and 3M's structural adhesive (sold by Automotion
+>as a "super glue" to install pop-off valves).  Nothing seems to stick.  I
+>believe the air box is made of Bakelite plastic (phenolic?).
+
+I would try JB Weld.  This is an epoxy like adhesive that will fill gaps,
+and is fairly immune to heat and fuel.
+
+I'm not sure the airbox is bakelite (epoxy does bond to bakelite), but 
+I'm also not use it's not.
+
+When using epoxy (or most other adhesives) there are two really important
+things to be careful about.  All surfaces must be **CLEAN**.  At a minimum,
+I would liberally flush with brake-clean (TCE).  I would also consider
+carb cleaner first (but use a test piece to be sure it doesn't disolve
+the airbox).  I don't think you can be too anal about cleaning this 
+part as it is likely to have lots of fuel soaked into it.  Unless you get
+the fuel out, you can pretty much forget about it bonding.  The second
+important thing is to clamp the parts as the glue sets.  If you use 
+JB weld, which fills fairly well, you may get away without major clamping.
+
+>
+>In the likely case that gluing doesn't work, can any of you offer any
+>hints/suggestions on replacing the air box, i.e.:
+>
+>How hard of a job is it?
+
+The hard part is getting all those f***ing manifold boots on again!
+
+>
+>Anything tricky about the job?
+
+See above!
+
+>
+>Is there anything I should watch out for?
+>
+>Do I need any other parts besides what are listed below?
+>	a new air box
+>	6 intake gaskets
+>	6 intake boots
+>	6 injector seals
+>	16 copper crush washers for fuel distributor
+>	a pop off valve
+
+Yes, if I were in your position, I would consider one of the stainless
+steel airboxes (I think automotion sells them, someone else will thus
+have them cheaper).  As I recall, they are cheaper than the original, 
+and come with a built in pop-off valve.  I don't know if they flow as
+well as the original, so you may want to look into that first (another
+call to Bruce?).
+
+When I removed my air box (no, you **cannot** remove the chips left over
+from installing a pop-off valve with a shop vac...), I did not replace
+any injector seals as I did not remove any injectors.  Ditto the intake 
+gaskets, I only removed the intake boots.  I suspect that I would have 
+removed the intake manifolds if I had thought it would make the job 
+easier, but I don't remember.
+
+
+
+- --Soren            laforce@xenon.arc.nasa.gov
+
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 08:57:53 PDT
+From: mikel@ichips.intel.com
+Subject: Re: 911 Air box woes 
+
+>  I'm really tempted to try to glue the crack.  I called Bruce Anderson >and
+>he said he knows of several people who have tried but they never get >back to
+>him so he doesn't know if it worked or not.  Alan Caldwell said that he >doesn't
+>know of anyone who has been able to glue the box successfully.
+>
+>  Have you heard of anyone else try this?  What is a good adhesive to >use?
+>Luckily, I had saved the "hole" piece I got from drilling for the >pop-off
+>valve so I can do adhesive experiments on it.  So far I have tried >epoxy,
+>super-glue, plastic pipe glue, and 3M's structural adhesive (sold by >Automotion
+>as a "super glue" to install pop-off valves).  Nothing seems to stick.  >I
+>believe the air box is made of Bakelite plastic (phenolic?).
+
+
+I'm not quite sure what your airbox is made of, but I recently had to
+glue large portions of my motorcycle fairing back together after a
+crash in turn 9 at PIR.  My bike is a Suzuki GSXR1100, in case you want
+to go to a local dealer and see if the fairing material is similar to
+your airbox.  I tried two things, both of which are working very well
+(they can withstand top speed blasts down the straights @ ~160mph+), so
+it should work well on your airbox.
+
+The first product is a glue specifically for mc fairings from a company
+called Three Bond, and is distributed by Lockhart, among others.  It
+goes for around $25 (Racer suppport cost through Lockhart is $15), and
+looks like a superglue with an accelerating agent.
+The second product is good, old fashioned, JB Weld, which is $5 at the
+local hardware store!
+The 3Bond stuff works pretty well, but it has to be a clean break,
+since the stuff can't fill gaps.  The JBWeld can fill gaps.  I found
+that JBWeld works best if you bevel both sides of the cracked material,
+so there is a trough the JBweld can fill. Foe added strength, I drilled
+small holes along the crack and used stainless safety wire to "stitch"
+the crack.  It's ugly, but hey, it works.  And the Frankenstein look is
+kind of neat.  You could use dabs of JBWeld to seal the holes.  This
+should work well, since I don't think the airbox would be subjected to
+THAT much stress.
+
+Mike 
+
+------------------------------
+
+Date: Wed, 30 Sep 92 9:46:20 PDT
+From: George Bono <gbono@hpnmdla.sr.hp.com>
+Subject: Re: Airbox
+
+    Loctite has an application note titled " How to Bond to Plastics".
+    For a Phenolic(Bakelite) use Speed Bonder 326.  Phone for Loctite:
+    714-751-3805 LA, CA. or 313-644-7900 Detroit area.
+
+    Good Luck!
+    George
+
+------------------------------
+
+Date: Wed, 30 Sep 928 08:40:47 PDT
+From: jimharr@microsoft.com
+Subject: preparing to sell a 1979 5 speed 928
+
+
+i sent this by mistake to porschephiles-request, so i don't think it
+made it to the list. apologies if you've seen this already, and i hope
+the moderator of the list doesn't think i'm a total moron :- )
+
+
+- --------
+
+well folks:
+
+
+        i am preparing to sell my beloved 1979 928. the reason is that my
+wife really doesn't get any enjoyment out of driving it, becaues the
+control forces are heavy, she is very intimidated by it. we are going
+to replace it with a newer 944, which i think we both will enjoy.
+
+        it is a '79, 5 speed, 60K miles. i just put new dunlop's on it
+(D40 M2). i have a new bra for it, a complete set of shop manuals, and
+all of my receipts from 4.5 years of ownership. it is mocha brown with a
+cork leather interior. it has power windows, power locks, power brakes,
+power steering, cruise control, power seats, automatic antenna, a ski
+rack, snow chains, A/C (needs recharging), and an Alarm
+system.
+
+        i am going to ask $12,500, but i would like some feedback on the
+price from the list. is this a reasonable price?
+
+        anybody out there interested? :-)
+
+
+
+                                                jim harriger
+
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 14:13 EDT
+From: uucp@att.att.com
+
+Received: from gdstech.grumman.com by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA22096; Wed, 30 Sep 92 13:15:46 -0400
+Date: Wed, 30 Sep 92 13:20:30 EDT
+From: johnc@gdstech.grumman.com (John Colasante)
+Received: by gdstech.grumman.com (4.0/2.1-Grumman Data Systems-Woodbury)
+	id AA13396; Wed, 30 Sep 92 13:20:30 EDT
+Message-Id: <9209301720.AA13396@gdstech.grumman.com>
+To: fwk@homxc.att.com
+Cc: att!tta.com!porschephiles
+In-Reply-To: fwk@homxc.att.com's message of Wed, 30 Sep 92 11:16 EDT <9209301513.AA08351@tta.com>
+Subject: corner weights
+
+
+   With weight balancing, the only variable you can adjust is the ratio of 
+   the totals on each of the two diagonals. Assuming the total weight
+   on the left doesn't equal that on the right for your particular car,
+   you can use weight balancing to make the front weights equal (with all
+   of the excess weight on a particular side reflected in the back wheel
+   weights), or to make the backs equal (with the extra weight on the front),
+   or some other algorithm like equal front/rear RATIOS on the two sides,
+   but you can't make both front and rear side weights equal without moving
+   weight around in the car.
+
+Congrats Frank!  You're the closest one so far!  It seems there is
+alot of misconception about this.
+
+Weight balancing, or more correctly "corner" balancing attempts to
+ensure that the RATIO of front/rear wheel loads on each *side* are
+the same.  This does NOT mean:
+(a) All wheels carry the same load.
+(b) Both front *or* both rear carry the same load
+(c) Each diagonal axis carried the same load
+
+What it means is that if the driver side front carries 46% of the
+drivers side weight then the passenger side front *must* carry
+46% of the load on that side.  This eliminates the effect of the
+4 wheeled vehicle to behave like a table with one leg slightly
+shorter than the rest, ie "teeter tottering" on the *long* 
+diagonal.
+
+To do this correctly is *not* simple and requires iterations as Frank
+says.  An alignment shop must have accurate scales and this
+knowledge, plus the ability to correct and re-correct alignment
+*and* ride height of each corner until its correct, or within some
+reasonable tolerance.  
+
+The 911/914 happen to simplify this a bit because of the
+adjustability of the front end ride height.  But there is the
+rear...
+
+So now, do you really want to do this to your street car?  Are you
+getting your money's worth at the alignment shop for so called
+weight balancing?  Does the mechanic understand the higher math
+involved?  
+
+So long, I'm going down to Firestone to have my Olds Vista
+Cruiser wagon weight balanced....
+
+John C 
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 14:45 EDT
+From: fwk@homxc.att.com
+Subject: Re: corner weights
+
+John Colasante writes:
+
+>   (Frank Kerfoot writes)
+>
+>   With weight balancing, the only variable you can adjust is the ratio of 
+>   the totals on each of the two diagonals. Assuming the total weight
+>   on the left doesn't equal that on the right for your particular car,
+>   you can use weight balancing to make the front weights equal (with all
+>   of the excess weight on a particular side reflected in the back wheel
+>   weights), or to make the backs equal (with the extra weight on the front),
+>   or some other algorithm like equal front/rear RATIOS on the two sides,
+>   but you can't make both front and rear side weights equal without moving
+>   weight around in the car.
+>
+>Congrats Frank!  You're the closest one so far!  It seems there is
+                             ^^^^^^^
+Thanks. What did I miss?
+
+>alot of misconception about this.
+>
+>Weight balancing, or more correctly "corner" balancing attempts to
+>ensure that the RATIO of front/rear wheel loads on each *side* are
+
+I'm not sure that equal ratio's is always the best objective,
+but we may be picking nits. I would have suspected that different cars
+might slightly prefer equal front weights at the expense of more 
+imbalance in the rear, and others vice-versa. In any case all of this
+is very much at the fine tuning level.
+
+>
+>To do this correctly is *not* simple and requires iterations as Frank
+>says.  An alignment shop must have accurate scales and this
+>knowledge, plus the ability to correct and re-correct alignment
+>*and* ride height of each corner until its correct, or within some
+>reasonable tolerance.  
+
+To do it really right requires iterations, good equipment, time,
+and understanding, and if you are looking for the last 0.1 sec on
+the track (and are a good enough driver to take advantage of the
+difference), you will want this kind of job. By the way, with any
+car with rubber bushings it is very hard (impossible?) to get the
+car to settle after a weight adjustment well enough to measure
+suspension alignment accurately without driving the car for a while,
+so the iterations take considerable time.
+
+However, you can take advantage of weight balance at another level.
+There are cars out there, which, through some combination of poorly
+thought out adjustments or accident damage, have significantly more
+than half of their weight on one diagonal. In effect, they are
+"teeter-tottering" on one pair of diagonal wheels. You can't see this
+necessarily from static ride height. A relatively crude measurement
+and adjustment that gets the diagonal totals roughly equal (even within
+a hundred pounds or so) can make some terrible cars significantly
+better. 
+
+My advice would therefore be to have someone check weight balance once 
+to make sure you don't have a serious misadjustment, but take their
+pronouncement that they "got it within a few pounds" with a grain
+of salt.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+------------------------------
+
+Date: Wed, 30 Sep 92 16:00:28 EDT
+From: vayda@erim.org (Alan Vayda)
+Subject: Re: Cottage-Cheese coolant
+
+It sounds like you have oil in your coolant.  This is probably due to
+a leaky oil cooler or head gasket.  Apparently, on 944's the most
+likely cause is the oil cooler.  Perhaps this info will save you from
+repeating my mistake.  I had the head gasket replaced (upon the
+recommendation of my mechanic, not a Porsche dealer) only to find out
+that the oil cooler was the actual cause of the problem. 
+
+Alan Vayda
+vayda@erim.org
+
+
+------------------------------
+
+Date: Wed, 30 Sep 92 16:51:14 EDT
+From: ba08003@bingsuns.cc.binghamton.edu (ba08003)
+Subject: Re: Cottage-Cheese coolant
+
+
+
+The netters are correct as usual:
+
+The cottage cheese was from oil contaminating the coolant!
+The dealer said he'd have to replace gaskets, bearings (etc..  I wasn't
+really paying attention.. the car is under extended warranty.. for all I
+care, let them rebuild the thing.)
+
+Why does this coolant/oil "mixing" seem to be such a problem on 944's?
+(This reminds me of the infamous motor-mount problem; I have yeet to
+meet a long term 944 owner who hasn't replaced his at least once.)
+
+
+The New York Times today characterized the situation at Porsche AG as
+being near despiration...  I can see no light at the end of the tunnel
+at Porsche unless prices come down (yeah, right.)  
+
+BTW 
+
+I thought I read that they're planning to come out with a 968 Turbo.
+Is this true?  If so, what would the specs be? (I'd imagine that it
+would closely approach the 911 Turbo's performance at less than one-half
+the price.)
+
+
+Adam
+ 
+
+------------------------------
+
+Date: Wed, 30 Sep 92 21:38:41 -0500
+From: stan (Stan Hanks)
+Subject: Re: CV Joints
+
+>Car: '82 911 SC
+>
+>I realized we've covered this topic on several occasions,
+>but I've begun to notice the tell-tale signs of potential
+>problems.  Namely, the "click" when releasing the clutch
+>on a standing start.  When I manually twist the half-shaft
+>I find a fair amount more play on one side than the other.
+>The boots look okay.  
+
+Sounds like the CV joints.
+
+>1. I've got 2 more autocrosses left this season and I'd
+>like to wait until the racing's done for the year before
+>tearing the car apart.  Would I be exacerbating the 
+>problem by racing on it as it is, or should I deal with
+>it now?
+
+Clicking sounds in the CV mean it's dead. You can in theory
+have it "rebuilt" but *DON'T DO THAT ON A 911*. The metalurgy
+in the repair kits isn't as good as factory original.
+
+>2. When this type of problem manifests itself, is it possible
+>to fix, or is it typically a replacement job?
+
+The fix is to replace the CVs. You can do all 4 in about 3 
+hours. All it takes is money....
+
+FYI, I did mine about two years ago. Each CV had chewed up
+at least one bearing, and seriously scored the races. Bleah.
+
+Stan
+
+------------------------------
+
+Date: Wed, 30 Sep 92 21:51:34 -0500
+From: stan (Stan Hanks)
+Subject: Re: trailing arms
+
+>Chris is correct in stating that there is an optimal chassis
+>setup technique, however how practical is it?  Let's face it
+>we don't all have chassis balance scales nor the desire/time/money
+>to set up our fun/recreational vehicles like Hurley Haywood
+>rocketing down the straight at Sebring.  
+
+True enough. But there are *lots* of SCCA types out there who
+would be happy to let you use their corner weighting scales for
+say helping them around the shop some plus a case of Bass Ale
+or some such. And scales aren't that expensive -- under $1000 or
+so.
+
+>I agree that chassis balancing is more "correct", but for a street
+>car the factory height adjustment scheme has served me fine.  And
+>as a bonus, it usually works out favorable on the balance side too!
+
+Usually. If you don't have "unusual" problems. And if your torsion
+bars are all relatively fresh. For example, I run my street 911 in 
+autox and driving schools, and like a very well balanced feel. Problem:
+I weigh close to 300 lbs.  Now for you "little girly men" out there, 
+say 150 lbs and under, this isn't that critical.  But at my weight, 
+that's a significant spring preload that *has* to be corrected.
+The answer: corner scales, plus 300 lbs of cast iron ballast to load 
+the car with to simulate me while I adjust it. 
+
+>Also, I don't know where the engine in *your* 911 is, but I wouldn't
+>be able to get "roughly equal" weight on "each wheel" unless I had
+>Ed Macmahon sitting in the boot!
+
+We balance the 911 GTU to within 5 lbs per wheel. Admittedly, not
+an average case, but still...
+
+Stan
+
+------------------------------
+
+Date: Wed, 30 Sep 92 22:06:11 -0500
+From: stan (Stan Hanks)
+Subject: Re: 911SC air box woes
+
+>  Have you heard of anyone else try this?  What is a good adhesive to use?
+>Luckily, I had saved the "hole" piece I got from drilling for the pop-off
+>valve so I can do adhesive experiments on it.  So far I have tried epoxy,
+>super-glue, plastic pipe glue, and 3M's structural adhesive (sold by Automotion
+>as a "super glue" to install pop-off valves).  Nothing seems to stick.  I
+>believe the air box is made of Bakelite plastic (phenolic?).
+
+Nope. All busted air boxes I know of have had to be replaced. But good luck
+if you want to keep trying glue.
+
+>In the likely case that gluing doesn't work, can any of you offer any
+>hints/suggestions on replacing the air box, i.e.:
+>
+>How hard of a job is it?
+
+If you have very long thin arms with an extra elbow per limb, it's a
+snap 8{). I'll admit to not having exactly an average build, but I had
+to seek help to get to some of the rear-ward connections. Arm was too
+big for available hole.
+
+>Anything tricky about the job?
+
+Nope. See your friendly factory manual first, though. Takes about 5 hours.
+
+>Do I need any other parts besides what are listed below?
+>	a new air box
+>	6 intake gaskets
+>	6 intake boots
+>	6 injector seals
+>	16 copper crush washers for fuel distributor
+>	a pop off valve
+
+Nothing else comes to mind. But I'd seriously consider using the aluminium
+air box sold by several aftermarket places, like Performance Products,
+Automotion, etc. rather than another plastic box. Plus, they usually already
+have the pop-off valve installed. And if I had the fuel distributor off, I'd
+also change the fuel filter. Not that I'm paranoid, but...
+
+And you might need to have the CO re-adjusted afterwards. Count on it.
+
+>P.S. This problem caught me completely off guard.  I had brought my car in
+>     to diagnose a pinging problem between 3-4 k rpm.  A cracked air box would
+>     seem to explain the problem since a vacuum leak would cause a lean fuel
+>     mixture.  Does anyone disagree?
+
+Could be the case. Also could be bad FI seals in general.
+
+Stan
+
+------------------------------
+
+Date: Wed, 30 Sep 92 21:47:35 PDT
+From: Datsun Dave Coleman <dcoleman@jarthur.Claremont.EDU>
+Subject: Re: 911SC air box 
+
+> Subject: Re: 911SC air box woes
+
+	Ok, sitting back here listening to Porsche talk until I can get one,
+another queston comes up.  What air box are you talking about?  I have
+driven several 911s, gotten my hands dirty right up to the armpit under the
+hood (trunk?  lid?  bonnet?  thing?), and paid lots of attention when I was
+there, but I just havn't been there long enough.  I thought I knew what the
+air box was until you started talking about pop-off valves.  It must be
+somewhere after the throttle body, but where?  And why the need for a
+pop-off valve?
+
+	I hope such pedestrian "wha's dat?" questions aren't too annoying,
+but I have to figure these things out somehow, and my insurance company
+won't let me have a Porsche yet!
+
+
+	-Dave
+
+------------------------------
+

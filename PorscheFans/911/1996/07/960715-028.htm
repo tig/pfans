@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  A note about message formatting, and sendmail problems</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="PorscheFans-911@ioio.com">
+  <META NAME="MsgPropFrom" CONTENT="'Gabriel M. Thomas' <gthomas@snowdog.dns.resnova.com>">
+  <META NAME="MsgPropSubject" CONTENT="A note about message formatting, and sendmail problems">
+  <META NAME="MsgPropDate" CONTENT="Fri, 12 Jul 1996 14:24:07 -0400">
+  <META NAME="MsgPropReply-To" CONTENT="gthomas@ctron.com">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">PorscheFans-911@ioio.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">Gabriel M. Thomas &lt;gthomas@snowdog.dns.resnova.com&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">A note about message formatting, and sendmail problems</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Fri, 12 Jul 1996 14:24:07 -0400</td></tr>
+</table>
+<pre>
+
+Hi all.
+
+I apologize for the non-porsche content, but I don't know the administrator's
+email address.  Sooo, I figured I would send my plea to the group instead...
+
+Lately, I have noticed that my copy of the digest occasionally gets truncated
+prematurely.  After doing a bit of investigating, I think I have found the
+problem.
+
+For those of you unfamiliar with the Unix mail command, a period (.) on a line
+all by itself is used to terminate the message.  It turns out that another mail
+application, called sendmail, also uses the . character for message 
+termination.
+
+sendmail is an actual transport program used for delivery of mail between
+systems on the net, so when sendmail gets a copy of the digest that contains
+a . on a line all by itself, such as the July 8 and 11 pfans, it assumes that
+the message is all done, and stops accepting data.  Voila - short pfans.
+
+What this means is that anyone who has sendmail between their mailbox and
+ioio.com will probably also have seen this problem and be wondering who is out
+to spoil their fun.
+
+Resolution of this problem is pretty simple:
+
+	PLEASE do not put a . on a line all by itself!
+
+Thanks.
+
+-Gabe Thomas
+
+------------------------------------------------------------------------------
+Gabe Thomas              |     Phone: (603) 337-2942
+Firmware Engineer        |       Fax: (603) 337-1773
+Cabletron Systems, Inc.  |    E-Mail: gthomas@ctron.com
+Rochester, NH 03866-5005 | '82 911SC metallic chocolate (what's the real name?)
+------------------------------------------------------------------------------
+
+
+
+==================================
+PorscheFans 911/912 Message
+For help, send an e-mail to PorscheFans@ioio.com.  You will get an automated reply.
+To post a message to PorscheFans 911, send an e-mail to PorscheFans-911@ioio.com
+.
+</pre>
+</BODY></HTML>

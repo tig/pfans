@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>Mailing List Message -  Bininary Attachements to mail messages</TITLE>
+  <META NAME="GENERATOR" Content="DigestSplitter">
+  <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <LINK REL=StyleSheet HREF="/porsche/pfans2/archive/msg.css" TYPE="text/css" MEDIA=screen>
+  <META NAME="MsgPropTo" CONTENT="general@porschefans.com">
+  <META NAME="MsgPropFrom" CONTENT="John Snodgrass <johns@magicnet.net>">
+  <META NAME="MsgPropSubject" CONTENT="Bininary Attachements to mail messages">
+  <META NAME="MsgPropDate" CONTENT="Wed, 17 Dec 1997 18:23:53 -0500 (EST)">
+</HEAD><BODY>
+<table>
+<tr><td class="HeaderItemLabel">To:</td><td class="HeaderItemContent">general@porschefans.com</td></tr>
+<tr><td class="HeaderItemLabel">From:</td><td class="HeaderItemContent">John Snodgrass &lt;johns@magicnet.net&gt;</td></tr>
+<tr><td class="HeaderItemLabel">Subject:</td><td class="HeaderItemContent">Bininary Attachements to mail messages</td></tr>
+<tr><td class="HeaderItemLabel">Date:</td><td class="HeaderItemContent">Wed, 17 Dec 1997 18:23:53 -0500 (EST)</td></tr>
+</table>
+<pre>
+Someone was asking about their mail program sending two messages out.  I
+have seen situations where my email program shows an attachment called
+winmail.dat.  I did some checking at work today and found the following
+article on the Microsoft Technet CD about Microsoft Exchange.  If this
+helps great.
+
+This is pretty long.
+
+======================================================================
+-----------------------------------------------------------------------
+The information in this article applies to:
+ 
+ - Microsoft Exchange Server, version 4.0
+ - Microsoft Exchange Windows clients, version 4.0
+-----------------------------------------------------------------------
+ 
+SUMMARY
+=======
+ 
+When you send mail to the Internet from a Microsoft Exchange Windows
+client, an file attachment called WINMAIL.DAT may be added to the message.
+This attachment contains Microsoft Exchange rich-text information for the
+message being sent. The WINMAIL.DAT file may not be useful to
+non-Microsoft
+Exchange recipients. The information in the WINMAIL.DAT file may appear on
+the receiving end as binary information at the end of the mail message.
+ 
+This article describes how to prevent sending the WINMAIL.DAT attachment
+to
+Internet users when you are using the Microsoft Exchange Internet Mail
+Connector (IMC).
+ 
+MORE INFORMATION
+================
+ 
+You can control whether or not to send rich-text format in any one of the
+following ways:
+ 
+1. Creating Custom Recipients
+   When the administrator creates a custom recipient using the Microsoft
+   Exchange Administrator program, clear the "Always Send To This
+Recipient
+   In Microsoft Exchange Rich-Text Format" check box.
+ 
+2. Modifying Existing Microsoft Exchange and Custom Recipients
+   The administrator can modify an existing user account (Microsoft
+   Exchange user or custom recipient) to not send rich-text format
+   information, by clearing the MAPI Recipient check box in the Advanced
+   property page of the recipient's properties. You can view the
+   recipient's properties by selecting the recipient name and then
+choosing
+   Properties from the File menu.
+ 
+3. Addresses in the Personal Address Book
+   The user can modify the Internet addresses in a their personal address
+   book not to send rich-text information by clearing the "Always Send To
+   This Recipient In Microsoft Exchange Rich-Text Format" check box in the
+   SMTP - Address property page of the Internet address in the PAB. To
+   obtain the properties of an entry in a PAB, select the entry and choose
+   Properties from the File menu.
+ 
+4. Configuring the Internet Mail Connector (IMC)
+   The administrator can configure the IMC to send or not to send
+rich-text
+   information by following the steps below:
+ 
+   a. Bring up the properties of the Internet Mail Connector.
+ 
+   b. Select the General property page.
+ 
+      The Send Microsoft Exchange Rich Text list box controls the sending
+      of rich-text data. There are three values to choose from:
+ 
+       - If the value is set to User, the recipient properties are used to
+         determine whether or not to send rich-text information.
+ 
+       - If the value is set to Always, rich-text information is always
+         sent, regardless of the recipient properties.
+ 
+       - If the value is set to Never, rich-text information is never
+sent.
+ 
+   You can also configure whether or not to send rich-text information on
+   a per-domain basis. To define e-mail domains and the message settings
+   for that domain, click the E-Mail Domain button.
+ 
+5. One-Off Addressing
+   You can send e-mail to an Internet user from an Exchange client, using
+   One-Off addressing. One-Off addressing allows sending a message to
+   addresses that are not in the Personal Address Book, the Global Address
+   List, or in any recipient containers.
+ 
+   Depending on the type of the One-Off address used, rich-text
+information
+   is or is not sent with the message:
+ 
+   a. Rich-Text Information Sent:
+ 
+      If the One-Off address has the following format, rich-text
+      information is sent with the message:
+ 
+         [SMTP:<SMTP Address>]
+ 
+      where SMTP Address is any valid SMTP address, for example:
+ 
+         user@domain.com
+ 
+      To verify that rich-text information is sent:
+ 
+         1) Select the Check Names command from the Tools menu after
+typing
+            the address in the above format.
+ 
+            This should display the SMTP address without the "SMTP:." The
+            name should be underlined.
+ 
+         2) Bring up the Properties of the address by double clicking it.
+ 
+            If the option "Always send to this recipient in Microsoft
+            Exchange rich-text format" is checked indicating that
+rich-text
+            information (the WINMAIL.DAT file) is sent along with the
+            message.
+ 
+   b. Rich-Text Information Not Sent:
+ 
+      If you use a One-Off address and you do not want to send rich-text
+      information to the recipient, the address should have the following
+      format:
+ 
+         <SMTP Address>
+ 
+      where SMTP Address is any valid SMTP Address, for example:
+ 
+         user@domain.com
+ 
+   NOTE: Unlike the address in step 5.a. above, the SMTP Address is not
+   proceeded by "SMTP:" and the address is not enclosed in square
+   brackets.
+ 
+   If you click the Check Names command and then get the properties of the
+   address, you can see that the rich-text option is not selected.
+ 
+   However, no matter what option is selected for the address of the
+   recipient, the IMC settings determine whether or not rich-text
+   information is transmitted. If the IMC is set to never send rich-text
+   data, then even if the properties of the recipient address have the
+   rich-text option selected, no rich-text is transmitted.
+ 
+   If the IMC has separate settings for individual domains, then the
+   settings for those domains takes precedence for all messages addressed
+   to users in those domains.
+ 
+Additional query words: rtf internet mail ..dat
+======================================================================
+Keywords            : kbusage XFOR
+Version             : 4.0 5.0
+Platform            : WINDOWS
+Issue type          : kbhowto
+=============================================================================
+Copyright Microsoft Corporation 1997.
+
+
+I don't use Microsoft Exchange, so I probably can't help.
+
+.
+
+</pre>
+</BODY></HTML>

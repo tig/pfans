@@ -1,0 +1,2861 @@
+From porschephiles-request Fri Nov  1 04:34:39 1991
+Received: by karazm.math.UH.EDU id AA22999
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 1 Nov 1991 14:39:19 -0600
+Received: from taurus.cs.nps.navy.mil (taurus-campus.cs.nps.navy.mil) by karazm.math.UH.EDU with SMTP id AA22995
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 1 Nov 1991 14:39:17 -0600
+Received: from atlas.cs.nps.navy.mil.nps.navy.mil by taurus.cs.nps.navy.mil (4.1/cs.nps-1.0)
+	id AA01667; Fri, 1 Nov 91 12:34:39 PST
+Date: Fri, 1 Nov 91 12:34:39 PST
+From: erickson@taurus.cs.nps.navy.mil (David Erickson)
+Message-Id: <9111012034.AA01667@taurus.cs.nps.navy.mil>
+To: porschephiles@karazm.math.uh.edu
+Subject: Re: PAP
+
+
+The problem I posted about last week has finally been resolved.  PAP sent
+me a credit for the valve springs purchased and returned last March.
+There was no explanation or apology, and they still have not returned any
+recent phone calls, but at least the problem is resolved.
+
+-Dave Erickson
+
+From porschephiles-request Fri Nov  1 11:00:35 1991
+Received: by karazm.math.UH.EDU id AA23179
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 1 Nov 1991 15:05:45 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA23175
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 1 Nov 1991 15:05:42 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA02818; Fri, 1 Nov 91 16:00:35 -0500
+Date: Fri, 1 Nov 91 16:00:35 -0500
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9111012100.AA02818@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu, school@sol.crd.ge.com
+Subject: 951 suspension upgrade?
+
+My '87 944 turbo needs shocks.  A friend wants to sell me his shocks
+(Koni adjustable), adjustable front springs, sway bars, and rear torsion
+bars from his '89 turbo (Turbo S suspension). He took them off the car
+at about 5k miles.
+
+I've called a few mechanics and they all 'think' that everything will fit.
+
+I'm driving Rd. Atlanta and Talledega 3 or 4 times a year each.  I swore
+that I wouldn't spend money on upgrading the car (it's still stock - I
+haven't even put a chip in it), but if the price is right I'm tempted.
+I'll have everything torn apart to install the shocks anyway -
+installing the new springs and sway bars shouldn't add too much to the
+job.
+
+So I guess I'm looking for a little net wisdom: will the springs and
+sway bars make a noticable difference on the car (I'll be buying shocks
+regardless)? Has anyone ever done this? I've called Kemper Bros. and PAP
+to determine a 'fair' price on the parts, but neither had any in stock
+and would not quote a price. Where else might I call?
+
+Thanks,
+
+BTW - I decided not to buy that bolt-in-the-seat-belt roll bar. I'll
+probably eventually break down and bolt in an SCCA-approved bar.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request Sat Nov  2 02:01:00 1991
+Received: by karazm.math.UH.EDU id AA24403
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 1 Nov 1991 20:20:33 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA24399
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 1 Nov 1991 20:20:31 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad02759;
+          1 Nov 91 21:06 EST
+Date: Sat, 2 Nov 91 02:01 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: STEVE TYNOR <tynor@prism.gatech.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Cc: school <school@sol.crd.ge.com>
+Subject: Re: 951 suspension upgrade?
+Message-Id: <13911102020131/0004056890NA2EM@mcimail.com>
+
+Steve -
+
+This is a good question, and I'm not completely sure of the answer.  The Turbo S
+front axle is a little different from the '87 Turbo.  According to the manual,
+the changes were made to:
+
+  strut bearing
+  shocks
+  springs
+  struts
+  steering knuckle
+  wheel hub
+  brake disk
+
+all of which jibes with my memory of changes.  The springs themselves are not
+adjustable.  It's the threaded spring perch on the strut which allows them to be
+adjusted.  I suspect the springs, by themselves, just might be useable.  The
+pre-S springs are softer and taller, and the "S" springs were available as part
+of the '87 951 option M030 sports chasis, aka Club Sport.  Then again, perhaps
+the M030 package included the different struts as well.  I am unsure.
+
+You can get a stiffer set (with spacers) from Weltmeister if that's what you'd
+like.  Very cheap.
+
+I believe you can use the sway bars and torsion bars.  They too were available
+as part of the M030 package, and I don't think any suspension components with
+which they mate were changed.  The Turbo S package just put a new name on
+something which was largely already available.  Remember that, initially,
+Porsche sold the Turbo S as a separate "option package."
+
+Let me knowwhat you learn.
+
+Kevin
+
+From porschephiles-request Mon Nov  4 04:13:00 1991
+Received: by karazm.math.UH.EDU id AA06104
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 4 Nov 1991 08:21:34 -0600
+Received: from att.att.com by karazm.math.UH.EDU with SMTP id AA06100
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 4 Nov 1991 08:21:30 -0600
+Message-Id: <199111041421.AA06100@karazm.math.UH.EDU>
+From: fwk@homxc.att.com
+Date: Mon, 4 Nov 91 09:13 EST
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: porschephiles@karazm.math.uh.edu
+Subject: 944 balance shaft seals
+
+Last weekend I decided to change the antifreeze in my 87 944S (and at the
+same time change a leaking heater valve). When I removed the splash pan
+on the bottom, I saw some oil drops on the bottom of the belt housing,
+so I decided to investigate. I removed the front belt housing (upper and
+lower parts), and found a fair amount of evidence of oil leakage. Near
+the upper balance shaft sprocket there were black, relatively hardened
+oil deposits, as if there had been minor leakage for a long time (the car
+has 33K miles on it). There were similar "old" oil deposits elsewhere,
+including near the bottom shaft sprocket, but they were most significant
+near the upper shaft. There were traces of fresh oil in lots of places,
+so it is hard to tell what is leaking now. Incidently, the balance shaft
+belt was very loose- I could actually rotate each of the balance shafts
+slightly using the play in the belt. The "expensive noises" belt (e.g. 
+the cam belt) at least felt quite tight to the touch. I plan to replace
+both belts as a matter of course (the cam belt has only 13K miles since
+the factory recall replacement (944S only)). However, I have some other
+related questions:
+
+How much evidence of slow oil seepage is typical when one removes the 
+housing to tension belts?
+
+Are the balance shaft seals prone to leakage, or is the leakage symptomatic
+of a bigger problem (such as play in the front balance shaft bearings)?
+
+Can the balance shaft seals be replaced just be removing the sprockets,
+or do the front bearing housings need to be removed?
+
+If the latter, can they be removed with the balance shafts and side covers
+in place?
+
+To get there, I assume I will need to pull the crankshaft pulley to get
+off the back half of the belt housings. Any insights on holding the
+crankshaft to loosen the bolt, or gear pullers which fit without
+dismantling the rest of the car (I don't think any of mine will fit)?
+
+While I am there are there any characteristics (play, noise, etc) which
+indicate impending water pump failure?
+
+Any thoughts on "preemptive" pulley replacement (and wuich)? I will
+of course replace any if the idlers or tensioner pulleys which are noisy.
+
+Any guesses as to why the balance shaft belt got as loose as it did?
+I assume it was tensioned 13K miles ago when the cam belt was replaced.
+
+Thanks for the help.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+
+From porschephiles-request Mon Nov  4 01:58:19 1991
+Received: by karazm.math.UH.EDU id AA06872
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 4 Nov 1991 12:00:30 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA06868
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 4 Nov 1991 12:00:28 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA07965; Mon, 4 Nov 91 09:58:19 PST
+Date: Mon, 4 Nov 91 09:58:19 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9111041758.AA07965@hyperion.llnl.gov>
+To: fwk@homxc.att.com
+Subject: Re:  944 balance shaft seals
+Cc: porschephiles@karazm.math.uh.edu
+
+Frank,
+
+>How much evidence of slow oil seepage is typical when one removes the
+>housing to tension belts?
+
+I don't think any oil seepage is typical in the sense of "to be
+expected and tolerated".  Certainly if the oil is entering the
+belt covers, the problem should be addressed.
+
+>Are the balance shaft seals prone to leakage, or is the leakage symptomatic
+>of a bigger problem (such as play in the front balance shaft bearings)?
+
+I had a lot of trouble with all of the seals on the front of the
+engine in the '84 944 I used to own.  The seals in my 951 seem to be
+behaving much better.  I think leaking seals are not at all
+uncommon on these cars, and are not necessarily an indication of more
+serious problems.  The fact that Automotion sells a front end seal
+"kit" for 944s makes me think that they found a need and filled it.
+
+>Can the balance shaft seals be replaced just be removing the sprockets,
+>or do the front bearing housings need to be removed?
+>If the latter, can they be removed with the balance shafts and side covers
+>in place?
+
+I believe that the seals can be replaced without bothering the bearing
+housings, but I have not done this myself to say for sure.
+
+>To get there, I assume I will need to pull the crankshaft pulley to get
+>off the back half of the belt housings. Any insights on holding the
+>crankshaft to loosen the bolt, or gear pullers which fit without
+>dismantling the rest of the car (I don't think any of mine will fit)?
+
+Yes, the pulley has to come off to get the back cover off.  You have
+to remove the starter and use the flywheel to prevent the crank from
+turning while you turn the center bolt (which requires significant
+torque).  There is a tool you can buy that engages the flywheel teeth
+and bolts into the starter mount.  The tool costs about $45 and makes
+the job a one man operation.  A cheaper alternative that I have used
+successfully is to get an assistant to hold a screwdriver between the
+side of the starter opening and the flywheel teeth.  I did find that a
+large gear puller was necessary to get the pulley off the crankshaft,
+but I don't recall having any problems getting clearance for it (ie,
+didn't have to remove the radiator or anything radical like that).
+
+>While I am there are there any characteristics (play, noise, etc) which
+>indicate impending water pump failure?
+
+All of the above are indicators of a pump going bad.  In my
+experience, a pump can exhibit these characteristics for quite some
+time before it actually fails, so it is hard to predict "impending"
+failure.  The most obvious indicator of a failing pump is whitish
+coolant residue on the bottom of the engine and belts covers.  If you
+have the belt covers off, you can easily see a trail of coolant
+issuing from the pump shaft.  With the belts off, the pump bearing can
+be tested by grabbing the pulley and seeing if you can wiggle it.
+Failing bearings will make noise after a while, the frequency of which
+changes with engine speed.
+
+>Any thoughts on "preemptive" pulley replacement (and wuich)? I will
+>of course replace any if the idlers or tensioner pulleys which are noisy.
+
+I have wondered about this myself.  I can imagine what a worn sprocket
+might look like, but have never actually seen one.  With only 33K on
+your car, I would guess that you wouldn't have to worry about this for
+a while (but it would still be nice to know the answer).
+
+>Any guesses as to why the balance shaft belt got as loose as it did?
+>I assume it was tensioned 13K miles ago when the cam belt was replaced.
+
+Hard to say.  One can speculate on all the possibilities (belt
+stretched too much (was it a Porsche belt or an after-market?), belt
+wasn't retensioned when the cam belt was replaced, belt was not
+tensioned properly, the nut on the tensioning pulley was not torqued
+properly (45 Nm) and the the tensioner moved, etc.).  It will be hard
+determine the exact cause unless you did the tensioning yourself and
+knew that it was done correctly.
+
+Good luck,
+Milo
+
+
+
+
+From porschephiles-request Tue Nov  5 03:31:00 1991
+Received: by karazm.math.UH.EDU id AA13204
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 4 Nov 1991 21:46:14 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA13200
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 4 Nov 1991 21:46:11 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af16709;
+          4 Nov 91 22:36 EST
+Date: Tue, 5 Nov 91 03:31 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: fwk <fwk@homxc.att.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 balance shaft seals
+Message-Id: <31911105033113/0004056890NA3EM@mcimail.com>
+
+Frank -
+
+My understanding is that balance and cam shaft seal leaking is not uncommon, nor
+is it something to worry about a lot.  When PCNA bought me a water pump a few
+years back, the mechanic noticed that my seals were leaking and replaced them. 
+I would worry if the rate of seepage were great, or if there were any chance it
+could leak onto the cam belt.  I have never heard that oil leaking from the
+balance shaft indicates bearing disease.
+
+I dunno about having to pull all the sprockets to get the back cover off.  Could
+be.  The workshop manual tells you how to line them back up, in any event.
+
+Btw, the sprockets are a "wear item" I have learned.  When my belt broke, they
+replaced "everything the belt touched," which I take to include all the
+sprockets and the idler.  Dick Howe (the 'beast' car) has replaced his a number
+of times.  I believe the idler roller is generally replaced with a new belt, but
+am unsure. (I know who to ask if you don't get a definite answer from someone
+else.  Let me know.)
+
+The special "pusher" for inserting the balance shaft seals looks pretty useful. 
+You apparently need two special tools for the flywheel-end crank seal.  I don't
+know whether these guys are vital to the job.  The two balance shaft seals and
+the crank seal are all different sized.
+
+Oh yeah, Milo, the torque on the tensioner nut and bolt is 20 Nm, not 45!  It's
+the idler roller that gets 45 Nm!
+
+Kevin
+
+From porschephiles-request Wed Nov  6 02:32:00 1991
+Received: by karazm.math.UH.EDU id AA03565
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 5 Nov 1991 20:50:26 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA03561
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 5 Nov 1991 20:50:24 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ac01302;
+          5 Nov 91 21:42 EST
+Date: Wed, 6 Nov 91 02:32 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: fwk <fwk@homxc.att.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 balance shaft seals
+Message-Id: <20911106023202/0004056890NA3EM@mcimail.com>
+
+Frank -
+
+I visited my mechanic this AM, and asked him about the balance shaft seals.  He
+recommended attending to them promptly, because oil and belts shouldn't be
+allowed to mix.  He also said that the "spacers" (what the manual calls them, he
+had some other term for them) onto which the BS seals push are replacement
+items.
+
+Jerry also said to point out the importance of coating the drive gear bolts with
+sealant, as described in the workshop manual.  Apparently it is not uncommon for
+a mechanic to fail to do this, oil leaks like crazy, and heads are scratched.
+
+Kevin
+
+From porschephiles-request Tue Nov  5 14:43:13 1991
+Received: by karazm.math.UH.EDU id AA04738
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 00:45:05 -0600
+Received: from hyperion.llnl.gov by karazm.math.UH.EDU with SMTP id AA04734
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 00:45:04 -0600
+Received: by hyperion.llnl.gov (4.1/LLNL-1.18)
+	id AA08752; Tue, 5 Nov 91 22:43:13 PST
+Date: Tue, 5 Nov 91 22:43:13 PST
+From: dorr@hyperion.llnl.gov (Milo Dorr)
+Message-Id: <9111060643.AA08752@hyperion.llnl.gov>
+To: 0004056890@mcimail.com
+Subject: Re: 944 balance shaft seals
+Cc: porschephiles@karazm.math.uh.edu
+
+>Oh yeah, Milo, the torque on the tensioner nut and bolt is 20 Nm, not
+>45!  It's the idler roller that gets 45 Nm!
+
+Kevin,
+
+I just forgot you and Frank have the mechanical belt tensioner.  My
+car has the old eccentric tensioning gizmo that definitely wants the 45Nm
+(as does everything else associated with the belts).
+
+-Milo
+
+
+
+From porschephiles-request Wed Nov  6 02:47:49 1991
+Received: by karazm.math.UH.EDU id AA05482
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 06:44:27 -0600
+Received: from aixservr.egr.duke.edu (squid.egr.duke.edu) by karazm.math.UH.EDU with SMTP id AA05478
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 06:44:25 -0600
+Received: by aixservr.egr.duke.edu (5.61-AIX-1.2/1.0)
+	id AA1176331 (for porschephiles@karazm.math.uh.edu, from js/js@aixservr.egr.duke.edu); Wed, 6 Nov 91 07:47:49 -0500
+Date: Wed, 6 Nov 91 07:47:49 -0500
+From: js@aixservr.egr.duke.edu (Jeff Shorey)
+Message-Id: <9111061247.AA1176331@aixservr.egr.duke.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Chain tensioner failure?
+
+  I've always heard that chain tensioner failure is preceded by a rattle
+"just above idle".  Is this the correct symptom?  Is the noise just above idle
+or is it at an RPM just above idle?  Hmmm...
+
+  I have 83 SC style tensioners with those little blue safety rings on my
+engine.  It was rebuilt in 83 and has only 40K miles on it since then.  What's
+happening is a nasty rattle will begin while driving (not at idle) after the
+engine has been at a higher RPM for a few seconds.  The rattle can be quieted
+by letting the engine go back to idle and then engaging the clutch again.
+After a few more seconds, the rattle will reappear.  This mainly occurs when
+it is cold outside, and more recently when the car is fully warmed up (but
+not in between...?).  Sometimes I can get it to occur with the hand throttle
+full up and I've poked around trying to find where it's coming from, but to
+no avail (it's not the heat exchanger covers...).
+
+  Is this the bad news I've been waiting for?  Are my tensioners failing?  Or
+did someone just drop some bolts into my exhaust manifold...  The rattle is
+very obnoxious from the outside, but can barely be heard inside the car with
+the windows up.
+
+- Jeff Shorey  js@egr.duke.edu
+
+From porschephiles-request Wed Nov  6 04:28:49 1991
+Received: by karazm.math.UH.EDU id AA05918
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 08:33:22 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA05914
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 08:33:20 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA14722; Wed, 6 Nov 91 09:28:50 EST
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA09170; Wed, 6 Nov 91 09:28:49 EST
+Date: Wed, 6 Nov 91 09:28:49 EST
+From: weltyc@cs.rpi.edu
+Message-Id: <9111061428.AA09170@porsche.cs.rpi.edu>
+To: js@aixservr.egr.duke.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Jeff Shorey's message of Wed, 6 Nov 91 07:47:49 -0500 <9111061247.AA1176331@aixservr.egr.duke.edu>
+Subject: Chain tensioner failure?
+
+
+REPLACE YOUR TENSIONERS NOW.
+
+You'll be sorry if you don't.  The old style tensioners should be
+rebuilt every 20K miles.  Or an upgrade to the Carrera tensioners
+once.  
+
+The chain rattle occurs in "overrun", when you are backing off the
+throttle, bacause this is the time when the slack on the chain is
+greatest and if the tensioner is failing it isn't taking up that slack
+and the chain is scraping against the housing.  If it's really bad
+you'll hear it at certain constant RPMs, where the harminic motion of
+the chain hits the housing (this means the tensioners have already
+collapsed). 
+
+Your problem may not be your tensioners, but they will fail
+eventually.
+
+REPLACE YOUR TENSIONERS NOW.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Wed Nov  6 08:10:45 1991
+Received: by karazm.math.UH.EDU id AA10718
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 16:15:55 -0600
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA10714
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 16:15:53 -0600
+Received: from relay.hp.com by bcm.tmc.edu (AA03841); Wed, 6 Nov 91 16:11:22 -0600
+Received: from hpteget.fc.hp.com by relay.hp.com with SMTP
+	(16.6/15.5+IOS 3.13) id AA07563; Wed, 6 Nov 91 14:11:18 -0800
+Received: by hpfcpe.fc.hp.com
+	(15.11/15.5+IOS 3.22) id AA24714; Wed, 6 Nov 91 15:10:53 mst
+From: Mick Tegethoff <mick@hpfcpe.fc.hp.com>
+Message-Id: <9111062210.AA24714@hpfcpe.fc.hp.com>
+Subject: 912 for sale
+To: porschephiles@bcm.tmc.edu
+Date: Wed, 6 Nov 91 15:10:45 MST
+Mailer: Elm [revision: 64.9]
+
+        
+        1967 PORSCHE 912
+
+        o 8K mi on new motor
+        o New Koni shocks
+        o New brakes
+        o Excellent condition inside and out
+        o New rubber all around
+
+        Reason for sale : This car is all set. I'm ready for a real project car.
+
+        Price: $8100 
+
+        For more info contact:
+
+        Mick Tegethoff
+        (303)225-9545 home
+        (303)229-6638 work
+        mvt@hpfcpe.fc.hp.com
+
+From porschephiles-request Wed Nov  6 09:44:00 1991
+Received: by karazm.math.UH.EDU id AA10796
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 16:23:19 -0600
+Received: from att.att.com by karazm.math.UH.EDU with SMTP id AA10788
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 16:23:11 -0600
+Message-Id: <199111062223.AA10788@karazm.math.UH.EDU>
+From: fwk@homxc.att.com
+Date: Wed, 6 Nov 91 14:44 EST
+Original-From: homxc!fwk (F W Kerfoot, Iii +1 908 949 6348)
+To: "Kevin C. Gross" <0004056890@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 balance shaft seals
+
+Kevin,
+
+>I visited my mechanic this AM, and asked him about the balance shaft seals.  He
+>recommended attending to them promptly, because oil and belts shouldn't be
+
+The car is apart now (at least the belt cover is off), and I will at least
+replace the seals and the belts (partially because I can't prove they haven't
+been damaged by oil). The key issue is to figure out if there is anything
+else I should do at the same time.
+
+>allowed to mix.  He also said that the "spacers" (what the manual calls them, he
+>had some other term for them) onto which the BS seals push are replacement
+>items.
+
+I assume I will just buy the "seal kit", either from Automotion or
+AutoMechanica, and install the balance shaft oil seals, the associated 
+flanged bushings the seals ride on, and the o-rings which seal them to
+the shafts. Unless I find evidence of leakage, I may not replace the
+cam oil seal. I don't know what else is in the kit.
+
+>
+>Jerry also said to point out the importance of coating the drive gear bolts with
+>sealant, as described in the workshop manual.  Apparently it is not uncommon for
+>a mechanic to fail to do this, oil leaks like crazy, and heads are scratched.
+>
+
+I'm not sure what you (or Jerry) means by "drive gear bolts". Does he
+mean the crank and cam pulley bolts? I will have to look further in my
+shop manual, because this doesn't ring a bell based on my first reading.
+Also, how does an oil leak "scratch the heads"?
+
+
+You commented in an earlier response that the sprockets are wear items.
+I haven't heard that anywhere else. I have heard much discussion about
+replacing anything with a bearing in it, toothed or not, but not the
+sprockets which are on the crankshaft, camshaft and balance wheels.
+Do you really mean sprockets? If so, can I measure the degree of wear by
+comparing the portion of the sprocket the belt runs on to that which
+it doesen't run on? Do others replace the sprockets for the balance
+shaft belt as well, or just the cam belt?
+
+By the way, Milo's comment on 45 nm of torque for the belt tension
+adjuster was in the context of the tension on the balance shaft belt,
+where I believe the torque is still 45 nm (we were discussing why the
+balance shaft belt on my car was so loose). The 20 nm number (at least 
+from memory) applies only to the cam belt tensioner on post-87 cars.
+
+Frank Kerfoot
+fwk@homxc.att.com
+
+From porschephiles-request Thu Nov  7 04:06:00 1991
+Received: by karazm.math.UH.EDU id AA13106
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 22:19:51 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA13102
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 22:19:42 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af07635;
+          6 Nov 91 23:12 EST
+Date: Thu, 7 Nov 91 04:06 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Milo Dorr <dorr@hyperion.llnl.gov>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 balance shaft seals
+Message-Id: <30911107040603/0004056890NA2EM@mcimail.com>
+
+Milo -
+
+Right, I should have guessed!
+
+Kevin
+
+From porschephiles-request Thu Nov  7 04:18:00 1991
+Received: by karazm.math.UH.EDU id AA13144
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 6 Nov 1991 22:30:27 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA13140
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 6 Nov 1991 22:30:25 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ai07762;
+          6 Nov 91 23:22 EST
+Date: Thu, 7 Nov 91 04:18 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: fwk <fwk@homxc.att.com>
+Cc: "Kevin C. Gross" <0004056890@mcimail.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 balance shaft seals
+Message-Id: <40911107041804/0004056890NA2EM@mcimail.com>
+
+Frank -
+
+The head scratching is human fingers on a human scalp!  Ie, trying to figure out
+how "that" could have happeneded.  Ah, the foibles of natural language.
+
+The bolts in question retain the drive gears for the balance shaft.  They are
+called out as items 1 and 30 om pg 13-44 of the wkshp manual.  The installation
+instructions are to "Coat threads with Loctite 574, torque: 45Nm, hold with
+Special Tool 9200."  This is the orange stuff the factory uses to seal cases,
+aka "Flachendichtung."  I believe Curil makes a similar product.  Its purpose in
+life is sealing, not locking.
+
+Regarding sprocket wear, yes, I mean the sprockets.  This was the first time I
+myself had heard them described this way.  Perhaps one need not replace them
+except in the event of a belt failure.  I have never seen any guidelines on
+evaluating their condition.  Does anyone else out there have any experience in
+this matter?
+
+Kevin
+
+From porschephiles-request Sun Nov 10 02:26:00 1991
+Received: by karazm.math.UH.EDU id AA10768
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 9 Nov 1991 20:40:15 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA10764
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 9 Nov 1991 20:40:13 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa19446;
+          9 Nov 91 21:27 EST
+Date: Sun, 10 Nov 91 02:26 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: autox <autox@hoosier.utah.edu>
+To: Rocky Entriken <0003006623@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: 914 parts clearance
+Message-Id: <01911110022610/0004056890NA2EM@mcimail.com>
+
+A friend, Brian Lay, is moving from Mass. to Washington State.  He has a large
+number of 914 parts, apparently the product of parting out several cars over the
+years.  I am told that he doesn't intend to move the parts, and would like to
+sell/give them away.
+
+If you're interested, give Brian a call at home, at 617 969 4254 EST.
+
+Kevin Gross
+
+From porschephiles-request Mon Nov 11 06:14:03 1991
+Received: by karazm.math.UH.EDU id AA18009
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 11 Nov 1991 10:18:45 -0600
+Received: from duke.cs.duke.edu by karazm.math.UH.EDU with SMTP id AA18005
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 11 Nov 1991 10:18:39 -0600
+Received: from umbriel.cs.duke.edu
+	by duke.cs.duke.edu (5.65/2.21G/4.1.1)
+	id AA11589; Mon, 11 Nov 91 11:14:05 -0500
+Received: by umbriel.cs.duke.edu (5.65/2.21L/4.1.1)
+	id AA11820; Mon, 11 Nov 91 11:14:03 -0500
+Date: Mon, 11 Nov 91 11:14:03 -0500
+From: am@cs.duke.edu (Anastassios Markas)
+Message-Id: <9111111614.AA11820@umbriel.cs.duke.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 944 T fan problem
+
+
+Radiator fan is permanently on!
+As long as the ingnition key is at position 'I' (radio on), the radiator fan
+turns on and it remains on until engine is off and ignition key is trurned off.
+The fan does not turn on after the engine is off (I assume that this is 
+because the engine is not hot so there is no need for it). 
+Does it look like a thermostat problem?
+
+Thanks in advance,
+tassos 
+
+
+From porschephiles-request Mon Nov 11 07:34:15 1991
+Received: by karazm.math.UH.EDU id AA18710
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 11 Nov 1991 12:54:38 -0600
+Received: from vnet.ibm.com (IINUS1.IBM.COM) by karazm.math.UH.EDU with SMTP id AA18681
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 11 Nov 1991 12:52:46 -0600
+Message-Id: <199111111852.AA18681@karazm.math.UH.EDU>
+Received: from KGNVMY by vnet.ibm.com (IBM VM SMTP V2R2) with BSMTP id 4078;
+   Mon, 11 Nov 91 12:38:21 EST
+Date: Mon, 11 Nov 91 12:34:15 EST
+From: "George Beuselinck" <GEORGEB@KGNVMY.VNET.IBM.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: 944 T fan problem
+
+Sounds like a thermoswitch problem.  Easy way to check: remove one of
+the connectors to the thermoswitch.  The fan should stop running.
+
+When you replace it, you may wish to consider the "early-on" type of
+thermoswitch (advertised as "activates 25 degrees F. sooner").
+
+George B.
+
+From porschephiles-request Tue Nov 12 02:46:00 1991
+Received: by karazm.math.UH.EDU id AA23111
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 11 Nov 1991 21:05:29 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA23107
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 11 Nov 1991 21:05:26 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad17570;
+          11 Nov 91 21:50 EST
+Date: Tue, 12 Nov 91 02:46 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 944 T fan problem
+Message-Id: <50911112024605/0004056890NA3EM@mcimail.com>
+
+Tassos, George -
+
+Like George says, check the coolant temperature switch.  If that isn't it, the
+problem is almost certainly with the relay (G10).
+
+I have a question regarding the aftermarket 25F lower-temperature switches to
+which George refers.  Why and how to they help?  I would assume that since the
+engine is designed for a particular thermal operating point, then lowering that
+point by some amount will only hurt.  (I remember reading a while back that
+early 911's suffered from the fact that their two-litre engines did not generate
+enough heat under street conditions to keep the engine at an acceptable
+operating temperature.)
+
+I recently put an oil temp sender and gauge in my car.  Two relevent
+observations from pure street driving.  The first is that the oil temp (in New
+England fall weather) is about 190 - 200F, which seems fine.  The other is that
+the oil warms up a lot slower than the coolant.  The water temp gauge is at its
+steady-state point (the lower white mark) a lot sooner than the oil.
+
+I am looking for increased cooling capacity, as mentioned in the past.  It is
+not clear to me that diddling the coolant temp switch will help at all the this
+respect.  Perhaps I am missing something and one of you can correct me.
+
+Kevin
+
+From porschephiles-request Mon Nov 11 14:38:13 1991
+Received: by karazm.math.UH.EDU id AA23433
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 11 Nov 1991 22:42:52 -0600
+Received: from longs.LANCE.ColoState.Edu by karazm.math.UH.EDU with SMTP id AA23429
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 11 Nov 1991 22:42:51 -0600
+Received: from mears.LANCE.ColoState.Edu by longs.LANCE.ColoState.Edu (5.64/1.1)
+	id AA07106; Mon, 11 Nov 91 21:38:15 -0700
+Message-Id: <9111120438.AA07106@longs.LANCE.ColoState.Edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Requesting owner experiences: 912's
+Date: Mon, 11 Nov 91 21:38:13 -0700
+From: cj414491@longs.LANCE.ColoState.Edu
+X-Mts: smtp
+
+
+Recently, I had the pleasure of driving a 912.  The car was in
+wonderful shape, with a recently rebuilt engine and newer paint.  Any
+rust was well out of sight, and my eyes were in and under all of this car.
+I have heard that rust is hard ($) to repair on the pre-'70 cars.  Is 
+this true?  Has anyone repaired rust or had experience with this?
+
+The engine looks and sounds very nice, with only the stubborn drip-a-day
+from the oil drain-plate.  The motor hadn't been started in about three
+weeks.  Upon starting, the motor shot plenty of smoke out the tail.  This
+left black spots in a cone on the driveway which looked like jet-black
+soot.  Is this normal?
+
+The carbs (Solex PII 40's, I think?) seemed to be misadjusted or not
+balanced, as the thing idled poorly.  There were audible carb backfires
+through the left side, and the motor shook like a paint shaker.  The
+carbs were generally clean, with only slight gas discoloring around
+the sides.  There were no leaks around the throttle shafts, and the linkages
+were very tight and well adjusted.
+
+On the engine, there is the relatively large vertical container with
+the oil cap and the breather hose to the right carb.  After a spirited
+drive, the water vapor from the oil was easily visible in this container,
+and there was plenty of it.  Strangely, there was a LOT of rust inside
+the container.  The inner walls were completely covered with a thick
+layer of rust.  I am assuming this is caused by short trips in a moist
+climate.  The oil absorbs moisture which is evaporated into the breather
+box on the short trips.  Not all of the moisture is evaporated upon 
+engine shutdwon, and some condenses on the walls of the box.  Can this
+be harmful to the engine?  Just sticking my finger into the box caused
+rust to flake off and fall down to where ever the bottom of this box goes.
+
+I was surprised to find this car in such good condition.  Even the
+clock worked!  Isn't the clock the 'wear meter' of the 912?  The tach
+seemed sticky.  They are mechanical, with the measuring point on the
+pump on the driver's side of the engine, right?  The car shifted,
+clutched, steered, and braked like a dream!  Of course, like all of the
+Porsches I have ridden or driven, the whole car was tight and rattle-free.
+It felt like it had been machined from one chunk of material.  The only
+audible sound was the engine...  The way driving SHOULD be!
+
+Any thoughts, stories, anecdotes?
+
+Corey D. Jackson             cj414491@Longs.LANCE.ColoState.Edu
+
+
+From porschephiles-request Tue Nov 12 04:50:36 1991
+Received: by karazm.math.UH.EDU id AA25741
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 12 Nov 1991 08:56:51 -0600
+Received: from TWOLF6.CE.YALE.EDU by karazm.math.UH.EDU with SMTP id AA25737
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 12 Nov 1991 08:56:49 -0600
+Received: by twolf6.CE.YALE.EDU; Tue, 12 Nov 91 09:50:37 -0500
+To: cj414491@longs.lance.colostate.edu
+Cc: porschephiles@karazm.math.uh.edu
+Subject: Re: Requesting owner experiences: 912's 
+In-Reply-To: Message from cj414491@longs.lance.colostate.edu 
+	     Mon, 11 Nov 91 21:38:13 -0700.
+	     <9111120438.AA07106@longs.LANCE.ColoState.Edu> 
+Date: Tue, 12 Nov 91 09:50:36 EST
+Message-Id: <21286.689957436@twolf6.CE.YALE.EDU>
+From: Dan Kasha <kasha@twolf6.CE.YALE.EDU>
+
+
+Yes, I have a 1966 912 (actually bought in 1965 and one of the first
+off the line) that I got to restore.  Needs lots of work but doable. 
+And then I got into grad school.  I instantly fell in love with the
+machine, for its simplicity.  I don't care how many cylinders it has,
+the owners manual says o-60 in around 11 seconds, and 119 top speed
+looking at the graphs.  That is plenty for me.  I love the simple
+but effective brakes, suspension, steering, dash, seats, everything.
+I get very upset when I see a  horn grilled 911 (meaning an early
+model) with a whale tail and air dams and wheel wells.   Thats about
+all I can say about my 912 excet:  I finally started to give in to
+my parents "get it out of here" stuff and sell it for a couple of
+hundred bucks, but after reading your driving imression "shifted,
+clutched steered and braked like a dream" I'm not certain I can do 
+it any more.  Only thing I'de rather have is a 356.
+Dan Kasha
+
+
+Dan Kasha
+kasha@twolf.ce.yale.edu
+(203)432-4263
+
+From porschephiles-request Mon Nov 11 23:45:14 1991
+Received: by karazm.math.UH.EDU id AA25920
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 12 Nov 1991 09:52:02 -0600
+Received: from elroy.jpl.nasa.gov by karazm.math.UH.EDU with SMTP id AA25916
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 12 Nov 1991 09:52:00 -0600
+Received: from wvus.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA28703; Tue, 12 Nov 91 07:47:27 PST
+Subject: 912 experiences
+To: Porsche list <porschephiles@karazm.math.uh.edu>
+Date: Tue, 12 Nov 91 7:45:14 PST
+From: Pete Gregory <pete@wvus.org>
+X-Mailer: ELM [version 2.3 PL11]
+Message-Id:  <9111120745.aa04427@wvus.wvus.org>
+
+> From: cj414491@longs.lance.colostate.edu
+> Subject: Requesting owner experiences: 912's
+> 
+> Recently, I had the pleasure of driving a 912.  The car was in
+> wonderful shape, with a recently rebuilt engine and newer paint.  Any
+> rust was well out of sight, and my eyes were in and under all of this car.
+> I have heard that rust is hard ($) to repair on the pre-'70 cars.  Is 
+> this true?  Has anyone repaired rust or had experience with this?
+
+I presume you're thinking of buying this car?  If so, get a Porsche-expert
+to look at it.  My 912 is rust-free, so I can't comment on your rust.
+ 
+> The engine looks and sounds very nice, with only the stubborn drip-a-day
+> from the oil drain-plate.
+
+Yeah, I get this, too.  :-/
+
+>                            The motor hadn't been started in about three
+> weeks.  Upon starting, the motor shot plenty of smoke out the tail.  This
+> left black spots in a cone on the driveway which looked like jet-black
+> soot.  Is this normal?
+
+Sure.  The Solex PII 40 doesn't have a choke, so you have to pump it like
+mad to get it started and keep it running, especially after several weeks.
+Still, it sounds like you're running rich.
+
+> The carbs (Solex PII 40's, I think?) seemed to be misadjusted or not
+> balanced, as the thing idled poorly.  There were audible carb backfires
+> through the left side, and the motor shook like a paint shaker.  The
+> carbs were generally clean, with only slight gas discoloring around
+> the sides.  There were no leaks around the throttle shafts, and the linkages
+> were very tight and well adjusted.
+
+912's were famous for rough idle, though mine is no paint shaker and idles
+pretty smooth.  There could be serious internal carb problems (and no spare
+parts are available beyond rebuild kits - gaskets and jets) that could cost
+you big bucks.
+ 
+> On the engine, there is the relatively large vertical container with
+> the oil cap and the breather hose to the right carb.  After a spirited
+> drive, the water vapor from the oil was easily visible in this container,
+> and there was plenty of it.  Strangely, there was a LOT of rust inside
+> the container.  The inner walls were completely covered with a thick
+> layer of rust.  I am assuming this is caused by short trips in a moist
+> climate.  The oil absorbs moisture which is evaporated into the breather
+> box on the short trips.  Not all of the moisture is evaporated upon 
+> engine shutdwon, and some condenses on the walls of the box.  Can this
+> be harmful to the engine?  Just sticking my finger into the box caused
+> rust to flake off and fall down to where ever the bottom of this box goes.
+
+Yuck!  I don't know what causes this...
+
+Pete Gregory, UNIX SA   |  pete@wvus.org                    ||||
+World Vision U.S.       |  elroy.jpl.nasa.gov!wvus!pete     0 0-
+919 W. Huntington Dr.   |  Voice: 818.357.1111 x3347         /
+Monrovia, CA  91016     |  FAX:   818.303.6212               -
+
+From porschephiles-request Tue Nov 12 07:10:57 1991
+Received: by karazm.math.UH.EDU id AA00671
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 12 Nov 1991 17:25:39 -0600
+Received: from elroy.jpl.nasa.gov by karazm.math.UH.EDU with SMTP id AA00667
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 12 Nov 1991 17:25:37 -0600
+Received: from wvus.UUCP by elroy.Jpl.Nasa.Gov (4.1/SMI-4.1+DXR)
+	id AA16740; Tue, 12 Nov 91 15:21:02 PST
+Subject: 912 improvements
+To: Porsche list <porschephiles@karazm.math.uh.edu>
+Date: Tue, 12 Nov 91 15:10:57 PST
+From: Pete Gregory <pete@wvus.org>
+X-Mailer: ELM [version 2.3 PL11]
+Message-Id:  <9111121510.aa23393@wvus.wvus.org>
+
+My '69 912 is a daily driver...  it's in decent shape, and looks better
+these days...
+
+Three weekends ago I finally got fed up with the oxide-ridden paint (the
+color is guards red).  I've been looking at the deeply-scratched and
+oxidized surface for months, lamenting the day when I'd have to fork over
+major bucks for a paint job.
+
+I stopped at an auto parts store that I trust (not a Pep Boys or Trak Auto
+but a place where the guys REALLY know what they're talking about) and
+asked for a five-minute lesson in oxidized paint and what to do about it.
+
+I walked out with three products (all made by "The Wax Shop"): "Dark Magic"
+(a paint deoxidizer - non-abrasive (chemical??)), "Super Glaze" (a liquid
+wax) and "Cam Metal Polish" (for the wheels - Fuchs) and about $25 poorer.
+
+My girlfriend and I got some clean rags and towels and rolled the car
+outside (it was a cool, overcast day - perfect!) and went to work with the
+"Dark Magic".  This was a Saturday morning around 8:00am...
+
+Four hours later, we had removed 95% of the oxide - and scratches - from
+the surface.  It shone like it never had since I bought the car.  The oxide
+was so bad on the roof and rear fenders that it took four applications to
+remove the oxide.
+
+Then we waxed the car - that took all of 45 minutes.  I got the windex out
+and did all the windows - inside and out, and cleaned the upholstery as
+well.
+
+We showered and went to dinner in Long Beach at a restaurant on the marina.
+By evening it was raining lightly (misting, really), and the 912 looked
+"killer" in the parking lot, now glossy with rain.
+
+I feel sooo much better about my 912 now...
+
+Pete Gregory, UNIX SA   |  pete@wvus.org                    ||||
+World Vision U.S.       |  elroy.jpl.nasa.gov!wvus!pete     0 0-
+919 W. Huntington Dr.   |  Voice: 818.357.1111 x3347         /
+Monrovia, CA  91016     |  FAX:   818.303.6212               -
+
+From porschephiles-request Fri Nov 15 02:09:17 1991
+Received: by karazm.math.UH.EDU id AA23626
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 15 Nov 1991 12:14:03 -0600
+Received: from dtc.hp.com by karazm.math.UH.EDU with SMTP id AA23622
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 15 Nov 1991 12:14:00 -0600
+Received: from elliot.cdc.hp.com by dtc.hp.com; Fri, 15 Nov 91 10:09:17 pst
+Received: from hpcdcbb by hpcdcel.cdc.hp.com; Fri, 15 Nov 91 10:09:20 pst
+Message-Id: <9111151809.AA27120@hpcdcel.cdc.hp.com>
+To: Porsche list <porschephiles@karazm.math.uh.edu>
+Cc: Dick Lucas <dick@bambi.cdc.hp.com>
+Subject: Koni Shocks
+Date: Fri, 15 Nov 91 10:09:17 PST
+From: dick@elliot.cdc.hp.com
+
+Does anybody have any experience with rebuilding Koni shock absorbers?
+I have a 62 356B -90 with Konis and have had the front shocks get very
+hard.  I got Koni to replace them under their lifetime warrantee as I had
+a sales slip in my files.  Yesterday I noticed that the rear shock was 
+also getting very stiff and I pulled them off the car.  One shock is normal
+and the other has a variable stiffness, as though there is something 
+jamming the valving.  Unfortunately, I must have lost the sales slip for the
+rear shocks. I have owned the car since new so I know I bought the shocks,
+although I don't have proof of purchase.  
+
+Talking to a local salvage yard, EASY, in Emeryvill, CA, they said that if
+the car is not driven very much the shocks will go bad.  This is now 3 of 4
+Konis, (actually 7 of 8 if you count the original Konis delivered with the
+car) which have failed for this reason.  I guess that the price is so high
+because of warrantee costs.  
+
+My plan at this point is to pick up a used shock at EASY ~ $20 and pull the
+failed shock apart to see what is happening. I would appreciate any tips on
+what to look for.
+
+
+From porschephiles-request Mon Nov 18 03:48:51 1991
+Received: by karazm.math.UH.EDU id AA26164
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 18 Nov 1991 13:58:56 -0600
+Received: from relay2.UU.NET by karazm.math.UH.EDU with SMTP id AA26160
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 18 Nov 1991 13:58:53 -0600
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA22886; Mon, 18 Nov 91 14:54:17 -0500
+Received: from kpc.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 145345.555; Mon, 18 Nov 1991 14:53:45 EST
+Received: by kpc.kpc.com (4.1/SMI-4.0)
+	id AA06763; Mon, 18 Nov 91 11:48:54 PST
+From: rcore@kpc.com (Richard Core)
+Message-Id: <9111181948.AA06763@kpc.kpc.com>
+Subject: Cibie headlites
+To: porschephiles@karazm.math.uh.edu (porschephiles mail reflector)
+Date: Mon, 18 Nov 91 11:48:51 PST
+
+Anyone know who the US distributor for Cibie BOBI headlites is?  I've
+used them for several years, need a new one and can't find anyone
+that carries them anymore.  Something about distribution practices
+being quite unfavorable.  A name of a retail outlet would be even
+better.  I may have to switch over to the very expensive Bosch US
+legal setup (I know about several Bosch and Hella lites that are not
+DOT approved that still use the H-4 bulb).
+
+Thanks,
+- - - - - - - - - - 
+Richard Core                                    Kubota Pacific Computer Inc
+Languages                                       Santa Clara, CA
+rcore@kpc.com                                   408-748-6354
+
+From porschephiles-request Mon Nov 18 03:15:12 1991
+Received: by karazm.math.UH.EDU id AA26635
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 18 Nov 1991 14:34:58 -0600
+Received: from relay1.UU.NET by karazm.math.UH.EDU with SMTP id AA26610
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 18 Nov 1991 14:31:15 -0600
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA22478; Mon, 18 Nov 91 15:25:09 -0500
+Received: from mntgfx.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 144337.27786; Mon, 18 Nov 1991 14:43:37 EST
+Received: by pdx.MENTORG.COM ( 5.52 (84)/DontTreadOnMe)
+	id AA06467; Mon, 18 Nov 91 11:15:19 PST
+Received: by ws.MENTORG.COM ( 5.52 (84)/smail2.5/09-24-87/Mentor)
+	id AA01352; Mon, 18 Nov 91 11:15:13 PST
+Message-Id: <9111181915.AA01352@ws.MENTORG.COM>
+From: kwatson@ws.MENTORG.COM (Keith Watson)
+Date: Mon, 18 Nov 91 11:15:12 PST
+To: porschephiles@karazm.math.uh.edu
+Subject: 3.2L Induction Mods
+
+In a recent issue of _European Car_ (July?) there was an article about a
+shop in California that does induction mods to the Carerra 3.2 motor.
+They claimed to take a motor from 199hp to 249hp by just doing mods on the
+induction side of the engine, including opening up air passages, changing
+air metering, creating a matching DME chip, etc.  This is without going
+inside of the engine!  They then took the motor from 249hp to 259hp by
+changing to SSI heat exchanges and a Bursch muffler.
+
+I know the exhaust change figures have been well documented but what
+about the induction mods?  Is it really possible?
+
+I haven't changed to a Carerra from my SC, yet, but I do want to get
+information about inexpensive (yeah right), reliable, REAL ways to get
+more horsepower.
+
+Just for reference the shop is BRD Engineering.  I'm not sure of the exact
+name since the article is at home.
+
+Disclaimer: this is not an add, it is a reality check.
+
+Keith Watson
+Mentor Graphics Corporation (Wilsonville, OR)
+keith_watson@mentorg.com     or    ...!uunet!mntgfx!keith_watson
+
+
+From porschephiles-request Mon Nov 18 14:40:26 1991
+Received: by karazm.math.UH.EDU id AA26659
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 18 Nov 1991 14:40:31 -0600
+Received: from aixwiz.austin.ibm.com by karazm.math.UH.EDU with SMTP id AA26655
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 18 Nov 1991 14:40:26 -0600
+Received: by aixwiz.austin.ibm.com (AIX  2.1.2/4.03)
+          id AA19190; Mon, 18 Nov 91 14:30:35 
+Date: Mon, 18 Nov 91 14:30:35 
+From: pedz@aixwiz.austin.ibm.com (Perry Smith)
+Message-Id: <9111190230.AA19190@aixwiz.austin.ibm.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: tire blowout
+
+Here is what happened.  About a month or two ago, my car started to feel
+a little squirrly.  This progressed into a slight tug to the right
+on Thursday.  Friday, I drove for a long while going to a camp ground
+and the tug turned into a strong pull.  On Sunday coming back, the
+right front tire blew out.  The inside of both front tires were basically
+gone.
+
+I had P0's (on a '89 951) which I bought in May '91.  They were not that
+used.
+
+One quess is that my alignment was so bad that it caused the tires to
+were out very quickly and I just didn't notice the uneven tread wear.
+I sorta doubt this since it is a relatively new car and I haven't been
+curb surfing in it.
+
+The other guess is that the right front had a defect.  My guess is that
+the inside side wall was defective.  (At this point, there is a tear all
+the way around the tire about a half inch above the rim).  This cause the
+pull to start, which caused the excessive wear, which caused the blowout.
+
+I feel sorta stupid since I should have noticed the wear.  I did check
+the tire pressure twice during this time and it was at the 2.5 bars it
+is suppose to be at.
+
+Anyone have any guesses.  I don't know what the tire folks are going to
+say but I wanted some insight before I go talk to them.
+
+Thanks
+pedz
+
+From porschephiles-request Tue Nov 19 05:08:08 1991
+Received: by karazm.math.UH.EDU id AA01189
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 09:12:54 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA01185
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 09:12:51 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA16118; Tue, 19 Nov 91 10:08:09 EST
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA22306; Tue, 19 Nov 91 10:08:08 EST
+Date: Tue, 19 Nov 91 10:08:08 EST
+From: weltyc@cs.rpi.edu
+Message-Id: <9111191508.AA22306@porsche.cs.rpi.edu>
+To: kwatson@ws.mentorg.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Keith Watson's message of Mon, 18 Nov 91 11:15:12 PST <9111181915.AA01352@ws.MENTORG.COM>
+Subject: 3.2L Induction Mods
+
+
+
+   In a recent issue of _European Car_ (July?) there was an article about a
+   shop in California that does induction mods to the Carerra 3.2 motor.
+   They claimed to take a motor from 199hp to 249hp by just doing mods on the
+   induction side of the engine, including opening up air passages, changing
+   air metering, creating a matching DME chip, etc.  This is without going
+   inside of the engine!  They then took the motor from 249hp to 259hp by
+   changing to SSI heat exchanges and a Bursch muffler.
+
+Andial and Ollies have been doing this kind of work for some time (not
+to mention RUF).  Porting and polishing, expanding the intake
+manifolds, changing the DME chip, and of course a less restrictive
+exhaust - the horsepower boost is most significant.  This past summer I
+finished a 3.2 Carrera engine with just such a modification, and put
+it onto an SC.  The result was incredible.  The car had so much power
+(it wasn't dyno'd) we broke a halfshaft.  Had to update to the Turbo
+shafts.  We also machined the heads for twin-plug, but the second
+ignition system hasn't been installed.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Tue Nov 19 05:12:14 1991
+Received: by karazm.math.UH.EDU id AA01212
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 09:17:22 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA01208
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 09:17:19 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA16269; Tue, 19 Nov 91 10:12:15 EST
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA22310; Tue, 19 Nov 91 10:12:14 EST
+Date: Tue, 19 Nov 91 10:12:14 EST
+From: weltyc@cs.rpi.edu
+Message-Id: <9111191512.AA22310@porsche.cs.rpi.edu>
+To: pedz@aixwiz.austin.ibm.com
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: Perry Smith's message of Mon, 18 Nov 91 14:30:35  <9111190230.AA19190@aixwiz.austin.ibm.com>
+Subject: tire blowout
+
+
+The best thing to do is to call Pirelli.  Don't go back to the place
+you got it from, they are generally very stupid.  
+
+Pirelli's customer service number is: 1-800-243-0167.  Just tell them
+the truth and see what they say.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Tue Nov 19 00:01:19 1991
+Received: by karazm.math.UH.EDU id AA01390
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 10:06:07 -0600
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA01386
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 10:06:06 -0600
+Received: from cse.ogi.edu by bcm.tmc.edu (AA05590); Tue, 19 Nov 91 10:01:22 -0600
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA09552; Tue, 19 Nov 91 08:01:19 -0800
+Date: Tue, 19 Nov 91 08:01:19 -0800
+From: bart%teni@cse.ogi.edu
+Message-Id: <9111191601.AA09552@cse.ogi.edu>
+Apparently-To: porschephiles@bcm.tmc.edu
+
+has bruce anderson disappeared from the net?  0002549486@mcimail.com used to be
+his email address, but i just had a message bounced by mcimail.
+
+here's my question, in case anyone else on the net would like to take a stab
+at it:
+
+i have a question about ride height and cv joint longevity.
+
+this month's issue of sports car international has an article about the carrera rs,
+a 300 lb lighter version of the carrera 2 meant for carrera cup racing in europe.
+
+after slobbering all over the car, sci says oh by the way it isn't available here
+because of N various things, including the ride height being 2" below the current
+us model carrera.
+
+in passing they mention that the european ride height is in between these figures.
+
+so my question is, what is the "designed in" ride height, eg that height at which
+the half-shafts are parallel to the ground?
+
+is there such a thing as a "correct" ride height?  does having a constant, non-zero
+cv joint angle affect longevity?
+
+From porschephiles-request Tue Nov 19 01:40:22 1991
+Received: by karazm.math.UH.EDU id AA01928
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 11:39:46 -0600
+Received: from gemini.arc.nasa.gov by karazm.math.UH.EDU with SMTP id AA01860
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 11:38:20 -0600
+Received: Tue, 19 Nov 91 09:37:47 -0800 from kry.dnet by gemini.arc.nasa.gov (5.65b/1.2) with SMTP
+Message-Id: <9111191737.AA26154@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Tue, 19 Nov 91 09:40:22 PST
+Date: Tue, 19 Nov 91 09:40:22 PST
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: re: blowout
+To: porschephiles@karazm.math.uh.edu
+
+ 
+Here is what happened.  About a month or two ago, my car started to feel
+
+      Problem description deleted...
+ 
+The other guess is that the right front had a defect.  My guess is that
+the inside side wall was defective.  (At this point, there is a tear all
+the way around the tire about a half inch above the rim).  This cause the
+pull to start, which caused the excessive wear, which caused the blowout.
+
+      In my experience this type of wear is indicative of underinflation.
+       
+I feel sorta stupid since I should have noticed the wear.  I did check
+the tire pressure twice during this time and it was at the 2.5 bars it
+is suppose to be at.
+
+      I would be sure to leave no doubt that the tire was correctly 
+      inflated.  Until I read the above paragraph, I was sure that
+      this was an inflation problem.
+
+      I would:
+          Check for polished metal near the inside of the tires.
+          Check for broken or loose suspension parts.
+          Check you pressure gauge.
+          Not buy Pirelli tires in the future (I already have a bias here).
+
+      Just FYI, the ONLY blowout I have ever had was a brand new (>2000
+      miles) P3 on a friend's car.  The friend's father is a mechanic and
+      his car is WELL maintained and I know the pressure was correct 2 days
+      and about 400 miles before the blowout.  There was no pull or other 
+      indication of a tire problem.
+
+      I have also noticed the 65 mph shimmy on P7's.  From talks with
+      others, it looks like I am not the only to notice this problem.  
+      Rumor is that it is caused by belt delamination.
+
+      As long as Yokohama is in business, why buy Pirelli tires? (I know,
+      they probably came with the car)
+ 
+Anyone have any guesses.  I don't know what the tire folks are going to
+say but I wanted some insight before I go talk to them.
+ 
+Thanks
+pedz
+
+From porschephiles-request Tue Nov 19 08:13:19 1991
+Received: by karazm.math.UH.EDU id AA02150
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 12:18:06 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA02144
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 12:18:02 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA19451; Tue, 19 Nov 91 13:13:19 -0500
+Date: Tue, 19 Nov 91 13:13:19 -0500
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9111191813.AA19451@prism.gatech.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: Suspension upgrade really worked (and chip query)
+
+A few weeks back, I enquired about the advisability of updating my '87
+951's shocks/ coil springs/front swaybar with turbo S parts from a
+friend's '89 car.
+
+Well, I went ahead and did it. _Boy_ does it make a difference. I cut
+_2.5_ seconds off my lap times at Road Atlanta. More importantly, the
+car handles much more predictably, and I feel much more in control. 
+
+I really like the adjustable shocks (Konis) - I set them full stiff for
+the track, then back them off to full soft on the highway. Great
+handling on the track without a bone jarring ride on the street.
+
+Unfortunately, a friend from Tampa blew his head gasket on his '89 951.
+First session, 5th lap. Clouds of white smoke everywhere. Ruined his
+entire weekend. I had pretty much convinced myself to install a stage
+2.5 Autothority chip next year, but now I'm leary. (That's what he was
+running (only 6k miles on the engine!), and the scuttlebut at the track
+was that every 951 head gasket that anyone had ever heard of blowing
+were on cars that were 'chipped'.)  I had the impression that the new
+Autothority chips were relatively 'safe' - am I mistaken? The word at
+the track is that the Autothority chip's timing is (too) radically
+advanced but that other chips were more conservative (someone mentioned
+an 'escort' chip based on Porsche factory chips for the turbo cup cars).
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Porsche - there is no substitute.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request Tue Nov 19 08:49:50 1991
+Received: by karazm.math.UH.EDU id AA02582
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 12:54:54 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA02578
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 12:54:49 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA01550; Tue, 19 Nov 91 13:49:50 -0500
+Date: Tue, 19 Nov 91 13:49:50 -0500
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9111191849.AA01550@prism.gatech.edu>
+Cc: porschephiles@karazm.math.uh.edu
+To: bart%teni@cse.ogi.edu
+In-Reply-To: bart%teni@cse.ogi.edu's message of Tue, 19 Nov 91 10:42:24 -0800 <9111191842.AA22165@cse.ogi.edu>
+
+| did your friend who blew a head gasket say what he was running for boost?
+| there's a calibration procedure you're supposed to go through when you put
+| the chips in.  people i know who have blown head gaskets have since restricted
+| their max boost to .8 bar.
+
+Yes - he said that he'd had continual troubles w/ overboost (in the 1.9
+- 2.0 bar range). He'd experiemented (in consulatation w/ Autothority)
+with several banjo bolts but nothing ever worked. He also said that his
+temp guage had been reading high ever since the car was new (even with
+stock chips). The dealer claimed that it was normal, but his guage
+always read just shy of the redline (mine never gets past the second
+hash mark).
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Progress means replacing something wrong with something more subtly wrong.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request Tue Nov 19 08:14:33 1991
+Received: by karazm.math.UH.EDU id AA03956
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 16:19:22 -0600
+Received: from npd.Novell.COM by karazm.math.UH.EDU with SMTP id AA03952
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 16:19:19 -0600
+Received: from ithaca.slc.npd.novell.com by npd.Novell.COM (4.1/SMI-4.1)
+	id AA06562; Tue, 19 Nov 91 15:13:02 MST
+Received: from bucket.slc.npd.novell.com by ithaca.slc.npd.novell.com (4.1/SMI-4.1)
+	id AA00640; Tue, 19 Nov 91 15:14:33 MST
+Date: Tue, 19 Nov 91 15:14:33 MST
+From: drew_spencer@npd.Novell.COM (Drew Spencer)
+Message-Id: <9111192214.AA00640@ithaca.slc.npd.novell.com>
+To: laforce@krypton.arc.nasa.gov
+Subject: re: blowout
+Cc: porschephiles@karazm.math.uh.edu
+
+
+>    I have also noticed the 65 mph shimmy on P7's.  From talks with
+>     others, it looks like I am not the only to notice this problem.  
+>    Rumor is that it is caused by belt delamination.
+
+
+And I thought it was because I spun my SC (only half way around) on the
+autox course ;-).   Regarding the delamination rumor...
+What would be the cause of delamination?  Overheating?  Rotating tires
+to the other side?  I'm seriously persuing alternates to the P7's.
+
+Drew
+
+
+From porschephiles-request Tue Nov 19 22:09:23 1991
+Received: by karazm.math.UH.EDU id AA03962
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 16:19:43 -0600
+Received: from valhalla.ee.rochester.edu by karazm.math.UH.EDU with SMTP id AA03958
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 16:19:37 -0600
+Received: by valhalla.ee.rochester.edu (4.1/2.5ee) id AA28942; Tue, 19 Nov 91 17:09:43 EST
+Received: from USENET by valhalla.ee.rochester.edu with netnews
+	for porschephiles@karazm.math.uh.edu (porschephiles@karazm.math.uh.edu);
+	contact usenet@valhalla.ee.rochester.edu if you have questions.
+To: porschephiles@karazm.math.uh.edu
+Date: Tue, 19 Nov 91 22:09:23 GMT
+Message-Id: <1991Nov19.220923.1300@ee.rochester.edu>
+Organization: University of Rochester Department of Electrical Engineering
+From: msirota@ee.rochester.edu
+Sender: usenet@ee.rochester.edu
+Reply-To: Mark Sirota <msirota@ee.rochester.edu>
+Subject: 911/914 master cylinder
+
+I wish to upgrade the brake master cylinder in my 914 to a better one.  In
+the class I race in, I can use *any* master cylinder.  In particular, the
+rule reads:
+	Any brake line, single or dual master cylinder, vacuum brake
+	booster, brake proportioning valve may be used.  "Safety breakers"
+	are permitted.
+
+People say to use "a 911 master cylinder".  Are they all the same?  What's
+the best master cylinder for me to use?  Are there any other weaknesses in
+the 914 brake system that I might be able to improve upon?  I see no reason
+to go to vacuum-assisted brakes, by the way.  I'd rather not go that far.
+
+Thanks for any expertise you can provide.
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+From porschephiles-request Tue Nov 19 13:05:53 1991
+Received: by karazm.math.UH.EDU id AA04514
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 18:48:53 -0600
+Received: from relay2.UU.NET by karazm.math.UH.EDU with SMTP id AA04510
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 18:48:51 -0600
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay2.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA11466; Tue, 19 Nov 91 19:44:15 -0500
+Received: from elf.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 194353.14239; Tue, 19 Nov 1991 19:43:53 EST
+Received: from ocelot.wang.com by elf.wang.com
+	id aa11750; Tue, 19 Nov 91 18:02:00 EST
+Subject: 951/Autothority/blown head gasket
+To: porsche group <porschephiles@karazm.math.uh.edu>
+Date: Tue, 19 Nov 91 18:05:53 EST
+X-Mailer: ELM [version 2.3 PL8]
+From: Chris Bennet <chrisb@ocelot.wang.COM>
+Message-Id:  <9111192305.aa09965@ocelot.wang.COM>
+
+Another data point for the 951 crowd:
+
+* My head gasket blew at around 63000 miles and about 10000 miles
+  after installing the Stage II (version 2.5) Autothority Chip in
+  my '87.
+
+* In Autothority's literature for the Stage III mods (340 HP) they say
+  that "O-ringing the head cures the head gasket problem".
+
+* I read somewhere that the factory racing chips [Escort etc] blew
+  head gaskets too - I think Bruce Anderson wrote about it in Pano
+  quite a while ago.
+
+Didn't the last Excellence magazine have a letter from someone who blew
+theirs at 12,000 miles (with the chip) ?
+
+ Chris
+
+From porschephiles-request Tue Nov 19 09:43:42 1991
+Received: by karazm.math.UH.EDU id AA04667
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 19:48:32 -0600
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA04663
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 19:48:30 -0600
+Received: from cse.ogi.edu by bcm.tmc.edu (AA18325); Tue, 19 Nov 91 19:43:45 -0600
+Received: by cse.ogi.edu
+	(5.61+eap+OGI_1.1.named/IDA-1.2.8+OGI_1.12) id AA03217; Tue, 19 Nov 91 17:43:42 -0800
+Date: Tue, 19 Nov 91 17:43:42 -0800
+From: bart%teni@cse.ogi.edu
+Message-Id: <9111200143.AA03217@cse.ogi.edu>
+Apparently-To: porschephiles@bcm.tmc.edu
+
+hot off the presses!
+
+ontrack reports that the world sports car championship has been cancelled!
+
+walkinshaw is pissed.  mercedes is going to f1.  what's left will be a loose
+conglomeration of individually organized races.
+
+the 962 of course will live on.
+
+let's hear it for our favorite ex-tyrant, jm balestre!
+
+From porschephiles-request Wed Nov 20 01:58:00 1991
+Received: by karazm.math.UH.EDU id AA04826
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 20:21:15 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA04822
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 20:21:10 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id bd26418;
+          19 Nov 91 21:03 EST
+Date: Wed, 20 Nov 91 01:58 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Perry Smith <pedz@aixwiz.austin.ibm.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: tire blowout
+Message-Id: <50911120015805/0004056890NA1EM@mcimail.com>
+
+Perry -
+
+Sounds sort of like the belts separated on that tire.  This is visible, I
+believe, on inspection of the sidewall.  Is it possible that you hit anything,
+leading to this failure?
+
+Kevin
+
+From porschephiles-request Wed Nov 20 01:57:00 1991
+Received: by karazm.math.UH.EDU id AA04820
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 19 Nov 1991 20:20:49 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA04816
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 19 Nov 1991 20:20:47 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id bc26418;
+          19 Nov 91 21:03 EST
+Date: Wed, 20 Nov 91 01:57 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: STEVE TYNOR <tynor@prism.gatech.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Suspension upgrade really worked (and chip query)
+Message-Id: <35911120015753/0004056890NA1EM@mcimail.com>
+
+Steve -
+
+What version of the AutoThority chip was your friend running?  His problem
+sounds like the same one encountered by friends running the version 2.2 chip. 
+As you know, 2.5 is the latest and it is the one which, as far as I can tell,
+seems to be safe.
+
+1.9, 2.0 bar sounds like overboost, esp. if he was seeing these figures at or
+near redline.  I don't know that the Escort series chips from the factory are
+any less aggressive.  They might even be more aggressive, in that they were only
+available to pros and not mass-marketed (relatively speaking).
+
+Kevin
+
+From porschephiles-request Wed Nov 20 04:31:46 1991
+Received: by karazm.math.UH.EDU id AA07257
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 20 Nov 1991 08:36:32 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA07253
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 20 Nov 1991 08:36:30 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA08056; Wed, 20 Nov 91 09:31:47 EST
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA24418; Wed, 20 Nov 91 09:31:46 EST
+Date: Wed, 20 Nov 91 09:31:46 EST
+From: weltyc@cs.rpi.edu
+Message-Id: <9111201431.AA24418@porsche.cs.rpi.edu>
+To: msirota@ee.rochester.edu
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: msirota@ee.rochester.edu's message of Tue, 19 Nov 91 22:09:23 GMT <1991Nov19.220923.1300@ee.rochester.edu>
+Subject: 911/914 master cylinder
+
+
+   I wish to upgrade the brake master cylinder in my 914 to a better one.
+
+It is common to upgrade competative 914 to the 19mm 911 master
+cylinder.  Bruce Anderson and I got into an argument about this a year
+ago.  The basic idea is this:  by shifting to a larger MC you lose
+some mechanical advantage (it's like moving closer to the fulcrum of a
+lever), but you increase the amount of fluid the MC can move, meaning
+you can use bigger calipers.  Also the reduction in mechanical
+advantage makes the 914 brake pedal feel stiffer.  I know when I drive
+914s at the track, I find it too easy to lock the brakes, not being an
+attuned 914 driver.  The larger MC makes the pedal less sensitive, but
+you have to work harder to achieve full braking.
+
+Really the only reason to upgrade the 914 MC is if you want to use
+bigger brakes (calipers).  I've put Carrera brakes on 914/6s, and I
+know people put Turbo brakes on them as well.  For those who remember
+Rich Luzardo's monster 914/6, I helped him install 928 brakes on that
+car, with a 22mm MC.  The pedal was so stiff, and required so much
+force to activate, that we were afraid the pedal would snap.  The
+next step was to install a booster on it, but that was about when I
+discovered his "side" business and I diassociated myself quickly.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Wed Nov 20 05:09:28 1991
+Received: by karazm.math.UH.EDU id AA07345
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 20 Nov 1991 09:14:15 -0600
+Received: from hydra.gatech.edu by karazm.math.UH.EDU with SMTP id AA07341
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 20 Nov 1991 09:14:12 -0600
+Received: by hydra.gatech.edu (5.61/3.1)
+	id AA04839; Wed, 20 Nov 91 10:09:28 -0500
+Date: Wed, 20 Nov 91 10:09:28 -0500
+From: tynor@prism.gatech.edu (STEVE TYNOR)
+Message-Id: <9111201509.AA04839@prism.gatech.edu>
+To: 0004056890@mcimail.com
+In-Reply-To: "Kevin C. Gross"'s message of Wed, 20 Nov 91 01:57 GMT <35911120015753/0004056890NA1EM@mcimail.com>
+Subject: Re: Suspension upgrade really worked (and chip query)
+Cc: porschephiles@karazm.math.uh.edu
+
+| 
+| Steve -
+| 
+| What version of the AutoThority chip was your friend running?  His problem
+| sounds like the same one encountered by friends running the version 2.2 chip. 
+| As you know, 2.5 is the latest and it is the one which, as far as I can tell,
+| seems to be safe.
+
+He was running the 2.5 chip. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+If the facts do not conform to the theory, they must be disposed of.
+                     
+    Steve Tynor
+    Georgia Tech Research Institute
+    tynor@prism.gatech.edu
+
+From porschephiles-request Wed Nov 20 05:43:00 1991
+Received: by karazm.math.UH.EDU id AA07405
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 20 Nov 1991 09:48:07 -0600
+Received: from BCM.TMC.EDU by karazm.math.UH.EDU with SMTP id AA07401
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 20 Nov 1991 09:48:06 -0600
+Received: from brahms.udel.edu by bcm.tmc.edu (AA28213); Wed, 20 Nov 91 09:43:16 -0600
+Received: by brahms.udel.edu
+	(5.61+/IDA-1.2.8) id AA27329; Wed, 20 Nov 91 10:43:01 -0500
+Message-Id: <9111201543.AA27329@brahms.udel.edu>
+From: timmins@brahms.udel.edu (Steve Timmins)
+Date: Wed, 20 Nov 1991 10:43:00 EST
+In-Reply-To: bart%teni@cse.ogi.edu
+       "" (Nov 19,  9:22pm)
+X-Mailer: Mail User's Shell (7.1.2 7/11/90)
+To: bart%teni@cse.ogi.edu, timmins@brahms.udel.edu
+Cc: porschephiles@bcm.tmc.edu
+
+  [included note of Nov 19, bart%teni@cse.ogi.edu:]
+} 968 pricing has been revised.  $39,850.
+  [end of included note]
+
+
+Jusr saw one at the dealer.  Article to follow after test drive.  I will
+say that you can still feel the 944 front fender mounting points under
+the new fenders so the unibody seems unchanged.
+
+I should be test driving one in the near future, so I'll let people know
+
+-- 
+
+From porschephiles-request Wed Nov 20 17:36:58 1991
+Received: by karazm.math.UH.EDU id AA08002
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 20 Nov 1991 11:50:26 -0600
+Received: from valhalla.ee.rochester.edu by karazm.math.UH.EDU with SMTP id AA07998
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 20 Nov 1991 11:50:08 -0600
+Received: by valhalla.ee.rochester.edu (4.1/2.5ee) id AA12620; Wed, 20 Nov 91 12:37:14 EST
+Received: from USENET by valhalla.ee.rochester.edu with netnews
+	for porschephiles@karazm.math.uh.edu (porschephiles@karazm.math.uh.edu);
+	contact usenet@valhalla.ee.rochester.edu if you have questions.
+To: porschephiles@karazm.math.uh.edu
+Date: Wed, 20 Nov 91 17:36:58 GMT
+Message-Id: <1991Nov20.173658.2995@ee.rochester.edu>
+Organization: University of Rochester Department of Electrical Engineering
+From: msirota@ee.rochester.edu
+Sender: usenet@ee.rochester.edu
+References: , <9111192214.AA00640@ithaca.slc.npd.novell.com>
+Reply-To: Mark Sirota <msirota@ee.rochester.edu>
+Subject: Re: blowout
+
+In article <9111192214.AA00640@ithaca.slc.npd.novell.com> drew_spencer@npd.novell.com (Drew Spencer) writes:
+>> I have also noticed the 65 mph shimmy on P7's.  From talks with
+>> others, it looks like I am not the only to notice this problem.  
+>> Rumor is that it is caused by belt delamination.
+>
+> And I thought it was because I spun my SC (only half way around) on the
+> autox course ;-).   Regarding the delamination rumor...
+> What would be the cause of delamination?  Overheating?  Rotating tires
+> to the other side?  I'm seriously persuing alternates to the P7's.
+
+Seriously persuing alternatives to the P7's is a good idea.  This doesn't
+mean that Pirelli is a bad company.  What is means is that P7's are *OLD*
+tires.  They're ancient, by modern standards.  How long has this model been
+around?  Have you noticed that it has been replaced twice (by the P700, then
+the P700Z)?
+
+Use a modern tire.  You'll be much happier.  I highly recommend the BFG Comp
+T/A line, though the P700Z and related tires also have great reputations.
+-- 
+Mark Sirota - Department of Electrical Engineering Systems Staff
+University of Rochester, Rochester NY
+ Internet: msirota@ee.rochester.edu
+ UUCP:     rutgers!rochester!ur-valhalla!msirota
+
+From porschephiles-request Thu Nov 21 03:56:00 1991
+Received: by karazm.math.UH.EDU id AA12303
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 20 Nov 1991 22:15:01 -0600
+Received: from NRI.Reston.VA.US ([132.151.1.1]) by karazm.math.UH.EDU with SMTP id AA12299
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 20 Nov 1991 22:14:57 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ab26844;
+          20 Nov 91 23:02 EST
+Date: Thu, 21 Nov 91 03:56 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Chris Bennet <chrisb@ocelot.wang.com>
+Cc: porsche group <porschephiles@karazm.math.uh.edu>
+Subject: Re: 951/Autothority/blown head gasket
+Message-Id: <70911121035607/0004056890NA3EM@mcimail.com>
+
+Chris -
+
+> * My head gasket blew at around 63000 miles and about 10000 miles
+>   after installing the Stage II (version 2.5) Autothority Chip in
+>   my '87.
+
+Did you have the overboost problem problem that Steve's friend had?  If you were
+seeing overboost, or no roll-off as you approached redline, there's the problem.
+
+> * In Autothority's literature for the Stage III mods (340 HP) they say
+>   that "O-ringing the head cures the head gasket problem".
+
+I spoke with Larry Bershtein this summer, and although they were advertising the
+Stage III kit, they still had not finished it.  Ie, they were probably still
+having problems keeping engines together.  I don't know about this so-called
+o-ringing.  Last I heard they claimed a "trick" head gasket was the cure (ie,
+one which the engineering staff at Porsche is too stupid to pick off the same
+shelf Autothority uses... right).
+
+> Didn't the last Excellence magazine have a letter from someone who blew
+> theirs at 12,000 miles (with the chip) ?
+
+Yeah, and coming right after Larry's letter and exonerating Autothority as it
+did (no way it could have been the chip!), it sure read funny to me.
+
+These words from Charlie Learoyd, PCA 944-series tech committee member.  He
+feels that, properly done, the stock 951 engine is good up to about 300 hp.
+"Properly done" means no excessive boost, rolling off the boost at higher RPM's,
+no drilling the cycling valve, no shimming the waste gate.  (It was Charlie who
+suggested use of an adjustable needle valve between the manifold and the control
+pressure side of the cycling valve, by the way.  About a year later, they
+started shipping it.)
+
+Just sign me,
+Skeptical in Belmont
+
+
+
+From porschephiles-request Thu Nov 21 08:20:09 1991
+Received: by karazm.math.UH.EDU id AA14025
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 21 Nov 1991 08:20:17 -0600
+Received: from dcri.dla.mil ([131.67.1.1]) by karazm.math.UH.EDU with SMTP id AA14021
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 21 Nov 1991 08:20:09 -0600
+Received: by dcri.dla.mil (5.61++/1.34)
+	id AA14776; Thu, 21 Nov 91 08:12:31 -0600
+Message-Id: <9111211412.AA14776@dcri.dla.mil>
+Date: Thu Nov 21 08:12:27 1991
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: accesstoporschephiles [54~
+To: porschephiles@karazm.math.uh.edu
+Return-Receipt-To: xgg2356@dcmdc.dla.mil
+
+Hello,
+
+I just became aware of porschephiles through a message on another distribution
+list.  I presently own a 1979 911SC and previously owned a 1970 914-6 2.7.
+
+I am interested in being placed on the list.
+
+My e-mail location is Chicago.  I am a member of PCA, Chicago Region.
+
+I am also a vintage racer.  I vintage race a mini-cooper but travel with
+three friends who race 356s.
+
+
+thanks,
+
+jim fuerstenberg.
+
+From porschephiles-request Thu Nov 21 05:12:21 1991
+Received: by karazm.math.UH.EDU id AA14136
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 21 Nov 1991 09:18:26 -0600
+Received: from nyquist.bellcore.com by karazm.math.UH.EDU with SMTP id AA14132
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 21 Nov 1991 09:18:24 -0600
+Return-Path: <alfred>
+Received: by nyquist.bellcore.com (5.57/Ultrix3.1B)
+	id AA08177; Thu, 21 Nov 91 10:12:21 EST
+Date: Thu, 21 Nov 91 10:12:21 EST
+From: alfred@nyquist.bellcore.com (Alfred Kwan 21342)
+Message-Id: <9111211512.AA08177@nyquist.bellcore.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: get on the list
+
+
+Please add me to the list.
+I have a 914-6 1970.
+
+Thanks
+Alfred
+
+From porschephiles-request Thu Nov 21 08:57:01 1991
+Received: by karazm.math.UH.EDU id AA16916
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 21 Nov 1991 16:00:29 -0600
+Received: from crdgw1.GE.COM by karazm.math.UH.EDU with SMTP id AA16912
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 21 Nov 1991 16:00:05 -0600
+Received:  by crdgw1.ge.com (5.57/GE 1.115)
+	 id AA11045; Thu, 21 Nov 91 14:06:49 EST
+Received: from liefij.crd.Ge.Com by orion.crd.Ge.Com (4.1/SMI-4.0/GE-CRD @(#)sun4.ease	1.13 4/13/89)
+	id AA09173; Thu, 21 Nov 91 13:57:01 EST
+Date: Thu, 21 Nov 91 13:57:01 EST
+From: wiegman@orion.crd.ge.com (Herman L. N. Wiegman)
+Message-Id: <9111211857.AA09173@orion.crd.Ge.Com>
+To: autox@hoosier.utah.edu, bmw@cma.com, british-cars@hoosier.utah.edu,
+        italian-cars@cma.com, mazda-list@ms.uky.edu, miata@jhunix.hcf.jhu.edu,
+        mustangs@hpda.cup.hp.com, porschephiles@karazm.math.uh.edu,
+        rsiatl!z-car@hoosier.utah.edu, rx7club@cbjjn.att.com,
+        saab@dartmouth.edu, school@cma.com, vettes@cimage.com,
+        volvo-net@me.rochester.edu, vw@ames.arc.nasa.gov,
+        wheeltowheel@abingdon.sun.com
+Subject: Re:  car-nets list
+
+
+The below addresses are the car-nets (is that Carnuts?) on Internet.
+
+Thank you! to all the people who helped update this list. If there are 
+more addresses out there please send mail to wiegman@orion.crd.ge.com.
+
+--------car-net addresses as of 11/91-------------------------- 
+
+autox@hoosier.utah.edu 
+british-cars@hoosier.utah.edu
+bmw/bmw-request%cma.com@uu.psi.com
+italian-cars/italian-cars-request%cma.com@uu.psi.com 
+mazda-list@ms.uky.edu
+miata@jhunix.hcf.jhu.edu
+mustangs@hpda.cup.hp.com
+porschephiles@karazm.math.uh.edu
+rsiatl!z-car@hoosier.utah.edu
+rx7club@cbjjn.att.com / rx7-request@cb.att.com
+saab@dartmouth.edu
+school/school-request%cma.com@uu.psi.com
+vettes@cimage.com
+info-vw@ames.arc.nasa.gov
+volvo-net/volvo-net-request@me.rochester.edu
+wheeltowheel@abingdon.sun.com
+
+
+herm
+
+    Herman L.N. Wiegman  ->  wiegman@orion.crd.ge.com
+    - the Flying Dutchman in the DSP swedish brick -
+
+
+From porschephiles-request Thu Nov 21 14:23:07 1991
+Received: by karazm.math.UH.EDU id AA17830
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 21 Nov 1991 18:44:19 -0600
+Received: from relay1.UU.NET by karazm.math.UH.EDU with SMTP id AA17826
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 21 Nov 1991 18:44:15 -0600
+Received: from uunet.uu.net (via LOCALHOST.UU.NET) by relay1.UU.NET with SMTP 
+	(5.61/UUNET-internet-primary) id AA05510; Thu, 21 Nov 91 19:39:28 -0500
+Received: from congrunt.UUCP by uunet.uu.net with UUCP/RMAIL
+	(queueing-rmail) id 193835.54; Thu, 21 Nov 1991 19:38:35 EST
+Received: by congrunt.Congruent.COM (4.30/smail2.5/06-30-90)
+	id AA00925; Thu, 21 Nov 91 19:23:07 est
+Date: Thu, 21 Nov 91 19:23:07 est
+From: alec@Congruent.COM (Alec Yin)
+Message-Id: <9111220023.AA00925@Congruent.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: Subcription...
+
+
+I would like to subscribe the mail list as alec@congruent.com
+
+From porschephiles-request Fri Nov 22 01:05:58 1991
+Received: by karazm.math.UH.EDU id AA01206
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 22 Nov 1991 11:05:29 -0600
+Received: from gemini.arc.nasa.gov by karazm.math.UH.EDU with SMTP id AA01188
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 22 Nov 1991 11:04:31 -0600
+Received: Fri, 22 Nov 91 08:42:10 -0800 from kry.dnet by gemini.arc.nasa.gov (5.65b/1.2) with SMTP
+Message-Id: <9111221642.AA18198@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Fri, 22 Nov 91 09:05:58 PST
+Date: Fri, 22 Nov 91 09:05:58 PST
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: re:re:blowout...
+To: porschephiles@karazm.math.uh.edu
+
+I wrote:
+
+>> I have also noticed the 65 mph shimmy on P7's.  From talks with
+>> others, it looks like I am not the only to notice this problem.  
+>> Rumor is that it is caused by belt delamination.
+>
+
+first reply:
+
+> And I thought it was because I spun my SC (only half way around) on the
+> autox course ;-).   Regarding the delamination rumor...
+> What would be the cause of delamination?  Overheating?  Rotating tires
+> to the other side?  I'm seriously persuing alternates to the P7's.
+
+next reply (Mark's):
+ 
+Seriously persuing alternatives to the P7's is a good idea.  This doesn't
+mean that Pirelli is a bad company.  What is means is that P7's are *OLD*
+tires.  They're ancient, by modern standards.  How long has this model been
+around?  Have you noticed that it has been replaced twice (by the P700, then
+the P700Z)?
+ 
+Use a modern tire.  You'll be much happier.  I highly recommend the BFG Comp
+T/A line, though the P700Z and related tires also have great reputations.
+
+my new reply:
+
+I have not driven on the comp T/A's.  However, from what I have heard about
+the hard compound tires (not the R1's), they are good if you want a long
+wearing tire that may rub your fenders, and you are not planning on driving
+them at the traction limit.  Traction is not particularly good and I hear (on
+this list no less) that the break when they go is a bit abrupt.  The tires 
+are manufactured slightly oversize (compared to all other tires with the 
+same numbers on them).  But hey, they're cheap!
+
+I agree with Mark's comments about the P7.  I remember the tire was new 
+about 15 years ago (18 years ago?).  I don't agree about the company.  I
+plan on NEVER driving on their tires.  Their tires are not cheap, don't 
+seem to have any performance advantage, and I have seen what I consider 
+significant manufacturing defects in both the low and high end tires.
+
+I've been running the Yokohama A008 on the street and the A008rs for auto-x.
+I think the rs stands for "real sticky."
+
+I have been very happy with both.  I will mention that for my next set of 
+street tires I will probably go with something a little cheaper, longer 
+wearing, and less sticky.  The reason is that I just don't drive hard 
+enough on the street to use all the performance I have with the A008.  I have
+this strange phobia about my stopping distance becoming more than twice my 
+visual range, which is what would happen if I drove those tires at their 
+limit.
+
+Oh yeah, these are on a 1980 911sc.
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+From porschephiles-request Fri Nov 22 05:28:47 1991
+Received: by karazm.math.UH.EDU id AA02036
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 22 Nov 1991 13:33:40 -0600
+Received: from npd.Novell.COM by karazm.math.UH.EDU with SMTP id AA02032
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 22 Nov 1991 13:33:37 -0600
+Received: from ithaca.slc.npd.novell.com by npd.Novell.COM (4.1/SMI-4.1)
+	id AA16875; Fri, 22 Nov 91 12:27:11 MST
+Received: from bucket.slc.npd.novell.com by ithaca.slc.npd.novell.com (4.1/SMI-4.1)
+	id AA17320; Fri, 22 Nov 91 12:28:47 MST
+Date: Fri, 22 Nov 91 12:28:47 MST
+From: drew_spencer@npd.Novell.COM (Drew Spencer)
+Message-Id: <9111221928.AA17320@ithaca.slc.npd.novell.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911SC Questions...
+
+
+
+I've recently had the misfortune of experiencing a charging system
+failure on my '82 911SC.  First, it was an occasional flicker of the 
+battery idiot light causing me to shut down and check belt tension.  
+Tensions are fine.  Soon thereafter, strange things begin to happen...
+Tach begins bounce around wildly at low RPM,  no more blinking of the
+charging light now.  Other electrical things begin to fall offline, but
+the engine still runs.  Eventually the battery is dead and the car stalls.
+Fuses look good.  Assumption is that alternator is toast.  Perhaps regulator
+also given strange activity from tach.
+
+Question  1: Is alternator/voltage regulator failure commonplace on the 911
+series (realizing that Porsche likes to tinker from year to year) and does
+failure have a tendency to fry components that don't like the taste of AC
+voltage?
+
+My current plan is to replace both (costly, but effective) as I don't
+personally have access to nifty diagnostic gear for making the
+exact determination of cause.  Looks like the alternator swap will
+cost somewhere between $200-300.  No clue on VR replacement yet.
+
+Question 2: Am I brain damaged to be attempting this on my own ?(assuming
+that I have the books and am a relatively accomplished mechanic though
+a neophyte with Porsche).
+
+The car's garaged at home until spring :-(, so I'm not in a really
+big hurry.  
+
+Question 3: Any special hints on proper procedure for storing a 911
+for 3-4 months other than blocking it up, changing oil, full gas tank with
+water-absorbant added?
+
+Any help here would be greatly appreciated.
+
+Drew Spencer
+('82 911SC Coupe)
+
+"Wow, that's some Porshhhhh you have there!" My father-in-law
+
+
+From porschephiles-request Thu Nov 21 08:32:00 1991
+Received: by karazm.math.UH.EDU id AA06194
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 23 Nov 1991 01:07:05 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA06190
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 23 Nov 1991 01:06:58 -0600
+Received: by Menudo.UH.EDU with UUCP id AA14524
+  (5.65c+/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Sat, 23 Nov 1991 01:02:09 -0600
+Received: from sun.UUCP by shell.com SHELL-X1.3 id AA27664; Fri, 22 Nov 91 02:25:48 -0600
+Received: from Sun.COM (sun-barr.EBay.Sun.COM) by sun.Eng.Sun.COM (4.1/SMI-4.1)
+	id AA00189; Thu, 21 Nov 91 17:23:08 PST
+Received: from nosun.West.Sun.COM by Sun.COM (4.1/SMI-4.1)
+	id AA03784; Thu, 21 Nov 91 17:24:20 PST
+Received: from qiclab.UUCP by nosun.West.Sun.COM (4.1/SMI-4.1-900117)
+	id AA28535; Thu, 21 Nov 91 17:24:18 PST
+Received: by qiclab.scn.rain.com (/\==/\ Smail3.1.22.1 #22.3)
+	id <m0kkOp0-000UUnC@qiclab.scn.rain.com>; Thu, 21 Nov 91 16:32 PST
+Message-Id: <m0kkOp0-000UUnC@qiclab.scn.rain.com>
+Date: Thu, 21 Nov 91 16:32 PST
+From: neighorn@qiclab.scn.rain.com (Steven C. Neighorn)
+To: porschephiles@karazm.math.uh.edu
+X-Face: -JmgJVqr;*Jy3;Dc5i08i&)O17S_P)ytle'pH|zmdR::(+S+5dW^|F^TXz]jCK|N:y&
+	qgpDv<%;{Wce2B1;?eA=)IR-sARCtM*w!#*Z,\^9t2"\]2}KhwFo;]#HcsXouNQo{Zn
+	6e1^Z*TcB6<#B%$I(Xa+Rz$K^OJrb*&yQ\$r7ayS@Q6y|-TTByg;4T:8#o~OTau!XL9
+	!,Ip%sz%rA+w\BDul"N[Oly<j^@hJ[B?h]Nldvq?b%myp<[V0iKMDm5an(Z61h-uovx
+	ZE<!X$R
+
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: porschephiles@karazm.math.uh.edu
+Subject: Where to buy tires???
+
+Hello Porsche-people,
+
+It is time for me to get new tires and I was reading the bit Tire Update
+that was posted on this list last month. The updates are great, but one
+thing puzzles me: Where do you get tires at the prices listed?
+
+I have decided on the RE71RAZ's (245/45 back 225/50 front). The 
+Bridgestone message listed the 16" sizes ranging in price from $125
+to $135. 
+
+The quotes I have been getting in Portland Oregon, which include mounting
+and balancing, are like:
+
+$233/tire for the 245/45
+$219/tire for the 225/50
+
+I am a novice when it comes to getting good deals on tires. Is this
+a "good" price for a local buy? Should I go mailorder? If so, where?
+Are there places that will put tires on that you bring in?
+
+Sorry if some of these questions are stupid, but a $400 difference is
+worth asking dumb questions about!
+
+Thanks much in advance...
+
+-- 
+Steven C. Neighorn        neighorn@qiclab.scn.rain.com/neighorn@cse.ogi.edu
+SCN Research              "Where we train the Star Fighters that defend the
+10635 S.W. 127th Court        frontier against Xur and the Ko-dan Armada"
+Tigard, Oregon 97223-1964                home: (503) 641-3469
+
+From porschephiles-request Sat Nov 23 02:35:00 1991
+Received: by karazm.math.UH.EDU id AA06891
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 23 Nov 1991 09:16:07 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA06887
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 23 Nov 1991 09:16:05 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id cv05666;
+          23 Nov 91 9:57 EST
+Date: Sat, 23 Nov 91 02:35 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Drew Spencer <drew_spencer@npd.novell.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911SC Questions...
+Message-Id: <11911123023511/0004056890NA4EM@mcimail.com>
+
+Drew -
+
+My first inclination, from the symptoms you describe, would be to look for a
+bad/loose ground.  Rapid fluctuations in several gauges and lights almost never
+reflect actual engine conditions, almost always some systemic electrical
+malaise.
+
+A friend recently had similar symptoms with his 944S.  Turned out to be a loose
+ground point at the back of the engine block.  After tightening the bolt, the
+poltergeists fled from his car.
+
+If you do find a loose ground, be sure to clean things well before tightening
+them down.  If it's a bolt, use some blue Loctite.  No, you're not crazy to go
+after this one yourself!
+
+Happy hunting, and let me know what you find.
+
+Kevin
+
+From porschephiles-request Fri Nov 22 04:31:00 1991
+Received: by karazm.math.UH.EDU id AA08314
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 23 Nov 1991 13:58:48 -0600
+Received: from Menudo.UH.EDU by karazm.math.UH.EDU with SMTP id AA08310
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 23 Nov 1991 13:58:42 -0600
+Received: by Menudo.UH.EDU with UUCP id AA21799
+  (5.65c+/IDA-1.4.4 for karazm.math.uh.edu!porschephiles); Sat, 23 Nov 1991 13:53:51 -0600
+Received: from sun.UUCP by shell.com SHELL-X1.3 id AA10158; Sat, 23 Nov 91 07:46:25 -0600
+Received: from Sun.COM (sun-barr.EBay.Sun.COM) by sun.Eng.Sun.COM (4.1/SMI-4.1)
+	id AA27791; Fri, 22 Nov 91 12:57:00 PST
+Received: from nosun.West.Sun.COM by Sun.COM (4.1/SMI-4.1)
+	id AA22403; Fri, 22 Nov 91 12:58:14 PST
+Received: from qiclab.UUCP by nosun.West.Sun.COM (4.1/SMI-4.1-900117)
+	id AA20365; Fri, 22 Nov 91 12:58:13 PST
+Received: by qiclab.scn.rain.com (/\==/\ Smail3.1.22.1 #22.3)
+	id <m0kkhXK-000UNBC@qiclab.scn.rain.com>; Fri, 22 Nov 91 12:31 PST
+Message-Id: <m0kkhXK-000UNBC@qiclab.scn.rain.com>
+Date: Fri, 22 Nov 91 12:31 PST
+From: neighorn@qiclab.scn.rain.com (Steven C. Neighorn)
+To: porschephiles@karazm.math.uh.edu
+X-Face: -JmgJVqr;*Jy3;Dc5i08i&)O17S_P)ytle'pH|zmdR::(+S+5dW^|F^TXz]jCK|N:y&
+	qgpDv<%;{Wce2B1;?eA=)IR-sARCtM*w!#*Z,\^9t2"\]2}KhwFo;]#HcsXouNQo{Zn
+	6e1^Z*TcB6<#B%$I(Xa+Rz$K^OJrb*&yQ\$r7ayS@Q6y|-TTByg;4T:8#o~OTau!XL9
+	!,Ip%sz%rA+w\BDul"N[Oly<j^@hJ[B?h]Nldvq?b%myp<[V0iKMDm5an(Z61h-uovx
+	ZE<!X$R
+
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: porschephiles@karazm.math.uh.edu
+
+Hello Porsche-people,
+
+It is time for me to get new tires and I was reading the bit Tire Update
+that was posted on this list last month. The updates are great, but one
+thing puzzles me: Where do you get tires at the prices listed?
+
+I have decided on the RE71RAZ's (245/45 back 225/50 front). The 
+Bridgestone message listed the 16" sizes ranging in price from $125
+to $135. 
+
+The quotes I have been getting in Portland Oregon, which include mounting
+and balancing, are like:
+
+$233/tire for the 245/45
+$219/tire for the 225/50
+
+I am a novice when it comes to getting good deals on tires. Is this
+a "good" price for a local buy? Should I go mailorder? If so, where?
+Are there places that will put tires on that you bring in?
+
+Sorry if some of these questions are stupid, but a $400 difference is
+worth asking dumb questions about!
+
+Thanks much in advance...
+
+-- 
+Steven C. Neighorn        neighorn@qiclab.scn.rain.com/neighorn@cse.ogi.edu
+SCN Research              "Where we train the Star Fighters that defend the
+10635 S.W. 127th Court        frontier against Xur and the Ko-dan Armada"
+Tigard, Oregon 97223-1964                home: (503) 641-3469
+
+
+From porschephiles-request Sat Nov 23 23:16:00 1991
+Received: by karazm.math.UH.EDU id AA09581
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 23 Nov 1991 17:31:03 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA09577
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Sat, 23 Nov 1991 17:31:01 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa13378;
+          23 Nov 91 18:25 EST
+Date: Sat, 23 Nov 91 23:16 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: "Steven C. Neighorn" <neighorn@qiclab.scn.rain.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: 
+Message-Id: <63911123231636/0004056890NA1EM@mcimail.com>
+
+Steven -
+
+You should check out the ads in Auto Week, Road and Track, etc. for places like
+FastTire and the Tire Rack, mail-order discounters.  As you have guessed, you
+have to take into consideration the total package cost: tires, shipping,
+mounting and balancing.  Most tire storefronts will charge you a lot more for
+the mount and balance if you walk in the door with tires.
+
+Almost anyone has the equipment to mount tires.  Ask around among local Porsche
+folk to a shop with a good reputation for mounting tires without scratching
+rims.
+
+Kevin
+
+From stan Sat Nov 23 15:11:19 1991
+Received: by karazm.math.UH.EDU id AA10477
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 23 Nov 1991 21:11:27 -0600
+Received: by karazm.math.UH.EDU id AA10473
+  (5.65c/IDA-1.4.4 for porschephiles@karazm.math.uh.edu); Sat, 23 Nov 1991 21:11:19 -0600
+Date: Sat, 23 Nov 1991 21:11:19 -0600
+From: Stan Hanks <stan>
+Message-Id: <199111240311.AA10473@karazm.math.UH.EDU>
+To: neighorn@qiclab.scn.rain.com, porschephiles@karazm.math.uh.edu
+Subject: Tires
+
+My ususal trick is to get someone at FasTire or Tires-to-Go or somewhere
+to FAX me a quote that includes shipping, and take that to the manager 
+of my favorite local tire shop. If the local guy can't get to within
+about 5% of tires plus shipping, he deserves for me to take my business
+somewhere else.
+
+I've also been known to take said mail ordered tires to the offending
+store for mounting, making a BIG DEAL about how much better prices 
+you can get by mail ordering the tires and how wonderful it is that
+you can still take up their mounting bays for an hour for $10 a tire.
+Never ever have I had to do this more than once at a given store 8{)
+
+Stan
+
+From stan Sat Nov 23 17:58:51 1991
+Received: by karazm.math.UH.EDU id AA11420
+  (5.65c/IDA-1.4.4 for porschephiles-list); Sat, 23 Nov 1991 23:58:52 -0600
+Received: by karazm.math.UH.EDU id AA11416
+  (5.65c/IDA-1.4.4 for porschephiles@karazm.math.uh.edu); Sat, 23 Nov 1991 23:58:51 -0600
+Date: Sat, 23 Nov 1991 23:58:51 -0600
+From: Stan Hanks <stan>
+Message-Id: <199111240558.AA11416@karazm.math.UH.EDU>
+To: porschephiles@karazm.math.uh.edu
+Subject: New Welcome message
+
+Well, it's been a while. I just added several new members, and had to delete
+several people whose mailers were giving me trouble. So, here's the welcome
+message. Note the change with regard to flakey mailers. Enjoy.
+
+===============
+
+Welcome to the Porschephiles mailing list!!! PLEASE READ THIS WHOLE MESSAGE!!
+
+This list is currently being run as a mail reflector, which  sends your message 
+to the whole list at once. The participants include people with a variety of 
+backgrounds, some technical, some race/autocross/performance drivers, some 
+owners, some just admirers.  
+
+To send a message to the whole list, mail to
+
+		porschephiles@karazm.math.uh.edu
+
+To send mail regarding distribution problems, or other administrative issues,
+send mail to
+
+		porschephiles-request@karazm.math.uh.edu
+
+
+PLEASE NOTE A FEW ITEMS:
+
+0) There are about 175 members of the list. It's small enough to be effective,
+   and large enough to have a number of diverse opinions and sets of
+   experience. Remember that before you decide to not ask a question, or
+   if you get flamed for asking an "obvious" question.
+
+1) The list is maintained irregularly. If I'm in town or can reach the
+   host system from wherever I am and I have the time to deal with it,
+   I *try* to handle changes on a real-time basis. However, for the
+   rest of 1991 I will be traveling extensively and changes will be batched
+   on a week basis.
+
+2) Please try to send all administrative mail to the "porschephiles-request"
+   address, or to me directly.
+
+3) In the same vein, please try to *NOT* send replies or new messages to 
+   the "porschephiles-request" address. I realize that the UUCP "From "
+   address is "porschephiles-request@karazm.math.uh.edu"; however in
+   absolutely NO cases is that the return address of the original sender
+   of the message. I don't have time to deal with such mis-routed mail,
+   and simply discard it.
+
+4) If your mailer starts screwing up *you will be dropped from the list*
+   Should you notice that you aren't getting the list any more, send me
+   mail and I'll figure out why not...
+
+Enjoy the list! If I can be of assistance, please don't hesitate to drop
+me a note.
+
+Regards From Your Moderator,
+
+Stanley P. Hanks                                            Principal Scientist
+Technology Transfer Associates,   P.O. Box 2087,   Bellaire    TX    77402-2087
+e-mail: stan@karazm.math.uh.edu   voice: (713) 661-2084     fax: (713) 662-8504
+
+'81 Euro 911SC Targa (daily driver), '74 914 (in prep to a SCCA GT-3 weapon)
+
+From porschephiles-request Mon Nov 25 00:55:56 1991
+Received: by karazm.math.UH.EDU id AA22704
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 25 Nov 1991 10:56:13 -0600
+Received: from gemini.arc.nasa.gov by karazm.math.UH.EDU with SMTP id AA22691
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 25 Nov 1991 10:54:35 -0600
+Received: Mon, 25 Nov 91 08:48:47 -0800 from kry.dnet by gemini.arc.nasa.gov (5.65b/1.2) with SMTP
+Message-Id: <9111251648.AA02987@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Mon, 25 Nov 91 08:55:56 PST
+Date: Mon, 25 Nov 91 08:55:56 PST
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: SC alternator query
+To: porschephiles@karazm.math.uh.edu
+
+Drew Spencer writes:
+ 
+I've recently had the misfortune of experiencing a charging system
+failure on my '82 911SC.  First, it was an occasional flicker of the 
+battery idiot light causing me to shut down and check belt tension.  
+Tensions are fine.  Soon thereafter, strange things begin to happen...
+Tach begins bounce around wildly at low RPM,  no more blinking of the
+charging light now.  Other electrical things begin to fall offline, but
+the engine still runs.  Eventually the battery is dead and the car stalls.
+Fuses look good.  Assumption is that alternator is toast.  Perhaps regulator
+also given strange activity from tach.
+ 
+  Questions deleted...
+
+Drew,
+
+I agree (with Kevin?) about checking for a loose ground.
+
+I had an alternator failure on my 1980 SC just after I bought it (about 105k 
+miles).
+
+My symptoms were charge light on all the time and good belt tension.
+
+My solution was to remove the alternator and regulator and take them to 
+the local alternator shop (yellow pages).  They tested the regulator.  I had
+already looked at the brushes and they were shot.  When the shop looked at 
+the regulator, they pointed out that the comutator was also quite worn.
+
+Having my own alternator rebuilt, which I believe consisted of replacing the
+brushes, other contact surfaces, and bearings, cost $77.  This is probably 
+what is done to any rebuilt alternator that you buy.  So far, mine is working
+fine.  It's been about 20k miles.
+
+If you do it yourself:
+
+      There are some vanes behind the alternator.  The location is important.
+      MARK the location of the parts as you remove them.  It will make your
+      life much easier.  Ditto for the wire connections.
+
+      I took the alternator into the shop with the fan still attached.  The 
+      shop broke a blade on the fan.  They replaced the fan ($200), but it 
+      took another day for them to get it.  You need a puller (or a trick I
+      don't know) to remove the fan.  Don't pound or pry...  The shop may or
+      may not accept the thing with the fan attached.  My local shop won't 
+      any more ;-).
+
+      Disconnect the NEGATIVE battery terminal before starting ANY electrical
+      work.  This keeps you from welding a wrench to your car...
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+From porschephiles-request Mon Nov 25 06:33:00 1991
+Received: by karazm.math.UH.EDU id AA24336
+  (5.65c/IDA-1.4.4 for porschephiles-list); Mon, 25 Nov 1991 14:41:33 -0600
+Received: from att.att.com by karazm.math.UH.EDU with SMTP id AA24332
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Mon, 25 Nov 1991 14:41:27 -0600
+Message-Id: <199111252041.AA24332@karazm.math.UH.EDU>
+From: damiki@druco.att.com
+Date: Mon, 25 Nov 91 13:33 MST
+To: porschephiles@karazm.math.uh.edu
+
+In regard to a trick required to get the fan off a 911 alternator...
+
+I just rebuilt the alternator on my '77 930 and found an easy way to
+do this using a simple hand-made tool. Assuming all fans are built like
+mine, this is how I did it. First, go to the local hardware store and
+get some of the perforated galvanized steel tape that's used to fasten
+pipes to studs in houses. It's about 3/4" wide and has 2 sizes of holes
+that alternate at periodic intervals. Cut 2 pieces of this about 5 inches
+long. Put the 2 pieces together face to face to double the strength. Next,
+put a fairly large bolt (about 1/4") through the hole in the center of
+the strip. This will be the "pusher" bolt. Put a nut on the other side for
+something to push against.
+
+Now the tricky part. Get 2 "puller" bolts about 3/16" in diameter and about 1"
+long, along with their matching nuts.
+The bolts have to be just thin enough to slip through the holes in the fan
+that are around the shaft.
+The nuts can't be thicker than about 1/8 inch.
+Now, take the whole
+alternator/fan assembly and set it on a table with the fan down. Drop one of
+the nuts in between the inside of the fan and the outside of the alternator.
+Then, pick up the alternator and, while holding it with the fan down, shake
+it until the nut lines-up behind one of the holes around the shaft. Have a
+helper stick a small screwdriver through the hole to hold the nut, then
+flip the alternator over with the fan up. You can now take one of the 3/16"
+bolts slip it through one of the outside holes in the steel tape, and thread it
+into the bolt behind the fan. This gives you half of your puller. The process
+is then repeated with the other nut. The finished assembly can then be used
+just like a gear puller to push the shaft out of the fan. It looks like this:
+
+
+                                    1/4" bolt
+                     ~3/16" bolt       ---
+                        ||||          || ||          ||||
+      steel tape    -----||---------------------------||----
+                    -----||---------------------------||----
+                         ||           || || 1/4" nut  ||
+                         ||            |-|            ||
+      hole in fan -----  ||            |-|            ||
+                       \ ||           -----           ||
+                        \||          |     |          ||
+               ----------||----------|     |----------||----------
+         fan  | ---------||----------|     |----------||--------- |
+	      ||  --->  ||||         |     |         ||||        ||
+	      || |  -----------------------------------------    ||
+	      || | |      alternator                         |   ||
+              || | |                                         |   ||
+                 |
+      3/16" nut -
+    (dropped in from rear)
+
+
+
+The key to the operation is dropping the nuts in behind the fan. This
+worked great for me and didn't damage anything. I needed to get the
+fan off to replace some noisy bearings and didn't have any electrical
+problems.
+
+Dave
+druco!damiki
+
+From porschephiles-request Tue Nov 26 08:56:18 1991
+Received: by karazm.math.UH.EDU id AA28697
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 26 Nov 1991 08:56:26 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA28693
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 26 Nov 1991 08:56:18 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA25397; Mon, 25 Nov 91 15:51:58 -0600
+Message-Id: <9111252151.AA25397@dcmdc.dla.mil>
+Date: Mon Nov 25 15:51:55 1991
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: diagnosis?
+To: porschephiles@karazm.math.uh.edu
+
+This is a request for advice.
+
+I have what I think is a ground problem on my 1979 SC.  The symptoms are as
+follows:
+
+seat belt warning light tends to come on when I accelerate away from a 
+stop.
+
+the wipers trigger for one cycle intermittently, usually when I pull away
+>from a stop.
+
+the headlights H-4 (55/100) brighten when I increase revs.
+
+the battery charges just fine and the car runs fine otherwise ( except for 
+what I think is a defective cold start valve) hard cold weather starting,  but
+the warm-up cycle operates correctly. uh... make that 2 problems.
+
+I welcome any suggestions.
+
+
+jim fuerstenberg		
+
+
+			"No matter where you go, there you are"
+						
+							Buckaroo Banzai
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+
+From porschephiles-request Tue Nov 26 09:12:20 1991
+Received: by karazm.math.UH.EDU id AA28773
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 26 Nov 1991 09:12:23 -0600
+Received: from ELBERETH.RUTGERS.EDU by karazm.math.UH.EDU with SMTP id AA28768
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 26 Nov 1991 09:12:20 -0600
+Received: from unipress-link.rutgers.edu by elbereth.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+	id AA29936; Tue, 26 Nov 91 09:35:27 EST
+Received: from unipress.unipress.com by repo.unipress.com (4.1/SMI-4.1/UniPress103091.1)
+	id AA26350; Tue, 26 Nov 91 09:35:14 EST via 
+Received: by unipress.unipress.com (3.2/SMI-3.0DEV3/UniPressUU103191.1)
+	id AA16663; Tue, 26 Nov 91 09:34:27 EST
+Received: from sparc. by  (4.0/SMI-4.0)
+	id AA01636; Tue, 26 Nov 91 14:25:34 GMT
+Received: by sparc. (4.0/SMI-4.0)
+	id AA04427; Tue, 26 Nov 91 09:25:49 EST
+From: erika!sparc!root@elbereth.rutgers.edu (Operator)
+Message-Id: <9111261425.AA04427@sparc.>
+To: porschephiles@karazm.math.uh.edu
+Subject: NMA
+Date: 26 November
+
+You probably all know about the National Morists Association, nee CCRL, nee
+CCRTL, but if you don't I want to bring it to your attention.
+
+NMA is a lobbying group for motorists.  It campaigns against the 55mph limit
+and gets involved in other worthwhile causes.  They can always use new members
+and money, so please contact them if you are not already a member.
+
+National Motorists Association
+6678 Pertzborn Road
+Dane, Wisconsin 53529
+
+tel: 608-849-6000
+
+
+Fred Pack
+
+
+From porschephiles-request Tue Nov 26 05:42:26 1991
+Received: by karazm.math.UH.EDU id AA28858
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 26 Nov 1991 09:47:32 -0600
+Received: from cs.rpi.edu by karazm.math.UH.EDU with SMTP id AA28849
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 26 Nov 1991 09:47:23 -0600
+Received: from porsche.cs.rpi.edu by cs.rpi.edu (4.1/1.2-RPI-CS-Dept)
+	id AA02030; Tue, 26 Nov 91 10:42:26 EST
+Received: by porsche.cs.rpi.edu (4.1/SMI-4.1)
+	id AA03574; Tue, 26 Nov 91 10:42:26 EST
+Date: Tue, 26 Nov 91 10:42:26 EST
+From: weltyc@cs.rpi.edu
+Message-Id: <9111261542.AA03574@porsche.cs.rpi.edu>
+To: xgg2356@dcmdc.dla.mil
+Cc: porschephiles@karazm.math.uh.edu
+In-Reply-To: James Fuerstenberg's message of Mon Nov 25 15:51:55 1991 <9111252151.AA25397@dcmdc.dla.mil>
+Subject: diagnosis?
+
+
+Sorry I missed the past postings of these electrical problems.
+
+You probably have a bad ground, as suggested by others.  But a bad
+ground can blow your voltage regulator, this in turn can fry the rest
+of your electrical system, so you may have more than one problem.
+
+First thing to do:
+
+Go to every ground strap on the car and remove it (this includes BOTH
+ends of the battery ground), the transmission -> body ground, and the
+ground on the alternator.  There are a few other less important ones
+in the left of the engine bay, and the head&parking lights each have
+their own ground.  There is a diagram in the parts manual that shows
+all the ground points (I am reciting it from memory which isn't
+accurate...). 
+
+Remove the battery (s).  Clean and wash the area around the battery well.
+A blown VR will boil the battery.
+
+Clean the daylights out of the straps and the places it makes contact,
+especially on the battery terminals.  Make sure there are washers on
+top of them holding them down for good contact.
+
+Remove each fuse (one at a time so you don't lose your place) and
+clean both ends of the fuse, and the terminals.  This includes the
+engine bay fuses.
+
+Now you probably have a clean electrical system.  Hook up a voltmeter
+and see if the voltage fluctuates by much.  I think the acceptable
+range is up to 14 volts, but it shouldn't fluctuate wildy even within
+that range, if it does replace the regulator.
+
+Hope this helps.
+
+=====
+
+Christopher Welty                               Asst. Director, RPI CS Labs
+weltyc@cs.rpi.edu              "Porsche:  Fahren in seiner schoensten Form"
+
+From porschephiles-request Tue Nov 26 07:07:57 1991
+Received: by karazm.math.UH.EDU id AA29546
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 26 Nov 1991 11:10:39 -0600
+Received: from interlan.InterLan.COM by karazm.math.UH.EDU with SMTP id AA29542
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 26 Nov 1991 11:10:36 -0600
+Received: by interlan.interlan.com (5.65/1.35)
+	id AA20844; Tue, 26 Nov 91 12:07:57 -0500
+Date: Tue, 26 Nov 91 12:07:57 -0500
+From: powell@interlan.interlan.com (Glen D. Powell)
+Message-Id: <9111261707.AA20844@interlan.interlan.com>
+To: porschephiles@karazm.math.uh.edu
+Subject: Lobro source?
+
+
+Does anyone know of a source for Lobro (Tm) CV joints that can order
+parts by the Lobro partnumber?
+
+Thanks,
+
+-glen
+
+
+From porschephiles-request Wed Nov 27 02:36:00 1991
+Received: by karazm.math.UH.EDU id AA03323
+  (5.65c/IDA-1.4.4 for porschephiles-list); Tue, 26 Nov 1991 21:07:18 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA03319
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Tue, 26 Nov 1991 21:07:17 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ah28262;
+          26 Nov 91 21:55 EST
+Date: Wed, 27 Nov 91 02:36 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: "Glen D. Powell" <powell@interlan.interlan.com>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Lobro source?
+Message-Id: <33911127023633/0004056890NA4EM@mcimail.com>
+
+Glen -
+
+I know my mechanic orders OEM stuff made by Lobro, Zimmerman, ZF, Sachs, ATE,
+FAG, etc. from a few distributers.  Apparently these distributers only deal with
+shops placing orders worth many thousands of dollars, ie, high volume.  They
+import the stuff by the container-load.
+
+Since you're local, perhaps he (my mechanic) could help you.
+
+  Jerry Pellegrino
+  European Performance Engineering
+  508 651 1316
+
+Tell 'em I sent you.  He's great.
+
+Kevin
+
+From porschephiles-request Wed Nov 27 01:42:10 1991
+Received: by karazm.math.UH.EDU id AA06643
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 27 Nov 1991 11:42:15 -0600
+Received: from gemini.arc.nasa.gov by karazm.math.UH.EDU with SMTP id AA06639
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 27 Nov 1991 11:41:37 -0600
+Received: Wed, 27 Nov 91 09:31:49 -0800 from kry.dnet by gemini.arc.nasa.gov (5.65b/1.2) with SMTP
+Message-Id: <9111271731.AA17646@gemini.arc.nasa.gov>
+Received: from kry.dnet by 24.234.dnet with MAIL-11
+	(utk-mail11d v1.5); Wed, 27 Nov 91 09:42:10 PST
+Date: Wed, 27 Nov 91 09:42:10 PST
+From: laforce@krypton.arc.nasa.gov
+X-Vmsmail-To: @PORSCHEPHILES.ADR
+Subject: 911sc FI questions
+To: porschephiles@karazm.math.uh.edu
+
+
+
+I've got a question for any FI gurus out there...
+
+My car, 1980 911sc, has been getting hard to start in the mornings.
+
+Symptoms:
+      Engine fires and runs briefly, then dies.  The engine speed prior to 
+      dying is low, perhaps 400 rpm.  This happens (typically) 2 or 3 times
+      before the idle speed picks up and the car runs.  Once the idle picks
+      up, the car runs fine.  When the idle does pick up, it is like a 
+      switch was closed, the effect is very distinct and repeatable.  I have
+      the feeling that if the fuel system would start out in the condition/
+      configuration is achieves when the engine runs, this would not be 
+      happening.
+
+My suspicions:
+      I suspect the warm up regulator or the cold start valve.  The WUR is
+      my first guess as I believe it controls the CSV.  I've also heard bad
+      things about the WUR for this model.  One person said "oh yes, thats the
+      warm up reg, replace it with the later model" ('81 or '83).  However,
+      at $250 (automotion), I'm not about to use the shotgun approach.
+
+Questions:
+      Aside from the obvious (what's wrong?), is there a sensor someplace 
+      that could be causing this problem, i.e. WUR and CVS ok, but getting
+      bad information about engine condition?
+
+Oh yeah, the problem seems to be getting worse with time, or maybe it's 
+just getting colder...
+
+
+--Soren            laforce@krypton.arc.nasa.gov
+
+From porschephiles-request Wed Nov 27 08:33:33 1991
+Received: by karazm.math.UH.EDU id AA06996
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 27 Nov 1991 12:45:05 -0600
+Received: from vnet.ibm.com (iinus1.ibm.com) by karazm.math.UH.EDU with SMTP id AA06992
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 27 Nov 1991 12:44:59 -0600
+Message-Id: <199111271844.AA06992@karazm.math.UH.EDU>
+Received: from KGNVMY by vnet.ibm.com (IBM VM SMTP V2R2) with BSMTP id 0165;
+   Wed, 27 Nov 91 13:40:02 EST
+Date: Wed, 27 Nov 91 13:33:33 EST
+From: "George Beuselinck" <GEORGEB@KGNVMY.VNET.IBM.COM>
+To: porschephiles@karazm.math.uh.edu
+Subject: 911SC Fuel Injection Problem
+
+Sounds like the warm-up regulator.
+
+The pin in the regulator could be out of position, which could be
+corrected by simply disassembling and reassembling properly.
+
+The best way to tell if it is the regulator is to obtain a CIS fuel
+pressure gauge (two hoses, a tee, and a valve) and compare the control
+pressure change with the warm-up cycle listed in the service manual.
+
+In the latest "Upfixin der Porsche" (available from the PCA national
+office), there is a modification procedure to make the regulator
+adjustable.  This is a refinement to the "knocking the plug" technique
+of changing the control pressure for a cold engine.
+
+The modification is cheap (Do-It-Yourself) and works.
+
+Good luck...
+
+George Beuselinck (914-385-7089)
+
+From porschephiles-request Thu Nov 28 02:05:00 1991
+Received: by karazm.math.UH.EDU id AA09736
+  (5.65c/IDA-1.4.4 for porschephiles-list); Wed, 27 Nov 1991 20:20:22 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA09732
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Wed, 27 Nov 1991 20:20:20 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ad03884;
+          27 Nov 91 21:10 EST
+Date: Thu, 28 Nov 91 02:05 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: laforce <laforce@krypton.arc.nasa.gov>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 911sc FI questions
+Message-Id: <31911128020513/0004056890NA2EM@mcimail.com>
+
+Soren -
+
+I would go with George's suggestions.  To answer one of your questions, there
+are two other sensors which come into play on a K-Jet car.  The first is the
+thermo-time switch.  Its job is to inhibit the warm-up regulator (and thus the
+cold-start injection) if the engine is already warm.  The switch is mounted to
+the engine.
+
+And there is an auxilliary air device, whose job it is to allow a little
+unmetered air around the throttle when the engine is cold.
+
+Happy hunting.
+
+Kevin
+
+From porschephiles-request Thu Nov 28 10:21:51 1991
+Received: by karazm.math.UH.EDU id AA12355
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 28 Nov 1991 14:26:50 -0600
+Received: from duke.cs.duke.edu by karazm.math.UH.EDU with SMTP id AA12351
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 28 Nov 1991 14:26:48 -0600
+Received: from umbriel.cs.duke.edu
+	by duke.cs.duke.edu (5.65/2.21G/4.1.1)
+	id AA21098; Thu, 28 Nov 91 15:21:53 -0500
+Received: by umbriel.cs.duke.edu (5.65/2.21L/4.1.1)
+	id AA24592; Thu, 28 Nov 91 15:21:51 -0500
+Date: Thu, 28 Nov 91 15:21:51 -0500
+From: am@cs.duke.edu (Anastassios Markas)
+Message-Id: <9111282021.AA24592@umbriel.cs.duke.edu>
+To: porschephiles@karazm.math.uh.edu
+Subject: 1987 944 Turbo
+
+
+
+Small amount of radiator fluid is running out of the clutch housing. Any ideas
+what the problem may be?
+
+thanks in advance,
+tassos
+
+From porschephiles-request Thu Nov 28 22:41:00 1991
+Received: by karazm.math.UH.EDU id AA12539
+  (5.65c/IDA-1.4.4 for porschephiles-list); Thu, 28 Nov 1991 16:48:01 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA12535
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Thu, 28 Nov 1991 16:47:59 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id aa12627;
+          28 Nov 91 17:42 EST
+Date: Thu, 28 Nov 91 22:41 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: Anastassios Markas <am@cs.duke.edu>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 1987 944 Turbo
+Message-Id: <01911128224110/0004056890NA2EM@mcimail.com>
+
+Tassos -
+
+The 944 and 951 have their heater valve at the back of the block.  This is a
+vacuum-controlled valve which regulates passenger compartment heat.  It
+eventually leaks coolant and is easy to replace.  The part costs $25 - 30.
+
+However, because of its position, it leaks onto the clutch bell housing and will
+enter it and destroy your clutch.  You are probably seeing fluid which has gone
+through.  (I think there is an open port in the top of the housing.)  Big bucks.
+Get the valve fixed ASAP, and have your clutch checked for damage.  This
+happened to a friend's 951, under warranty, and PCNA ate the clutch.
+
+By the way, on the 944S (and I think S2), the valve is relocated to the front of
+the engine, and sits right next to the oil filter.  I can guess why.
+
+Kevin
+
+From porschephiles-request Fri Nov 29 07:49:09 1991
+Received: by karazm.math.UH.EDU id AA14314
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 29 Nov 1991 07:49:17 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA14310
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 29 Nov 1991 07:49:09 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA04424; Fri, 29 Nov 91 07:32:47 -0600
+Message-Id: <9111291332.AA04424@dcmdc.dla.mil>
+Date: Fri Nov 29 07:32:44 1991
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: Re: Returned mail: User unknown
+To: porschephiles@karazm.math.uh.edu
+X-Orig-Date: Fri, 29 Nov 91 07:10:09 -0600
+X-Orig-From: MAILER-DAEMON (Mail Delivery Subsystem)
+X-Orig-Message-Id: <9111291310.AA03431@dcmdc.dla.mil>
+
+ 
+ I have the same starting symptoms with my SC as Soren does.  My thought was
+ that it was not the warm up regulator but the cold start valve.  My basis
+ for this possibly erroneous thought was that the once the car is started the
+ warm up cycle works perfectly and it is only in getting it started that it
+ demonstrates the symptoms Soren describes.
+ 
+ 
+ jim fuerstenberg		
+ 
+ 
+ 			"No matter where you go, there you are"
+ 						
+ 							Buckaroo Banzai
+ jfuerstenberg@dcri.dla.mil or
+ xgg2356@dcri.dla.mil
+
+
+From porschephiles-request Fri Nov 29 07:49:31 1991
+Received: by karazm.math.UH.EDU id AA14320
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 29 Nov 1991 07:49:41 -0600
+Received: from dcmdc.dla.mil by karazm.math.UH.EDU with SMTP id AA14316
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 29 Nov 1991 07:49:31 -0600
+Received: by dcmdc.dla.mil (5.61++/1.34)
+	id AA04116; Fri, 29 Nov 91 07:27:02 -0600
+Message-Id: <9111291327.AA04116@dcmdc.dla.mil>
+Date: Fri Nov 29 07:26:59 1991
+From: xgg2356@dcmdc.dla.mil (James Fuerstenberg)
+Subject: 994turboclutch
+To: duke.edu@amcs.dcmdc.dla.mil, porschephiles@karazm.math.uh.edu
+
+Amen on clutch repairs to a 944Turbo, prepare to make your credit cards or
+checkbook bleed.  According to my friendly mechanic, one had to drop 
+the whole rear suspension, the torque tube and perform numerous time consuming
+chores plus the price of the clutch parts.  One could spend $3000+ on a clutch
+replacement.  Hope you do not.
+
+
+jim fuerstenberg		
+
+
+			"No matter where you go, there you are"
+						
+							Buckaroo Banzai
+jfuerstenberg@dcri.dla.mil or
+xgg2356@dcri.dla.mil
+
+
+From porschephiles-request Sat Nov 30 00:57:00 1991
+Received: by karazm.math.UH.EDU id AA16620
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 29 Nov 1991 19:38:27 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA16614
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 29 Nov 1991 19:38:25 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id ag16099;
+          29 Nov 91 20:29 EST
+Date: Sat, 30 Nov 91 00:57 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: James Fuerstenberg <xgg2356@dcmdc.dla.mil>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: 994-series clutch
+Message-Id: <61911130005716/0004056890NA3EM@mcimail.com>
+
+Jim -
+
+It's not quite that bad, financially.  You do indeed have to drop the
+transmission and move the torque tube.  You don't have to drop the rear
+suspension per se.
+
+The whole job takes about 8 - 10 hours, I am told.  So you're looking at that
+much labour plus parts.
+
+Kevin
+
+From porschephiles-request Sat Nov 30 00:57:00 1991
+Received: by karazm.math.UH.EDU id AA16600
+  (5.65c/IDA-1.4.4 for porschephiles-list); Fri, 29 Nov 1991 19:38:09 -0600
+Received: from NRI.RESTON.VA.US by karazm.math.UH.EDU with SMTP id AA16596
+  (5.65c/IDA-1.4.4 for <porschephiles@karazm.math.uh.edu>); Fri, 29 Nov 1991 19:38:07 -0600
+Received: from mcimail.com by NRI.NRI.Reston.VA.US id af16099;
+          29 Nov 91 20:29 EST
+Date: Sat, 30 Nov 91 00:57 GMT
+From: "Kevin C. Gross" <0004056890@mcimail.com>
+To: James Fuerstenberg <xgg2356@dcmdc.dla.mil>
+Cc: porschephiles <porschephiles@karazm.math.uh.edu>
+Subject: Re: Cold start woes
+Message-Id: <60911130005706/0004056890NA3EM@mcimail.com>
+
+Soren and James -
+
+Checking the cold start injection is pretty straightforward.  I did this on my
+wife's KE-Motronic Jetta 16V last winter.  The procedure to follow is described
+very well in Probst's "Bosch Fuel Injection & Engine Management" book.  It is
+NOT a) removed the valve b) stick it in a jar c) start the engine!
+
+If you do as he suggests, you'll not only diagnose the timing and overall
+function of the system, but you'll also see what a good (or perhaps bad)
+injector spray pattern looks like.  No special tools needed.
+
+Happy hunting, and let us know what you find.
+
+Kevin
+
