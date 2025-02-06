@@ -1,2 +1,6 @@
 # Output directory
-output/ 
+output/
+
+# Environment variables
+.env
+.env.* 

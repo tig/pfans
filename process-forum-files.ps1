@@ -1,9 +1,9 @@
-# Script to process .htm files in PorscheFans directory and create JSON output
+# Script to process mailing list archives and create JSON output
 
 $outputDir = "./output"
-$outputFile = "$outputDir/forum_posts.json"
+$outputFile = "$outputDir/mailing_list_archive.json"
 $baseDir = "./PorscheFans"
-# $maxFiles = 200  # Uncomment and set to limit the number of files processed
+$maxFiles = 1000  # Uncomment and set to limit number of files processed
 
 # Create output directory if it doesn't exist
 if (-not (Test-Path $outputDir)) {
@@ -23,22 +23,32 @@ $records = @()
 
 foreach ($file in $files) {
     Write-Host "." -NoNewline
-    # Get relative path segments
-    $relativePath = $file.FullName.Replace((Resolve-Path $baseDir).Path, '').TrimStart('\', '/')
-    $pathSegments = $relativePath.Split([IO.Path]::DirectorySeparatorChar)
     
     # Read the HTML content
     $htmlContent = Get-Content -Path $file.FullName -Raw -Encoding UTF8
     
+    # Extract metadata from META tags
+    $metadata = @{}
+    foreach ($prop in @('To', 'From', 'Subject', 'Date', 'Organization', 'Reply-to')) {
+        if ($htmlContent -match "<META NAME=`"MsgProp$prop`" CONTENT=`"(.*?)`">") {
+            $metadata[$prop.ToLower()] = $matches[1]
+        }
+    }
+    
+    # Get message body (everything after </HEAD><BODY> and before </BODY>)
+    $body = ""
+    if ($htmlContent -match "(?s)</HEAD><BODY>(.*?)</BODY>") {
+        $body = $matches[1].Trim()
+    }
+    
     # Create record object
     $record = @{
-        subforum = $pathSegments[0]  # First folder level is subforum
-        date = $pathSegments[1]      # Second folder level is date
         filename = $file.Name
-        fullPath = $relativePath
-        sizeBytes = $file.Length
-        lastModified = $file.LastWriteTime.ToString('o')  # ISO 8601 format
-        content = $htmlContent
+        folder = $file.Directory.Name
+        subforum = $file.Directory.Parent.Name
+        metadata = $metadata
+        body = $body
+        path = $file.FullName.Replace((Resolve-Path $baseDir).Path, '').TrimStart('\', '/')
     }
     
     $records += $record
