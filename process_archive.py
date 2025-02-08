@@ -1,6 +1,6 @@
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 import json
 from pathlib import Path
 from collections import defaultdict
@@ -10,48 +10,63 @@ import glob
 from azure.storage.blob import BlobServiceClient
 from dotenv import load_dotenv
 
-def parse_email_file(file_path, input_dir):
-    """Parse a single email HTML file and return structured data"""
-    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-        soup = BeautifulSoup(f.read(), 'html.parser')
+def parse_date(date_str):
+    """Parse various date formats into ISO format"""
+    date_formats = [
+        '%a, %d %b %Y %H:%M:%S %z',      # 'Sat, 25 May 1996 08:59:18 +0100'
+        '%a, %d %b %Y %H:%M:%S %Z',      # 'Sat, 25 May 1996 08:59:18 GMT'
+        '%d %b %Y %H:%M:%S %z',          # '25 May 1996 08:59:18 +0100'
+        '%d %b %Y %H:%M:%S %Z',          # '25 May 1996 08:59:18 GMT'
+        '%a, %d %b %Y %H:%M %z',         # 'Sat, 25 May 1996 08:59 +0100'
+        '%a, %d %b %Y %H:%M %Z',         # 'Sat, 25 May 1996 08:59 GMT'
+    ]
     
-    # Extract metadata from table
-    metadata = {}
-    for row in soup.find_all('tr'):
-        label = row.find('td', class_='HeaderItemLabel')
-        content = row.find('td', class_='HeaderItemContent')
-        if label and content:
-            key = label.text.strip(':')
-            metadata[key] = content.text.strip()
+    for fmt in date_formats:
+        try:
+            dt = datetime.strptime(date_str, fmt)
+            # Convert to UTC if timezone info exists
+            if dt.tzinfo:
+                dt = dt.astimezone(timezone.utc)
+            return dt.isoformat()
+        except ValueError:
+            continue
     
-    # Extract message body from pre tag
-    body = soup.find('pre')
-    body_text = body.text.strip() if body else ''
+    print(f"Warning: Could not parse date '{date_str}'")
+    return None
+
+def parse_email_file(file_path, base_dir):
+    """Parse email file into structured data"""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    # Clean up subject (remove Re:, Fwd:, etc.)
-    subject = metadata.get('Subject', 'No Subject')
-    thread_subject = re.sub(r'^(?:Re|Fwd|Fw|FWD|RE|FW):\s*', '', subject, flags=re.IGNORECASE)
+    # Extract headers and body
+    headers, body = content.split('\n\n', 1)
     
-    # Parse the date string to a consistent format
-    date_str = metadata.get('Date', '')
-    try:
-        # Parse common email date formats
-        # Example: "Tue, 28 May 1996 23:50:37 -0400"
-        parsed_date = datetime.strptime(date_str.split(' -')[0].strip(), '%a, %d %b %Y %H:%M:%S')
-        formatted_date = parsed_date.strftime('%Y-%m-%dT%H:%M:%S-00:00')
-    except:
-        # Fallback to a default date if parsing fails
-        print(f"Warning: Could not parse date '{date_str}' for {file_path}")
-        formatted_date = '1970-01-01T00:00:00-00:00'
+    # Parse headers
+    header_dict = {}
+    for line in headers.split('\n'):
+        if ':' in line:
+            key, value = line.split(':', 1)
+            header_dict[key.strip().lower()] = value.strip()
+    
+    # Get relative path from base_dir
+    rel_path = os.path.relpath(file_path, base_dir)
+    
+    # Parse date with new function
+    date = parse_date(header_dict.get('date', ''))
+    if not date:
+        # Use file timestamp as fallback
+        file_time = os.path.getmtime(file_path)
+        date = datetime.fromtimestamp(file_time, timezone.utc).isoformat()
     
     return {
-        'subject': subject,
-        'thread_subject': thread_subject,
-        'from': metadata.get('From', 'Unknown'),
-        'date': formatted_date,  # Use the formatted date
-        'body': body_text,
+        'subject': header_dict.get('subject', ''),
+        'from': header_dict.get('from', ''),
+        'date': date,
+        'body': body.strip(),
+        'thread_subject': clean_title(header_dict.get('subject', '')),
         'original_file': os.path.basename(file_path),
-        'original_path': os.path.relpath(file_path, start=input_dir)  # Store relative path
+        'original_path': rel_path.replace('/', '\\')
     }
 
 def organize_threads(email_data):
