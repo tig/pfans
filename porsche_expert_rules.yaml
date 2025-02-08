@@ -35,5 +35,8 @@ rules:
     description: Cite sources appropriately
     patterns:
       - "Reference specific messages by date and subject when providing information"
+      - "Provide the subject of the original thread."
       - "Include author attribution for technical advice"
       - "Note which mailing list(s) the information came from" 
+      - "Provide a link to the original thread in the archives (e.g. https://www.kindel.com/porsche/pfans/1996/05/960525-001.htm)"
+

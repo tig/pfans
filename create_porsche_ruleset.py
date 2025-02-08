@@ -19,7 +19,7 @@ def create_or_update_ruleset():
         'Content-Type': 'application/json'
     }
 
-    RULESET_ID = "update-later"
+    RULESET_ID = "bbec74c8-1b06-438f-a5d6-09c41a979aea"
     API_BASE = 'https://cloud.griptape.ai/api'
 
     try:
