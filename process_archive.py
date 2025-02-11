@@ -52,12 +52,18 @@ def parse_email_file(file_path, base_dir):
     # Get relative path from base_dir
     rel_path = os.path.relpath(file_path, base_dir)
     
-    # Parse date with new function
+    # Get filename components (e.g., "960529-005.htm" -> year=96, month=05, day=29)
+    filename = os.path.basename(file_path)
+    year = '19' + filename[0:2]  # Assume 19xx for now
+    month = filename[2:4]
+    day = filename[4:6]
+    sequence = filename.split('-')[1].split('.')[0]
+    
+    # Try to parse date from headers first
     date = parse_date(header_dict.get('date', ''))
     if not date:
-        # Use file timestamp as fallback
-        file_time = os.path.getmtime(file_path)
-        date = datetime.fromtimestamp(file_time, timezone.utc).isoformat()
+        # Use date from filename as fallback
+        date = f"{year}-{month}-{day}T00:00:00+00:00"
     
     return {
         'subject': header_dict.get('subject', ''),
@@ -65,7 +71,7 @@ def parse_email_file(file_path, base_dir):
         'date': date,
         'body': body.strip(),
         'thread_subject': clean_title(header_dict.get('subject', '')),
-        'original_file': os.path.basename(file_path),
+        'original_file': filename,
         'original_path': rel_path.replace('/', '\\')
     }
 

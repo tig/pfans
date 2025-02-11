@@ -1,0 +1,131 @@
+{
+    "356 Gmund": "356 Gmünd Coupe - First 356 models built in Gmünd, Austria",
+    "356 Pre-A": "356 Pre-A - Early Stuttgart production",
+    "356 A": "356 A - First major update",
+    "356 B": "356 B - T5 and T6 body styles",
+    "356 C": "356 C - Final evolution of the 356",
+
+    "Junior": "Tractor - Junior",
+    "Standard": "Tractor - Standard",
+    "Super": "Tractor - Super",
+    "Master": "Tractor - Master",
+    
+    "901": "901",
+
+    "0": "911 - Early models",
+    "G": "911 G-Series",
+    "SC": "911 G-Series",
+    "3.0": "911 G-Series",
+    "3.2": "911 G-Series",
+    "911": "911",
+
+    "930": "930",
+
+    "964": "964",
+    "993": "993",
+
+    "996": "996",
+    "996.1": "996 - First generation",
+    "996.2": "996 - Second generation",
+    "997": "997 - First generation",
+    "997.1": "997 - First generation",
+    "997.2": "997 - Updated",
+
+    "991.1": "911 Type 991.1 - First generation",
+    "991.2": "911 Type 991.2 - Updated",
+    "992.1": "911 Type 992.1 - Second generation",
+    
+    "912": "912",
+    "923": "912E",
+    "914": "914",
+    "918": "918 Spyder",
+    
+    "924": "924",
+    "931": "924 Turbo",
+    "946": "924S",
+    
+    "928": "928 - First generation",
+    "928.1": "928 - First generation",
+    "928.2": "928 - Second generation",
+    "928S": "928 - Second generation",
+    "928S4": "928 - Second generation",
+    "928S2": "928 - Second generation",
+    "928CS": "928 - Second generation",
+    "928GT": "928 - Second generation",
+    "928GTS": "928 - Second generation",
+
+    "944": "944 - First generation",
+    "944.1": "944 - First generation",
+    "944.2": "944 - Second generation",
+    "951": "944 Turbo",
+    "959": "959",
+    "968": "968",
+    
+    "986": "Boxster - First generation",
+    "986.1": "Boxster - First generation",
+    "987.1": "Boxster - Second generation",
+    "987.2": "Boxster - Updated second generation",
+    "981": "Boxster - Third generation",
+    "982": "718 Boxster - Fourth generation",
+    
+    "987": "Cayman - First generation",
+    "987C": "Cayman - First generation",
+    "987C.1": "Cayman - First generation",
+    "987C.2": "Cayman - Updated first generation",
+    "981C": "Cayman - Second generation",
+
+    "982C": "718 Cayman - Third generation",
+    
+    "980": "Carrera GT",
+    
+    "9PA": "Cayenne - First generation (E1)",
+    "E1": "Cayenne - First generation (E1)",
+    "955": "Cayenne - First generation (E1)",
+
+    "957": "Cayenne - First generation Facelift (E1)",
+    "9PA1": "Cayenne - First generation Facelift (E1)",
+    "E1.2": "Cayenne - First generation Facelift (E1)",
+
+    "92A": "Cayenne - Second generation (E2)",
+    "E2.1": "Cayenne - Second generation (E2)",
+    "958": "Cayenne - Second generation (E2)",
+    "958.1": "Cayenne - Second generation (E2)",
+
+    "958.2": "Cayenne - Second generation Facelift (E2)",
+    "E2.2": "Cayenne - Second generation Facelift (E2)",
+    "9YA": "Cayenne - Third generation (E3)",
+    "PY0": "Cayenne - Third generation (E3)",
+    "E3.1": "Cayenne - Third generation (E3)",
+    "PY3": "Cayenne - Third generation (E3)",
+    "9YB": "Cayenne Coupe - Third generation (E3)",
+    "E3.2": "Cayenne - Third generation Facelift (E3)",
+    "9YA.2": "Cayenne - Third generation Facelift (E3)",
+    
+    "95B": "Macan - First generation",
+    "95B.1": "Macan - First generation",
+    "95B.2": "Macan - First generation Facelift",
+
+    "95B.3": "Macan - First generation Final Update",
+    "H1": "Macan - First generation",
+    "H1.2": "Macan - First generation Facelift",
+    "H1.3": "Macan - First generation Final Update",
+
+    "H2": "Macan Electric",
+    
+    "970": "Panamera - First generation",
+    "970.1": "Panamera - First generation",
+    "970.2": "Panamera - First generation Facelift",
+    "971.1": "Panamera - Second generation",
+    "971.2": "Panamera - Second generation Facelift",
+    "972.1": "Panamera - Third generation",
+    "G1": "Panamera - First generation",
+    "G1.2": "Panamera - First generation Facelift",
+    "G2.1": "Panamera - Second generation",
+    "G2.2": "Panamera - Second generation Facelift",
+    "G3.1": "Panamera - Third generation",
+    
+    "9J1": "Taycan - First generation",
+    "Y10": "Taycan - Internal Volkswagen Group code",
+    "Y1A": "Taycan - Sedan variant",
+    "Y1B": "Taycan - Cross Turismo"
+} 
